@@ -1,49 +1,46 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://platinumz.xyz:8080/live/fYAEFP2Te5ds/mmHKMgXZGjbW/571682.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
 https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
 https://stream.gia.tv/giatvplayout7/giatv-209235/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General",TVU PANDO
-http://mylatinotvmoon.com:8080/B.O.S.S_I.P/WycFeigyEn/1930670
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkuIX0dgBn4IW9yciOQFHKI/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkf1_evTE4DzvuW-kcto0gc/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
-http://mylatinotvmoon.com:8080/B.O.S.S_I.P/WycFeigyEn/1930667
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfjDVOjs5RClaU0BdMaYotnI/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1767454
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfjwUFHf2jOVg27rGpx8mS28/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
-http://moontoolsplayer.me:8080/Tonyt72/t0n1t72/1930645
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfh17GbOe4uwezqgpcrvK1XY/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23927
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfpC1E5UaQCzRADbbOUe6X34/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767478
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL COCHABAMBA
 http://fastream.xyz:8080/bgivon22filo/tvvenegas22/269129
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL SANTA CRUZ
-http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/15596.m3u8
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfpkvpU0UwIgHcfBzxdEGReo/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
 https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport event 
-http://tvpremiund.ddns.me:2082/ROBERTOFIERRO/J5xYCry8aAWC/7092
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",UPEA TELEVISIÓN 
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfnZ5xvrML0QgdzMb9NcU_cQ/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sports solo eventos
-http://mylatinotvmoon.com:8080/B.O.S.S_I.P/WycFeigyEn/1220636
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkg2pkegRmoKaenQAe84eaQ/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/253796
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJflsivYhbwax4nbIC_Ki954w/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 5
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT SOLO EVENTOS
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfltJosvExqAgcjLMdnt4c0g/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT BOLIVIA 
 http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/3123.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
@@ -222,6 +219,42 @@ http://moontoolsplayer.me:8080/movie/war2rodri/eWfQ3GgvrvFf/1179087.mp4
 http://panelguys.top:8080/sY6kSEQnpF/YciGw9rYxJ/124058
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ7qiOpgkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ9rSQjwgMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="General",PANDONETTVRADIO
 https://stream-176.zeno.fm/rgp3azdakg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZ3AzYXpkYWtnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlWWXFYbVkxUUhLS0pZbU9acXFsc3ciLCJpYXQiOjE3NDIxNjk0NzksImV4cCI6MTc0MjE2OTUzOX0.4WD_eVWHb_qParVIj60UFWQ6VTsx52hvSCaHjxbwZw8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TORNADO ATRAPADOS EN LA TORMENTA (2025)
+http://netlevel.online:8080/movie/ventas45R/JGPGV/593058.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EN UN CONFÍN DEL MUNDO (2025)
+http://netlevel.online:8080/movie/ventas45R/JGPGV/592961.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CAZA TESORO (2024)
+http://netlevel.online:8080/movie/ventas45R/JGPGV/589881.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",REVELACIÓN (2025)
+http://netlevel.online:8080/movie/ventas45R/JGPGV/592960.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Código Negro (2025)
+http://venuschiletv.lat:8880/movie/bernandita/jqgJJ2LxGHc5/429725.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kdPIy68DMoomY0nncJ09yE3VJ7g.jpg" group-title="General",Red Rooms: Obsesión perversa 2024
+https://videos.gia.tv/giatv/movies/pvod/209235/Red_Rooms__Obsesi__n_perversa_2024_____Mega1080p.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UPPERCUT 
+http://netlevel.online:8080/movie/ventas45R/JGPGV/593211.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TVU 2
+http://170.39.192.130:2095/56967106629play/120524play/313495
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CAPITÁN AMERICA UN NUEVO MUNDO (2025)
+http://sv7.brasilia.me:8080/movie/ROBERTOFIERRO/J5xYCry8aAWC/81507.mp4?token=HURcWERbRFwSDlRRAghbBQRSAQMBVVQKAAJTCwRWWlNUUgVfDlEAVQYaGUQSRRFRUwlqW1dDDwtQAwAOHBdMQwMUa1BTEVxEAQ0CXlYBQRgQEFxfVkMPAlYCBAgHBQgCVUoWSV5XRFwSCQ1eUBNPFlccQVdBD1RfPlJVT1lWXBJcRBYVFVwIOVRdWAcPVUEOEFQXHhEIRkNDDF5MXFkVEgQPQEtWRwNEChoEUFQCQRgQB1pHXRVHSkMMEnt/FxUSAx5AXFlADwleGg9EDEFXFh5GXEFsE1BAFURVWF1QSxJcRAQbGxELB0hnVgkPXwZXRg1aXEBDDxFSFBwbXVpXWRIJRmZHWgJEClZACg1M
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",POCHOKO Y SU MARIDA 
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HVDdLl5qa6URqscXmf5VpojgWSkeIHk9SZXaSmPSl93b
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Operación Dragon
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HfwciIKtCNsshuGvzE79YQUWTv94P0zJN4DoQuWkiYko
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El furor del dragon (1972)
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HUu5xLopIRTisbaQK8dLfHoMsvYerMp2aQ519UabSCuG
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",The curse the Dragon (1993)
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HSeIiDZ8gly_5vMFlDaXPeeXjlI6eui3A2ZizCx4qw2W
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El gran jefe 
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HVzdmvXHINEqRW436xvPVa8AEoP-izpzHGV61bnLtaxx
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Juego con la. Muerte 
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HWnbzTFs8BFDKHtRmHuOcAzmFqHfRlTZ9pV3zMrZ5Jpk
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Yo soy bruce lee 
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HVTTd-4v3HkEtwucpl8WC0bB0G_o4pj2zRssUGxCXxFT
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FURIA oriental 
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HTNxcDpay4DSEKfLN4baaZ-9g1EksYQ6hLn8qPkp6HVW
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La vida de Bruce lee
+https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HZisriHURVGTJQBwtz6oQ0Jiv34K7JzscGakI-CxfwCn
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TORNADO ATRAPADOS EN LA TORMENTA (2025)
 http://netlevel.online:8080/movie/ventas45R/JGPGV/593058.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EN UN CONFÍN DEL MUNDO (2025)
