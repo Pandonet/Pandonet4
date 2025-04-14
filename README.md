@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
-https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
 https://stream.gia.tv/giatvplayout7/giatv-209235/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
+https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General",TVU PANDO
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkuIX0dgBn4IW9yciOQFHKI/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkf1_evTE4DzvuW-kcto0gc/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
@@ -22,7 +22,7 @@ https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfh17GbOe4uwezqgpcrvK1XY/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfpC1E5UaQCzRADbbOUe6X34/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767478
+https://www.redpat.tv/proxy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL COCHABAMBA
 http://fastream.xyz:8080/bgivon22filo/tvvenegas22/269129
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL SANTA CRUZ
@@ -38,27 +38,27 @@ https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkg2pkegRmoKaenQAe84eaQ/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJflsivYhbwax4nbIC_Ki954w/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 5
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/campeonunivers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT SOLO EVENTOS
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfltJosvExqAgcjLMdnt4c0g/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT BOLIVIA 
 http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/3123.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
-http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5855
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfg70KnfegtatUc_YuOwVLpc/ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
 http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5887
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="General",Cartoonito
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1165167
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfoEQEsBkWxfg8_c8PRs3D1E/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Bghpr7/babytv-2017.png" group-title="General",BABY TV
-http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/342
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",Discovery Kids
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/81899
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfriSCvVzDqhCFVDkZDI-1mM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",MOVIE ON LINE 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/800122luna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="General",PANAMERICANA TV
 http://416streams.sytes.net:3050/zdmarie1954@gmail.com/B7B5UCmjaE/574490
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV SD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/19007
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJftxxVjj5kC7ywD95LgTmhKk/ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/19007
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJftVQ5ISGQLwyaHmHjxXMxMg/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="General",CANAL SPORT 
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN ARGENTINA 
@@ -255,6 +255,10 @@ https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HVTTd-4v3HkEtwucpl8WC0bB0G_o4
 https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HTNxcDpay4DSEKfLN4baaZ-9g1EksYQ6hLn8qPkp6HVW
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La vida de Bruce lee
 https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HZisriHURVGTJQBwtz6oQ0Jiv34K7JzscGakI-CxfwCn
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",A FONDO 
+https://appstable.xyz:443/movie/babilon9/agosto10/272137.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Promesas del corazón (2025)
+http://2025.odin55.xyz:8080/movie/a9Mvr373bL/RWFp2eGAVD/18132.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TORNADO ATRAPADOS EN LA TORMENTA (2025)
 http://netlevel.online:8080/movie/ventas45R/JGPGV/593058.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EN UN CONFÍN DEL MUNDO (2025)
