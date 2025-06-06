@@ -1,44 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
-https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
-https://stream.gia.tv/giatvplayout7/giatv-209235/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General",TVU PANDO
-http://170.39.192.130:2095/56987534295playtv/180324play/313495
+https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
+https://live20.bozztv.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
+https://live20.bozztv.com/giatvplayout7/giatv-209405/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDZJFcK1/Screenshot-20250528-125729-com-facebook-katana-Immersive-Activity-edit-340469869794494.jpg" group-title="General",TVU PANDO 
+https://live-stream.iblups.com/video/b70fde61cfad96bb7f8ef170980b7a5df2621c8f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRxgj8yw/IMG-20250528-WA0122.jpg" group-title="General",SPC CANAL15
+https://live-stream.iblups.com/video/327f2c6516288389615d56d31dcd52c02bb1aa25.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
+https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/336552
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131691
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SD
+http://tvlatino.club:2082/live/llan99/A4qLTJtnbDGB/340010.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL Cochabamba FULLHD
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131692
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131678
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/336563
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131683
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131667
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
-http://170.39.192.130:2095/56953443259play/260923play/313511
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
-http://zuiowy.net:8080/Pitufo0176/NdBibe0RFJ/164192
+https://sneoplus.vip:8443/play/k-_kRs9o5ALyXRH0hjuhJuw3PfrsY8LENTKEhKy8Nnk/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
 https://www.redpat.tv/proxy/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL COCHABAMBA
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/336553
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL SANTA CRUZ
-http://zuiowy.net:8080/Pitufo0176/NdBibe0RFJ/3293
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
-https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",TIGO sports 
+http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
+#EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/351466087_3521344231429745_2162507638893969516_n-1.jpg" group-title="General",F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",SKY SPORTS
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9599
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/145440
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sports solo eventos
-http://tvpremiund.ddns.me:2082/live/Rodrigocif/Gte4tdFKrY5u/3123.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167723
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148457
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",Sky SPORTS
-http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/9599
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/132284
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",Entel TV  SOLO EVENTOS
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",CD N DEPORTES
@@ -51,22 +57,22 @@ http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5887
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/321975
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Bghpr7/babytv-2017.png" group-title="General",BABY TV
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/321969
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",MOVIE ON LINE 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/800122luna/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",Entel Bolivia 
+http://tvpremiund.ddns.me:2082/MilagrosFonseca/2Z8DZ4cpQjBe/81522
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="General",PANAMERICANA TV
-http://zuiowy.net:8080/Pitufo0176/NdBibe0RFJ/20434
+http://tvlatino.club:2082/llan99/A4qLTJtnbDGB/339286
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV SD
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/8435
+http://tvlatino.club:2082/llan99/A4qLTJtnbDGB/6723
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD
-http://zuiowy.net:8080/Pitufo0176/NdBibe0RFJ/10090
+http://tvlatino.club:2082/llan99/A4qLTJtnbDGB/305433
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="General", DSPORT 
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167731
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN ARGENTINA 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9521
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="General",ESPN 1
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9520
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/145416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="General",ESPN PREMIIUM
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9549
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIOtThTtj6wp5b5ABy4E3LN34_GnwTVwMdg&s" group-title="General",TDN
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167770
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="General",DIRECTV DEPORTES 
@@ -74,7 +80,7 @@ http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9558
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="General",DIRECTV SPORT 2
 http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9559
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="General",DIRECTV SPORT plus 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9560
+https://prime.runikre.uno:8443/play/aD0PIvWHA8pilYBv-B38UV52RYVwBOH8UfmSw2oPtNg/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="General",FOX SPORT 1
 http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9571
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6biAsLxakCUuTEpY60gc9tAG67fNzhhAUng&s" group-title="General",FOX SPORT Premium 
@@ -82,7 +88,7 @@ http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9593
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="General",UFC 24/7
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167743
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text-thumbnail.png" group-title="General",Telenovelas 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/8405
+http://extremevip.xyz:8080/live/Gerip424/jTMs2DAY/48771.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT SERIES 
 http://home-playtv.com:8080/cristian45x/UQSJS/53054
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="General",Life Time SD
@@ -90,9 +96,9 @@ http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9703
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="General",UNIVISION 
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/135439
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="General",Pasiones 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/8335
+https://d2t7ujjc7lurgd.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/noticias-caracol7623.logowik.com.webp" group-title="General",Caracol tv 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/8380
+http://181.78.82.6:46090/play/a05y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="General",CINE ACCIÓN FULL HD
 http://tv.zapping.life:8080/chgatti/bH6bxCgfcK/95607
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED-hMWXZ2Q9K2UFOj5HsPEk4xWL2lQO8Olg&s" group-title="General",GOLD FULL HD
@@ -102,7 +108,7 @@ http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/318616
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncp1q52/33.png" group-title="General",DISCOVERY SCI
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/318608
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K0MbmGS/descarga.png" group-title="General",Discovery Turbo
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/318611
+http://190.123.90.146:8000/play/a02g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rvp9tq4/434.png" group-title="General",ANIMAL PLANET 
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/318624
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="General",HBO Plus 
@@ -110,19 +116,19 @@ http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/414468
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="General",HBO POP  HD
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/414471
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzK2VVzzkjfwymHbnLGa75lT5LcAzuMec1hv1D4nKK8FMRrpamutRaP48&s" group-title="General",CINE MAX
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/414457
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzK2VVzzkjfwymHbnLGa75lT5LcAzuMec1hv1D4nKK8FMRrpamutRaP48&s" group-title="General",CINEMAX  SD
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/414458
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="General",ANIME ACCIÓN 
-https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4af2f8de-9489-11ef-89b3-42ff8b8a5b89
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/5105
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="General", CINE COMEDIA 
+https://sneoplus.vip:8443/play/k-_kRs9o5ALyXRH0hjuhJrVU-1affXvt_fYOHtelNKo/ts
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="General",Tc & Sport 
-http://tv.zapping.life:8080/5643GarciaFelix5899/06246200bf20/9608
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148455
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.B7LgOtHbdvTf3biM1x3JCwAAAA?pid=ImgDet&w=159&h=238&c=7" group-title="General",CHESPIRITO 24/7
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398070
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/272385.png" group-title="General",UN ROBO DE PRIMERA CLASE
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d7eac1b9-2a9b-4df4-853d-0c3cd5167574.mp4
+https://sneoplus.vip:8443/play/4COyc4C1T401-0bHcyPbXKtuONkDxTYK0f33WI-04zQkBf7VvnUsUGBYhm9O_2V-
 #EXTINF:-1 tvg-logo="https://queretarockmusic.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-12.49.22%E2%80%AFp.m.png" group-title="General",LA COCINA
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d77eb2d8-4ca8-4d07-8f65-fd06d47c77cc.mp4
+https://sneoplus.vip:8443/play/4COyc4C1T401-0bHcyPbXP5gSZ1M5Rhc8jCrSJ4ZEMJCyM6asbexfNhIBP5_wR9z
 #EXTINF:-1 tvg-logo="https://multicinestenerife.com/wp-content/uploads/2024/05/slider-mision-hostil.png" group-title="General",Misión hostil 
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/a7135643-66fa-4946-a757-179740c7a0a6.mp4
 #EXTINF:-1 tvg-logo="https://josueralvarez.com/wp-content/uploads/2021/11/7p.jpg" group-title="General",7 PRISIONEROS
@@ -333,9 +339,21 @@ http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81888.mp4
 http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/76739.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Damsel (2024) 
 http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/76810.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El duro (2024) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/76950.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La viuda negra (2025) 
+http://tvpremiund.ddns.me:2082/movie/MilagrosFonseca/2Z8DZ4cpQjBe/82008.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kali Angel vengador (2024) 
 http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/77369.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Carnada (2024)
 http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/78882.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", asesino 
+http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398610.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Duro de matar
+http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398590.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Armado y peligroso 
+http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398569.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La furia del. Oceano 
+http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398579.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Alcatraz Fuga Imposible 1979 
+http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/399620.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SportivaAcre
+https://live-stream.iblups.com/video/decaf4862a3dcee8edd6918c50e41c64f7eb6885.m3u8
