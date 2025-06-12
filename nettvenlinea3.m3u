@@ -12,11 +12,11 @@ https://live-stream.iblups.com/video/327f2c6516288389615d56d31dcd52c02bb1aa25.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
-http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131691
+http://netlevel.online:8080/ventas45R/JGPGV/501846
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SD
-http://tvlatino.club:2082/live/llan99/A4qLTJtnbDGB/340010.m3u8
+http://netlevel.online:8080/ventas45R/JGPGV/501844
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL Cochabamba FULLHD
-http://tvpremiund.ddns.me:2082/live/Pedroarias/87HTfMZaKw4q/15596.m3u8
+http://tvpremiund.ddns.me:2082/live/Pedroarias/87HTfMZaKw4q/76492.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131678
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
@@ -24,7 +24,7 @@ https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
-http://tvpremiund.ddns.me:2082/live/Pedroarias/87HTfMZaKw4q/76492.m3u8
+http://netlevel.online:8080/ventas45R/JGPGV/501840
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
 http://tvlatino.club:2082/live/Peyo07AC/GrATtEvCwfBa/340036.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
@@ -127,8 +127,8 @@ http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148455
 http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/516001.mkv
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/272385.png" group-title="General",Cantinflas 24/7
 http://tvlatino.club:2082/live/Peyo07AC/GrATtEvCwfBa/551336.m3u8
-#EXTINF:-1 tvg-logo="https://queretarockmusic.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-12.49.22%E2%80%AFp.m.png" group-title="General",LA COCINA
-https://sneoplus.vip:8443/play/4COyc4C1T401-0bHcyPbXP5gSZ1M5Rhc8jCrSJ4ZEMJCyM6asbexfNhIBP5_wR9z
+#EXTINF:-1 tvg-logo="https://queretarockmusic.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-12.49.22%E2%80%AFp.m.png" group-title="General",Minecraft 
+https://nzbqsm47bouspvb.sensornetinfosecdeck.shop/d7izxzkm5jvh/hls3/01/10310/q7k17nzrzn6o_n/index-v1-a1.txt
 #EXTINF:-1 tvg-logo="https://multicinestenerife.com/wp-content/uploads/2024/05/slider-mision-hostil.png" group-title="General",Misión hostil 
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/a7135643-66fa-4946-a757-179740c7a0a6.mp4
 #EXTINF:-1 tvg-logo="https://josueralvarez.com/wp-content/uploads/2021/11/7p.jpg" group-title="General",7 PRISIONEROS
@@ -137,8 +137,6 @@ http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/959dcd42-6286-4b3b-809a-3abcb
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/fab4124e-83be-4af7-90d8-8cde1cb1254b.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/26/19/12/3037508.png" group-title="General",MÁS LOCO QUE UNA CABRA 
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/3a3c5d5a-a92d-4c06-bc9a-a53603f65244.mp4
-#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/SXSKLN/poster/no-todos-pudimos-madurar_FKj4iqE.jpeg" group-title="General",No todos pudimos madurar 
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/ca2490c6-0975-4f6a-a3fb-dd30d4732ff3.mp4
 #EXTINF:-1 tvg-logo="https://media.c5n.com/p/1a12c40628c14be1c782700dd014d4be/adjuntos/326/imagenes/000/312/0000312697/1200x675/smart/el-centinela.png" group-title="General",CENTINELA 
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7b06b54c-a939-420c-b6f6-56e0de5cc4da.mp4
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/rWnFdc/poster/perros-de-guerra_DblXyIg.jpeg" group-title="General",PERROS DE GUERRA 
@@ -159,8 +157,6 @@ http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/283844.mkv
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/239045.mkv
 #EXTINF:-1 tvg-logo="https://img.peliplat.com/api/resize/v1?imagePath=peliplat/article/20250221/e81a52f85fd1ac63732f42b5f77e2516.png&source=s3-peliplat&mode=FILL&width=480&height=270&limit=false&c=1.jpg" group-title="General",BLADE (2025) 
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/283909.mkv
-#EXTINF:-1 tvg-logo="https://cms.blavity.com/wp-content/uploads/2023/07/Webp.net-resizeimage-2019-09-24T150931.269-compress.png" group-title="General",COMPAÑERA PERFECTA (2025) 
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/426880.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/live-action/images/e/e4/Inside_Man_2006_DVD_Cover.PNG" group-title="General",PLAN DE VUELO (2025) 
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/350793.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YR_giaE_KYA/maxresdefault.jpg" group-title="General",UNA NOCHE DESCONTROLADA 
@@ -213,8 +209,6 @@ http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/426539.mp4
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/427558.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/70f2526780f056cf497cf2308d80ed6f388f79453d68924d91f34b235741211e.jpg" group-title="General",EL HECHICERO DEL ALCON (1985)
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/302955.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ALGO AZUL (2025) 
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/426082.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MI FINAL (2025)
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/422615.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LOBOS BLANCOS (2018)
@@ -233,8 +227,6 @@ http://netlevel.online:8080/movie/ventas45R/JGPGV/592961.mkv
 http://netlevel.online:8080/movie/ventas45R/JGPGV/589881.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",REVELACIÓN (2025)
 http://netlevel.online:8080/movie/ventas45R/JGPGV/592960.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Código 8 & RENEGADOS (2024)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/383168.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kdPIy68DMoomY0nncJ09yE3VJ7g.jpg" group-title="General",HOMBRE LOBO (2025)
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/425705.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UPPERCUT 
@@ -355,3 +347,5 @@ http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398569.mkv
 http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398579.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kamila (2025) 
 http://venuschiletv.lat:8880/movie/bayron01000/wmguR9bh4sWE/438102.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Namidia 
+https://live-stream.iblups.com/video/29d1e82a114bcc6051c752fe15b31d2f863bf605.m3u8
