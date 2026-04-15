@@ -1,34 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | ATB" tvg-logo="https://logo.iptveditor.com/atb.png" group-title="→ BOLIVIA II ←",BOLIVIA | ATB
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIA TV" tvg-logo="https://logo.iptveditor.com/tv.png" group-title="→ BOLIVIA II ←",BOLIVIA | BOLIVIA TV
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVISION" tvg-logo="https://logo.iptveditor.com/bolivision.png" group-title="→ BOLIVIA II ←",BOLIVIA | BOLIVISION
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RED UNO  LA PAZ" tvg-logo="http://stream-panel.club:6375/images/f6fe8ddbe4813c163fdf3afd69938605.png" group-title="→ BOLIVIA II ←",BOLIVIA | RED UNO  LA PAZ
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RED UNO SANTA CRUZ" tvg-logo="http://stream-panel.club:6375/images/f6fe8ddbe4813c163fdf3afd69938605.png" group-title="→ BOLIVIA II ←",BOLIVIA | RED UNO SANTA CRUZ
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RTP" tvg-logo="https://logo.iptveditor.com/rtp.png" group-title="→ BOLIVIA II ←",BOLIVIA | RTP
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | GIGAVISION" tvg-logo="https://logo.iptveditor.com/gigavision.png" group-title="→ BOLIVIA II ←",BOLIVIA | GIGAVISION
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RED AD VENIR INTERNACIONAL" tvg-logo="https://logo.iptveditor.com/cnninternacional.png" group-title="→ BOLIVIA II ←",BOLIVIA | RED AD VENIR INTERNACIONAL
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | XTO TV" tvg-logo="https://logo.iptveditor.com/totv.png" group-title="→ BOLIVIA II ←",BOLIVIA | XTO TV
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | UNITEL" tvg-logo="https://logo.iptveditor.com/unitel.png" group-title="→ BOLIVIA II ←",BOLIVIA | UNITEL
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR DASH
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1" tvg-logo="" group-title="→ BOLIVIA II ←",TIGO SPORTS 1
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2" tvg-logo="" group-title="→ BOLIVIA II ←",TIGO SPORTS 2
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3" tvg-logo="" group-title="→ BOLIVIA II ←",TIGO SPORTS 3
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports (Only Events)" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports (Only Events)
 http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports ( Only Events )*
