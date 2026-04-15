@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports (Only Events)" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports (Only Events)
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports ( Only Events )*
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND SPORTS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:BAND SPORTS HD
 http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/27114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES:BEIN LALIGA 1HD" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←",ES:BEIN LALIGA 1HD
@@ -319,26 +315,6 @@ http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/236540.m3u8
 http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/236541.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ED• ONETORO (HD) »3«" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" group-title="→ ESPAÑA DEPORTES ←",ED• ONETORO (HD) »3«
 http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/236542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV FHD" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV FHD
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV HD" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV HD
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | DIRECTV SPORTS +" tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="→ ECUADOR ←",DEP. ECUADOR | DIRECTV SPORTS +
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | DIRECTV SPORTS + OP1" tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="→ ECUADOR ←",DEP. ECUADOR | DIRECTV SPORTS + OP1
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | GOL TV OP1" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="→ ECUADOR ←",DEP. ECUADOR | GOL TV OP1
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | GOL TV OP2" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="→ ECUADOR ←",DEP. ECUADOR | GOL TV OP2
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | EL CANAL DEL FUTBOL OP2" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ ECUADOR ←",DEP. ECUADOR | EL CANAL DEL FUTBOL OP2
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | EL CANAL DEL FUTBOL OP1" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ ECUADOR ←",DEP. ECUADOR | EL CANAL DEL FUTBOL OP1
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="⚽ FUTBOL ECUADOR | ECDF FHD" tvg-logo="https://st2.depositphotos.com/1905483/5698/i/450/depositphotos_56983035-stock-photo-flag-of-ecuador.jpg" group-title="→ ECUADOR ←",⚽ FUTBOL ECUADOR | ECDF FHD
-http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/250893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZCL• TIGO SPORTS (HD)" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/tigo_sports_logo_2.jpg" group-title="→ ZAPPING CHILE ←",ZCL• TIGO SPORTS (HD)
 http://tvhomesmart.xyz:8080/live/949619368tv/h597n4/253657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://beinxtraespanol.com/videos/video-poster.png" group-title="→ USA DEPORTES ←",BEIN SPORTS XTRA
