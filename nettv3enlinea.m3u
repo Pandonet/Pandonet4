@@ -7,5 +7,14 @@ http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81259.m3u8
 http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN BRASIL HD" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ BRASIL ←",VIP_BR:ESPN BRASIL HD
 http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81258.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:tyc sport HD" tvg-logo="https://media.tycsports.com/files/2020/03/06/90689/logo-tyc_416x234.jpg?v=1" group-title="→ BRASIL ←",VIP_BR:tyc sport HD
+http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes 1 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 1 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/2263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes 2 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 2 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/2264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes 3 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 3 Hd Eventos
+http://latinapro.net:25461/lazaroperez/perez3/34137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes 4 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 4 Hd Eventos
+http://latinapro.net:25461/lazaroperez/perez3/56289.m3u8
 
