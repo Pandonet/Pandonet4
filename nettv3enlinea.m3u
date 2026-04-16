@@ -59,5 +59,174 @@ http://latinapro.net:25461/lazaroperez/perez3/380.m3u8
 http://latinapro.net:25461/lazaroperez/perez3/380.m3u8
 #EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Brasil: ESPN 6 HD" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="Sports Deportes",Brasil: ESPN 6 HD
 http://latinapro.net:25461/lazaroperez/perez3/373.m3u8
-
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Brasil: SPORTV FHD" tvg-logo="http://latinapro.net:25461/images/17d34a7ad59f8578e682d0ade0ecbb48.png" group-title="Sports Deportes",Brasil: SPORTV FHD
+http://latinapro.net:25461/lazaroperez/perez3/404.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Brasil: SPORTV 2 FHD" tvg-logo="http://latinapro.net:25461/images/1a114b288ef7432428c1a7f44f30f291.png" group-title="Sports Deportes",Brasil: SPORTV 2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/402.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="Brasil: SPORTV 3 FHD" tvg-logo="http://latinapro.net:25461/images/1bf57bd8178b234f6a08404f193a253e.png" group-title="Sports Deportes",Brasil: SPORTV 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chile: TNT SPORTS" tvg-logo="https://yt3.googleusercontent.com/zvs1j3OgGy9F1ytUOJpn9_LTdEafFpxhSSPKXDbr3ZHg7J_0FeM_gtUn5bwJSpPKa9u71egfu68=s160-c-k-c0x00ffffff-no-rj" group-title="Chile",Chile: TNT SPORTS
+http://latinapro.net:25461/lazaroperez/perez3/22556.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: Winsports HD Backup" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Sports Deportes",Colombia: Winsports HD Backup
+http://latinapro.net:25461/lazaroperez/perez3/280.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: Winsports HD Backup" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Colombia",Colombia: Winsports HD Backup
+http://latinapro.net:25461/lazaroperez/perez3/280.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: WinSports (P)" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Sports Deportes",Colombia: WinSports (P)
+http://latinapro.net:25461/lazaroperez/perez3/1.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: WinSports (P)" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Colombia",Colombia: WinSports (P)
+http://latinapro.net:25461/lazaroperez/perez3/1.m3u8
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="Colombia: Winsports Plus HD (P)" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Sports Deportes",Colombia: Winsports Plus HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/4695.m3u8
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="Colombia: Winsports Plus HD (P)" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Colombia",Colombia: Winsports Plus HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/4695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Mobile Backup" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Sports Deportes",Colombia: Winsports Plus Mobile Backup
+http://latinapro.net:25461/lazaroperez/perez3/52715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Mobile Backup" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Colombia",Colombia: Winsports Plus Mobile Backup
+http://latinapro.net:25461/lazaroperez/perez3/52715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Hd Backup" tvg-logo="http://latinapro.net:25461/images/ISlAIhDn7UvoAONvRYNezhSWjTesf2Dew6k3WySL8DzwbappLJEafy9Jap7Hv0Ve-bOE6hSALO1L-stGIvrw6l2YdQl13sAmEULeavKZjx-ByXNBHJy5_28Da5gzGHCTKomzq7y7KcIAHji2pumjUQ.jpg" group-title="Sports Deportes",Colombia: Winsports Plus Hd Backup
+http://latinapro.net:25461/lazaroperez/perez3/55512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Hd Backup" tvg-logo="http://latinapro.net:25461/images/ISlAIhDn7UvoAONvRYNezhSWjTesf2Dew6k3WySL8DzwbappLJEafy9Jap7Hv0Ve-bOE6hSALO1L-stGIvrw6l2YdQl13sAmEULeavKZjx-ByXNBHJy5_28Da5gzGHCTKomzq7y7KcIAHji2pumjUQ.jpg" group-title="Colombia",Colombia: Winsports Plus Hd Backup
+http://latinapro.net:25461/lazaroperez/perez3/55512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports (P)" tvg-logo="http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png" group-title="Sports Deportes",Ec: Directv Sports (P)
+http://latinapro.net:25461/lazaroperez/perez3/29321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports (P)" tvg-logo="http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png" group-title="Ecuador",Ec: Directv Sports (P)
+http://latinapro.net:25461/lazaroperez/perez3/29321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports 2 (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&s" group-title="Sports Deportes",Ec: Directv Sports 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports 2 (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&s" group-title="Ecuador",Ec: Directv Sports 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Direct Tv Plus Go" tvg-logo="http://latinapro.net:25461/images/cTC2Qq0pPg2Vqq7PhtugU7Qo3X9kzk5Xp8eeoLK8JqMsHRgDkIhEi0KE4tPg0YbpA-NwHnl4lzAs41nVLSLt5w.png" group-title="Sports Deportes",Ec: Direct Tv Plus Go
+http://latinapro.net:25461/lazaroperez/perez3/52963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ec: Direct Tv Plus Go" tvg-logo="http://latinapro.net:25461/images/cTC2Qq0pPg2Vqq7PhtugU7Qo3X9kzk5Xp8eeoLK8JqMsHRgDkIhEi0KE4tPg0YbpA-NwHnl4lzAs41nVLSLt5w.png" group-title="Ecuador",Ec: Direct Tv Plus Go
+http://latinapro.net:25461/lazaroperez/perez3/52963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 2 HD" tvg-logo="http://latinapro.net:25461/images/e3d036fc00328bb677688d4ddb57ce9e.jpg" group-title="Sports Deportes",Mex: ESPN 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/5488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 2 HD" tvg-logo="http://latinapro.net:25461/images/e3d036fc00328bb677688d4ddb57ce9e.jpg" group-title="Mexico",Mex: ESPN 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/5488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 3 HD" tvg-logo="http://latinapro.net:25461/images/c90f52dcf1ffbe6e41b1870211d477e5.jpg" group-title="Sports Deportes",Mex: ESPN 3 HD
+http://latinapro.net:25461/lazaroperez/perez3/5489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 3 HD" tvg-logo="http://latinapro.net:25461/images/c90f52dcf1ffbe6e41b1870211d477e5.jpg" group-title="Mexico",Mex: ESPN 3 HD
+http://latinapro.net:25461/lazaroperez/perez3/5489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Espn Deportes" tvg-logo="http://latinapro.net:25461/images/245c14166145c50e430adb8b4160fe49.png" group-title="Sports Deportes",Mex: Espn Deportes
+http://latinapro.net:25461/lazaroperez/perez3/4190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Espn Deportes" tvg-logo="http://latinapro.net:25461/images/245c14166145c50e430adb8b4160fe49.png" group-title="Mexico",Mex: Espn Deportes
+http://latinapro.net:25461/lazaroperez/perez3/4190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN Hd" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Sports Deportes",Mex: ESPN Hd
+http://latinapro.net:25461/lazaroperez/perez3/5487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN Hd" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Mexico",Mex: ESPN Hd
+http://latinapro.net:25461/lazaroperez/perez3/5487.m3u8
+#EXTINF:-1 tvg-id="espnplus.co" tvg-name="Mex: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/40e64337cd1d5252dde0710ebc84f9bf.jpg" group-title="Sports Deportes",Mex: ESPN 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/5490.m3u8
+#EXTINF:-1 tvg-id="espnplus.co" tvg-name="Mex: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/40e64337cd1d5252dde0710ebc84f9bf.jpg" group-title="Mexico",Mex: ESPN 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/5490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Estrella Tv" tvg-logo="http://latinapro.net:25461/images/6802200a2151d29adee2cf4c8ecd94f5.jpg" group-title="Mexico",Mex: Estrella Tv
+http://latinapro.net:25461/lazaroperez/perez3/3722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Deportes" tvg-logo="http://latinapro.net:25461/images/b67524d54921319c9b02f89444276967.png" group-title="Sports Deportes",Mex: Fox Deportes
+http://latinapro.net:25461/lazaroperez/perez3/342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Deportes" tvg-logo="http://latinapro.net:25461/images/b67524d54921319c9b02f89444276967.png" group-title="Mexico",Mex: Fox Deportes
+http://latinapro.net:25461/lazaroperez/perez3/342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 1 Hd" tvg-logo="http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg" group-title="Sports Deportes",Mex: Fox Sports 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/4489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 1 Hd" tvg-logo="http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg" group-title="Mexico",Mex: Fox Sports 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/4489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 2 Hd" tvg-logo="http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg" group-title="Sports Deportes",Mex: Fox Sports 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/4490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 2 Hd" tvg-logo="http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg" group-title="Mexico",Mex: Fox Sports 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/4490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 3 hd" tvg-logo="http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg" group-title="Sports Deportes",Mex: Fox Sports 3 hd
+http://latinapro.net:25461/lazaroperez/perez3/4491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 3 hd" tvg-logo="http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg" group-title="Mexico",Mex: Fox Sports 3 hd
+http://latinapro.net:25461/lazaroperez/perez3/4491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Las Estrellas Hd" tvg-logo="http://latinapro.net:25461/images/1ff37009470676f61359c9777da0cd47.png" group-title="Mexico",Mex: Las Estrellas Hd
+http://latinapro.net:25461/lazaroperez/perez3/3723.m3u8
+#EXTINF:-1 tvg-id="canaldelasestrellashd.co" tvg-name="Mex: Las Estrellas Inter (P)" tvg-logo="http://latinapro.net:25461/images/1ff37009470676f61359c9777da0cd47.png" group-title="Mexico",Mex: Las Estrellas Inter (P)
+http://latinapro.net:25461/lazaroperez/perez3/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Sports Deportes",Mex: Sky Sports Hd
+http://latinapro.net:25461/lazaroperez/perez3/55316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Mexico",Mex: Sky Sports Hd
+http://latinapro.net:25461/lazaroperez/perez3/55316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 16 Hd" tvg-logo="http://latinapro.net:25461/images/JLwVVWwPe66JPFb0ohRtGwnq65W-MhikEta7rXyMmkCYOwQsnHR17R1WeqJLC7Efq3XJluRJLcWZb3nvrKUjJpHbs1p553lKY16LdXsWgAnP-JMk-ZPtifIwrFJA88B7RrlRR2yU26mMLKk48YTpmewmG4hqf_5oij7wtEPg3Wc.jpg" group-title="Sports Deportes",Mex: Sky Sports 16 Hd
+http://latinapro.net:25461/lazaroperez/perez3/55319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 16 Hd" tvg-logo="http://latinapro.net:25461/images/JLwVVWwPe66JPFb0ohRtGwnq65W-MhikEta7rXyMmkCYOwQsnHR17R1WeqJLC7Efq3XJluRJLcWZb3nvrKUjJpHbs1p553lKY16LdXsWgAnP-JMk-ZPtifIwrFJA88B7RrlRR2yU26mMLKk48YTpmewmG4hqf_5oij7wtEPg3Wc.jpg" group-title="Mexico",Mex: Sky Sports 16 Hd
+http://latinapro.net:25461/lazaroperez/perez3/55319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 21 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDaACqv9CTjUYZnd9ZYVXvwUhiLrAe7ucNw&s" group-title="Sports Deportes",Mex: Sky Sports 21 Hd
+http://latinapro.net:25461/lazaroperez/perez3/55318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 21 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDaACqv9CTjUYZnd9ZYVXvwUhiLrAe7ucNw&s" group-title="Mexico",Mex: Sky Sports 21 Hd
+http://latinapro.net:25461/lazaroperez/perez3/55318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVINMHyiihmZ5CALc_G2HvHMocbEy7lIRag&s" group-title="Sports Deportes",Mex: Sky Sports 24
+http://latinapro.net:25461/lazaroperez/perez3/55317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVINMHyiihmZ5CALc_G2HvHMocbEy7lIRag&s" group-title="Mexico",Mex: Sky Sports 24
+http://latinapro.net:25461/lazaroperez/perez3/55317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: TUDN Hd" tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="Sports Deportes",Mexico: TUDN Hd
+http://latinapro.net:25461/lazaroperez/perez3/34251.tm3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: TUDN Hd" tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="Mexico",Mexico: TUDN Hd
+http://latinapro.net:25461/lazaroperez/perez3/34251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga 1 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s" group-title="Sports Deportes",Peru: La Liga 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga 1 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s" group-title="Peru",Peru: La Liga 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga Max Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jN4beKo2S793wY2X4JtMRx2mdmHt2EWZRQ&s" group-title="Sports Deportes",Peru: La Liga Max Hd
+http://latinapro.net:25461/lazaroperez/perez3/55859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga Max Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jN4beKo2S793wY2X4JtMRx2mdmHt2EWZRQ&s" group-title="Peru",Peru: La Liga Max Hd
+http://latinapro.net:25461/lazaroperez/perez3/55859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: Latina Tv (P)" tvg-logo="http://latinapro.net:25461/images/b42ca4c6fc83b1689e9f0fa18698de14.jpg" group-title="Peru",Peru: Latina Tv (P)
+http://latinapro.net:25461/lazaroperez/perez3/348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: Moviestar Deportes HD" tvg-logo="http://latinapro.net:25461/images/9b390071303d506a63264a84f73e3655.png" group-title="Sports Deportes",Peru: Moviestar Deportes HD
+http://latinapro.net:25461/lazaroperez/perez3/4311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru: Moviestar Deportes HD" tvg-logo="http://latinapro.net:25461/images/9b390071303d506a63264a84f73e3655.png" group-title="Peru",Peru: Moviestar Deportes HD
+http://latinapro.net:25461/lazaroperez/perez3/4311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS (P)
+http://latinapro.net:25461/lazaroperez/perez3/21415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 2 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/29322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 3 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 3 (P)
+http://latinapro.net:25461/lazaroperez/perez3/34117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 4 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 4 (P)
+http://latinapro.net:25461/lazaroperez/perez3/40837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 5 Solo Eventos" tvg-logo="http://latinapro.net:25461/images/8371ffc54c2ab2c32789fc71a832a54e.jpg" group-title="Sports Deportes",Lat: ESPN STAR PLUS 5 Solo Eventos
+http://latinapro.net:25461/lazaroperez/perez3/40838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 6 Solo Eventos" tvg-logo="http://latinapro.net:25461/images/8371ffc54c2ab2c32789fc71a832a54e.jpg" group-title="Sports Deportes",Lat: ESPN STAR PLUS 6 Solo Eventos
+http://latinapro.net:25461/lazaroperez/perez3/40839.tm3u8
+#EXTINF:-1 tvg-id="espn.co" tvg-name="Lat: ESPN HD (P)" tvg-logo="http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png" group-title="Sports Deportes",Lat: ESPN HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/21.m3u8
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="Lat: ESPN 2 HD (P)" tvg-logo="http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg" group-title="Sports Deportes",Lat: ESPN 2 HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/6.m3u8
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="Lat: Espn 3 Hd (P)" tvg-logo="http://latinapro.net:25461/images/6e22b09ece58db8c5692ee8c88415334.jpg" group-title="Sports Deportes",Lat: Espn 3 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 4 Hd (P)" tvg-logo="http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png" group-title="Sports Deportes",Lat: ESPN 4 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/23288.m3u8
+#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 5 Hd (P)" tvg-logo="http://latinapro.net:25461/images/902c5fbe51b7fcaa210e92e7046da57c.png" group-title="Sports Deportes",Lat: ESPN 5 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/5.m3u8
+#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 6 Hd (P)" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="Sports Deportes",Lat: ESPN 6 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/306.m3u8
+#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 7 Hd (P)" tvg-logo="http://latinapro.net:25461/images/2b2c5781d9e86e8b8ba6bc66f79fdb88.png" group-title="Sports Deportes",Lat: ESPN 7 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN Premium Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&s" group-title="Sports Deportes",Lat: ESPN Premium Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/40234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN Premium Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&s" group-title="Latinoamerica",Lat: ESPN Premium Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/40234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: Espn Colombia" tvg-logo="http://latinapro.net:25461/images/_bgE4zU2_lJcht1YRTVSQ713EB35n8Eoee0E8yA_ryX3Af2qI9pbiI4cUNGmr9ML6XeGbBAwzF0k2Avj4GW_VYmynIPqHHaTVZYKHWscMLY.png" group-title="Sports Deportes",Lat: Espn Colombia
+http://latinapro.net:25461/lazaroperez/perez3/56327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 2 Backup" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/284?cb=20130819193813" group-title="Sports Deportes",Lat: ESPN 2 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 3 Backup" tvg-logo="http://latinapro.net:25461/images/a0ca928385757f710e2de8201061f0b4.png" group-title="Sports Deportes",Lat: ESPN 3 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 4 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZfx6VvH5StHtDrMuZ3wocAJdT_ZTYsVLMAw&s" group-title="Sports Deportes",Lat: ESPN 4 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 5 Backup" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="Sports Deportes",Lat: ESPN 5 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 6 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VUhFxO7U4xEE3vn5OirOrhjFJtaS8nN_9g&s" group-title="Sports Deportes",Lat: ESPN 6 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 7 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-S1jyAq6cjYncKBJgvEmdS5FzAQj04KqYw&s" group-title="Sports Deportes",Lat: ESPN 7 Backup
+http://latinapro.net:25461/lazaroperez/perez3/50835.m3u8
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="Lat: Fox Sports 2 (P)" tvg-logo="http://latinapro.net:25461/images/lYdsXOoRMihlG1Qfer0NuZtzZmPohMmGRCH-6MJsAwKh4giVFDz6yru0eCntM0dAGhZ2A5WECGG-GZ-IfB8oBLxBC_lxP3Ir3gEDy-Ga2mFB4dwH4jjwysYGttgu9wK2AOZPgthQ1G083Vpd0S2t_RaXVgvnz39bajRG8Z94OOEGfXVMbz7tMYKP-xE9NNnm.png" group-title="Sports Deportes",Lat: Fox Sports 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/2468.m3u8
+#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: Fox Sports 3 HD (P)" tvg-logo="http://latinapro.net:25461/images/fbc6757c2907dc9e7149ee0140ab8efb.jpg" group-title="Sports Deportes",Lat: Fox Sports 3 HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: Golf Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDKe2Csih2q47HdUbdynLI5ILR3ssbapVDg&s" group-title="Sports Deportes",Lat: Golf Hd
+http://latinapro.net:25461/lazaroperez/perez3/55321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: Golf Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDKe2Csih2q47HdUbdynLI5ILR3ssbapVDg&s" group-title="Latinoamerica",Lat: Golf Hd
+http://latinapro.net:25461/lazaroperez/perez3/55321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lat: EWTN (P)" tvg-logo="http://latinapro.net:25461/images/22d5e23f98c73f6175f6afc5166146d5.png" group-title="Latinoamerica",Lat: EWTN (P)
+http://latinapro.net:25461/lazaroperez/perez3/9668.m3u8
 
