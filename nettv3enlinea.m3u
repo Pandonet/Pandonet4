@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Futbol Canal Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="Sports Deportes",Bolivia: Futbol Canal Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/53904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Futbol Canal Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="Bolivia",Bolivia: Futbol Canal Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/53904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Sports Deportes",Bolivia: Tigo Sports 1 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Bolivia",Bolivia: Tigo Sports 1 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 2 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Sports Deportes",Bolivia: Tigo Sports 2 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 2 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Bolivia",Bolivia: Tigo Sports 2 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dep|| Espn SD | Mexico" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ argentina II ←",Dep|| Espn SD | aqgentina
 http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX || AyM Sports HD" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ MÉXICO II ←",MX || AyM Sports HD
@@ -17,4 +29,17 @@ http://latinapro.net:25461/lazaroperez/perez3/2264.m3u8
 http://latinapro.net:25461/lazaroperez/perez3/34137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deportes 4 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 4 Hd Eventos
 http://latinapro.net:25461/lazaroperez/perez3/56289.m3u8
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="Arg: TNT Sports (P)" tvg-logo="http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png" group-title="Sports Deportes",Arg: TNT Sports (P)
+http://latinapro.net:25461/lazaroperez/perez3/2467.m3u8
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="Arg: TNT Sports (P)" tvg-logo="http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png" group-title="Argentina",Arg: TNT Sports (P)
+http://latinapro.net:25461/lazaroperez/perez3/2467.m3u8
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports Hd (P)" tvg-logo="http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png" group-title="Sports Deportes",Arg: TyC Sports Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports Hd (P)" tvg-logo="http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png" group-title="Argentina",Arg: TyC Sports Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports International" tvg-logo="http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg" group-title="Sports Deportes",Arg: TyC Sports International
+http://latinapro.net:25461/lazaroperez/perez3/4192.m3u8
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports International" tvg-logo="http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg" group-title="Argentina",Arg: TyC Sports International
+http://latinapro.net:25461/lazaroperez/perez3/4192.m3u8
+
 
