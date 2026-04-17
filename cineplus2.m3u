@@ -1,147 +1,383 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man & Captain America: Heroes United (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CX7eRlaxFXiW3UGQBdQUoSVZRi.jpg" group-title="Marvel Animated Movies Collection",Iron Man & Captain America: Heroes United (2014)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man & Hulk: Heroes United (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7F2ZNA7wMneoSKGonLKjDmjFEd.jpg" group-title="Marvel Animated Movies Collection",Iron Man & Hulk: Heroes United (2013)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man: Rise of Technovore (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg" group-title="Marvel Animated Movies Collection",Iron Man: Rise of Technovore (2013)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Confidential: Black Widow & Punisher (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRBXP91ATK5j1u0ibvrQLbxQr8c.jpg" group-title="Marvel Animated Movies Collection",Avengers Confidential: Black Widow & Punisher (2014)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182959.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dr Strange The Sorcerer Supreme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRBXP91ATK5j1u0ibvrQLbxQr8c.jpg" group-title="Marvel Animated Movies Collection",Dr Strange The Sorcerer Supreme
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hulk vs. Thor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pezTIa0SmmNIhjQWzo63OlBdpLf.jpg" group-title="Marvel Animated Movies Collection",Hulk vs. Thor (2009)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hulk vs. Wolverine (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHbj2XmAUQtNIQmTZl2UcOP2OKQ.jpg" group-title="Marvel Animated Movies Collection",Hulk vs. Wolverine (2009)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg" group-title="Mission Impossible Movies",Mission: Impossible (1996)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psiWp3VTjznfokmGQG9uqiiknQQ.jpg" group-title="Mission Impossible Movies",Mission: Impossible - Ghost Protocol (2011)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg" group-title="Mission Impossible Movies",Mission: Impossible - Rogue Nation (2015)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VMWLpk9VXyYcEZ8w3uUhp0OF1v.jpg" group-title="Mission Impossible Movies",Mission: Impossible II (2000)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKGYCpmQyV9uHybWDzXuII8Los5.jpg" group-title="Mission Impossible Movies",Mission: Impossible III (2006)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Battle for the Planet of the Apes (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP5dYjLp5p2CG103cJMio4Nj29d.jpg" group-title="Planet of the Apes Movie Collection",Battle for the Planet of the Apes (1973)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beneath the Planet of the Apes (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szHCeYwi4ubewuYnlnz0YGqWnQC.jpg" group-title="Planet of the Apes Movie Collection",Beneath the Planet of the Apes (1970)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conquest of the Planet of the Apes (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzKZRY2opw5MruSkevffgT5ocun.jpg" group-title="Planet of the Apes Movie Collection",Conquest of the Planet of the Apes (1972)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conquest of the Planet of the Apes - Alternate Ending (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzKZRY2opw5MruSkevffgT5ocun.jpg" group-title="Planet of the Apes Movie Collection",Conquest of the Planet of the Apes - Alternate Ending (1972)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape from the Planet of the Apes (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbLVdUEroTfHTUVAJCxkL4R0IH.jpg" group-title="Planet of the Apes Movie Collection",Escape from the Planet of the Apes (1971)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planet of the Apes (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg" group-title="Planet of the Apes Movie Collection",Planet of the Apes (1968)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Apocalypse (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil: Apocalypse (2004)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/182999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Extinction (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil: Extinction (2007)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Afterlife (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bOaokWMNxRkAUorl71kPoEz4lJ.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil: Afterlife (2010)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Retribution (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil: Retribution (2012)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: The Final Chapter (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil: The Final Chapter (2016)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg" group-title="Resident Evil Six Movie Collection",Resident Evil (2002)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg" group-title="Rocky Movies Collection",Rocky (1976)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUylDspiTKU3cYzZNeLsN8Krv12.jpg" group-title="Rocky Movies Collection",Rocky Balboa (2006)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky II (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2WuqQ0Jbyaql1WXNFx9dr6Ldpt.jpg" group-title="Rocky Movies Collection",Rocky II (1979)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3avfzaUDxMieyEgGPopVvh8ABXR.jpg" group-title="Rocky Movies Collection",Rocky III (1982)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg" group-title="Rocky Movies Collection",Rocky IV (1985)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg" group-title="Rocky Movies Collection",Rocky V (1990)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRQiJXETkCnVVurHmglNvMXrZOx.jpg" group-title="Scary Movie Collection",Scary Movie (2000)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg" group-title="Scary Movie Collection",Scary Movie 2 (2001)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 3 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLTVGCtUfD80sMDkbxAiWNso7Ne.jpg" group-title="Scary Movie Collection",Scary Movie 3 (2003)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 4 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg" group-title="Scary Movie Collection",Scary Movie 4 (2006)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 5 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Jwo4Eoax0oOnsU5qcXv0ea0Q8.jpg" group-title="Scary Movie Collection",Scary Movie 5 (2013)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg" group-title="Starship Troopers 5 Movie Collection",Starship Troopers (1997)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers 2: Hero of the Federation (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iqrqOjLaFcGNnSQlJxYLfgrhqn.jpg" group-title="Starship Troopers 5 Movie Collection",Starship Troopers 2: Hero of the Federation (2004)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers 3: Marauder (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh5nospDpMOxZhyhRiXWWMmSFQe.jpg" group-title="Starship Troopers 5 Movie Collection",Starship Troopers 3: Marauder (2008)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers: Invasion (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg" group-title="Starship Troopers 5 Movie Collection",Starship Troopers: Invasion (2012)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers: Traitor of Mars (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg" group-title="Starship Troopers 5 Movie Collection",Starship Troopers: Traitor of Mars (2017)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="Star Trek Movie Collection",Star Trek (2009)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="Star Trek Movie Collection",Star Trek Beyond (2016)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: First Contact (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg" group-title="Star Trek Movie Collection",Star Trek: First Contact (1996)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Generations (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHsCYDGHFUarGh5k987b0EFU6kC.jpg" group-title="Star Trek Movie Collection",Star Trek: Generations (1994)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek III: The Search for Spock (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg" group-title="Star Trek Movie Collection",Star Trek III: The Search for Spock (1984)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek II: The Wrath of Khan (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg" group-title="Star Trek Movie Collection",Star Trek II: The Wrath of Khan (1982)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Insurrection (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg" group-title="Star Trek Movie Collection",Star Trek: Insurrection (1998)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Star Trek Movie Collection",Star Trek Into Darkness (2013)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek IV: The Voyage Home (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg" group-title="Star Trek Movie Collection",Star Trek IV: The Voyage Home (1986)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Nemesis (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg" group-title="Star Trek Movie Collection",Star Trek: Nemesis (2002)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: The Motion Picture (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg" group-title="Star Trek Movie Collection",Star Trek: The Motion Picture (1979)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek VI: The Undiscovered Country (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg" group-title="Star Trek Movie Collection",Star Trek VI: The Undiscovered Country (1991)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek V: The Final Frontier (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg" group-title="Star Trek Movie Collection",Star Trek V: The Final Frontier (1989)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caravan of Courage - An Ewok Adventure (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg" group-title="Star Wars Movies Collection",Caravan of Courage - An Ewok Adventure (1984)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183097.avi
-#EXTINF:-1 tvg-id="" tvg-name="Ewoks: The Battle for Endor (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntgKdekb7xMKscyh2Hei706LBLf.jpg" group-title="Star Wars Movies Collection",Ewoks: The Battle for Endor (1985)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183098.avi
-#EXTINF:-1 tvg-id="" tvg-name="Rogue One: A Star Wars Story (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg" group-title="Star Wars Movies Collection",Rogue One: A Star Wars Story (2016)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Clone Wars (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJQfixW818LUdSXlCDL3JZm0S0g.jpg" group-title="Star Wars Movies Collection",Star Wars: The Clone Wars (2008)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183100.avi
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode I - The Phantom Menace (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg" group-title="Star Wars Movies Collection",Star Wars: Episode I - The Phantom Menace (1999)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183101.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode II - Attack of the Clones (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZNPzxqM2s5DyVWab09NTQScDQt.jpg" group-title="Star Wars Movies Collection",Star Wars: Episode II - Attack of the Clones (2002)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183102.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode III - Revenge of the Sith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="Star Wars Movies Collection",Star Wars: Episode III - Revenge of the Sith (2005)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183103.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episode IV - A New Hope (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="Star Wars Movies Collection",Star Wars Episode IV - A New Hope (1977)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183104.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episode V - The Empire Strikes Back (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="Star Wars Movies Collection",Star Wars Episode V - The Empire Strikes Back (1980)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183105.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episode VI - Return Of The Jedi (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="Star Wars Movies Collection",Star Wars Episode VI - Return Of The Jedi (1983)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episode VII - The Force Awakens (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="Star Wars Movies Collection",Star Wars Episode VII - The Force Awakens (2015)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman and the Mole-Men (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vRltKcX4wK4ms0A6PbRz42EMdq.jpg" group-title="Superman Movies Collection",Superman and the Mole-Men (1951)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg" group-title="Superman Movies Collection",Superman (1978)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183109.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman II (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jw0tYFCbzjBN8SIhvRC2kdh7pzh.jpg" group-title="Superman Movies Collection",Superman II (1980)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman III (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg" group-title="Superman Movies Collection",Superman III (1983)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman IV: The Quest for Peace (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg" group-title="Superman Movies Collection",Superman IV: The Quest for Peace (1987)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman Returns (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="Superman Movies Collection",Superman Returns (2006)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Man of Steel (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg" group-title="Superman Movies Collection",Man of Steel (2013)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman v Superman: Dawn of Justice (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="Superman Movies Collection",Batman v Superman: Dawn of Justice (2016)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/183115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bahía de invierno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bahía de invierno (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bailando por la vida  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bailando por la vida  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo las estrellas de Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bajo las estrellas de Paris (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo sospecha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bajo sospecha
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202307.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bajo sospecha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bajo sospecha
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala perdida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bala perdida (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202309.avi
+#EXTINF:-1 tvg-id="" tvg-name="Balas de venganza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Balas de venganza (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Aventura de Princesa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Barbie: Aventura de Princesa (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie y Chelsea, el cumpleaños perdido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Barbie y Chelsea, el cumpleaños perdido (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bartkowiak (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg" group-title="Spanish Movies ",Bartkowiak (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle: Freestyle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg" group-title="Spanish Movies ",Battle: Freestyle (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batalla: Freestyle  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg" group-title="Spanish Movies ",Batalla: Freestyle  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma de Dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg" group-title="Spanish Movies ",Batman: Alma de Dragón (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Death in the Family (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="Spanish Movies ",Batman: Death in the Family (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs. las Tortugas Ninja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="Spanish Movies ",Batman vs. las Tortugas Ninja
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="Spanish Movies ",Beats (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beavis and Butt-Head Do the Universe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg" group-title="Spanish Movies ",Beavis and Butt-Head Do the Universe (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beckett (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg" group-title="Spanish Movies ",Beckett (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Becky (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg" group-title="Spanish Movies ",Becky (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belfast (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="Spanish Movies ",Belfast (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben Crump: El abogado de los afroamericanos  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="Spanish Movies ",Ben Crump: El abogado de los afroamericanos  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlin, Berlin: la novia se fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="Spanish Movies ",Berlin, Berlin: la novia se fuga (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlin Berlin (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="Spanish Movies ",Berlin Berlin (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg" group-title="Spanish Movies ",Bigbug (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg" group-title="Spanish Movies ",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) - (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blinded by the Light (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KsKNrgs7D3zPh9FT9f6MD3ampH.jpg" group-title="Spanish Movies ",Blinded by the Light (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="Spanish Movies ",Bloodshot (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg" group-title="Spanish Movies ",Blue Bayou (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blueprint to the Heart (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pULRnt0nBZ8YTs3YZiJx9Dd5qxD.jpg" group-title="Spanish Movies ",Blueprint to the Heart (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bmbl3bl33.m1080p.Castellano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pULRnt0nBZ8YTs3YZiJx9Dd5qxD.jpg" group-title="Spanish Movies ",Bmbl3bl33.m1080p.Castellano
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Ross: Happy Accidents, Betrayal & Greed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg" group-title="Spanish Movies ",Bob Ross: Happy Accidents, Betrayal & Greed (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg" group-title="Spanish Movies ",Boda Sangrienta (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boo! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lnt9yuLlPwmYW3LLzWmQQWrUmK.jpg" group-title="Spanish Movies ",Boo! (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bookworm and the Beast (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="Spanish Movies ",Bookworm and the Beast (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borat, película film secuela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="Spanish Movies ",Borat, película film secuela
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bordertown: Murales de sangre  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="Spanish Movies ",Bordertown: Murales de sangre  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borning: Asfalto en llamas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="Spanish Movies ",Borning: Asfalto en llamas (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boys of Abu Ghraib (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nsGii9M9LJCoWYGxe3B20mJQqP.jpg" group-title="Spanish Movies ",Boys of Abu Ghraib (2014)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking News in Yuba County (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyCYtgfBmMisX3RFc5eH6zIV5Y.jpg" group-title="Spanish Movies ",Breaking News in Yuba County (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bright: Samurai Soul (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FuOW69wl9Bf2kzaVut596sMhZ6.jpg" group-title="Spanish Movies ",Bright: Samurai Soul (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bu3nasM4nos.m1080p.Castellano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FuOW69wl9Bf2kzaVut596sMhZ6.jpg" group-title="Spanish Movies ",Bu3nasM4nos.m1080p.Castellano
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buena suerte, Leo Grande  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FuOW69wl9Bf2kzaVut596sMhZ6.jpg" group-title="Spanish Movies ",Buena suerte, Leo Grande  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bull Shark (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="Spanish Movies ",Bull Shark (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bury the Past (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe2EsQMojcq2fYvtJCnrTzrl4SB.jpg" group-title="Spanish Movies ",Bury the Past (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buscando justicia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe2EsQMojcq2fYvtJCnrTzrl4SB.jpg" group-title="Spanish Movies ",Buscando justicia (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Butchers  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe2EsQMojcq2fYvtJCnrTzrl4SB.jpg" group-title="Spanish Movies ",Butchers  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="C'est la vie! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="Spanish Movies ",C'est la vie! (2017)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cacería Jurásica (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="Spanish Movies ",Cacería Jurásica (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada respiro que das (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="Spanish Movies ",Cada respiro que das (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cagefighter: Worlds Collide (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="Spanish Movies ",Cagefighter: Worlds Collide (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cambiados Antes De Nacer  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="Spanish Movies ",Cambiados Antes De Nacer  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cangrejo Negro  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="Spanish Movies ",Cangrejo Negro  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos: El inicio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="Spanish Movies ",Caos: El inicio (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Nova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="Spanish Movies ",Captain Nova (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="Spanish Movies ",Carnaval (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casas de Cristal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="Spanish Movies ",Casas de Cristal (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castle in the Ground (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlqOP3wxbMasalvUvxJ2uYEvW1u.jpg" group-title="Spanish Movies ",Castle in the Ground (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catalina la Catrina: Especial Día de Muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siGmPNbxKdooHm7unHpiBSdfYpR.jpg" group-title="Spanish Movies ",Catalina la Catrina: Especial Día de Muertos (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catch the Bullet (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PoomidF9HlMKXcAyOJ87lGkhSp.jpg" group-title="Spanish Movies ",Catch the Bullet (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCNch5FmzT2WaUcY44925owIZXY.jpg" group-title="Spanish Movies ",Cats (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman: Hunted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Catwoman: Hunted (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Causalidad  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Causalidad  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Cazador contra cazador (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Más allá  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Cazafantasmas: Más allá  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cenicienta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Cenicienta (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Spanish Movies ",Centinela (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chasing the One (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0g0P6V3tFW7H0Vw2T52uVAImy0.jpg" group-title="Spanish Movies ",Chasing the One (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl: Abyss (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg" group-title="Spanish Movies ",Chernobyl: Abyss (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" group-title="Spanish Movies ",Cherry (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicas con glamur  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" group-title="Spanish Movies ",Chicas con glamur  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicos Buenos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" group-title="Spanish Movies ",Chicos Buenos (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chief Daddy 2: Going for Broke (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCOhpT4thaUTPbBvFKYibgpNnCy.jpg" group-title="Spanish Movies ",Chief Daddy 2: Going for Broke (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chilangolandia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" group-title="Spanish Movies ",Chilangolandia (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Chop: Los guardianes rescatadores  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" group-title="Spanish Movies ",Chip y Chop: Los guardianes rescatadores  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chris Hemsworth: La playa de los tiburones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" group-title="Spanish Movies ",Chris Hemsworth: La playa de los tiburones (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christmas ...Again?! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89kgeIn5Cz7u8qRtyts3oyXmx8S.jpg" group-title="Spanish Movies ",Christmas ...Again?! (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christmas Matchmakers (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwys26NuCQf35gdLijuGeDFzNSq.jpg" group-title="Spanish Movies ",Christmas Matchmakers (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christmas on the Menu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/998E0DvDcK3kGO3IJT4WmUVA1Rt.jpg" group-title="Spanish Movies ",Christmas on the Menu (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christmas Together (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MKgopT6vlEc6aUR71MUOs7SCaR.jpg" group-title="Spanish Movies ",Christmas Together (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chronical: 2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MKgopT6vlEc6aUR71MUOs7SCaR.jpg" group-title="Spanish Movies ",Chronical: 2067 (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ciao Alberto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SyTnaY0wte69oKdqxQLvxPT3hs.jpg" group-title="Spanish Movies ",Ciao Alberto (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ciberinfierno: La investigación que destapó el horror  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SyTnaY0wte69oKdqxQLvxPT3hs.jpg" group-title="Spanish Movies ",Ciberinfierno: La investigación que destapó el horror  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clemency (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg" group-title="Spanish Movies ",Clemency (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clifford, el gran perro rojo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg" group-title="Spanish Movies ",Clifford, el gran perro rojo (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg" group-title="Spanish Movies ",Clouds (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cocina al infierno [1080p][Castellano][wWw.EliteTorrent.BZ]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg" group-title="Spanish Movies ",Cocina al infierno [1080p][Castellano][wWw.EliteTorrent.BZ]
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CODA (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",CODA (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colisión  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Colisión  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colors of Love (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Colors of Love (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Comité de dioses (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Comité de dioses (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Competencia Oficial  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Competencia Oficial  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Condena De Amor  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Condena De Amor  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una chica invisible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Confesiones de una chica invisible (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confinados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Confinados (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conquista a medias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Conquista a medias (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra lo Imposible (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Contra lo Imposible (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Dragón 5: La venganza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Corazón de Dragón 5: La venganza (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Fuego  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Corazón de Fuego  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Corazón loco (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coronarivus Diario de un encierro [1080p][Castellano][wWw.EliteTorrent.NL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Coronarivus Diario de un encierro [1080p][Castellano][wWw.EliteTorrent.NL]
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corre y dispara  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Corre y dispara  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosas imposibles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg" group-title="Spanish Movies ",Cosas imposibles (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosmic Sin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wm7P6y22UZA40QuPYHyWyJ6leI.jpg" group-title="Spanish Movies ",Cosmic Sin (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDJYDXRoWoUzxjd52gtz5ODTSU1.jpg" group-title="Spanish Movies ",Cosmoball (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Fist (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVAEVDNdUPRKJ7hJ4zt6lGcLATD.jpg" group-title="Spanish Movies ",Crazy Fist (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimen a contrarreloj (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVAEVDNdUPRKJ7hJ4zt6lGcLATD.jpg" group-title="Spanish Movies ",Crimen a contrarreloj (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes of the Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg" group-title="Spanish Movies ",Crimes of the Future (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crisis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg" group-title="Spanish Movies ",Crisis (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crypto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Crypto (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes de familia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Crímenes de familia (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes imposibles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Crímenes imposibles (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro por cuatro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Cuatro por cuatro (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuentos al caer la noche (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Cuentos al caer la noche (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuesta abajo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Cuesta abajo (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuestión de sangre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Cuestión de sangre (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpable (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Culpable (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="Spanish Movies ",Culpable (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuties (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg" group-title="Spanish Movies ",Cuties (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cásate conmigo  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg" group-title="Spanish Movies ",Cásate conmigo  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cómo me enamoré de un gánster  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg" group-title="Spanish Movies ",Cómo me enamoré de un gánster  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D'Artagnan El 4º Mosquetero  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg" group-title="Spanish Movies ",D'Artagnan El 4º Mosquetero  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D3joCu4ndoQu1era.m1080p.Castellano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg" group-title="Spanish Movies ",D3joCu4ndoQu1era.m1080p.Castellano
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Da 5 Bloods (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg" group-title="Spanish Movies ",Da 5 Bloods (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Da 5 Bloods: Hermanos de armas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg" group-title="Spanish Movies ",Da 5 Bloods: Hermanos de armas (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddy (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg" group-title="Spanish Movies ",Daddy (2015)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dancing Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="Spanish Movies ",Dancing Queens (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Spell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AbGdSGlU6CpiV3lswHUgE5CdAA.jpg" group-title="Spanish Movies ",Dark Spell (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dating & New York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",Dating & New York (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David Copeland: El hombre que aterrorizó Londres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",David Copeland: El hombre que aterrorizó Londres (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David y los Elfos  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",David y los Elfos  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DDyuca.m1080p.Castellano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",DDyuca.m1080p.Castellano
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",Deadwood: La película (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death, Music, Catharsis (She Dreamt She Was a Bulldozer, She Dreamt She Was Alone in an Empty Field)  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="Spanish Movies ",Death, Music, Catharsis (She Dreamt She Was a Bulldozer, She Dreamt She Was Alone in an Empty Field)  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death of a Telemarketer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shp21GCcILK1Y4O5YJ8p76ae62m.jpg" group-title="Spanish Movies ",Death of a Telemarketer (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Expeditie van Familie Vos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shp21GCcILK1Y4O5YJ8p76ae62m.jpg" group-title="Spanish Movies ",De Expeditie van Familie Vos (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De La Nada: ¡Scooby-Doo! Conoce A Coraje, El Perro Cobarde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shp21GCcILK1Y4O5YJ8p76ae62m.jpg" group-title="Spanish Movies ",De La Nada: ¡Scooby-Doo! Conoce A Coraje, El Perro Cobarde (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demon Eye (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwgtB7UwV1AjCKi0A6CzF9znkdN.jpg" group-title="Spanish Movies ",Demon Eye (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202440.avi
+#EXTINF:-1 tvg-id="" tvg-name="Descansa en paz, Dick Johnson (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwgtB7UwV1AjCKi0A6CzF9znkdN.jpg" group-title="Spanish Movies ",Descansa en paz, Dick Johnson (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendants: The Royal Wedding (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK5xU4x7w9npLUYT5xZJ4RvVlsM.jpg" group-title="Spanish Movies ",Descendants: The Royal Wedding (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desfile de corazones  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK5xU4x7w9npLUYT5xZJ4RvVlsM.jpg" group-title="Spanish Movies ",Desfile de corazones  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Madeinusa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57zz2DffLRTAwbIxomUkJnmXgxU.jpg" group-title="Spanish Movies ",Detetive Madeinusa (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detrás del espejo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57zz2DffLRTAwbIxomUkJnmXgxU.jpg" group-title="Spanish Movies ",Detrás del espejo (2018)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="Spanish Movies ",Dhamaka (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diego, El último adiós (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="Spanish Movies ",Diego, El último adiós (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Difícil de tragar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="Spanish Movies ",Difícil de tragar (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dios mío ¡los niños han vuelto!  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="Spanish Movies ",Dios mío ¡los niños han vuelto!  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disney Princess Remixed: An Ultimate Princess Celebration (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanpR48XsGzRFKx79aHLbVQsNEu.jpg" group-title="Spanish Movies ",Disney Princess Remixed: An Ultimate Princess Celebration (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanpR48XsGzRFKx79aHLbVQsNEu.jpg" group-title="Spanish Movies ",Disomnia (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Distancia de rescate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanpR48XsGzRFKx79aHLbVQsNEu.jpg" group-title="Spanish Movies ",Distancia de rescate (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Divorzio a Las Vegas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Divorzio a Las Vegas (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doblemente embarazada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Doblemente embarazada (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce en casa  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Doce en casa  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce huérfanos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Doce huérfanos (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Doctor Strange en el multiverso de la locura  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Doctor Sueño (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dog: Un viaje salvaje  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="Spanish Movies ",Dog: Un viaje salvaje  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Let Go (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="Spanish Movies ",Don't Let Go (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doom: aniquilación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="Spanish Movies ",Doom: aniquilación
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dora y la ciudad perdida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="Spanish Movies ",Dora y la ciudad perdida (2019)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="Spanish Movies ",Dos  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos más dos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg" group-title="Spanish Movies ",Dos más dos (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos sinvergüenzas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg" group-title="Spanish Movies ",Dos sinvergüenzas (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos tórtolos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg" group-title="Spanish Movies ",Dos tórtolos (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey: A New Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="Spanish Movies ",Downton Abbey: A New Era (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragones al rescate: El secreto del Ala Cantarina (2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="Spanish Movies ",Dragones al rescate: El secreto del Ala Cantarina (2020
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Fury (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg" group-title="Spanish Movies ",Dragon Fury (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3S1HcS9qU8Eadyd3VCIci0jxr8.jpg" group-title="Spanish Movies ",Dragon Soldiers (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dreamcatcher (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CF743g2BpC8r3mCVV9gSX2yQBj.jpg" group-title="Spanish Movies ",Dreamcatcher (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dual  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CF743g2BpC8r3mCVV9gSX2yQBj.jpg" group-title="Spanish Movies ",Dual  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Spanish Movies ",Dune (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Día de redención (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Spanish Movies ",Día de redención (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Earwig and the Witch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="Spanish Movies ",Earwig and the Witch (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Easter Bunny Massacre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g2IqiEKJ0C3DGyB1Jy7NAdR57Z.jpg" group-title="Spanish Movies ",Easter Bunny Massacre (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ecos de un crimen  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g2IqiEKJ0C3DGyB1Jy7NAdR57Z.jpg" group-title="Spanish Movies ",Ecos de un crimen  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efectos colaterales del amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g2IqiEKJ0C3DGyB1Jy7NAdR57Z.jpg" group-title="Spanish Movies ",Efectos colaterales del amor (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efímera como la flor del cerezo  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g2IqiEKJ0C3DGyB1Jy7NAdR57Z.jpg" group-title="Spanish Movies ",Efímera como la flor del cerezo  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eiffel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",Eiffel (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ejército de los ladrones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",Ejército de los ladrones (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",Ejército de los muertos (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El amor en su lugar  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El amor en su lugar  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El aparcacoches  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El aparcacoches  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ascenso del diablo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El ascenso del diablo (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El asedio de Silverton  (2022)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asesino de las postales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El asesino de las postales (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Atrapasueños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El Atrapasueños (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El bar de las grandes esperanzas  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El bar de las grandes esperanzas  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Bebé Jefazo 2 Negocios de familia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El Bebé Jefazo 2 Negocios de familia (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Caballero Verde  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El Caballero Verde  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El callejón de las almas perdidas  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El callejón de las almas perdidas  (2021)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El camino de Xico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="Spanish Movies ",El camino de Xico (2020)
+http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202493.mp4
