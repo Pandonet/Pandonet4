@@ -1,187 +1,1453 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="Spanish Movies ",2 Minutos de Fama (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4 días (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="Spanish Movies ",4 días (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="Spanish Movies ",
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202205.mkv
-EXTINF:-1 tvg-id="" tvg-name="137 Shots (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="Spanish Movies ",137 Shots (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 días: Aquel día  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="Spanish Movies ",365 días: Aquel día  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="438 dagar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="Spanish Movies ",438 dagar (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="Spanish Movies ",1917 (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1942: La Gran Ofensiva  (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="Spanish Movies ",1942: La Gran Ofensiva  (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abigail Haunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve3xYpDIUTLSvwcUErd82T4JSJq.jpg" group-title="Spanish Movies ",Abigail Haunting (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abominable (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="Spanish Movies ",Abominable (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="Spanish Movies ",A casa (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Christmas Princess (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="Spanish Movies ",A Christmas Princess (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ad Astra: hacia las estrellas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="Spanish Movies ",Ad Astra: hacia las estrellas (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A descubierto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="Spanish Movies ",A descubierto (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adios [HDR][Castellano][wWw.EliteTorrent.NL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="Spanish Movies ",Adios [HDR][Castellano][wWw.EliteTorrent.NL]
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202225.avi
-#EXTINF:-1 tvg-id="" tvg-name="Adventures of a Mathematician (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2QwbzBQNEw0Wx8ijiCqDZv3TVP.jpg" group-title="Spanish Movies ",Adventures of a Mathematician (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Aquí empieza todo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2QwbzBQNEw0Wx8ijiCqDZv3TVP.jpg" group-title="Spanish Movies ",After: Aquí empieza todo
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After the Wedding (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="Spanish Movies ",After the Wedding (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agentes 355  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="Spanish Movies ",Agentes 355  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Z - Misterio En El Zoo  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="Spanish Movies ",Agente Z - Misterio En El Zoo  (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aguas oscuras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="Spanish Movies ",Aguas oscuras (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aguas Profundas  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="Spanish Movies ",Aguas Profundas  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aileen Wuornos: American Boogeywoman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Aileen Wuornos: American Boogeywoman (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ainbo: La Guerrera Del Amazonas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Ainbo: La Guerrera Del Amazonas (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste de cuentas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Ajuste de cuentas (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la mierda el 2020  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",A la mierda el 2020  (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta en lo Profundo 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alerta en lo Profundo 3 (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Roja (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alerta Roja (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguien como él (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alguien como él (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alguien especial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alguien especial
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alimentando al mundo  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alimentando al mundo  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita: Ángel de combate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alita: Ángel de combate
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Alive (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Al Lado de Cristo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="Spanish Movies ",Al Lado de Cristo (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Together Now (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="Spanish Movies ",All Together Now (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Al morir la matinée  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="Spanish Movies ",Al morir la matinée  (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Al viento  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="Spanish Movies ",Al viento  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Always and Forever Christmas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWVL2fmmzhLgXcHiz8XcWAaE6ta.jpg" group-title="Spanish Movies ",Always and Forever Christmas (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amalgama (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YZjJDXztkxeHXGDCOtRyamGNE.jpg" group-title="Spanish Movies ",Amalgama (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amarrados al amor  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YZjJDXztkxeHXGDCOtRyamGNE.jpg" group-title="Spanish Movies ",Amarrados al amor  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ambulance: Plan de Huida  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YZjJDXztkxeHXGDCOtRyamGNE.jpg" group-title="Spanish Movies ",Ambulance: Plan de Huida  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Badger (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",American Badger (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A mi altura 2  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",A mi altura 2  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amigas para siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",Amigas para siempre
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos pasajeros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",Amigos pasajeros (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos Peludos por Siempre: Elmo y su Nuevo Perrito  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",Amigos Peludos por Siempre: Elmo y su Nuevo Perrito  (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos por siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",Amigos por siempre
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amigos vs. extraterrestres  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="Spanish Movies ",Amigos vs. extraterrestres  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" group-title="Spanish Movies ",Amina (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ammonite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Ammonite (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor. Boda. Azar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor. Boda. Azar (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor Artificial  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de gata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor de gata (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor en pleno vuelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor en pleno vuelo (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor garantizado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor garantizado (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor sin medida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor sin medida (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor y helado  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="Spanish Movies ",Amor y helado  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amulet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVyAkEkpwpfyx4oZMg22A8ivDI.jpg" group-title="Spanish Movies ",Amulet (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="An Affair to Die For (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vo4vUGaE081biscSRiacl9agmE.jpg" group-title="Spanish Movies ",An Affair to Die For (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Naija Christmas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPExVpBnDwB8kL9buIqGVNDzYrb.jpg" group-title="Spanish Movies ",A Naija Christmas (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andrés Iniesta: The Unexpected Hero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xPMEWPTp3VkBBYGnp8rlPZP110.jpg" group-title="Spanish Movies ",Andrés Iniesta: The Unexpected Hero (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nice Girl Like You (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",A Nice Girl Like You (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animales corporativos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Animales corporativos (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animales fantásticos: Una historia natural  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Animales fantásticos: Una historia natural  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animales humanos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Animales humanos (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anomalía  (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Anomalía  (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antlers: Criatura oscura  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Antlers: Criatura oscura  (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anónima  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg" group-title="Spanish Movies ",Anónima  (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apex (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Spanish Movies ",Apex (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apolo 10½: Una infancia espacial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Spanish Movies ",Apolo 10½: Una infancia espacial (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A prueba de balas 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Spanish Movies ",A prueba de balas 2 (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Araña (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Spanish Movies ",Araña (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arlo, el chico caimán (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Spanish Movies ",Arlo, el chico caimán (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg" group-title="Spanish Movies ",Artemis Fowl (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asesinos Anónimos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg" group-title="Spanish Movies ",Asesinos Anónimos (2019)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asesinos sadicos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg" group-title="Spanish Movies ",Asesinos sadicos (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Luck Would Have It (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",As Luck Would Have It (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A todos los chicos de los que me enamoré" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",A todos los chicos de los que me enamoré
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A traición (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",A traición (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atrapada en la Navidad  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",Atrapada en la Navidad  (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atrapada en las profundidades  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",Atrapada en las profundidades  (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atrapa ese email (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",Atrapa ese email (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana  (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",A través de mi ventana  (2022)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: Invasion el fin de los tiempos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="Spanish Movies ",Attraction 2: Invasion el fin de los tiempos (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Audible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RjHHR0em5bHHEA6FsbMOj8EdFR.jpg" group-title="Spanish Movies ",Audible (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A un paso de mí (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12qaWw3KntFPoOCEJFSCLAuL7rN.jpg" group-title="Spanish Movies ",A un paso de mí (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Average Joe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="Spanish Movies ",Average Joe (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves del paraíso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="Spanish Movies ",Aves del paraíso (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves de presa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="Spanish Movies ",Aves de presa (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Writer's Odyssey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",A Writer's Odyssey (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Años de perro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Años de perro (2021)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys para Siempre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="Spanish Movies ",Bad Boys para Siempre (2020)
-http://cord-cutter.net:8080/movie/riritaylor/R2424246188T/202302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 3 HD (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XWJwBfa4zzki6rkiBVu6vUX3aU.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Los Extraños: Capítulo 3 HD (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="“Cumbres Borrascosas” (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="⏩ ESTRENOS 2026 ⏪",“Cumbres Borrascosas” (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie the Wonderdog (2025)" tvg-logo="http://mundo2.pro:80/images/e9f94efb06f9caeb9ac202d2578d00a3.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Charlie the Wonderdog (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Dhurandhar: The Revenge (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Highest Stakes (2026)" tvg-logo="http://mundo2.pro:80/images/dc92a48149714ad34e3491577be51d3f.jpg" group-title="⏩ ESTRENOS 2026 ⏪",The Highest Stakes (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Avatar: Aang, El último Maestro Aire (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/516862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Middle Men (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nft1W86mueRax9MkVkrXxv0hLuK.jpg" group-title="↪️ SOLICITADAS ↩️",The Middle Men (2021)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/512869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La verdad detrás de la tragedia de Moriah Wilson (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg" group-title="⏩ ESTRENOS 2026 ⏪",La verdad detrás de la tragedia de Moriah Wilson (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/512868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="http://mundo2.pro:80/images/9c748ef5ba4baf529e32029e873772d1.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Embestida (2026)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/512867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asesino serial (2024)" tvg-logo="http://mundo2.pro:80/images/231d4336affa5a8b5a70a635120af551.jpg" group-title="↪️ SOLICITADAS ↩️",Asesino serial (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/512371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ba.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Ba.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Traslados (2024)" tvg-logo="http://mundo2.pro:80/images/6c9be2ed2b4d5bd33e42d2c2f0bcad0f.jpg" group-title="ESTRENOS 2024_DM",Traslados (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sidelined.The.Qb.And.Me.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sidelined.The.Qb.And.Me.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mom (2025)" tvg-logo="http://mundo2.pro:80/images/b8549b4cd1d485a4c671b6b03f7664da.jpg" group-title="ESTRENOS 2024_DM",Mom (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="http://mundo2.pro:80/images/e16006b885141a99e3ed0cec5fc242d3.jpg" group-title="ESTRENOS 2024_DM",A Scottish Love Scheme (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young.Woman.And.The.Sea.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Young.Woman.And.The.Sea.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yacht Rock" tvg-logo="http://mundo2.pro:80/images/877fe7023824737d03219e241506c33f.jpg" group-title="ESTRENOS 2024_DM",Yacht Rock
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Y2K (2024)" tvg-logo="http://mundo2.pro:80/images/9ea7cec16f20a3dd88b0565d7c2852cc.jpg" group-title="ESTRENOS 2024_DM",Y2K (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong.Track.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Wrong.Track.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonderland (2024)" tvg-logo="http://mundo2.pro:80/images/4058d876e6eb64d505da79df14fd2c8f.jpg" group-title="ESTRENOS 2024_DM",Wonderland (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woman.Of.The.Hour.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Woman.Of.The.Hour.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolfs.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Wolfs.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolfman.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Wolfman.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Witches (2024)" tvg-logo="http://mundo2.pro:80/images/db01f32e105f87f2232dc6d594cb94ee.jpg" group-title="ESTRENOS 2024_DM",Witches (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Witcher.Sirens.Of.The.Deep.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Witcher.Sirens.Of.The.Deep.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish You Were Here (2025)" tvg-logo="http://mundo2.pro:80/images/d85cd6c308d9b6eae986d9ef070c85b2.jpg" group-title="ESTRENOS 2024_DM",Wish You Were Here (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winnie.The.Pooh.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Winnie.The.Pooh.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winner (2024)" tvg-logo="http://mundo2.pro:80/images/df02c54ae22687201d4829f2f3029743.jpg" group-title="ESTRENOS 2024_DM",Winner (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Willie.And.Me2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Willie.And.Me2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild.Wild.Space.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Wild.Wild.Space.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild.Robot.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Wild.Robot.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild Eyed and Wicked (2024)" tvg-logo="http://mundo2.pro:80/images/9739d29f4b02c75b1a146edf2ae09ac2.jpg" group-title="ESTRENOS 2024_DM",Wild Eyed and Wicked (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Widow.Clicquot.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Widow.Clicquot.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wicked.Little.Letters2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Wicked.Little.Letters2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wicked (2024)" tvg-logo="http://mundo2.pro:80/images/c080acbc804511d559fa980b3b947569.jpg" group-title="ESTRENOS 2024_DM",Wicked (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who.Is.Luigi.Mangione.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Who.Is.Luigi.Mangione.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What.Jennifer.Did.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",What.Jennifer.Did.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Werewolves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Werewolves
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We.Live.In.Time.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",We.Live.In.Time.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Grown Now (2024)" tvg-logo="http://mundo2.pro:80/images/3d5e8690d24a97e7da741af9db9fabc3.jpg" group-title="ESTRENOS 2024_DM",We Grown Now (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We.Bury.The.Dead.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",We.Bury.The.Dead.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We.Are.Zombies.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",We.Are.Zombies.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen.Chapter.I.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Watchmen.Chapter.I.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War Game (2024)" tvg-logo="http://mundo2.pro:80/images/e454f57dc98ce9bb086e5a8fc58dcbf0.jpg" group-title="ESTRENOS 2024_DM",War Game (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wallbanger (2024)" tvg-logo="http://mundo2.pro:80/images/3d50b389bedae815b7f16e050882b1eb.jpg" group-title="ESTRENOS 2024_DM",Wallbanger (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wake Up (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Wake Up (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vermines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Vermines
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom.The.Last.Dance.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Venom.The.Last.Dance.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velma.This.Halloween.Needs.To.Be.More.Special.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Velma.This.Halloween.Needs.To.Be.More.Special.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanished.Into.The.Night.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Vanished.Into.The.Night.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vampiras.Resurreccion.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Vampiras.Resurreccion.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valle de sombras (2024)" tvg-logo="http://mundo2.pro:80/images/afcde785aa0aa64216c3be88867d1d8e.jpg" group-title="ESTRENOS 2024_DM",Valle de sombras (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valentine's Town (2024)" tvg-logo="http://mundo2.pro:80/images/2db628cf580aac13435fe33788118eb7.jpg" group-title="ESTRENOS 2024_DM",Valentine's Town (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V de Víctor (2024)" tvg-logo="http://mundo2.pro:80/images/a3f2f6b398409008b764fe0834074fe8.jpg" group-title="ESTRENOS 2024_DM",V de Víctor (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uprising (2023)" tvg-logo="http://mundo2.pro:80/images/e25e0433c253535463f5f00c259e36b5.jpg" group-title="ESTRENOS 2024_DM",Uprising (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untamed.Royals.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Untamed.Royals.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsung Hero (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Unsung Hero (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2024)" tvg-logo="http://mundo2.pro:80/images/347bbed9b9c884aef2b64caa0b994d25.jpg" group-title="ESTRENOS 2024_DM",Unstoppable (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un jour fille (2024)" tvg-logo="http://mundo2.pro:80/images/dc91a46c762a2a7c7ae3bb396ec7f075.jpg" group-title="ESTRENOS 2024_DM",Un jour fille (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un actor malo (2024)" tvg-logo="http://mundo2.pro:80/images/3dda1500ae98d88240e015227f5addd6.jpg" group-title="ESTRENOS 2024_DM",Un actor malo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo-There.Is.No.Cure.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Umjolo-There.Is.No.Cure.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo-My.Beginnings.My.End.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Umjolo-My.Beginnings.My.End.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo-Day.Ones.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Umjolo-Day.Ones.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo.The.Gone.Girl.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Umjolo.The.Gone.Girl.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umami (2025)" tvg-logo="http://mundo2.pro:80/images/31d6581a172f60be1c3072172c0af64d.jpg" group-title="ESTRENOS 2024_DM",Umami (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultraman.Rising.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Ultraman.Rising.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uglies.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Uglies.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tyler.Perrys.Divorce.In.The.Black.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Tyler.Perrys.Divorce.In.The.Black.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twisters (2024)" tvg-logo="http://mundo2.pro:80/images/67036d279dbc94044525bd9744b15695.jpg" group-title="ESTRENOS 2024_DM",The Twisters (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tuesday (2024)" tvg-logo="http://mundo2.pro:80/images/77e869b18c0bd98ac55140e4d4c020b0.jpg" group-title="ESTRENOS 2024_DM",Tuesday (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trouble (2024)" tvg-logo="http://mundo2.pro:80/images/a42d6d5e09f599349546939583f4c0e4.jpg" group-title="ESTRENOS 2024_DM",Trouble (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trigger Warning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Trigger Warning
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treasure (2024)" tvg-logo="http://mundo2.pro:80/images/82877c9518285762917465657b6f2f6a.jpg" group-title="ESTRENOS 2024_DM",Treasure (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trap (2024)" tvg-logo="http://mundo2.pro:80/images/cbd3aeaaca7c9eae4db4b94ed335dee9.jpg" group-title="ESTRENOS 2024_DM",Trap (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Uno (2024)" tvg-logo="http://mundo2.pro:80/images/eba6a3a599860b6e1eea2975e5b2c3f5.jpg" group-title="ESTRENOS 2024_DM",Transformers Uno (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrow.Befor.After.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Tomorrow.Befor.After.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="To.Love.Is.To.Grow.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",To.Love.Is.To.Grow.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Time.Cut.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Time.Cut.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TikTok Star Murders (2024)" tvg-logo="http://mundo2.pro:80/images/c165f0d570698280cdb263851c393fb2.jpg" group-title="ESTRENOS 2024_DM",TikTok Star Murders (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="This.Time.Next.Year.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",This.Time.Next.Year.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thelma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Thelma
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Wingwalker.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Wingwalker.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Wild.Robot.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Wild.Robot.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Watchers (2025)" tvg-logo="http://mundo2.pro:80/images/7cb00827de0e37e1e0985653ce305740.jpg" group-title="ESTRENOS 2024_DM",The Watchers (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wasps (2025)" tvg-logo="http://mundo2.pro:80/images/b4b857c3bd58e7afafcbf1ed7c195f69.jpg" group-title="ESTRENOS 2024_DM",The Wasps (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.War.Of.The.Rohirrim.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.War.Of.The.Rohirrim.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Union" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Union
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twisters (2024)" tvg-logo="http://mundo2.pro:80/images/67036d279dbc94044525bd9744b15695.jpg" group-title="ESTRENOS 2024_DM",The Twisters (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Turnaround (2024)" tvg-logo="http://mundo2.pro:80/images/fb75b65c5141e18da3dac407f29762d2.jpg" group-title="ESTRENOS 2024_DM",The Turnaround (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Thicket (2023)" tvg-logo="http://mundo2.pro:80/images/3d93460c1cb1bac933255cdb029e7b16.jpg" group-title="ESTRENOS 2024_DM",Into the Thicket (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Supremes.At.Earls.All-You-Can-Eat.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Supremes.At.Earls.All-You-Can-Eat.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Substance.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Substance.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Strangers.Chapter1.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Strangers.Chapter1.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Six.Triple.Eight.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Six.Triple.Eight.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Simpsons-O.Cmon.All.Ye.Faithful.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Simpsons-O.Cmon.All.Ye.Faithful.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shakedown (2024)" tvg-logo="http://mundo2.pro:80/images/683bd9b79de12cdecffcafcae192ee25.jpg" group-title="ESTRENOS 2024_DM",The Shakedown (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shadow Strays 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Shadow Strays 2
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Rooster (2024)" tvg-logo="http://mundo2.pro:80/images/107e249e195629a45b11329f5a835af6.jpg" group-title="ESTRENOS 2024_DM",The Rooster (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Room.Next.Door.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Room.Next.Door.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winter Island (2024)" tvg-logo="http://mundo2.pro:80/images/c4ed7b69a38c76fd68a45965f75dc6e0.jpg" group-title="ESTRENOS 2024_DM",Winter Island (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Return.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Return.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Radleys.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Radleys.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 4:30 Movie (2024)" tvg-logo="http://mundo2.pro:80/images/73015d508b3a73fdd474152b31f7774e.jpg" group-title="ESTRENOS 2024_DM",The 4:30 Movie (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That.Christma.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",That.Christma.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Th.Painter.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Th.Painter.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tesis sobre una domesticación (2025)" tvg-logo="http://mundo2.pro:80/images/acc87ab7b1fbf39fc02435365e408100.jpg" group-title="ESTRENOS 2024_DM",Tesis sobre una domesticación (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier.3.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Terrifier.3.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Technoboys (2024)" tvg-logo="http://mundo2.pro:80/images/fdbeaf0f7be85d1592ff243488b7cd41.jpg" group-title="ESTRENOS 2024_DM",Technoboys (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Take.Cover.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Take.Cover.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweethearts (2024)" tvg-logo="http://mundo2.pro:80/images/d809aeb45ca94db9b99ac34e32f5f59d.jpg" group-title="ESTRENOS 2024_DM",Sweethearts (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Bobby: My Catfish Nightmare (2024)" tvg-logo="http://mundo2.pro:80/images/dda89bfeaa24b112005fbeb8ceb48108.jpg" group-title="ESTRENOS 2024_DM",Sweet Bobby: My Catfish Nightmare (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supressed.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Supressed.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super.Volcano.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Super.Volcano.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Summer Solstice (2024)" tvg-logo="http://mundo2.pro:80/images/a110c1689510e7f2c27abf07aa8bc45c.jpg" group-title="ESTRENOS 2024_DM",Summer Solstice (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Summer Camp (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Summer Camp (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sujo.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sujo.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugarcane (2024)" tvg-logo="http://mundo2.pro:80/images/7ff2b0c0d56633481ae333fe1f808787.jpg" group-title="ESTRENOS 2024_DM",Sugarcane (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Succubus (2024)" tvg-logo="http://mundo2.pro:80/images/33e72b629bbec311f6b655b00a690f9e.jpg" group-title="ESTRENOS 2024_DM",Succubus (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Subservience.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Subservience.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stream (2024)" tvg-logo="http://mundo2.pro:80/images/545f565ceffa31d301c1e36d3958a8d5.jpg" group-title="ESTRENOS 2024_DM",Stream (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strangers (2024)" tvg-logo="http://mundo2.pro:80/images/f14872363504794b89b58aad4923c2c7.jpg" group-title="ESTRENOS 2024_DM",Strangers (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger.In.The.Woods2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Stranger.In.The.Woods2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange.Darling.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Strange.Darling.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starve Acre (2024)" tvg-logo="http://mundo2.pro:80/images/7261131027bcd9c16239f029dc31e9d1.jpg" group-title="ESTRENOS 2024_DM",Starve Acre (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Sección 31 (2025)" tvg-logo="http://mundo2.pro:80/images/12254082d58f055ba628e6ca83eae689.jpg" group-title="ESTRENOS 2024_DM",Star Trek: Sección 31 (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirit of Friendship (2024)" tvg-logo="http://mundo2.pro:80/images/81293a8ed9a49a9508dd1724f15a7aec.jpg" group-title="ESTRENOS 2024_DM",Spirit of Friendship (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirit.In.The.Blood.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Spirit.In.The.Blood.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spin the Bottle (2024)" tvg-logo="http://mundo2.pro:80/images/ee8e6b1308c37e219e053cfa1874b967.jpg" group-title="ESTRENOS 2024_DM",Spin the Bottle (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="http://mundo2.pro:80/images/e2ad4e538ece9d184b9edffd2eaa583c.jpg" group-title="ESTRENOS 2024_DM",Spellbound (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil (2024)" tvg-logo="http://mundo2.pro:80/images/376dd1b609ed29d9dee75e6d10ad8cfe.jpg" group-title="ESTRENOS 2024_DM",Speak No Evil (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Cadet" tvg-logo="http://mundo2.pro:80/images/f2cc76332229f43797eff3c88b1bebc6.jpg" group-title="ESTRENOS 2024_DM",Space Cadet
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sosyal.Climbers.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Sosyal.Climbers.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonríe 2 (2024)" tvg-logo="http://mundo2.pro:80/images/90608b5779cadeb7305e2d4219c1b2aa.jpg" group-title="ESTRENOS 2024_DM",Sonríe 2 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic.The.Hedgehog.3.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sonic.The.Hedgehog.3.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic.3.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sonic.3.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Someone.Like.You2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Someone.Like.You2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Someone.Like.You2024(1)" tvg-logo="" group-title="ESTRENOS 2024_DM",Someone.Like.You2024(1)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Society.Virtue.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Society.Virtue.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Primevals (2023)" tvg-logo="http://mundo2.pro:80/images/2ec6c80cb62407d2ae8cb517a8ca6451.jpg" group-title="ESTRENOS 2024_DM",The Primevals (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Price.Of.Money.A.Largo.Winch.Adventure.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Price.Of.Money.A.Largo.Winch.Adventure.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Piano.Lesson.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Piano.Lesson.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slasher (2024)" tvg-logo="http://mundo2.pro:80/images/f9991abfbc38aee9b73023a3ac316203.jpg" group-title="ESTRENOS 2024_DM",Slasher (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skywalkers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Skywalkers
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skinford.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Skinford.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skincare (2024)" tvg-logo="http://mundo2.pro:80/images/2557e26313c76a28ae660ca70c19ff47.jpg" group-title="ESTRENOS 2024_DM",Skincare (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Singing in My Sleep (2025)" tvg-logo="http://mundo2.pro:80/images/0a0ecc2d01ee7fafd8febafdc49150a5.jpg" group-title="ESTRENOS 2024_DM",Singing in My Sleep (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons-The.Past.&The.Furios.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Simpsons-The.Past.&The.Furios.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sikandar.Ka.Muqaddar.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sikandar.Ka.Muqaddar.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sight (2024)" tvg-logo="http://mundo2.pro:80/images/eabead9c02fe7e70261ab12defd9cc51.jpg" group-title="ESTRENOS 2024_DM",Sight (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shoshana (2024)" tvg-logo="http://mundo2.pro:80/images/bb011ab314dc13d8ea231af46633c866.jpg" group-title="ESTRENOS 2024_DM",Shoshana (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Septiembre 5 (2024)" tvg-logo="http://mundo2.pro:80/images/ad41593473c3bf1871d236512a492f19.jpg" group-title="ESTRENOS 2024_DM",Septiembre 5 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segundo premio (2024)" tvg-logo="http://mundo2.pro:80/images/d1531d67aa86090219711e8d29572a92.jpg" group-title="ESTRENOS 2024_DM",Segundo premio (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sector 36 (2024)" tvg-logo="http://mundo2.pro:80/images/5ab5b4f844c59da21121e4b3cfbbf0bc.jpg" group-title="ESTRENOS 2024_DM",Sector 36 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saving.Bikini.Bottom.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Saving.Bikini.Bottom.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santosh (2024)" tvg-logo="http://mundo2.pro:80/images/85abffeacfc8b0fcbb0e48ae60b0a352.jpg" group-title="ESTRENOS 2024_DM",Santosh (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sang.Krasue.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Sang.Krasue.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salve Maria (2024)" tvg-logo="http://mundo2.pro:80/images/a23faa01c316e3a5dcd0f0bba5c5d74f.jpg" group-title="ESTRENOS 2024_DM",Salve Maria (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salems.Lot.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Salems.Lot.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Running on Empty (2024)" tvg-logo="http://mundo2.pro:80/images/e2264009d6170ef8fcbec3b7d42a4916.jpg" group-title="ESTRENOS 2024_DM",Running on Empty (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Road Wars: Max Fury (2024)" tvg-logo="http://mundo2.pro:80/images/e92d6968a131be600156160df979d31d.jpg" group-title="ESTRENOS 2024_DM",Road Wars: Max Fury (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rez Ball (2024)" tvg-logo="http://mundo2.pro:80/images/6459179746768c334ebb62dbb52252a8.jpg" group-title="ESTRENOS 2024_DM",Rez Ball (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Return of the King: The Fall and Rise of Elvis Presley (2024)" tvg-logo="http://mundo2.pro:80/images/2c9ac52205dcaf79f801ecebd47bbe2f.jpg" group-title="ESTRENOS 2024_DM",Return of the King: The Fall and Rise of Elvis Presley (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Remnant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Remnant
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Remarkable.Life.Of.Ibelin.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Remarkable.Life.Of.Ibelin.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red.One.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Red.One.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge (2024)" tvg-logo="http://mundo2.pro:80/images/9b1d0d97cb0823855dd1692fc428a1ef.jpg" group-title="ESTRENOS 2024_DM",Rebel Ridge (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reawakening (2024)" tvg-logo="http://mundo2.pro:80/images/e83412afe43f967dd1809dda9bf56529.jpg" group-title="ESTRENOS 2024_DM",Reawakening (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rear View Mirror (2024)" tvg-logo="http://mundo2.pro:80/images/799b804bdd18eb04c4667c5a649eb166.jpg" group-title="ESTRENOS 2024_DM",Rear View Mirror (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Real Bros of Simi Valley: The Movie (2024)" tvg-logo="http://mundo2.pro:80/images/eca7b607e5350d91c96dead1ac1d74ab.jpg" group-title="ESTRENOS 2024_DM",The Real Bros of Simi Valley: The Movie (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reagan (2024)" tvg-logo="http://mundo2.pro:80/images/3e0ca8d135fdad4d31bee1fc98fdcb89.jpg" group-title="ESTRENOS 2024_DM",Reagan (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rashtra.Kavach.Om.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Rashtra.Kavach.Om.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Problemista (2024)" tvg-logo="http://mundo2.pro:80/images/dda1dc0d7b74f9bf9e4bf4eed936e102.jpg" group-title="ESTRENOS 2024_DM",Problemista (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Adormecida (2024)" tvg-logo="http://mundo2.pro:80/images/43e3f4164edcae00a4bee652d152a92c.jpg" group-title="ESTRENOS 2024_DM",Princesa Adormecida (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey" tvg-logo="http://mundo2.pro:80/images/b4a00707e2daba5a38b24c177316c6d6.jpg" group-title="ESTRENOS 2024_DM",Prey
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por una mujer casada (2023)" tvg-logo="http://mundo2.pro:80/images/f8a514c7923291536640acfc593e15a6.jpg" group-title="ESTRENOS 2024_DM",Por una mujer casada (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Políticamente incorrectos (2024)" tvg-logo="http://mundo2.pro:80/images/9f21837d0ea8c34031ae5b5300d3379b.jpg" group-title="ESTRENOS 2024_DM",Políticamente incorrectos (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pimpinero-Blood.&.Oil.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Pimpinero-Blood.&.Oil.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pídeme lo que quieras (2024)" tvg-logo="http://mundo2.pro:80/images/4e2352fdb61a621e20a2a6bfc805e03c.jpg" group-title="ESTRENOS 2024_DM",Pídeme lo que quieras (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phir.Aayi.Hasseen.Dillruba.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Phir.Aayi.Hasseen.Dillruba.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pharrell.Williams.Piece.By.Piece.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Pharrell.Williams.Piece.By.Piece.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phantom (2024)" tvg-logo="http://mundo2.pro:80/images/f56735cfb4286eabb8b605d72ade88f5.jpg" group-title="ESTRENOS 2024_DM",Phantom (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perfect.Days.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Perfect.Days.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensati.Sexy.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Pensati.Sexy.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Páramo (2024)" tvg-logo="http://mundo2.pro:80/images/7db8c9adb638ae13d68d8071f8b02fd1.jpg" group-title="ESTRENOS 2024_DM",Pedro Páramo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parthenope (2024)" tvg-logo="http://mundo2.pro:80/images/7c6757756282902afc5b633031b0190f.jpg" group-title="ESTRENOS 2024_DM",Parthenope (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paradox.Effect.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Paradox.Effect.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pandmnium.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Pandmnium.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pandemonium (2024)" tvg-logo="http://mundo2.pro:80/images/d33a129de8fe5db153632937fd7edb65.jpg" group-title="ESTRENOS 2024_DM",Pandemonium (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Padre.No.Hay.Mas.Que.Uno.4.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Padre.No.Hay.Mas.Que.Uno.4.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paddington.In.Peru.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Paddington.In.Peru.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Out.Of.My.Mind.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Out.Of.My.Mind.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Out Come the Wolves (2024)" tvg-logo="http://mundo2.pro:80/images/05c91e93f325d6fd918b22b9d7060275.jpg" group-title="ESTRENOS 2024_DM",Out Come the Wolves (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Our.Little.Secret.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Our.Little.Secret.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Nutcracker (2024)" tvg-logo="http://mundo2.pro:80/images/dfc37c725052868f8f58e6a4db740501.jpg" group-title="ESTRENOS 2024_DM",Operation Nutcracker (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation.Black.Ops.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Operation.Black.Ops.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only.The.River.Flows.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Only.The.River.Flows.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oni-Goroshi.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Oni-Goroshi.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One.Fast.Move.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",One.Fast.Move.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Officer.Black.Belt.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Officer.Black.Belt.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Off Ramp (2023)" tvg-logo="http://mundo2.pro:80/images/96e0b1c5e1e87c75d060d5c58a5e4020.jpg" group-title="ESTRENOS 2024_DM",Off Ramp (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oddity.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Oddity.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nutcrackers.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nutcrackers.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2024)" tvg-logo="http://mundo2.pro:80/images/5ad371ec111362b2b9e842f483aa46ed.jpg" group-title="ESTRENOS 2024_DM",Nosferatu (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No.Voltees.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",No.Voltees.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No entres (2024)" tvg-logo="http://mundo2.pro:80/images/0f1132bfe8e2fe8ea03faffaf35c46fb.jpg" group-title="ESTRENOS 2024_DM",No entres (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nightmare.Radio.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nightmare.Radio.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nightbitch.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nightbitch.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nickel.Boys.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Nickel.Boys.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nice.Girl.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nice.Girl.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Never Let You Go (2024)" tvg-logo="http://mundo2.pro:80/images/cd9105687c11444a4799143506e0202d.jpg" group-title="ESTRENOS 2024_DM",Never Let You Go (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nautghy.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nautghy.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="National Anthem (2024)" tvg-logo="http://mundo2.pro:80/images/ff985a4b8b60bbdbe651809f6d06b1bb.jpg" group-title="ESTRENOS 2024_DM",National Anthem (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="N.24.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",N.24.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My.Spy.The.Eternal.City.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",My.Spy.The.Eternal.City.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My.Penguin.Friend.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",My.Penguin.Friend.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My.Old.Ass.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",My.Old.Ass.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My First Film (2024)" tvg-logo="http://mundo2.pro:80/images/9b60307b14b2895bfb2deee4c14bd7b3.jpg" group-title="ESTRENOS 2024_DM",My First Film (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My.Fault.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",My.Fault.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muzzle.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Muzzle.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mufasa.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mufasa.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Crocket (2024)" tvg-logo="http://mundo2.pro:80/images/ffd39a7cf7d2e361506d10f09a0c8bd3.jpg" group-title="ESTRENOS 2024_DM",Mr. Crocket (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Most.Beautiful.Girl.In.The.World.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Most.Beautiful.Girl.In.The.World.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster.Summer.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Monster.Summer.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mononoke.The.Movie.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mononoke.The.Movie.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Man 2 (2023)" tvg-logo="http://mundo2.pro:80/images/e47b2b10ef2641650a1b2bd1cbc570ec.jpg" group-title="ESTRENOS 2024_DM",Monkey Man 2 (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Money Electric: The Bitcoin Mystery (2024)" tvg-logo="http://mundo2.pro:80/images/d652dd9a0019d2267606681f2e0b644d.jpg" group-title="ESTRENOS 2024_DM",Money Electric: The Bitcoin Mystery (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mon Laferte, te amo (2024)" tvg-logo="http://mundo2.pro:80/images/9ddcd1b54c7d3f1a508fa2ce3e152c59.jpg" group-title="ESTRENOS 2024_DM",Mon Laferte, te amo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana 2 (2024)" tvg-logo="http://mundo2.pro:80/images/566a55fdd8e122edc59fb09c1c966a91.jpg" group-title="ESTRENOS 2024_DM",Moana 2 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission.Cross.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mission.Cross.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mira.Mira.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mira.Mira.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Millers.In.Marriage.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Millers.In.Marriage.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Michael.Johnson-Superman.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Michael.Johnson-Superman.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi.Prima.La.Sexologa.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mi.Prima.La.Sexologa.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi novia otaku (2023)" tvg-logo="http://mundo2.pro:80/images/18bae6d895c2e41517b21d15242226a0.jpg" group-title="ESTRENOS 2024_DM",Mi novia otaku (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merry.Gentlemen.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Merry.Gentlemen.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men.Up.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Men.Up.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mejor viuda que mal acompañada (2024)" tvg-logo="http://mundo2.pro:80/images/ad087e9cf531682914b93e1cec5d72e0.jpg" group-title="ESTRENOS 2024_DM",Mejor viuda que mal acompañada (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megalópolis (2024)" tvg-logo="http://mundo2.pro:80/images/8a2fcde324951ca39ad7a0d194dc57c0.jpg" group-title="ESTRENOS 2024_DM",Megalópolis (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megaestructuras-El.Bernabeu.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Megaestructuras-El.Bernabeu.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meet.Me.Next.Christmas.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Meet.Me.Next.Christmas.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mayday Club (2023)" tvg-logo="http://mundo2.pro:80/images/994c63b020191ec1cb844d4ee968e545.jpg" group-title="ESTRENOS 2024_DM",Mayday Club (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maybe.Baby.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Maybe.Baby.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MaXXXine (2024)" tvg-logo="http://mundo2.pro:80/images/40c65510e2834b4cbf0786dca3b28c97.jpg" group-title="ESTRENOS 2024_DM",MaXXXine (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matt.Rife.Lucid.A.Crowd.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Matt.Rife.Lucid.A.Crowd.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mary (2023)" tvg-logo="http://mundo2.pro:80/images/5046d0f9689d3c2a88925c125d983ca2.jpg" group-title="ESTRENOS 2024_DM",Mary (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Martha (2024)" tvg-logo="http://mundo2.pro:80/images/6534887068579caf266593240f14260b.jpg" group-title="ESTRENOS 2024_DM",Martha (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marisol: llámame Pepa (2024)" tvg-logo="http://mundo2.pro:80/images/bc36bb86ac40388f857ba82d11bf24e3.jpg" group-title="ESTRENOS 2024_DM",Marisol: llámame Pepa (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria (2024)" tvg-logo="http://mundo2.pro:80/images/4f406980a7fd2cec88684cd8ce16ec5f.jpg" group-title="ESTRENOS 2024_DM",Maria (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="María Callas (2024)" tvg-logo="http://mundo2.pro:80/images/60f3d448135f6d8c59079d965eecbddb.jpg" group-title="ESTRENOS 2024_DM",María Callas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maharajá (2024)" tvg-logo="http://mundo2.pro:80/images/a9499d823560e622dc25f73dd30186fc.jpg" group-title="ESTRENOS 2024_DM",Maharajá (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin.The.3Rd.Vs.Cats.Eye.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Lupin.The.3Rd.Vs.Cats.Eye.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucas.Welt.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Lucas.Welt.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In Loving Memories (2024)" tvg-logo="http://mundo2.pro:80/images/7ee87889686415f0ce504c871c85129f.jpg" group-title="ESTRENOS 2024_DM",In Loving Memories (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love on the Danube: Love Song (2024)" tvg-logo="http://mundo2.pro:80/images/f5dc646146fac9af4c14405679dd70a7.jpg" group-title="ESTRENOS 2024_DM",Love on the Danube: Love Song (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Hurts (2025)" tvg-logo="http://mundo2.pro:80/images/e6dd8474fd23e196718e9d2c7ed674af.jpg" group-title="ESTRENOS 2024_DM",Love Hurts (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Forever" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Love Forever
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love.At.39.Degrees.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Love.At.39.Degrees.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost.Ladies.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Lost.Ladies.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los justos (2024)" tvg-logo="http://mundo2.pro:80/images/691a1d3465dc53ca39b37d3b0e6e2977.jpg" group-title="ESTRENOS 2024_DM",Los justos (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los.500.Dias.De.Escobar.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Los.500.Dias.De.Escobar.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Look to the Light (2024)" tvg-logo="http://mundo2.pro:80/images/9f7251047d6d4ab25c4353d4c9cfbb89.jpg" group-title="ESTRENOS 2024_DM",Look to the Light (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Look into My Eyes (2024)" tvg-logo="http://mundo2.pro:80/images/214e6588e8696dd8b27ceeedd33a9497.jpg" group-title="ESTRENOS 2024_DM",Look into My Eyes (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longlegs.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Longlegs.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longing (2023)" tvg-logo="http://mundo2.pro:80/images/c77877b2fcf6d260ed17623a6c67faee.jpg" group-title="ESTRENOS 2024_DM",Longing (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Long.Gone.Heroes.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Long.Gone.Heroes.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lonely.Planet.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Lonely.Planet.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lolo.And.The.Kid.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Lolo.And.The.Kid.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Richard - I Am Everything (2023)" tvg-logo="http://mundo2.pro:80/images/7e1947b50f5b9899634931a910097f3b.jpg" group-title="ESTRENOS 2024_DM",Little Richard - I Am Everything (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little.Bone.Lodge.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Little.Bone.Lodge.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Big Town's Christmas at the Opry (2024)" tvg-logo="http://mundo2.pro:80/images/618588da939cbc32514305ee8b21ff49.jpg" group-title="ESTRENOS 2024_DM",Little Big Town's Christmas at the Opry (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Life After Fighting (2024)" tvg-logo="http://mundo2.pro:80/images/9bd593e3e12496a03084d0c99700e38a.jpg" group-title="ESTRENOS 2024_DM",Life After Fighting (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levels (2024)" tvg-logo="http://mundo2.pro:80/images/b10bae4cf4cc462d8362626ad316a86d.jpg" group-title="ESTRENOS 2024_DM",Levels (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Infalibles (2024)" tvg-logo="http://mundo2.pro:80/images/d42caf1280655af381e767b7c33eecb5.jpg" group-title="ESTRENOS 2024_DM",Los Infalibles (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lego.Marvel.Mission.Demolition.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Lego.Marvel.Mission.Demolition.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEE" tvg-logo="http://mundo2.pro:80/images/a678379ba72f1b326b3a0899fd26e2f5.jpg" group-title="ESTRENOS 2024_DM",LEE
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Dead.Dont.Hurt.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Dead.Dont.Hurt.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Curse.Of.The.Necklace.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Curse.Of.The.Necklace.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Crow
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Convert (2024)" tvg-logo="http://mundo2.pro:80/images/03041e354b86f78b4e2d4a13b3c3b7b8.jpg" group-title="ESTRENOS 2024_DM",The Convert (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Clean Up Crew (2024)" tvg-logo="http://mundo2.pro:80/images/f7cea35cbf512755008d4871b8642e7a.jpg" group-title="ESTRENOS 2024_DM",The Clean Up Crew (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Brutalist (2024)" tvg-logo="http://mundo2.pro:80/images/039c91fb04a9319d90f76deb453ed7ef.jpg" group-title="ESTRENOS 2024_DM",The Brutalist (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Bikeriders.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Bikeriders.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Beldham.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Beldham.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The beast within us" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The beast within us
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Bad.Nun.3.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Bad.Nun.3.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Bad.Guys.Haunted.Heist.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Bad.Guys.Haunted.Heist.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Apprentice (2024)" tvg-logo="http://mundo2.pro:80/images/c1a7c7a771db0981f30cfd9fb4b46f43.jpg" group-title="ESTRENOS 2024_DM",The Apprentice (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Actor (2024)" tvg-logo="http://mundo2.pro:80/images/e01b2e6877955028ad7694686eb0cd4f.jpg" group-title="ESTRENOS 2024_DM",The Actor (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Abandon.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Abandon.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Front.Room" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Front.Room
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Forge.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Forge.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Exorcism.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Exorcism.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Executioner" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Executioner
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Duel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Duel
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Devil.Comes.At.Night.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Devil.Comes.At.Night.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The deliverance 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The deliverance 2017
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Green.Deal.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Green.Deal.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Lillian Hall (2024)" tvg-logo="http://mundo2.pro:80/images/73c0319013feeebca94e90dc155b1eef.jpg" group-title="ESTRENOS 2024_DM",The Great Lillian Hall (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Gorge.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Gorge.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Half (2024)" tvg-logo="http://mundo2.pro:80/images/637dc196d6e5dd6400a7f9f0c07bf761.jpg" group-title="ESTRENOS 2024_DM",The Good Half (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl in the Trunk (2024)" tvg-logo="http://mundo2.pro:80/images/407bba663654c235f98ca546774c54a5.jpg" group-title="ESTRENOS 2024_DM",The Girl in the Trunk (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl in the Pool (2024)" tvg-logo="http://mundo2.pro:80/images/9cab03de0189f766160805ef9228c7ca.jpg" group-title="ESTRENOS 2024_DM",The Girl in the Pool (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Gangster, the Cop, the Devil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Gangster, the Cop, the Devil
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Funeral (2023)" tvg-logo="http://mundo2.pro:80/images/9a8e1bcebd07dd84788d7cac5f24e64e.jpg" group-title="ESTRENOS 2024_DM",The Funeral (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Boy.On.Earth.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Last.Boy.On.Earth.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Knife (2024)" tvg-logo="http://mundo2.pro:80/images/f45212037ed5351a06b21b70be300eac.jpg" group-title="ESTRENOS 2024_DM",The Knife (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.King.Tide.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.King.Tide.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Killers.Game.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Killers.Game.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Jane Mysteries: A Deadly Prescription (2024)" tvg-logo="http://mundo2.pro:80/images/c9da462acc41ed250ad77a55f3d381f4.jpg" group-title="ESTRENOS 2024_DM",The Jane Mysteries: A Deadly Prescription (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Instigators.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Instigators.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Inheritance (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Inheritance (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Menendez Brothers (2024)" tvg-logo="http://mundo2.pro:80/images/fff3d20ae2f3fb816347248b09ad21be.jpg" group-title="ESTRENOS 2024_DM",The Menendez Brothers (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Magic of Lemon Drops (2024)" tvg-logo="http://mundo2.pro:80/images/73e728ce816af26cddae4f3e2f5e85ae.jpg" group-title="ESTRENOS 2024_DM",The Magic of Lemon Drops (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Love.Scam.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Love.Scam.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/502000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lost Children of Tuam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Lost Children of Tuam
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lockdown (2024)" tvg-logo="http://mundo2.pro:80/images/fca3f3edf1ee23c905e1b3f1c28b897d.jpg" group-title="ESTRENOS 2024_DM",The Lockdown (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Little.Mermaid.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Little.Mermaid.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Phil.Heath.Story.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Phil.Heath.Story.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The People's Joker (2024)" tvg-logo="http://mundo2.pro:80/images/2a6b05c839ff6f7c995acee8bb5c1680.jpg" group-title="ESTRENOS 2024_DM",The People's Joker (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hangman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Hangman (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Outwaters (2023)" tvg-logo="http://mundo2.pro:80/images/d73bc5f83100569e79fa5bb576e729e8.jpg" group-title="ESTRENOS 2024_DM",The Outwaters (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Mouse.Trap.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Mouse.Trap.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Moor (2024)" tvg-logo="http://mundo2.pro:80/images/9690891d6cec485bdf27cfa35713ab0e.jpg" group-title="ESTRENOS 2024_DM",The Moor (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Moon (2024)" tvg-logo="http://mundo2.pro:80/images/748674bceb8c7f0573a4a7aa00482fb7.jpg" group-title="ESTRENOS 2024_DM",The Moon (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Ministry.Of.Ungentlemanly.Warfare.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Ministry.Of.Ungentlemanly.Warfare.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Latency (2024)" tvg-logo="http://mundo2.pro:80/images/77dd77d99dbd518348bcdf718b970181.jpg" group-title="ESTRENOS 2024_DM",Latency (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Late Bloomers (2024)" tvg-logo="http://mundo2.pro:80/images/b190075d57126ab06810226071c8432c.jpg" group-title="ESTRENOS 2024_DM",Late Bloomers (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las tías (2024)" tvg-logo="http://mundo2.pro:80/images/0a233f04c5b7a51e2f791cbb833ec211.jpg" group-title="ESTRENOS 2024_DM",Las tías (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lady Scorpions (2024)" tvg-logo="http://mundo2.pro:80/images/27544ec150896b6792bcd4fa92f07e88.jpg" group-title="ESTRENOS 2024_DM",Lady Scorpions (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La práctica (2024)" tvg-logo="http://mundo2.pro:80/images/81d61445cae71c18160c851a20ef205d.jpg" group-title="ESTRENOS 2024_DM",La práctica (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Película.De.Gila.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",La.Película.De.Gila.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noche que luché contra Dios (2024)" tvg-logo="http://mundo2.pro:80/images/0e09dfe092627a59d6c26f4af9979a00.jpg" group-title="ESTRENOS 2024_DM",La noche que luché contra Dios (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada (2024)" tvg-logo="http://mundo2.pro:80/images/be25184c1c658c0766b7d2c1a6f63e40.jpg" group-title="ESTRENOS 2024_DM",La infiltrada (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Hierba del Diablo (2024)" tvg-logo="http://mundo2.pro:80/images/08e3e1ca7655bcbe90f268dd366b3ccc.jpg" group-title="ESTRENOS 2024_DM",La Hierba del Diablo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La abadesa (2024)" tvg-logo="http://mundo2.pro:80/images/0a5693c744e65cf7b623bb4b6019c9e2.jpg" group-title="ESTRENOS 2024_DM",La abadesa (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kreepaway.Kamp.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kreepaway.Kamp.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Krazy House (2024)" tvg-logo="http://mundo2.pro:80/images/60df637979a70700bd1ff49585d2d614.jpg" group-title="ESTRENOS 2024_DM",Krazy House (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kraven.The.Hunter.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kraven.The.Hunter.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kneecap (2024)" tvg-logo="http://mundo2.pro:80/images/bae12c190d118e677800745973a430e8.jpg" group-title="ESTRENOS 2024_DM",Kneecap (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kleks.Academy.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kleks.Academy.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom.Of.The.Planet.Of.The.Apes.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kingdom.Of.The.Planet.Of.The.Apes.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kinds.Of.Kindness.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kinds.Of.Kindness.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kinda.Pregnant.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Kinda.Pregnant.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killer.Heat.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Killer.Heat.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill.Em.All.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kill.Em.All.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Craft (2024)" tvg-logo="http://mundo2.pro:80/images/78345cf578b2dbffd908e9b03923108e.jpg" group-title="ESTRENOS 2024_DM",Kill Craft (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill (2024)" tvg-logo="http://mundo2.pro:80/images/2a3b43a268ece9fd0888b48a71179e1c.jpg" group-title="ESTRENOS 2024_DM",Kill (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slotherhouse.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Slotherhouse.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snake.Hotel.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Snake.Hotel.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slingshot.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Slingshot.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smoke Signals (2024)" tvg-logo="http://mundo2.pro:80/images/d256c84c7b4abf3343212568d19f0381.jpg" group-title="ESTRENOS 2024_DM",Smoke Signals (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker.Folie.A.Deux.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Joker.Folie.A.Deux.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jigra.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Jigra.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Janet Planet (2024)" tvg-logo="http://mundo2.pro:80/images/209e5b8160d223dba45d55c60a016905.jpg" group-title="ESTRENOS 2024_DM",Janet Planet (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackpot (2024)" tvg-logo="http://mundo2.pro:80/images/03ba8413c0ae53365e394d6e550c7dce.jpg" group-title="ESTRENOS 2024_DM",Jackpot (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack.In.Time.For.Christmas.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Jack.In.Time.For.Christmas.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack.In.The.Box.Rises.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Jack.In.The.Box.Rises.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its.Whats.Inside.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Its.Whats.Inside.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It.Ends.With.Us.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",It.Ends.With.Us.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inside.The.Mind.Of.A.Dog.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Inside.The.Mind.Of.A.Dog.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inside.Out.2.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Inside.Out.2.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inseparables (2023)" tvg-logo="http://mundo2.pro:80/images/5631ee088a3800aeef33f620758c6eab.jpg" group-title="ESTRENOS 2024_DM",Inseparables (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inheritance (2024)" tvg-logo="http://mundo2.pro:80/images/696b54392b92df03fa64d251371e3f14.jpg" group-title="ESTRENOS 2024_DM",Inheritance (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incoming.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Incoming.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In.Her.Place.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",In.Her.Place.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In a Violent Nature 2" tvg-logo="http://mundo2.pro:80/images/22a275f2c72d0438416832225065b99c.jpg" group-title="ESTRENOS 2024_DM",In a Violent Nature 2
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impulse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Impulse
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Implacable (2024)" tvg-logo="http://mundo2.pro:80/images/cd2ea78bf9c593e515d3b2bd7c6596f1.jpg" group-title="ESTRENOS 2024_DM",Implacable (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Immerstill.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Immerstill.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I'll Be Right There (2024)" tvg-logo="http://mundo2.pro:80/images/acf9860448619a5e27afa3088eb42003.jpg" group-title="ESTRENOS 2024_DM",I'll Be Right There (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="If (2023)" tvg-logo="http://mundo2.pro:80/images/1f0b238cb214aca2026f2c67a343f0c9.jpg" group-title="ESTRENOS 2024_DM",If (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice.Storm.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Ice.Storm.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.Used.To.Be.Funny.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",I.Used.To.Be.Funny.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S2024" tvg-logo="" group-title="ESTRENOS 2024_DM",I.S.S2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.Am.Celine.Dion.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",I.Am.Celine.Dion.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How to Rob a Bank (2024)" tvg-logo="http://mundo2.pro:80/images/aa84d91d373cde68d5b4d13ec55f0cf7.jpg" group-title="ESTRENOS 2024_DM",How to Rob a Bank (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House.Of.Spoils.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",House.Of.Spoils.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House.Of.Gaa.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",House.Of.Gaa.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hounds.Of.War.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Hounds.Of.War.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot.Frosty.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Hot.Frosty.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizon.An.American.Saga.Chapter.1.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Horizon.An.American.Saga.Chapter.1.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizon (2024)" tvg-logo="http://mundo2.pro:80/images/654b20fd197710bb1f1492d9aa649017.jpg" group-title="ESTRENOS 2024_DM",Horizon (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honeymoon (2024)" tvg-logo="http://mundo2.pro:80/images/b4bbc89160843d336f047b466007d2ba.jpg" group-title="ESTRENOS 2024_DM",Honeymoon (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey.Moon.Crasher.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Honey.Moon.Crasher.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hold.Your.Breath.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Hold.Your.Breath.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="His.Three.Daughters.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",His.Three.Daughters.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las hermanas fantásticas (2024)" tvg-logo="http://mundo2.pro:80/images/8aa06d661f3e1d1f7741adf9d952e799.jpg" group-title="ESTRENOS 2024_DM",Las hermanas fantásticas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heretics (2024)" tvg-logo="http://mundo2.pro:80/images/454f06fb84e778c066e1d55b255b3abc.jpg" group-title="ESTRENOS 2024_DM",Heretics (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry.Danger.The.Movie.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Henry.Danger.The.Movie.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellhound (2024)" tvg-logo="http://mundo2.pro:80/images/c6432e89cb3319f1f09db1833f82f15f.jpg" group-title="ESTRENOS 2024_DM",Hellhound (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy: The Crooked Man (2024)" tvg-logo="http://mundo2.pro:80/images/e5ff3f3c6e821f401b4d6e4c888cef50.jpg" group-title="ESTRENOS 2024_DM",Hellboy: The Crooked Man (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Hellboy.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hell Hole (2024)" tvg-logo="http://mundo2.pro:80/images/f9545bc5b4d7420e080ec3b2f3a05fb5.jpg" group-title="ESTRENOS 2024_DM",Hell Hole (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="He.Neve.Left.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",He.Neve.Left.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Hasta la Madre de la Navidad! (2024)" tvg-logo="http://mundo2.pro:80/images/48acca1d1300797b38d75f014051d646.jpg" group-title="ESTRENOS 2024_DM",¡Hasta la Madre de la Navidad! (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Half Baked: Totally High (2024)" tvg-logo="http://mundo2.pro:80/images/f017dc93eca0aeaf55c0471a927a73ef.jpg" group-title="ESTRENOS 2024_DM",Half Baked: Totally High (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gunner (2025)" tvg-logo="http://mundo2.pro:80/images/4a92efb2b5561a90a13e1422aee8a432.jpg" group-title="ESTRENOS 2024_DM",Gunner (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GTMax (2024)" tvg-logo="http://mundo2.pro:80/images/c77efce01507a5a09fe40987d8dc3373.jpg" group-title="ESTRENOS 2024_DM",GTMax (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greedy.People.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Greedy.People.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gracie.And.Pedro.Pets.To.The.Rescue.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Gracie.And.Pedro.Pets.To.The.Rescue.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goyo (2024)" tvg-logo="http://mundo2.pro:80/images/864cccad0d6c292a9b8da81a801a6bc9.jpg" group-title="ESTRENOS 2024_DM",Goyo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiador II (2024)" tvg-logo="http://mundo2.pro:80/images/9440284e59e3cb51ca119ed30b3d96d6.jpg" group-title="ESTRENOS 2024_DM",Gladiador II (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Girl.You.Know.Its.True.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Girl.You.Know.Its.True.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garfield.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Garfield.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="http://mundo2.pro:80/images/feed7170bff6d7669f4a8b5d9ea40ba7.jpg" group-title="ESTRENOS 2024_DM",Gaga Chromatica Ball (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa.A.Mad.Max.Saga.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Furiosa.A.Mad.Max.Saga.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furia (2025)" tvg-logo="http://mundo2.pro:80/images/ca0b8591cee33d43b6315ae14a3e09ad.jpg" group-title="ESTRENOS 2024_DM",Furia (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freedom (2024)" tvg-logo="http://mundo2.pro:80/images/b19917815847a7239d56b9e7f82294bc.jpg" group-title="ESTRENOS 2024_DM",Freedom (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freddys.Fridays.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Freddys.Fridays.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flycatcher.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Flycatcher.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fly.Me.To.The.Moon.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Fly.Me.To.The.Moon.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FLOW (2024)" tvg-logo="http://mundo2.pro:80/images/827ed41bb3b3bd8feb638cc99ad8af80.jpg" group-title="ESTRENOS 2024_DM",FLOW (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firma Aquí (2024)" tvg-logo="http://mundo2.pro:80/images/952e94aef3ffe14c029a436eef8b8ae5.jpg" group-title="ESTRENOS 2024_DM",Firma Aquí (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firebrand (2023)" tvg-logo="http://mundo2.pro:80/images/eef02ead57c5bd5a2d19879c3e2ea06f.jpg" group-title="ESTRENOS 2024_DM",Firebrand (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Heat (2024)" tvg-logo="http://mundo2.pro:80/images/92e6a0922c48d2b00409ee82ee018455.jpg" group-title="ESTRENOS 2024_DM",Final Heat (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la madriguera (2024)" tvg-logo="http://mundo2.pro:80/images/be8dee50e4f4d3bc440d56b1b1014530.jpg" group-title="ESTRENOS 2024_DM",Fiesta en la madriguera (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferry 2 (2024)" tvg-logo="http://mundo2.pro:80/images/7666487ad1bb11fe044342169349599f.jpg" group-title="ESTRENOS 2024_DM",Ferry 2 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Family.Pack.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Family.Pack.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exorcism in Utero (2023)" tvg-logo="http://mundo2.pro:80/images/ef6dd385519ae9c918c2c180ca9478ff.jpg" group-title="ESTRENOS 2024_DM",Exorcism in Utero (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exhumator (2024)" tvg-logo="http://mundo2.pro:80/images/d0b99415f3c5e879f93e4ae06872b63a.jpg" group-title="ESTRENOS 2024_DM",Exhumator (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Especial Este (2024)" tvg-logo="http://mundo2.pro:80/images/8cb914fbfa82b031318e7db80728cbfe.jpg" group-title="ESTRENOS 2024_DM",Especial Este (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice (2023)" tvg-logo="http://mundo2.pro:80/images/3dbc7498390d283a97e5d8128171e3d9.jpg" group-title="ESTRENOS 2024_DM",Justice (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurado #2 (2024)" tvg-logo="http://mundo2.pro:80/images/766cd0c67034817b3cda0ef35bb12b3d.jpg" group-title="ESTRENOS 2024_DM",Jurado #2 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joy (2024)" tvg-logo="http://mundo2.pro:80/images/508c81872ca91a1c44429703eb3a41ed.jpg" group-title="ESTRENOS 2024_DM",Joy (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Empire.Waist.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Empire.Waist.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emilia Pérez (2024)" tvg-logo="http://mundo2.pro:80/images/d5688ce9f57d02d9459cce67b1235e8f.jpg" group-title="ESTRENOS 2024_DM",Emilia Pérez (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elyas.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Elyas.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El viento que arrasa (2024)" tvg-logo="http://mundo2.pro:80/images/1e7905372fa17a72ff749580f1f30d84.jpg" group-title="ESTRENOS 2024_DM",El viento que arrasa (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El secuestro del Papa (2023)" tvg-logo="http://mundo2.pro:80/images/38c3785e94d34fce8a6fd9468bda92ec.jpg" group-title="ESTRENOS 2024_DM",El secuestro del Papa (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Retorno (2025)" tvg-logo="http://mundo2.pro:80/images/f23690dc37add305124e7c5b6b2329c2.jpg" group-title="ESTRENOS 2024_DM",El Retorno (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El.Podcast.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",El.Podcast.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El jockey (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",El jockey (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hoyo 2 (2024)" tvg-logo="http://mundo2.pro:80/images/639102c3eb97ddb236cfdfc3292a1c20.jpg" group-title="ESTRENOS 2024_DM",El hoyo 2 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hilo rojo (2025)" tvg-logo="http://mundo2.pro:80/images/ce77e9838e77993e4a720e7b6532bd0f.jpg" group-title="ESTRENOS 2024_DM",El hilo rojo (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El diario (2024)" tvg-logo="http://mundo2.pro:80/images/c858348957aff111311af956d2bff8b1.jpg" group-title="ESTRENOS 2024_DM",El diario (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El.Conde.De.Montecristi.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",El.Conde.De.Montecristi.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El 47 (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",El 47 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Due Justice (2023)" tvg-logo="http://mundo2.pro:80/images/8f1517fe8b5caed6f36437e7bf655241.jpg" group-title="ESTRENOS 2024_DM",Due Justice (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRIVE (2024)" tvg-logo="http://mundo2.pro:80/images/1f5d7537f1c9dda6140afc75f0244509.jpg" group-title="ESTRENOS 2024_DM",DRIVE (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drawing.Closer.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Drawing.Closer.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Turn Out the Lights (2024)" tvg-logo="http://mundo2.pro:80/images/6129f7b05e17b5c5ff31149b694b396c.jpg" group-title="ESTRENOS 2024_DM",Don't Turn Out the Lights (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dont.Tell.Mom.The.Babysitters.Dead.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Dont.Tell.Mom.The.Babysitters.Dead.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Move" tvg-logo="" group-title="ESTRENOS 2024_DM",Don't Move
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dont.Die.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Dont.Die.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dominique.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Dominique.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolce.Villa.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Dolce.Villa.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do.Patti.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Do.Patti.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disco, Ibiza, Locomía (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Disco, Ibiza, Locomía (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="To Die Alone (2024)" tvg-logo="http://mundo2.pro:80/images/05794c002a84b99991049869a3b563c6.jpg" group-title="ESTRENOS 2024_DM",To Die Alone (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Didi.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Didi.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils.Bath.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Devils.Bath.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devara: Parte 1 (2024)" tvg-logo="http://mundo2.pro:80/images/6bb871b40b07e766c7580c1410467a88.jpg" group-title="ESTRENOS 2024_DM",Devara: Parte 1 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despicable.Me.4" tvg-logo="" group-title="ESTRENOS 2024_DM",Despicable.Me.4
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despicable.Me.4.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Despicable.Me.4.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descifrando.A.Susie.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Descifrando.A.Susie.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depravity (2023)" tvg-logo="http://mundo2.pro:80/images/3d2cb10430e607e5fa898734926cd030.jpg" group-title="ESTRENOS 2024_DM",Depravity (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Den.Of.Thieves.2" tvg-logo="" group-title="ESTRENOS 2024_DM",Den.Of.Thieves.2
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Den.Of.Thieves.2.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Den.Of.Thieves.2.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Del otro lado del jardín (2024)" tvg-logo="http://mundo2.pro:80/images/ce20549161a8fe4ba653fb9b4eade0ef.jpg" group-title="ESTRENOS 2024_DM",Del otro lado del jardín (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep.Web-Murdershow.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Deep.Web-Murdershow.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep.Sea.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Deep.Sea.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Streamer (2024)" tvg-logo="http://mundo2.pro:80/images/8ca3dcf71a18f96d7a12406ee0c5f52c.jpg" group-title="ESTRENOS 2024_DM",Death Streamer (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death.Before.The.Wedding.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Death.Before.The.Wedding.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dear Satan (2025)" tvg-logo="" group-title="ESTRENOS 2024_DM",Dear Satan (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="http://mundo2.pro:80/images/227253d29a62a0a284d97be403fb3ce0.jpg" group-title="ESTRENOS 2024_DM",Deadpool & Wolverine (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Teenagers (2024)" tvg-logo="http://mundo2.pro:80/images/6e345598d9bebceb0a658412a618798f.jpg" group-title="ESTRENOS 2024_DM",Dead Teenagers (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance First (2023)" tvg-logo="" group-title="ESTRENOS 2024_DM",Dance First (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddio (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Daddio (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyndi.Lauper.Let.The.Canary.Sing.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cyndi.Lauper.Let.The.Canary.Sing.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curse.Of.Crom.2023" tvg-logo="" group-title="ESTRENOS 2024_DM",Curse.Of.Crom.2023
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cunados.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cunados.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpa cero (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Culpa cero (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuckoo (2024)" tvg-logo="http://mundo2.pro:80/images/7dac5264ae988dc88237b8b0853f9726.jpg" group-title="ESTRENOS 2024_DM",Cuckoo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CTRL (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",CTRL (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="မ - Cry of Silence (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",မ - Cry of Silence (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crescent City (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Crescent City (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creeping Death (2023)" tvg-logo="" group-title="ESTRENOS 2024_DM",Creeping Death (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Correr Para Vivir (2024)" tvg-logo="http://mundo2.pro:80/images/c32dab0cb0d49916b74ad1091643ee71.jpg" group-title="ESTRENOS 2024_DM",Correr Para Vivir (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control (2023)" tvg-logo="" group-title="ESTRENOS 2024_DM",Control (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consent (2023)" tvg-logo="" group-title="ESTRENOS 2024_DM",Consent (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cónclave (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Cónclave (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Companion (2025)" tvg-logo="http://mundo2.pro:80/images/dd733c95a817336812c834e4565c48d4.jpg" group-title="ESTRENOS 2024_DM",Companion (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Club Zero (2023)" tvg-logo="" group-title="ESTRENOS 2024_DM",Club Zero (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIFIED" tvg-logo="http://mundo2.pro:80/images/7a8728ac259dc53e817d5505369eac64.jpg" group-title="ESTRENOS 2024_DM",CLASSIFIED
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderellas.Curse.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cinderellas.Curse.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christmas.Wreaths.And.Ribbons.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Christmas.Wreaths.And.Ribbons.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chica conoce a chico (2025)" tvg-logo="" group-title="ESTRENOS 2024_DM",Chica conoce a chico (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Tango (2024)" tvg-logo="" group-title="ESTRENOS 2024_DM",Charlie Tango (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chapel (2025)" tvg-logo="" group-title="ESTRENOS 2024_DM",Chapel (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cellar Door" tvg-logo="" group-title="ESTRENOS 2024_DM",Cellar Door
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casi.El.Paraiso2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Casi.El.Paraiso2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa en llamas (2024)" tvg-logo="http://mundo2.pro:80/images/9e7a4d37a81e3c03e9272061ba845fbe.jpg" group-title="ESTRENOS 2024_DM",Casa en llamas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carry-On.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Carry-On.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carousel (2025)" tvg-logo="http://mundo2.pro:80/images/852f32dcd06e25f5f44591844dfffcd2.jpg" group-title="ESTRENOS 2024_DM",Carousel (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caras vemos (2024)" tvg-logo="http://mundo2.pro:80/images/4c6cb5b486b20580262e8e6d39a7dd68.jpg" group-title="ESTRENOS 2024_DM",Caras vemos (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canta y no llores (2024)" tvg-logo="http://mundo2.pro:80/images/ef106da0eb2337cb1378ad175fa7f488.jpg" group-title="ESTRENOS 2024_DM",Canta y no llores (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entra En Mi Vida (2024)" tvg-logo="http://mundo2.pro:80/images/103b426b8e634f913590376758f319d5.jpg" group-title="ESTRENOS 2024_DM",Entra En Mi Vida (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cant.Feel.Nothing.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cant.Feel.Nothing.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Es por su bien (2024)" tvg-logo="http://mundo2.pro:80/images/fc28bfbb1b36f8791c6a79d2c49f7e91.jpg" group-title="ESTRENOS 2024_DM",Es por su bien (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape (2024)" tvg-logo="http://mundo2.pro:80/images/d8000c66452ec6eb4c998c9eddfffdbe.jpg" group-title="ESTRENOS 2024_DM",Escape (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canary.Black.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Canary.Black.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bystanders (2024)" tvg-logo="http://mundo2.pro:80/images/5620c4a11e87fe1c526a3c39a1f98aeb.jpg" group-title="ESTRENOS 2024_DM",Bystanders (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buy Now! The Shopping Conspiracy (2024)" tvg-logo="http://mundo2.pro:80/images/5bfa87fcfb1a28a29588da7b0a819856.jpg" group-title="ESTRENOS 2024_DM",Buy Now! The Shopping Conspiracy (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brothers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Brothers (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget.Jones.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Bridget.Jones.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breathe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Breathe
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breakwater (2023)" tvg-logo="http://mundo2.pro:80/images/5d696951c629c2b007b13f70dac70989.jpg" group-title="ESTRENOS 2024_DM",Breakwater (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breakout (2023)" tvg-logo="http://mundo2.pro:80/images/dbe4d3b41ee6495e7ea3a5da09d6506a.jpg" group-title="ESTRENOS 2024_DM",Breakout (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BRATS (2024)" tvg-logo="http://mundo2.pro:80/images/44357b84ce78852be61f57c46f211b3f.jpg" group-title="ESTRENOS 2024_DM",BRATS (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boxer" tvg-logo="http://mundo2.pro:80/images/8aaaeec323392d3a7a122cb905ab3e85.jpg" group-title="ESTRENOS 2024_DM",Boxer
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borderless.Fog.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Borderless.Fog.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borderlands (2023)" tvg-logo="http://mundo2.pro:80/images/3af78c9921b0b3f878f81af9548520d9.jpg" group-title="ESTRENOS 2024_DM",Borderlands (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonhoeffer.Pastor.Spy.Assassin.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bonhoeffer.Pastor.Spy.Assassin.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boneyard.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Boneyard.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bone Lake (2025)" tvg-logo="http://mundo2.pro:80/images/62e954101550877a7faf3cafbf639484.jpg" group-title="ESTRENOS 2024_DM",Bone Lake (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bogota.City.Of.The.Lost.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bogota.City.Of.The.Lost.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue.Cave.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Blue.Cave.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloody Axe Wound (2024)" tvg-logo="http://mundo2.pro:80/images/fcf68e10286e2c1b956385856c35073a.jpg" group-title="ESTRENOS 2024_DM",Bloody Axe Wound (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood.For.Dust.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Blood.For.Dust.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood and Snow (2023)" tvg-logo="http://mundo2.pro:80/images/a474159c3aa75ba280a892d970a9ea17.jpg" group-title="ESTRENOS 2024_DM",Blood and Snow (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blitz (2024)" tvg-logo="http://mundo2.pro:80/images/6f0051038f4fe3aec34ac82e114ceda6.jpg" group-title="ESTRENOS 2024_DM",Blitz (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blink.Twice.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Blink.Twice.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blame.The.Game.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Blame.The.Game.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackwater Lane (2024)" tvg-logo="http://mundo2.pro:80/images/6c77934ef012756184ab5526b4d8ea8f.jpg" group-title="ESTRENOS 2024_DM",Blackwater Lane (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black.Barbie.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Black.Barbie.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenidos al paraíso (2024)" tvg-logo="http://mundo2.pro:80/images/2a413975994678c5b44558f8c0024e48.jpg" group-title="ESTRENOS 2024_DM",Bienvenidos al paraíso (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beverly.Hills.Cop.Axel.F.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Beverly.Hills.Cop.Axel.F.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Between.The.Temples.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Between.The.Temples.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before the World Set on Fire (2023)" tvg-logo="http://mundo2.pro:80/images/4bb04e0ec7ab30609d1bab4d9c4b4d5e.jpg" group-title="ESTRENOS 2024_DM",Before the World Set on Fire (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Cab (2024)" tvg-logo="http://mundo2.pro:80/images/80a96e40cebf0166a37501474fa8e423.jpg" group-title="ESTRENOS 2024_DM",Black Cab (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beetlejuice 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Beetlejuice 3
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful.Wedding.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Beautiful.Wedding.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beacon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Beacon
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bangkok.Breaking.Heaven.And.Hell.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bangkok.Breaking.Heaven.And.Hell.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandida: La Número Uno (2024)" tvg-logo="http://mundo2.pro:80/images/171196b15b549cc97a72ea006b5ee4e2.jpg" group-title="ESTRENOS 2024_DM",Bandida: La Número Uno (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAGMAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",BAGMAN
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Shepherd.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bad.Shepherd.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Hombres.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bad.Hombres.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Fish (2024)" tvg-logo="http://mundo2.pro:80/images/c0af3c9297692eb83ee6b9e50c9bafe5.jpg" group-title="ESTRENOS 2024_DM",Bad Fish (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Boys.4.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bad.Boys.4.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Back.In.Action.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Back.In.Action.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babygirl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Babygirl (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babes.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Babes.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autumn.And.The.Black.Jaguar.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Autumn.And.The.Black.Jaguar.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Neves (2024)" tvg-logo="http://mundo2.pro:80/images/1bfdc1a81edf859e2bc5dbc95496037d.jpg" group-title="ESTRENOS 2024_DM",As Neves (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Art.Of.Eight.Limbs.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Art.Of.Eight.Limbs.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armor.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Armor.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arena Wars (2024)" tvg-logo="http://mundo2.pro:80/images/273a255553acbf942ccb3c514f0292ea.jpg" group-title="ESTRENOS 2024_DM",Arena Wars (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apollo.13.Survival.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Apollo.13.Survival.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypse.Z.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Apocalypse.Z.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departamento 7A (2024)" tvg-logo="http://mundo2.pro:80/images/fc88947a4d8833346554ab940fcc8c72.jpg" group-title="ESTRENOS 2024_DM",Departamento 7A (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anora (2024)" tvg-logo="http://mundo2.pro:80/images/5744f93936e30b59243f5f6a924e0251.jpg" group-title="ESTRENOS 2024_DM",Anora (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animalia (2023)" tvg-logo="http://mundo2.pro:80/images/f3cb9491553d2da29b78c34531832d5c.jpg" group-title="ESTRENOS 2024_DM",Animalia (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal.Kingdom.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Animal.Kingdom.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="An.Almost.Christmas.Story.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",An.Almost.Christmas.Story.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amber.Alert.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Amber.Alert.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaran (2025)" tvg-logo="http://mundo2.pro:80/images/2c726768f87696cca7683e7a28fd1a6c.jpg" group-title="ESTRENOS 2024_DM",Amaran (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Am I Racist? (2024)" tvg-logo="http://mundo2.pro:80/images/7d5dfa588873fbc491ea5fbd4a173a9d.jpg" group-title="ESTRENOS 2024_DM",Am I Racist? (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="http://mundo2.pro:80/images/5eddcf4e2ccc984408c50e70df71f43b.jpg" group-title="ESTRENOS 2024_DM",Alien: Romulus (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algo Azul (2025)" tvg-logo="http://mundo2.pro:80/images/bd2d7155adf773d05ef5cbea8213e441.jpg" group-title="ESTRENOS 2024_DM",Algo Azul (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algea: God of Pain (2024)" tvg-logo="http://mundo2.pro:80/images/772c9474cccc7f0bf595c1a9f9601aa0.jpg" group-title="ESTRENOS 2024_DM",Algea: God of Pain (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alemania (2024)" tvg-logo="http://mundo2.pro:80/images/e06f0f5876c3c6ce0cd5086f9fd021bb.jpg" group-title="ESTRENOS 2024_DM",Alemania (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aire, Just Breath (2024)" tvg-logo="http://mundo2.pro:80/images/980bccdcd78c4a8ce427fbd404d016cc.jpg" group-title="ESTRENOS 2024_DM",Aire, Just Breath (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Quiet.Place.Day.One.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Quiet.Place.Day.One.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Aftermath (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afraid (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Afraid (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler: Love You (2024)" tvg-logo="http://mundo2.pro:80/images/bd3d7d82417b19adff4629e78a5e5c92.jpg" group-title="ESTRENOS 2024_DM",Adam Sandler: Love You (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accidental.Getaway.Driver.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Accidental.Getaway.Driver.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abracadaver (2024)" tvg-logo="http://mundo2.pro:80/images/7be0bf5223e43a494cfa603af850dfb3.jpg" group-title="ESTRENOS 2024_DM",Abracadaver (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Semente.Do.Mal.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Semente.Do.Mal.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Sacrifice.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Sacrifice.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Real.Pain.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Real.Pain.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Get A Real Job" tvg-logo="http://mundo2.pro:80/images/933fba0d0e1fc897b13bb0d84a5027c5.jpg" group-title="ESTRENOS 2024_DM",Get A Real Job
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betrayed by Love (2024)" tvg-logo="http://mundo2.pro:80/images/927b49ae5ed7c71da1d84b2605b68856.jpg" group-title="ESTRENOS 2024_DM",Betrayed by Love (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Part of You (2025)" tvg-logo="http://mundo2.pro:80/images/28065e671376a3e8c32de42ad1bdf11e.jpg" group-title="ESTRENOS 2024_DM",A Part of You (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Mothers.Embrace.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Mothers.Embrace.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Different.Man.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Different.Man.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Danfo Christmas (2024)" tvg-logo="http://mundo2.pro:80/images/f9d0954d974aedd9749a7c3706c954c7.jpg" group-title="ESTRENOS 2024_DM",A Danfo Christmas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Copenhagen.Love.Story.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Copenhagen.Love.Story.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Complete.Uknown.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Complete.Uknown.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1992.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",1992.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20Th.Century.Girl.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",20Th.Century.Girl.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15.Cameras.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",15.Cameras.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10.Lives.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",10.Lives.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10.Days.Of.A.Curious.Man.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",10.Days.Of.A.Curious.Man.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calladita (2024)" tvg-logo="http://mundo2.pro:80/images/f67367168aa11856932fdcc39f47a9c2.jpg" group-title="ESTRENOS 2024_DM",Calladita (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1-Million.Followers.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",1-Million.Followers.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caddo.Lake.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Caddo.Lake.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp.Crasher.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Camp.Crasher.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calendar.Killer.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Calendar.Killer.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menudas piezas (2024)" tvg-logo="http://mundo2.pro:80/images/26de353bf4c182de88cd78212b73f735.jpg" group-title="ESTRENOS 2024_DM",Menudas piezas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2024)" tvg-logo="http://mundo2.pro:80/images/b54eb5a1e1ba2e853d93e80a841f2510.jpg" group-title="ESTRENOS 2024_DM",El día que todo cambió (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mutant.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mutant.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We.Live.In.Time.2024(1)" tvg-logo="" group-title="ESTRENOS 2024_DM",We.Live.In.Time.2024(1)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen.Chapter.Ii.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Watchmen.Chapter.Ii.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vera y el placer de los otros (2024)" tvg-logo="http://mundo2.pro:80/images/4db2b8f2c779bde27d379dd2bf5dac68.jpg" group-title="ESTRENOS 2024_DM",Vera y el placer de los otros (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una jirafa en el balcón (2024)" tvg-logo="http://mundo2.pro:80/images/5f18e803dfad7a7f37ece7e90e02b06e.jpg" group-title="ESTRENOS 2024_DM",Una jirafa en el balcón (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Troubles.A.Dublin.Story.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Troubles.A.Dublin.Story.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Snow.Sister.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Snow.Sister.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Siege" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Siege
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Red.Virgin.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Red.Virgin.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Order (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Order (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Line.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Line.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Stop.In.Yuma.County.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Last.Stop.In.Yuma.County.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Showgirl.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Last.Showgirl.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Hard.Hit.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Hard.Hit.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Girl.In.The.Backseat.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Girl.In.The.Backseat.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Front.Room.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Front.Room.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Dumpster.Battle.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Dumpster.Battle.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenement (2024)" tvg-logo="http://mundo2.pro:80/images/dae370984447a890401f57714aed977d.jpg" group-title="ESTRENOS 2024_DM",Tenement (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TakeCover.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",TakeCover.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="T.1.M.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",T.1.M.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sympathy For The Devil (2023)" tvg-logo="http://mundo2.pro:80/images/9c078fea4d477610c41dfeff8a3c7ad2.jpg" group-title="ESTRENOS 2024_DM",Sympathy For The Devil (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange.Way.Of.Life.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Strange.Way.Of.Life.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soul.Eater.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Soul.Eater.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons-O.Cmon.All.Ye.Faithful.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Simpsons-O.Cmon.All.Ye.Faithful.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She.Came.From.The.Woods.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",She.Came.From.The.Woods.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Septiembre 5 (2024)" tvg-logo="http://mundo2.pro:80/images/ad41593473c3bf1871d236512a492f19.jpg" group-title="ESTRENOS 2024_DM",Septiembre 5 (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Self.Reliance.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Self.Reliance.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="run rabbit run (2025)" tvg-logo="http://mundo2.pro:80/images/7db60745af2bba0f38333c3b88a0538a.jpg" group-title="ESTRENOS 2024_DM",run rabbit run (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Replicator (2024)" tvg-logo="http://mundo2.pro:80/images/3c89d26fa8ac7502821618aab347f7bc.jpg" group-title="ESTRENOS 2024_DM",Replicator (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La reina del convento (2024)" tvg-logo="http://mundo2.pro:80/images/93d6a9f4e796da927324d25e9df83b69.jpg" group-title="ESTRENOS 2024_DM",La reina del convento (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puntos suspensivos (2024)" tvg-logo="http://mundo2.pro:80/images/2ad88434ea8ebabd5e29f3f65cd586e1.jpg" group-title="ESTRENOS 2024_DM",Puntos suspensivos (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Silence (2024)" tvg-logo="http://mundo2.pro:80/images/596379d291b4b05371a85093f2322fda.jpg" group-title="ESTRENOS 2024_DM",Project Silence (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outrage (2024)" tvg-logo="http://mundo2.pro:80/images/9f6ed5e2852eba82346505c6edec4793.jpg" group-title="ESTRENOS 2024_DM",Outrage (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Christmas Wish (2024)" tvg-logo="http://mundo2.pro:80/images/d0fd8d80c28da1c8556cfba9cf4f1f9f.jpg" group-title="ESTRENOS 2024_DM",Once Upon a Christmas Wish (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Omni.Loop.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Omni.Loop.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oh, Canada (2024)" tvg-logo="http://mundo2.pro:80/images/1c988174b8f703d594945cdc94212eaf.jpg" group-title="ESTRENOS 2024_DM",Oh, Canada (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nine Divine (2023)" tvg-logo="http://mundo2.pro:80/images/4b5cd583e89a877bec2c32e6825a0879.jpg" group-title="ESTRENOS 2024_DM",Nine Divine (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Better Man" tvg-logo="http://mundo2.pro:80/images/ccd9720d4d51b09e899b3b2a4d6aa746.jpg" group-title="ESTRENOS 2024_DM",The Better Man
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nightbitch.2024(1)" tvg-logo="" group-title="ESTRENOS 2024_DM",Nightbitch.2024(1)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nazi.Supersoldier.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Nazi.Supersoldier.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mudbrick.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Mudbrick.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los domingos mueren más personas (2024)" tvg-logo="http://mundo2.pro:80/images/cebc51b1e12ed2efc1dc6804267846a0.jpg" group-title="ESTRENOS 2024_DM",Los domingos mueren más personas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medium (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Medium (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los destellos (2024)" tvg-logo="http://mundo2.pro:80/images/e8fe266c66fbf4842a75a6f228794d24.jpg" group-title="ESTRENOS 2024_DM",Los destellos (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Look into My Eyes (2024)" tvg-logo="http://mundo2.pro:80/images/214e6588e8696dd8b27ceeedd33a9497.jpg" group-title="ESTRENOS 2024_DM",Look into My Eyes (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locksmith (2024)" tvg-logo="http://mundo2.pro:80/images/a5d813e3496bf36a263f9e55e444b5e1.jpg" group-title="ESTRENOS 2024_DM",Locksmith (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Bites (2024)" tvg-logo="http://mundo2.pro:80/images/1d46fb3fea3474255fcf6721c6b20053.jpg" group-title="ESTRENOS 2024_DM",Little Bites (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linda (2024)" tvg-logo="http://mundo2.pro:80/images/4fffae8850790e1136435f33df74b97b.jpg" group-title="ESTRENOS 2024_DM",Linda (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lie of the Land" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Lie of the Land
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Let Go (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Let Go (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La posada (2023)" tvg-logo="http://mundo2.pro:80/images/5ca6929ca1d0d368d57453af97d35b93.jpg" group-title="ESTRENOS 2024_DM",La posada (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Familia (2024)" tvg-logo="http://mundo2.pro:80/images/b1d2feec73fa52f969a112acb3e6e4dd.jpg" group-title="ESTRENOS 2024_DM",La Familia (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bandera (2024)" tvg-logo="http://mundo2.pro:80/images/69bb8685b9e0c18a1b806a06ecca92a8.jpg" group-title="ESTRENOS 2024_DM",La bandera (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugaremos en el bosque (2024)" tvg-logo="http://mundo2.pro:80/images/704703619fd33bb6675dd5d174972eec.jpg" group-title="ESTRENOS 2024_DM",Jugaremos en el bosque (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego de brujas (2024)" tvg-logo="http://mundo2.pro:80/images/cf0031fb9516ab05feabb98a6380f53e.jpg" group-title="ESTRENOS 2024_DM",Juego de brujas (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joni pata de conejo (2024)" tvg-logo="http://mundo2.pro:80/images/2304a73a934e641966d074d4d8c344bd.jpg" group-title="ESTRENOS 2024_DM",Joni pata de conejo (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Love You Forever (2025)" tvg-logo="http://mundo2.pro:80/images/14cdcc6aac47ab535da67b45068fa0de.jpg" group-title="ESTRENOS 2024_DM",I Love You Forever (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How.To.Date.Billy.Walsh.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",How.To.Date.Billy.Walsh.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Bitcoin (2024)" tvg-logo="http://mundo2.pro:80/images/61942cb3ddcdd22eeb1d4a041d1d7c5a.jpg" group-title="ESTRENOS 2024_DM",Hotel Bitcoin (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hijack.93.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Hijack.93.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Here (2024)" tvg-logo="http://mundo2.pro:80/images/bba4ff91fb296a77dd0404086f224012.jpg" group-title="ESTRENOS 2024_DM",Here (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heavier Trip (2024)" tvg-logo="http://mundo2.pro:80/images/87f1bb1fbf3794037db02703d4ca6cb1.jpg" group-title="ESTRENOS 2024_DM",Heavier Trip (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Half (2024)" tvg-logo="http://mundo2.pro:80/images/637dc196d6e5dd6400a7f9f0c07bf761.jpg" group-title="ESTRENOS 2024_DM",The Good Half (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GhostGame (2023)" tvg-logo="http://mundo2.pro:80/images/e83c323745b8cc1b2ebe0f770b6c4a1e.jpg" group-title="ESTRENOS 2024_DM",GhostGame (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fight Another Day (2024)" tvg-logo="http://mundo2.pro:80/images/cc847b8e65afe2366dc15dbf3d1d45b6.jpg" group-title="ESTRENOS 2024_DM",Fight Another Day (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ex.Maridos.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Ex.Maridos.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emmanuelle (2024)" tvg-logo="http://mundo2.pro:80/images/2008ad73ab6a82bb5f65e1b97c45d00a.jpg" group-title="ESTRENOS 2024_DM",Emmanuelle (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elevation (2024)" tvg-logo="http://mundo2.pro:80/images/0493bd7229af276b948a4e7c80df0224.jpg" group-title="ESTRENOS 2024_DM",Elevation (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El desayuno (2024)" tvg-logo="http://mundo2.pro:80/images/6f900c08756ffa6a9a0bd96a4d615600.jpg" group-title="ESTRENOS 2024_DM",El desayuno (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El candidato honesto (2024)" tvg-logo="http://mundo2.pro:80/images/ac304550b1fbdaf688832ad78291da25.jpg" group-title="ESTRENOS 2024_DM",El candidato honesto (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Double Blind (2025)" tvg-logo="http://mundo2.pro:80/images/f3b983df993e98030cf1ca98837b540d.jpg" group-title="ESTRENOS 2024_DM",Double Blind (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dont.Lets.Go.To.The.Dogs.Tonight.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Dont.Lets.Go.To.The.Dogs.Tonight.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donselya (2024)" tvg-logo="http://mundo2.pro:80/images/c71464eae7e1f744a44ccccb64edc462.jpg" group-title="ESTRENOS 2024_DM",Donselya (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Open (2024)" tvg-logo="http://mundo2.pro:80/images/1ddb17aeb83aebdbe76bd8d3ddea5a09.jpg" group-title="ESTRENOS 2024_DM",Do Not Open (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Irae (2023)" tvg-logo="http://mundo2.pro:80/images/b2680184e76198b4c1fdc4dcbd2196d7.jpg" group-title="ESTRENOS 2024_DM",Deus Irae (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detained.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Detained.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dear David (2023)" tvg-logo="http://mundo2.pro:80/images/7bf51285063297e9e6f305f6246ddade.jpg" group-title="ESTRENOS 2024_DM",Dear David (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cellardoor.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cellardoor.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casi el Paraíso (2024)" tvg-logo="http://mundo2.pro:80/images/c55b31f430f6dfabf762276f2b1bf137.jpg" group-title="ESTRENOS 2024_DM",Casi el Paraíso (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beware the Boogeyman (2024)" tvg-logo="http://mundo2.pro:80/images/ed7b487648922380df70182a47a7094d.jpg" group-title="ESTRENOS 2024_DM",Beware the Boogeyman (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bettys.Bad.Luck.In.Love.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Bettys.Bad.Luck.In.Love.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apaixonada.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Apaixonada.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amfad.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Amfad.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accidental Texan (2024)" tvg-logo="http://mundo2.pro:80/images/1648574008898d71ecb84e06544cf460.jpg" group-title="ESTRENOS 2024_DM",Accidental Texan (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Sprinkle.Of.Christmas.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Sprinkle.Of.Christmas.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Legend.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Legend.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Dark.Way.Out.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Dark.Way.Out.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Dream (2024)" tvg-logo="http://mundo2.pro:80/images/ed516d6e6027bf1dfdd299c114f5da36.jpg" group-title="ESTRENOS 2024_DM",A Christmas Dream (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Carpenter.Christmas.Romance.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",A.Carpenter.Christmas.Romance.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z Zone (2024)" tvg-logo="http://mundo2.pro:80/images/9752e61d51538be1994512b0bf8b0b79.jpg" group-title="ESTRENOS 2024_DM",Z Zone (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your.Baby.Or.Mine.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Your.Baby.Or.Mine.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e07" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e07
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e06" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e06
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e05" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e05
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e04" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e04
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e03" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e03
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e02" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e02
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e01" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e01
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refugio.Atomico.S01e08" tvg-logo="" group-title="ESTRENOS 2024_DM",Refugio.Atomico.S01e08
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Choral.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Choral.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvation (2025)" tvg-logo="http://mundo2.pro:80/images/ede8b39c242531b877d89a23355aec54.jpg" group-title="ESTRENOS 2024_DM",Salvation (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Train" tvg-logo="http://mundo2.pro:80/images/69d3daf52d61882e294fe610b3dea53f.jpg" group-title="ESTRENOS 2024_DM",Ghost Train
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death.Whisperer.3.2025" tvg-logo="" group-title="ESTRENOS 2024_DM",Death.Whisperer.3.2025
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chabak.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Chabak.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shark Evil (2023)" tvg-logo="http://mundo2.pro:80/images/b0a8e6786e199c9fc79088ef7f52606a.jpg" group-title="ESTRENOS 2024_DM",Shark Evil (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come Home (2024)" tvg-logo="http://mundo2.pro:80/images/b0f4b5b0cac1a4e812ab338c3cd5d20e.jpg" group-title="ESTRENOS 2024_DM",Come Home (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Well (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",The Well (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don Q (2024)" tvg-logo="http://mundo2.pro:80/images/a3dfae284f7b8ad8bae036d4d0cddf43.jpg" group-title="ESTRENOS 2024_DM",Don Q (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hell House: El Origen (2023)" tvg-logo="http://mundo2.pro:80/images/1a81545ed832f2c06b419c632aa54c42.jpg" group-title="ESTRENOS 2024_DM",Hell House: El Origen (2023)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill.Her.Goats.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Kill.Her.Goats.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red.Right.Hand.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Red.Right.Hand.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cellphone.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Cellphone.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Electra (2024)" tvg-logo="http://mundo2.pro:80/images/a01dd365fa048672e8307f88245c0be4.jpg" group-title="ESTRENOS 2024_DM",Electra (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khameleon.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Khameleon.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nobody's Home" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Nobody's Home
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little.Mermaid.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Little.Mermaid.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Devils.Trap.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Devils.Trap.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Pie voleuse (2025)" tvg-logo="http://mundo2.pro:80/images/11751b4daab978511e6820dc76518799.jpg" group-title="ESTRENOS 2024_DM",La Pie voleuse (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Kumite.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",The.Last.Kumite.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los bárbaros (2025)" tvg-logo="http://mundo2.pro:80/images/2423879e39e4b4bd9f08c4a62e0f7917.jpg" group-title="ESTRENOS 2024_DM",Los bárbaros (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Three.Friends.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Three.Friends.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El libro (2024)" tvg-logo="http://mundo2.pro:80/images/e1de8fb4f0cb1e816fea536be53274cf.jpg" group-title="ESTRENOS 2024_DM",El libro (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kryptic (2025)" tvg-logo="http://mundo2.pro:80/images/b14354601f15e1c19c75a7bc81327b4a.jpg" group-title="ESTRENOS 2024_DM",Kryptic (2025)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marco (2024)" tvg-logo="http://mundo2.pro:80/images/59b5f9b9584600c2f007b4f6dc799ca9.jpg" group-title="ESTRENOS 2024_DM",Marco (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La fianza (2024)" tvg-logo="http://mundo2.pro:80/images/74b613169bfea0c0330b4db2e2367bbb.jpg" group-title="ESTRENOS 2024_DM",La fianza (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddy's Head (2024)" tvg-logo="http://mundo2.pro:80/images/ed54ac174ffefd98b98a34249a26ffc8.jpg" group-title="ESTRENOS 2024_DM",Daddy's Head (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Burning Butterflies (2024)" tvg-logo="http://mundo2.pro:80/images/3c470571069cabdba1840c297e257526.jpg" group-title="ESTRENOS 2024_DM",Burning Butterflies (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Here, After" tvg-logo="http://mundo2.pro:80/images/67712a1a855f3db875952b94a6ce270e.jpg" group-title="ESTRENOS 2024_DM",Here, After
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Humane (2024)" tvg-logo="http://mundo2.pro:80/images/2caae795e59ed59fd104b03fd7a5ef5b.jpg" group-title="ESTRENOS 2024_DM",Humane (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firecracker (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024_DM",Firecracker (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape.From.Germany.2024" tvg-logo="" group-title="ESTRENOS 2024_DM",Escape.From.Germany.2024
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bibi Files (2024)" tvg-logo="http://mundo2.pro:80/images/9153c4ccaae254374b3e851bbed2e182.jpg" group-title="ESTRENOS 2024_DM",The Bibi Files (2024)
+http://cinemagold.club:80/movie/JUF297LUY0/cta27playec/501589.mp4
