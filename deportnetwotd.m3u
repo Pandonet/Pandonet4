@@ -1,234 +1,333 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN (¹) HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN22 (¹) HD
-http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Futbol Canal Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="Sports Deportes",Bolivia: Futbol Canal Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/53904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Futbol Canal Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="Bolivia",Bolivia: Futbol Canal Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/53904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Sports Deportes",Bolivia: Tigo Sports 1 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Bolivia",Bolivia: Tigo Sports 1 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/8.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Brasil: COMBATE FHD H265" tvg-logo="http://latinapro.net:25461/images/eb5d1d7bfb30a69cb56f38cf8c3dd565.jpg" group-title="Brasil",Brasil: COMBATE FHD H265
-http://latinapro.net:25461/lazaroperez/perez3/366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 2 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Sports Deportes",Bolivia: Tigo Sports 2 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia: Tigo Sports 2 Hd (P)" tvg-logo="http://latinapro.net:25461/images/8f6007c49dbdccf95c8838df3e627e94.png" group-title="Bolivia",Bolivia: Tigo Sports 2 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| Espn SD | Mexico" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ argentina II ←",Dep|| Espn SD | aqgentina
-http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX || AyM Sports HD" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ MÉXICO II ←",MX || AyM Sports HD
-http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN BRASIL HD" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-espn-127577415.jpg" group-title="→ BRASIL ←",VIP_BR:ESPN BRASIL HD
-http://somoseluno.blog:80/live/12MPremiumAbr67/UyOGdFBkrsBDKBYV/81258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:tyc sport HD" tvg-logo="https://media.tycsports.com/files/2020/03/06/90689/logo-tyc_416x234.jpg?v=1" group-title="→ BRASIL ←",VIP_BR:tyc sport HD
-http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 1 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 1 HD Eventos
-http://latinapro.net:25461/lazaroperez/perez3/2263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 2 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 2 HD Eventos
-http://latinapro.net:25461/lazaroperez/perez3/2264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 3 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 3 Hd Eventos
-http://latinapro.net:25461/lazaroperez/perez3/34137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 4 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Sports Deportes",Deportes 4 Hd Eventos
-http://latinapro.net:25461/lazaroperez/perez3/56289.m3u8
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="Arg: TNT Sports (P)" tvg-logo="http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png" group-title="Sports Deportes",Arg: TNT Sports (P)
-http://latinapro.net:25461/lazaroperez/perez3/2467.m3u8
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="Arg: TNT Sports (P)" tvg-logo="http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png" group-title="Argentina",Arg: TNT Sports (P)
-http://latinapro.net:25461/lazaroperez/perez3/2467.m3u8
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports Hd (P)" tvg-logo="http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png" group-title="Sports Deportes",Arg: TyC Sports Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports Hd (P)" tvg-logo="http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png" group-title="Argentina",Arg: TyC Sports Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/360.m3u8
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports International" tvg-logo="http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg" group-title="Sports Deportes",Arg: TyC Sports International
-http://latinapro.net:25461/lazaroperez/perez3/4192.m3u8
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Arg: TyC Sports International" tvg-logo="http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg" group-title="Argentina",Arg: TyC Sports International
-http://latinapro.net:25461/lazaroperez/perez3/4192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brasil: Dazn 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKMNgAsBX4zE503lnlTstlMaH-vWkrjXQKg&s" group-title="Sports Deportes",Brasil: Dazn 1
-http://latinapro.net:25461/lazaroperez/perez3/372.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="Brasil: ESPN FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Sports Deportes",Brasil: ESPN FHD
-http://latinapro.net:25461/lazaroperez/perez3/376.m3u8
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="Brasil: ESPN 2 Hd" tvg-logo="http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg" group-title="Sports Deportes",Brasil: ESPN 2 Hd
-http://latinapro.net:25461/lazaroperez/perez3/3744.m3u8
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="Brasil: ESPN 3 FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Sports Deportes",Brasil: ESPN 3 FHD
-http://latinapro.net:25461/lazaroperez/perez3/375.m3u8
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Brasil: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png" group-title="Sports Deportes",Brasil: ESPN 4 HD
-http://latinapro.net:25461/lazaroperez/perez3/394.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Brasil: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="Sports Deportes",Brasil: ESPN 5 FHD
-http://latinapro.net:25461/lazaroperez/perez3/380.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Brasil: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="Brasil",Brasil: ESPN 5 FHD
-http://latinapro.net:25461/lazaroperez/perez3/380.m3u8
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Brasil: ESPN 6 HD" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="Sports Deportes",Brasil: ESPN 6 HD
-http://latinapro.net:25461/lazaroperez/perez3/373.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Brasil: SPORTV FHD" tvg-logo="http://latinapro.net:25461/images/17d34a7ad59f8578e682d0ade0ecbb48.png" group-title="Sports Deportes",Brasil: SPORTV FHD
-http://latinapro.net:25461/lazaroperez/perez3/404.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Brasil: SPORTV 2 FHD" tvg-logo="http://latinapro.net:25461/images/1a114b288ef7432428c1a7f44f30f291.png" group-title="Sports Deportes",Brasil: SPORTV 2 FHD
-http://latinapro.net:25461/lazaroperez/perez3/402.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="Brasil: SPORTV 3 FHD" tvg-logo="http://latinapro.net:25461/images/1bf57bd8178b234f6a08404f193a253e.png" group-title="Sports Deportes",Brasil: SPORTV 3 FHD
-http://latinapro.net:25461/lazaroperez/perez3/403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile: TNT SPORTS" tvg-logo="https://yt3.googleusercontent.com/zvs1j3OgGy9F1ytUOJpn9_LTdEafFpxhSSPKXDbr3ZHg7J_0FeM_gtUn5bwJSpPKa9u71egfu68=s160-c-k-c0x00ffffff-no-rj" group-title="Chile",Chile: TNT SPORTS
-http://latinapro.net:25461/lazaroperez/perez3/22556.m3u8
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: Winsports HD Backup" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Sports Deportes",Colombia: Winsports HD Backup
-http://latinapro.net:25461/lazaroperez/perez3/280.m3u8
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: Winsports HD Backup" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Colombia",Colombia: Winsports HD Backup
-http://latinapro.net:25461/lazaroperez/perez3/280.m3u8
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: WinSports (P)" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Sports Deportes",Colombia: WinSports (P)
-http://latinapro.net:25461/lazaroperez/perez3/1.m3u8
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: WinSports (P)" tvg-logo="http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg" group-title="Colombia",Colombia: WinSports (P)
-http://latinapro.net:25461/lazaroperez/perez3/1.m3u8
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="Colombia: Winsports Plus HD (P)" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Sports Deportes",Colombia: Winsports Plus HD (P)
-http://latinapro.net:25461/lazaroperez/perez3/4695.m3u8
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="Colombia: Winsports Plus HD (P)" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Colombia",Colombia: Winsports Plus HD (P)
-http://latinapro.net:25461/lazaroperez/perez3/4695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Mobile Backup" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Sports Deportes",Colombia: Winsports Plus Mobile Backup
-http://latinapro.net:25461/lazaroperez/perez3/52715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Mobile Backup" tvg-logo="http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg" group-title="Colombia",Colombia: Winsports Plus Mobile Backup
-http://latinapro.net:25461/lazaroperez/perez3/52715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Hd Backup" tvg-logo="http://latinapro.net:25461/images/ISlAIhDn7UvoAONvRYNezhSWjTesf2Dew6k3WySL8DzwbappLJEafy9Jap7Hv0Ve-bOE6hSALO1L-stGIvrw6l2YdQl13sAmEULeavKZjx-ByXNBHJy5_28Da5gzGHCTKomzq7y7KcIAHji2pumjUQ.jpg" group-title="Sports Deportes",Colombia: Winsports Plus Hd Backup
-http://latinapro.net:25461/lazaroperez/perez3/55512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colombia: Winsports Plus Hd Backup" tvg-logo="http://latinapro.net:25461/images/ISlAIhDn7UvoAONvRYNezhSWjTesf2Dew6k3WySL8DzwbappLJEafy9Jap7Hv0Ve-bOE6hSALO1L-stGIvrw6l2YdQl13sAmEULeavKZjx-ByXNBHJy5_28Da5gzGHCTKomzq7y7KcIAHji2pumjUQ.jpg" group-title="Colombia",Colombia: Winsports Plus Hd Backup
-http://latinapro.net:25461/lazaroperez/perez3/55512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports (P)" tvg-logo="http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png" group-title="Sports Deportes",Ec: Directv Sports (P)
-http://latinapro.net:25461/lazaroperez/perez3/29321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports (P)" tvg-logo="http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png" group-title="Ecuador",Ec: Directv Sports (P)
-http://latinapro.net:25461/lazaroperez/perez3/29321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports 2 (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&s" group-title="Sports Deportes",Ec: Directv Sports 2 (P)
-http://latinapro.net:25461/lazaroperez/perez3/269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Directv Sports 2 (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&s" group-title="Ecuador",Ec: Directv Sports 2 (P)
-http://latinapro.net:25461/lazaroperez/perez3/269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Direct Tv Plus Go" tvg-logo="http://latinapro.net:25461/images/cTC2Qq0pPg2Vqq7PhtugU7Qo3X9kzk5Xp8eeoLK8JqMsHRgDkIhEi0KE4tPg0YbpA-NwHnl4lzAs41nVLSLt5w.png" group-title="Sports Deportes",Ec: Direct Tv Plus Go
-http://latinapro.net:25461/lazaroperez/perez3/52963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ec: Direct Tv Plus Go" tvg-logo="http://latinapro.net:25461/images/cTC2Qq0pPg2Vqq7PhtugU7Qo3X9kzk5Xp8eeoLK8JqMsHRgDkIhEi0KE4tPg0YbpA-NwHnl4lzAs41nVLSLt5w.png" group-title="Ecuador",Ec: Direct Tv Plus Go
-http://latinapro.net:25461/lazaroperez/perez3/52963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 2 HD" tvg-logo="http://latinapro.net:25461/images/e3d036fc00328bb677688d4ddb57ce9e.jpg" group-title="Sports Deportes",Mex: ESPN 2 HD
-http://latinapro.net:25461/lazaroperez/perez3/5488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 2 HD" tvg-logo="http://latinapro.net:25461/images/e3d036fc00328bb677688d4ddb57ce9e.jpg" group-title="Mexico",Mex: ESPN 2 HD
-http://latinapro.net:25461/lazaroperez/perez3/5488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 3 HD" tvg-logo="http://latinapro.net:25461/images/c90f52dcf1ffbe6e41b1870211d477e5.jpg" group-title="Sports Deportes",Mex: ESPN 3 HD
-http://latinapro.net:25461/lazaroperez/perez3/5489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN 3 HD" tvg-logo="http://latinapro.net:25461/images/c90f52dcf1ffbe6e41b1870211d477e5.jpg" group-title="Mexico",Mex: ESPN 3 HD
-http://latinapro.net:25461/lazaroperez/perez3/5489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Espn Deportes" tvg-logo="http://latinapro.net:25461/images/245c14166145c50e430adb8b4160fe49.png" group-title="Sports Deportes",Mex: Espn Deportes
-http://latinapro.net:25461/lazaroperez/perez3/4190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Espn Deportes" tvg-logo="http://latinapro.net:25461/images/245c14166145c50e430adb8b4160fe49.png" group-title="Mexico",Mex: Espn Deportes
-http://latinapro.net:25461/lazaroperez/perez3/4190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN Hd" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Sports Deportes",Mex: ESPN Hd
-http://latinapro.net:25461/lazaroperez/perez3/5487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: ESPN Hd" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Mexico",Mex: ESPN Hd
-http://latinapro.net:25461/lazaroperez/perez3/5487.m3u8
-#EXTINF:-1 tvg-id="espnplus.co" tvg-name="Mex: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/40e64337cd1d5252dde0710ebc84f9bf.jpg" group-title="Sports Deportes",Mex: ESPN 4 HD
-http://latinapro.net:25461/lazaroperez/perez3/5490.m3u8
-#EXTINF:-1 tvg-id="espnplus.co" tvg-name="Mex: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/40e64337cd1d5252dde0710ebc84f9bf.jpg" group-title="Mexico",Mex: ESPN 4 HD
-http://latinapro.net:25461/lazaroperez/perez3/5490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Estrella Tv" tvg-logo="http://latinapro.net:25461/images/6802200a2151d29adee2cf4c8ecd94f5.jpg" group-title="Mexico",Mex: Estrella Tv
-http://latinapro.net:25461/lazaroperez/perez3/3722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Deportes" tvg-logo="http://latinapro.net:25461/images/b67524d54921319c9b02f89444276967.png" group-title="Sports Deportes",Mex: Fox Deportes
-http://latinapro.net:25461/lazaroperez/perez3/342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Deportes" tvg-logo="http://latinapro.net:25461/images/b67524d54921319c9b02f89444276967.png" group-title="Mexico",Mex: Fox Deportes
-http://latinapro.net:25461/lazaroperez/perez3/342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 1 Hd" tvg-logo="http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg" group-title="Sports Deportes",Mex: Fox Sports 1 Hd
-http://latinapro.net:25461/lazaroperez/perez3/4489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 1 Hd" tvg-logo="http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg" group-title="Mexico",Mex: Fox Sports 1 Hd
-http://latinapro.net:25461/lazaroperez/perez3/4489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 2 Hd" tvg-logo="http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg" group-title="Sports Deportes",Mex: Fox Sports 2 Hd
-http://latinapro.net:25461/lazaroperez/perez3/4490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 2 Hd" tvg-logo="http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg" group-title="Mexico",Mex: Fox Sports 2 Hd
-http://latinapro.net:25461/lazaroperez/perez3/4490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 3 hd" tvg-logo="http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg" group-title="Sports Deportes",Mex: Fox Sports 3 hd
-http://latinapro.net:25461/lazaroperez/perez3/4491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Fox Sports 3 hd" tvg-logo="http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg" group-title="Mexico",Mex: Fox Sports 3 hd
-http://latinapro.net:25461/lazaroperez/perez3/4491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Las Estrellas Hd" tvg-logo="http://latinapro.net:25461/images/1ff37009470676f61359c9777da0cd47.png" group-title="Mexico",Mex: Las Estrellas Hd
-http://latinapro.net:25461/lazaroperez/perez3/3723.m3u8
-#EXTINF:-1 tvg-id="canaldelasestrellashd.co" tvg-name="Mex: Las Estrellas Inter (P)" tvg-logo="http://latinapro.net:25461/images/1ff37009470676f61359c9777da0cd47.png" group-title="Mexico",Mex: Las Estrellas Inter (P)
-http://latinapro.net:25461/lazaroperez/perez3/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Sports Deportes",Mex: Sky Sports Hd
-http://latinapro.net:25461/lazaroperez/perez3/55316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Mexico",Mex: Sky Sports Hd
-http://latinapro.net:25461/lazaroperez/perez3/55316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 16 Hd" tvg-logo="http://latinapro.net:25461/images/JLwVVWwPe66JPFb0ohRtGwnq65W-MhikEta7rXyMmkCYOwQsnHR17R1WeqJLC7Efq3XJluRJLcWZb3nvrKUjJpHbs1p553lKY16LdXsWgAnP-JMk-ZPtifIwrFJA88B7RrlRR2yU26mMLKk48YTpmewmG4hqf_5oij7wtEPg3Wc.jpg" group-title="Sports Deportes",Mex: Sky Sports 16 Hd
-http://latinapro.net:25461/lazaroperez/perez3/55319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 16 Hd" tvg-logo="http://latinapro.net:25461/images/JLwVVWwPe66JPFb0ohRtGwnq65W-MhikEta7rXyMmkCYOwQsnHR17R1WeqJLC7Efq3XJluRJLcWZb3nvrKUjJpHbs1p553lKY16LdXsWgAnP-JMk-ZPtifIwrFJA88B7RrlRR2yU26mMLKk48YTpmewmG4hqf_5oij7wtEPg3Wc.jpg" group-title="Mexico",Mex: Sky Sports 16 Hd
-http://latinapro.net:25461/lazaroperez/perez3/55319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 21 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDaACqv9CTjUYZnd9ZYVXvwUhiLrAe7ucNw&s" group-title="Sports Deportes",Mex: Sky Sports 21 Hd
-http://latinapro.net:25461/lazaroperez/perez3/55318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 21 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDaACqv9CTjUYZnd9ZYVXvwUhiLrAe7ucNw&s" group-title="Mexico",Mex: Sky Sports 21 Hd
-http://latinapro.net:25461/lazaroperez/perez3/55318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVINMHyiihmZ5CALc_G2HvHMocbEy7lIRag&s" group-title="Sports Deportes",Mex: Sky Sports 24
-http://latinapro.net:25461/lazaroperez/perez3/55317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mex: Sky Sports 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVINMHyiihmZ5CALc_G2HvHMocbEy7lIRag&s" group-title="Mexico",Mex: Sky Sports 24
-http://latinapro.net:25461/lazaroperez/perez3/55317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico: TUDN Hd" tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="Sports Deportes",Mexico: TUDN Hd
-http://latinapro.net:25461/lazaroperez/perez3/34251.tm3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico: TUDN Hd" tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="Mexico",Mexico: TUDN Hd
-http://latinapro.net:25461/lazaroperez/perez3/34251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga 1 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s" group-title="Sports Deportes",Peru: La Liga 1 Hd
-http://latinapro.net:25461/lazaroperez/perez3/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga 1 Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s" group-title="Peru",Peru: La Liga 1 Hd
-http://latinapro.net:25461/lazaroperez/perez3/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga Max Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jN4beKo2S793wY2X4JtMRx2mdmHt2EWZRQ&s" group-title="Sports Deportes",Peru: La Liga Max Hd
-http://latinapro.net:25461/lazaroperez/perez3/55859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: La Liga Max Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jN4beKo2S793wY2X4JtMRx2mdmHt2EWZRQ&s" group-title="Peru",Peru: La Liga Max Hd
-http://latinapro.net:25461/lazaroperez/perez3/55859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: Latina Tv (P)" tvg-logo="http://latinapro.net:25461/images/b42ca4c6fc83b1689e9f0fa18698de14.jpg" group-title="Peru",Peru: Latina Tv (P)
-http://latinapro.net:25461/lazaroperez/perez3/348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: Moviestar Deportes HD" tvg-logo="http://latinapro.net:25461/images/9b390071303d506a63264a84f73e3655.png" group-title="Sports Deportes",Peru: Moviestar Deportes HD
-http://latinapro.net:25461/lazaroperez/perez3/4311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru: Moviestar Deportes HD" tvg-logo="http://latinapro.net:25461/images/9b390071303d506a63264a84f73e3655.png" group-title="Peru",Peru: Moviestar Deportes HD
-http://latinapro.net:25461/lazaroperez/perez3/4311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS (P)
-http://latinapro.net:25461/lazaroperez/perez3/21415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 2 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 2 (P)
-http://latinapro.net:25461/lazaroperez/perez3/29322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 3 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 3 (P)
-http://latinapro.net:25461/lazaroperez/perez3/34117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 4 (P)" tvg-logo="http://latinapro.net:25461/images/781ecc4c9acd46479c2a16fc5f818d98.png" group-title="Sports Deportes",Lat: ESPN STAR PLUS 4 (P)
-http://latinapro.net:25461/lazaroperez/perez3/40837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 5 Solo Eventos" tvg-logo="http://latinapro.net:25461/images/8371ffc54c2ab2c32789fc71a832a54e.jpg" group-title="Sports Deportes",Lat: ESPN STAR PLUS 5 Solo Eventos
-http://latinapro.net:25461/lazaroperez/perez3/40838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN STAR PLUS 6 Solo Eventos" tvg-logo="http://latinapro.net:25461/images/8371ffc54c2ab2c32789fc71a832a54e.jpg" group-title="Sports Deportes",Lat: ESPN STAR PLUS 6 Solo Eventos
-http://latinapro.net:25461/lazaroperez/perez3/40839.tm3u8
-#EXTINF:-1 tvg-id="espn.co" tvg-name="Lat: ESPN HD (P)" tvg-logo="http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png" group-title="Sports Deportes",Lat: ESPN HD (P)
-http://latinapro.net:25461/lazaroperez/perez3/21.m3u8
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="Lat: ESPN 2 HD (P)" tvg-logo="http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg" group-title="Sports Deportes",Lat: ESPN 2 HD (P)
-http://latinapro.net:25461/lazaroperez/perez3/6.m3u8
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="Lat: Espn 3 Hd (P)" tvg-logo="http://latinapro.net:25461/images/6e22b09ece58db8c5692ee8c88415334.jpg" group-title="Sports Deportes",Lat: Espn 3 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 4 Hd (P)" tvg-logo="http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png" group-title="Sports Deportes",Lat: ESPN 4 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/23288.m3u8
-#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 5 Hd (P)" tvg-logo="http://latinapro.net:25461/images/902c5fbe51b7fcaa210e92e7046da57c.png" group-title="Sports Deportes",Lat: ESPN 5 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/5.m3u8
-#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 6 Hd (P)" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="Sports Deportes",Lat: ESPN 6 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/306.m3u8
-#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: ESPN 7 Hd (P)" tvg-logo="http://latinapro.net:25461/images/2b2c5781d9e86e8b8ba6bc66f79fdb88.png" group-title="Sports Deportes",Lat: ESPN 7 Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN Premium Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&s" group-title="Sports Deportes",Lat: ESPN Premium Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/40234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN Premium Hd (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&s" group-title="Latinoamerica",Lat: ESPN Premium Hd (P)
-http://latinapro.net:25461/lazaroperez/perez3/40234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: Espn Colombia" tvg-logo="http://latinapro.net:25461/images/_bgE4zU2_lJcht1YRTVSQ713EB35n8Eoee0E8yA_ryX3Af2qI9pbiI4cUNGmr9ML6XeGbBAwzF0k2Avj4GW_VYmynIPqHHaTVZYKHWscMLY.png" group-title="Sports Deportes",Lat: Espn Colombia
-http://latinapro.net:25461/lazaroperez/perez3/56327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 2 Backup" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/284?cb=20130819193813" group-title="Sports Deportes",Lat: ESPN 2 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 3 Backup" tvg-logo="http://latinapro.net:25461/images/a0ca928385757f710e2de8201061f0b4.png" group-title="Sports Deportes",Lat: ESPN 3 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 4 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZfx6VvH5StHtDrMuZ3wocAJdT_ZTYsVLMAw&s" group-title="Sports Deportes",Lat: ESPN 4 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 5 Backup" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="Sports Deportes",Lat: ESPN 5 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 6 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VUhFxO7U4xEE3vn5OirOrhjFJtaS8nN_9g&s" group-title="Sports Deportes",Lat: ESPN 6 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: ESPN 7 Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-S1jyAq6cjYncKBJgvEmdS5FzAQj04KqYw&s" group-title="Sports Deportes",Lat: ESPN 7 Backup
-http://latinapro.net:25461/lazaroperez/perez3/50835.m3u8
-#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="Lat: Fox Sports 2 (P)" tvg-logo="http://latinapro.net:25461/images/lYdsXOoRMihlG1Qfer0NuZtzZmPohMmGRCH-6MJsAwKh4giVFDz6yru0eCntM0dAGhZ2A5WECGG-GZ-IfB8oBLxBC_lxP3Ir3gEDy-Ga2mFB4dwH4jjwysYGttgu9wK2AOZPgthQ1G083Vpd0S2t_RaXVgvnz39bajRG8Z94OOEGfXVMbz7tMYKP-xE9NNnm.png" group-title="Sports Deportes",Lat: Fox Sports 2 (P)
-http://latinapro.net:25461/lazaroperez/perez3/2468.m3u8
-#EXTINF:-1 tvg-id="alientovision.co" tvg-name="Lat: Fox Sports 3 HD (P)" tvg-logo="http://latinapro.net:25461/images/fbc6757c2907dc9e7149ee0140ab8efb.jpg" group-title="Sports Deportes",Lat: Fox Sports 3 HD (P)
-http://latinapro.net:25461/lazaroperez/perez3/297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: Golf Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDKe2Csih2q47HdUbdynLI5ILR3ssbapVDg&s" group-title="Sports Deportes",Lat: Golf Hd
-http://latinapro.net:25461/lazaroperez/perez3/55321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: Golf Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDKe2Csih2q47HdUbdynLI5ILR3ssbapVDg&s" group-title="Latinoamerica",Lat: Golf Hd
-http://latinapro.net:25461/lazaroperez/perez3/55321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat: EWTN (P)" tvg-logo="http://latinapro.net:25461/images/22d5e23f98c73f6175f6afc5166146d5.png" group-title="Latinoamerica",Lat: EWTN (P)
-http://latinapro.net:25461/lazaroperez/perez3/9668.m3u8
-
+EXTINF:-1 tvg-id="" tvg-name="DEP• TNT SPORTS AR (HD) »1«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TNT SPORTS AR (HD) »2«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TNT SPORTS AR (HD) »3«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR (HD) »1«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR (HD) »2«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR (HD) »3«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• CDO BASICO CL (HD) »1«" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_basico.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO BASICO CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/74106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• CDO PREMIUM CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/26000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• CDO PREMIUM CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/25999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN CL (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN CL (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN AR (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN AR (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN LAT (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN LAT (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN MX (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN MX (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN MX (HD) »3«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 CL (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 CL (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 CL (HD) »3«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 AR (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 AR (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 LAT (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 LAT (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 CL (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 CL (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 AR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 LAT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 MX (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 LAT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 AR (HD) »1«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 AR (HD) »2«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 AR (HD) »3«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 AR (HD) »4«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »1«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »2«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »3«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »4«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »2«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »1«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »2«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »1«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »2«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »3«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »4«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »5«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »5«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »3«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 3 AR (HD) »1«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 3 AR (HD) »2«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 3 AR (HD) »3«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 6 (HD) »1«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 6 (HD) »2«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CO (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS PE (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 CO (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CO (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 PE (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »3«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ CO (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CO (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ PE (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ PE (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 1 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 2 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 2 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 3 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 3 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 4 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 4 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 5 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 6 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• GOL TV EC (HD) »1«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• GOL TV EC (HD) »2«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• GOL TV EC (HD) »3«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• GOL TV EC (HD) »4«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• VTV UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• VTV UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• VTV UR (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• VTV+ UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• VTV+ UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. DEPORTES ES (HD)" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• LA LIGA TV ES (HD)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• REAL MADRID TV ES (HD)" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• LA LIGA TV BAR ES (HD)" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV BAR ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA ES (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA 2 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA 3 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 3 ES (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ELEVEN SPORTS 1 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 1 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ELEVEN SPORTS 2 PT (HD)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 2 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• SPORT TV 1 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 1 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• SPORT TV 2 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 2 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• SPORT TV 3 PT (HD)" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 3 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• SPORT TV 4 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 4 PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• SPORT TV+ PT (HD)" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV+ PT (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• EUROSPORT 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• EUROSPORT 2 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TUDN MX (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• AFIZZIONADOS MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• AFIZZIONADOS MX (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• GOLF CHANNEL MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• CLARO SPORTS CO (HD)" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• UFC (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• UFC (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• UFC FIGHT PASS (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC FIGHT PASS (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• WWE NETWORK (HD)" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• WWE NETWORK (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TENNIS CHANNEL (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TENNIS CHANNEL (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• COMBATE BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• COMBATE BR (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• RED BULL TV (HD)" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="→ DEPORTES LATINOS ←",DEP• RED BULL TV (HD)
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/584.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »1«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/86.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »2«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/87.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »3«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/88.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »4«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/89.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »1«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/61274.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »2«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/61275.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »3«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/61276.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/92.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/93.m3u8
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »3«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/96.m3u8
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »4«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/97.m3u8
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »1«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/98.m3u8
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/99.m3u8
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »3«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/56659.m3u8
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »4«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/56660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• ESPN (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/67188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• ESPN (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/67190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• ESPN (HD) »3«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/67191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• D13 (HD) »1«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/60957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• D13 (HD) »2«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/60958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• D13 (HD) »3«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/60959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• D13 (HD) »4«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/60960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/247836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/58289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »3«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/248240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »4«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »4«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/247839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/248242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »2«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/247844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/999682570tv/yyjd2u/248243.m3u8
