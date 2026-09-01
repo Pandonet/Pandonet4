@@ -12,11 +12,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SANTA CRUZ 
-http://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/79397.m3u8
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/269132.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL Full HD
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/269129.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",Unitel COCHABAMB@
-http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/464913.m3u8
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/269129.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CADENA A
 http://midns1.com:8080/Cristian3453/kRRVmR9VbB/190558.m3u8
 #EXTINF:-1 tvg-logo="https://pxcdn.reduno.com.bo/reduno/122017/1544505888786.webp?extw=png&cw=600&ch=365" group-title="General",RED UNO
@@ -31,12 +31,12 @@ https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
 https://rtp.noxun.net/hls720/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DANZ LA LIGA  OP
-http://mundo2.pro/live/usuario04GB/98hfu3Ewjdjs/406691.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ATB LA PAZ
+http://superxlatino.com:8880/kJLsCbk7e4jz/xDvtCWfwuAMg/464914
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",SERIES  24/7
 http://midns1.com:8080/Cristian3453/kRRVmR9VbB/493843.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",HBO POP
-http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/139.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DSPORT
+http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7H-sXAPphOit6jA0KWrYFaKBPNBYCM3RGQ&s" group-title="General",F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1280px-The_Simpsons_yellow_logo.svg.png" group-title="General", LOS SIMPSOM
@@ -86,13 +86,13 @@ http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/519.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN 2 CL
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/452.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ESPN 2 ARG
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/506.m3u8
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX  SPORT 1 ARG
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/456.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ESPN PREMIUM 
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/542.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX SPORT PREMIUM 1MEX
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/540.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FighT Box
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DirecTV SPORT cl
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/481.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",D SPORT Arg
@@ -101,10 +101,10 @@ http://midns1.com:8080/Cristian3453/kRRVmR9VbB/169946.m3u8
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/477.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Premiere Clubes 
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/568.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Premium SPN 
-http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/167727.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",VTV UR
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/558.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General", SPN  deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX DEPORTES 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",UFC
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/580.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="General",LA ODISEA (2026)
@@ -139,14 +139,14 @@ https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?auth-token=&platform=&dpssid=b220396327769c21a77cd0f3&sid=ba5t1l1xb2169677825869c21a77cd0f2&ndvc=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",EURO PORT HD
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/577.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",TUDN MX Sport 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/553.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",La liga tv Es
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/490.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",TyC SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/555.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",WIN SPORT COLOMBIA 
+http://starlatino.tv:8880/live/liliana18722/yubQnV5D7bDJ/437740.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48985d9dc0fd0b1ecac21b18ff6f0077.webp" group-title="General",Canela Narco-Drama En Vivo
 https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afTkeXGBGhp3jekam0vG1dQihOr.jpg" group-title="General",LOS CREYENTES(2026) 
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283081.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afTkeXGBGhp3jekam0vG1dQihOr.jpg" group-title="General",Regreso a las 90 (2026) 
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285242.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="General",EL COBRADOR DE DEUDAS (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="General",BALÍSTICO (2026)&#34;
@@ -329,10 +329,10 @@ http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554789.mp4
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263355.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HBO FAMILY 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301434.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="General",Golden premier 2
-http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301439.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="General",GOLDEN PREMIER 1
-http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301443.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="General",DirecTV SPORT HD
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/481.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="General",TNT SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/459.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE CANAL 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263281.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",National Geografic
@@ -371,8 +371,8 @@ http://38.87.224.19:2220/play/a02s/index.m3u8
 http://38.87.224.19:2220/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Nick junior 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/260544.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DAZN F1 SD
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/60349.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN PREMIUM 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/545.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LIGA DE CAMPEONES FHD
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/60283.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Cantinflas 24/7
@@ -381,14 +381,14 @@ http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526468.m3u8
 http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526416.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UNIFRANK
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PREMIERE 4
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/564.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PREMIERE 3
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/563.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CDO BÁSICO 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/74106.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN ARG
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/524.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Fox sport 3
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/455.m3u8
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/525.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 6
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/539.m3u8
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/526.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 7
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/453.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 5 
@@ -399,3 +399,7 @@ http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/517.m3u8
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/512.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CLARO SPORT CO
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/463.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",T&c SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/555.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FOX SPORT MX
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/534.m3u8
