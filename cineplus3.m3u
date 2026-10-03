@@ -1,469 +1,775 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Titanes del Pacífico: La insurrección (2018)" tvg-logo="http://redworld.pro:8880/images/5b802c44fcd9de49b74e89fb84eb93fe.jpg" group-title="⭐️Variadas",Titanes del Pacífico: La insurrección (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Todopoderoso (2003)" tvg-logo="http://redworld.pro:8880/images/7de4701eae070bc25674dcaf2984fb00.jpg" group-title="⭐️Variadas",Todopoderoso (2003)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tortugas Ninja 2: Fuera de las sombras (2016)" tvg-logo="http://redworld.pro:8880/images/58ce933a6f851330f4de647ab34f8207.jpg" group-title="⭐️Variadas",Tortugas Ninja 2: Fuera de las sombras (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story (1995)" tvg-logo="http://redworld.pro:8880/images/bdc0121979f2a5714419a8c57112b1f6.jpg" group-title="⭐️Variadas",Toy Story (1995)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2 (1999)" tvg-logo="http://redworld.pro:8880/images/ff334d1b56a696b9b244eaacb06d0c58.jpg" group-title="⭐️Variadas",Toy Story 2 (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3 (2010)" tvg-logo="http://redworld.pro:8880/images/ac0d240796a7d3400dd367d4e6d7ccda.jpg" group-title="⭐️Variadas",Toy Story 3 (2010)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers (2007)" tvg-logo="http://redworld.pro:8880/images/1fe2a2394d59669d0bb1a5f725183701.jpg" group-title="⭐️Variadas",Transformers (2007)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers: el lado oscuro de la luna (2011)" tvg-logo="http://redworld.pro:8880/images/1d2a9b6f7af90a8ed5769819d0446e9b.jpg" group-title="⭐️Variadas",Transformers: el lado oscuro de la luna (2011)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers: la venganza de los caídos (2009)" tvg-logo="http://redworld.pro:8880/images/c86ac041cfc7a193e4c3340892bfd122.jpg" group-title="⭐️Variadas",Transformers: la venganza de los caídos (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers 5: El Ultimo Caballero (2017)" tvg-logo="http://redworld.pro:8880/images/55207b54163b66403516b0cda6d67011.jpg" group-title="⭐️Variadas",Transformers 5: El Ultimo Caballero (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una Pareja de Idiotas 2 (2014)" tvg-logo="http://redworld.pro:8880/images/e5be753a1bb6dfab90ddcbf36671d94f.jpg" group-title="⭐️Variadas",Una Pareja de Idiotas 2 (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una película de huevos (2006)" tvg-logo="http://redworld.pro:8880/images/81555253c2b5fbcaef9293175447d3bf.jpg" group-title="⭐️Variadas",Una película de huevos (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Under Siege \ (1992)" tvg-logo="http://redworld.pro:8880/images/81555253c2b5fbcaef9293175447d3bf.jpg" group-title="⭐️Variadas",Under Siege \ (1992)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Under Siege 2 Dark Territory \ (1995)" tvg-logo="http://redworld.pro:8880/images/81555253c2b5fbcaef9293175447d3bf.jpg" group-title="⭐️Variadas",Under Siege 2 Dark Territory \ (1995)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un detective suelto en Hollywood (1984)" tvg-logo="http://redworld.pro:8880/images/4f027af605aedbdd309eff9869ea75d3.jpg" group-title="⭐️Variadas",Un detective suelto en Hollywood (1984)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un detective suelto en Hollywood II (1987)" tvg-logo="http://redworld.pro:8880/images/d881ba9452cbeb0cc7d24d3df8ddd900.jpg" group-title="⭐️Variadas",Un detective suelto en Hollywood II (1987)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un detective suelto en Hollywood III (1994)" tvg-logo="http://redworld.pro:8880/images/22f9ddf68fcc4e77d7e46f2b8092f2c1.jpg" group-title="⭐️Variadas",Un detective suelto en Hollywood III (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un gallo con muchos huevos (2015)" tvg-logo="http://redworld.pro:8880/images/88bdbc41ad9336ee29e77a68194e0aa4.jpg" group-title="⭐️Variadas",Un gallo con muchos huevos (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Paso Adelante 2: Las calles (2008)" tvg-logo="http://redworld.pro:8880/images/5da299ee46d03eea6881fc7baad20283.jpg" group-title="⭐️Variadas",Un Paso Adelante 2: Las calles (2008)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Paso Adelante 5 (2014)" tvg-logo="http://redworld.pro:8880/images/43bc7a03d21fb3477380f6b140667a63.jpg" group-title="⭐️Variadas",Un Paso Adelante 5 (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vengadores- Endgame \ (2019)" tvg-logo="http://redworld.pro:8880/images/43bc7a03d21fb3477380f6b140667a63.jpg" group-title="⭐️Variadas",Vengadores- Endgame \ (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vengadores- Infinity War \ (2018)" tvg-logo="http://redworld.pro:8880/images/43bc7a03d21fb3477380f6b140667a63.jpg" group-title="⭐️Variadas",Vengadores- Infinity War \ (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas: Insurrección (1998)" tvg-logo="http://redworld.pro:8880/images/70dcb98649291d43909b464fbce9c799.jpg" group-title="⭐️Variadas",Viaje a las estrellas: Insurrección (1998)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas: La película (1979)" tvg-logo="http://redworld.pro:8880/images/0b7f0acaa79e858df68fd655be5f17ac.jpg" group-title="⭐️Variadas",Viaje a las estrellas: La película (1979)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas: Némesis (2002)" tvg-logo="http://redworld.pro:8880/images/0fad2ded3ae174726e9f603e6543bed6.jpg" group-title="⭐️Variadas",Viaje a las estrellas: Némesis (2002)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560792.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas II: La ira de Khan (1982)" tvg-logo="http://redworld.pro:8880/images/e4428c8cd88cca6a2322d975121034c3.jpg" group-title="⭐️Variadas",Viaje a las estrellas II: La ira de Khan (1982)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las Estrellas III: La Búsqueda de Spock (1984)" tvg-logo="http://redworld.pro:8880/images/8755a90bcc2e235a6ed8247523f0390e.jpg" group-title="⭐️Variadas",Viaje a las Estrellas III: La Búsqueda de Spock (1984)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560794.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas IV: Misión salvar a la Tierra (1986)" tvg-logo="http://redworld.pro:8880/images/02b55e2fa4932b1b02ff2d83c20f9511.jpg" group-title="⭐️Variadas",Viaje a las estrellas IV: Misión salvar a la Tierra (1986)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560795.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas V: La última frontera (1989)" tvg-logo="http://redworld.pro:8880/images/e07fb06aa44386e264013297b3a4a9c9.jpg" group-title="⭐️Variadas",Viaje a las estrellas V: La última frontera (1989)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas VII: Generaciones (1994)" tvg-logo="http://redworld.pro:8880/images/e9dfde67d6ec1702e054d2e44297822d.jpg" group-title="⭐️Variadas",Viaje a las estrellas VII: Generaciones (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560797.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje a las estrellas VIII: Primer Contacto (1996)" tvg-logo="http://redworld.pro:8880/images/2871b1e9f4262e381021f215dc3c1c4c.jpg" group-title="⭐️Variadas",Viaje a las estrellas VIII: Primer Contacto (1996)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560798.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (1980)" tvg-logo="http://redworld.pro:8880/images/b6e269ab251afd3d5d14e56e6202488d.jpg" group-title="⭐️Variadas",Viernes 13 (1980)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560799.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009)" tvg-logo="http://redworld.pro:8880/images/2e0544e79c38fa1374aa2716d9915e45.jpg" group-title="⭐️Variadas",Viernes 13 (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560800.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Volver al Futuro 2 (1989)" tvg-logo="http://redworld.pro:8880/images/507cc78d9951f8233c30855261e2066b.jpg" group-title="⭐️Variadas",Volver al Futuro 2 (1989)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560801.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Volver al Futuro 3 (1990)" tvg-logo="http://redworld.pro:8880/images/e2bb2d8cc75fbc99356e41d63b0f72bc.jpg" group-title="⭐️Variadas",Volver al Futuro 3 (1990)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wishmaster 3: La piedra del diablo (2001)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wishmaster 3: La piedra del diablo (2001)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560803.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn \ (2003)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wrong Turn \ (2003)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560804.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 2 Dead End \ (2007)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wrong Turn 2 Dead End \ (2007)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560805.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 3 Left for Dead \ (2009)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wrong Turn 3 Left for Dead \ (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560806.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 4 Bloody Beginnings \ (2011)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wrong Turn 4 Bloody Beginnings \ (2011)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560807.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 5 Bloodlines \ (2012)" tvg-logo="http://redworld.pro:8880/images/5f76c844bde013fcb49e312992d31d09.jpg" group-title="⭐️Variadas",Wrong Turn 5 Bloodlines \ (2012)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560808.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men (2000)" tvg-logo="http://redworld.pro:8880/images/7820ec08f27ccd14e6e57568cb8409b7.jpg" group-title="⭐️Variadas",X-Men (2000)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560809.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dark Phoenix (2019)" tvg-logo="http://redworld.pro:8880/images/423cdaa3f1516d26c71bb28bdec7f2b7.jpg" group-title="⭐️Variadas",X-Men: Dark Phoenix (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primera generación (2011)" tvg-logo="http://redworld.pro:8880/images/a564e92bc016207de4298e5992400956.jpg" group-title="⭐️Variadas",X-Men: Primera generación (2011)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560811.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 3: La Batalla Final (2006)" tvg-logo="http://redworld.pro:8880/images/b747ea663d434ef593faf0d34dadd3a9.jpg" group-title="⭐️Variadas",X-Men 3: La Batalla Final (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men orígenes: Wolverine (2009)" tvg-logo="http://redworld.pro:8880/images/42df13db98e9ef365b956971ca37e2e5.jpg" group-title="⭐️Variadas",X-Men orígenes: Wolverine (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombie a los 17 (2018)" tvg-logo="http://redworld.pro:8880/images/1f89b172d2e2d933c22fd6c1df94bcde.jpg" group-title="⭐️Variadas",Zombie a los 17 (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombieland (2009)" tvg-logo="http://redworld.pro:8880/images/9b5c5884a5c8cc742652d54f8b4a00bb.jpg" group-title="⭐️Variadas",Zombieland (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombieland 2: Tiro de Gracia (2019)" tvg-logo="http://redworld.pro:8880/images/4d8b661e69eb8fe6a9978eb4df5c057e.jpg" group-title="⭐️Variadas",Zombieland 2: Tiro de Gracia (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zoolander (2001)" tvg-logo="http://redworld.pro:8880/images/7abf61d1e601b616382cb1021964c338.jpg" group-title="⭐️Variadas",Zoolander (2001)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zoolander 2 (2016)" tvg-logo="http://redworld.pro:8880/images/649ffe78181df453da2c3d23b2a535cd.jpg" group-title="⭐️Variadas",Zoolander 2 (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Conoces a Tomás? (2019)" tvg-logo="http://redworld.pro:8880/images/e3dec213e0c1302ce1082e933bcd2237.jpg" group-title="⭐️Variadas",¿Conoces a Tomás? (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️MLS-INTER MIAMI EXCLUSIVO⭐️",SEÑAL EXCLUSIVA
-http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/533062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Raygun, la breakdancer viral (2026)" tvg-logo="http://redworld.pro:8880/images/56ef45e6a865676b28382dafb2b64f90.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Al descubierto: Raygun, la breakdancer viral (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Ultima Escena [Öngörü] (2026)" tvg-logo="http://redworld.pro:8880/images/3d1301b418afa1bc34e934a944043cf5.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La Ultima Escena [Öngörü] (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abraham \ (1993)" tvg-logo="http://redworld.pro:8880/images/3d1301b418afa1bc34e934a944043cf5.jpg" group-title="✝️ Semana Santa ✝️",Abraham \ (1993)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abraham El Sacrificio de Issac \ (1985)" tvg-logo="http://redworld.pro:8880/images/3d1301b418afa1bc34e934a944043cf5.jpg" group-title="✝️ Semana Santa ✝️",Abraham El Sacrificio de Issac \ (1985)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Altos instintos (1995)" tvg-logo="http://redworld.pro:8880/images/0ff45aba63e206ebe84db9839fbb61fd.jpg" group-title="✝️ Semana Santa ✝️",Altos instintos (1995)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apóstol Pedro Y La Ultima Cena \ (2012)" tvg-logo="http://redworld.pro:8880/images/0ff45aba63e206ebe84db9839fbb61fd.jpg" group-title="✝️ Semana Santa ✝️",Apóstol Pedro Y La Ultima Cena \ (2012)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barrabás (1961)" tvg-logo="http://redworld.pro:8880/images/85576ea12ec21d7a518f08323765ab14.jpg" group-title="✝️ Semana Santa ✝️",Barrabás (1961)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ben-Hur (2016)" tvg-logo="http://redworld.pro:8880/images/da97c319645caea326009fb3b84c9156.jpg" group-title="✝️ Semana Santa ✝️",Ben-Hur (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cadena de Favores (2000)" tvg-logo="http://redworld.pro:8880/images/194d988231c47b940a22dc81447f00b2.jpg" group-title="✝️ Semana Santa ✝️",Cadena de Favores (2000)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cicatrices (2005)" tvg-logo="http://redworld.pro:8880/images/3691a45c772cb158f0c16618b071b766.jpg" group-title="✝️ Semana Santa ✝️",Cicatrices (2005)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Conversaciones con Dios \ (2006)" tvg-logo="http://redworld.pro:8880/images/3691a45c772cb158f0c16618b071b766.jpg" group-title="✝️ Semana Santa ✝️",Conversaciones con Dios \ (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crónicas de la persecución religiosa en China (2017)" tvg-logo="http://redworld.pro:8880/images/99cf4c23b94e4a701da3ca874f5cdb51.jpg" group-title="✝️ Semana Santa ✝️",Crónicas de la persecución religiosa en China (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuarto de guerra (2015)" tvg-logo="http://redworld.pro:8880/images/f9d2c22804325c9d0f2a2e48e63cd85f.jpg" group-title="✝️ Semana Santa ✝️",Cuarto de guerra (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="David y Betsabé (1951)" tvg-logo="http://redworld.pro:8880/images/c1fe6966f997d68ce3f29b36eaa7d93e.jpg" group-title="✝️ Semana Santa ✝️",David y Betsabé (1951)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="David y Goliath (2015)" tvg-logo="http://redworld.pro:8880/images/c7e2017589a48ea3ae247c3f1c66c9f8.jpg" group-title="✝️ Semana Santa ✝️",David y Goliath (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560838.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demetrio el gladiador (1954)" tvg-logo="http://redworld.pro:8880/images/61644b72d7606efb8eb299f396b0dde5.jpg" group-title="✝️ Semana Santa ✝️",Demetrio el gladiador (1954)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dios en el camino (2018)" tvg-logo="http://redworld.pro:8880/images/276b5ada1b0e0f36c4eb8c5682c6bee9.jpg" group-title="✝️ Semana Santa ✝️",Dios en el camino (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don Bosco (2004)" tvg-logo="http://redworld.pro:8880/images/c353ff81ef1df1223e88327b3a1cc802.jpg" group-title="✝️ Semana Santa ✝️",Don Bosco (2004)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El beso de Judas (1954)" tvg-logo="http://redworld.pro:8880/images/2deed7e387b48091c13b2d71598c7aa8.jpg" group-title="✝️ Semana Santa ✝️",El beso de Judas (1954)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El cielo sí existe (2014)" tvg-logo="http://redworld.pro:8880/images/96a71862c82d75456cc279f885385b92.jpg" group-title="✝️ Semana Santa ✝️",El cielo sí existe (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Cuarto Rey Mago (1985)" tvg-logo="http://redworld.pro:8880/images/a975c61b313fd7216fac918246c135a8.jpg" group-title="✝️ Semana Santa ✝️",El Cuarto Rey Mago (1985)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El enviado de Dios (2017)" tvg-logo="http://redworld.pro:8880/images/d3fb57835c278ef1657eacc6ef145d98.jpg" group-title="✝️ Semana Santa ✝️",El enviado de Dios (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Genesis \ (1994)" tvg-logo="http://redworld.pro:8880/images/d3fb57835c278ef1657eacc6ef145d98.jpg" group-title="✝️ Semana Santa ✝️",El Genesis \ (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El joven Mesías \ (2016)" tvg-logo="http://redworld.pro:8880/images/d3fb57835c278ef1657eacc6ef145d98.jpg" group-title="✝️ Semana Santa ✝️",El joven Mesías \ (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Libro de Daniel (2013)" tvg-logo="http://redworld.pro:8880/images/4b59e3c6d9fcd296ea496f68fb38de99.jpg" group-title="✝️ Semana Santa ✝️",El Libro de Daniel (2013)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="el nacimiento \ (2006)" tvg-logo="http://redworld.pro:8880/images/4b59e3c6d9fcd296ea496f68fb38de99.jpg" group-title="✝️ Semana Santa ✝️",el nacimiento \ (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Poder de la Cruz (2015)" tvg-logo="http://redworld.pro:8880/images/4ee216b62e230642828628918cdba62c.jpg" group-title="✝️ Semana Santa ✝️",El Poder de la Cruz (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El proscrito de Dios (1986)" tvg-logo="http://redworld.pro:8880/images/132337cde7f3ca1e2eb33bb9733ded57.jpg" group-title="✝️ Semana Santa ✝️",El proscrito de Dios (1986)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Remanente (2014)" tvg-logo="http://redworld.pro:8880/images/74f7a5d4b032625d53f640144cae9f6d.jpg" group-title="✝️ Semana Santa ✝️",El Remanente (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En busca de la tumba de Cristo \ (1986)" tvg-logo="http://redworld.pro:8880/images/74f7a5d4b032625d53f640144cae9f6d.jpg" group-title="✝️ Semana Santa ✝️",En busca de la tumba de Cristo \ (1986)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esther \ (1999)" tvg-logo="http://redworld.pro:8880/images/74f7a5d4b032625d53f640144cae9f6d.jpg" group-title="✝️ Semana Santa ✝️",Esther \ (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extraviado (2019)" tvg-logo="http://redworld.pro:8880/images/b80ffc2c87d636a121fe16c3930e476b.jpg" group-title="✝️ Semana Santa ✝️",Extraviado (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hasta el Último Hombre (2016)" tvg-logo="http://redworld.pro:8880/images/d2d91f6ea9207d0ab46eb383a8966055.jpg" group-title="✝️ Semana Santa ✝️",Hasta el Último Hombre (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hijo de Dios (2014)" tvg-logo="http://redworld.pro:8880/images/61c249f75524121312dc43ff3e7cad51.jpg" group-title="✝️ Semana Santa ✝️",Hijo de Dios (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Historia de una monja (1959)" tvg-logo="http://redworld.pro:8880/images/1a6c7c55565a2534ad0e003b3bc16aa5.jpg" group-title="✝️ Semana Santa ✝️",Historia de una monja (1959)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indivisible (2018)" tvg-logo="http://redworld.pro:8880/images/638ea11bbe90b4ea530d38c94f1dc259.jpg" group-title="✝️ Semana Santa ✝️",Indivisible (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inri. La película de la Semana Santa de Estepa (2020)" tvg-logo="http://redworld.pro:8880/images/8b2d557e849c4d16517300ca4252429c.jpg" group-title="✝️ Semana Santa ✝️",Inri. La película de la Semana Santa de Estepa (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jacob \ (1994)" tvg-logo="http://redworld.pro:8880/images/8b2d557e849c4d16517300ca4252429c.jpg" group-title="✝️ Semana Santa ✝️",Jacob \ (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jesús\; La Historia verdadera \ (1999)" tvg-logo="http://redworld.pro:8880/images/8b2d557e849c4d16517300ca4252429c.jpg" group-title="✝️ Semana Santa ✝️",Jesús\; La Historia verdadera \ (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="José: El Rey de los Sueños (2000)" tvg-logo="http://redworld.pro:8880/images/19522a672aec55724992241792f77849.jpg" group-title="✝️ Semana Santa ✝️",José: El Rey de los Sueños (2000)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Judas (2004)" tvg-logo="http://redworld.pro:8880/images/9f12d5ce08fea9015a142c489143f173.jpg" group-title="✝️ Semana Santa ✝️",Judas (2004)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Judas El Ulimo Acto de traición \ (2004)" tvg-logo="http://redworld.pro:8880/images/9f12d5ce08fea9015a142c489143f173.jpg" group-title="✝️ Semana Santa ✝️",Judas El Ulimo Acto de traición \ (2004)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La agonía y el éxtasis (1965)" tvg-logo="http://redworld.pro:8880/images/0bd68f0180774de9a75a6880f4c907a4.jpg" group-title="✝️ Semana Santa ✝️",La agonía y el éxtasis (1965)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia- Abraham \ (1993)" tvg-logo="http://redworld.pro:8880/images/0bd68f0180774de9a75a6880f4c907a4.jpg" group-title="✝️ Semana Santa ✝️",La Biblia- Abraham \ (1993)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia- Abraham El sacrificio de Isaac \ (1995)" tvg-logo="http://redworld.pro:8880/images/0bd68f0180774de9a75a6880f4c907a4.jpg" group-title="✝️ Semana Santa ✝️",La Biblia- Abraham El sacrificio de Isaac \ (1995)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: David (1997)" tvg-logo="http://redworld.pro:8880/images/54a8728d3a410c1b587342d8620deafa.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: David (1997)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: Ester (1999)" tvg-logo="http://redworld.pro:8880/images/eb829c0b6fda9320590119151caadf76.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: Ester (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: Génesis (1994)" tvg-logo="http://redworld.pro:8880/images/61ad81ab7f885b72927b2218654877a0.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: Génesis (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: Jacob (1994)" tvg-logo="http://redworld.pro:8880/images/1663d654ef92fe7b09747bbd725466c0.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: Jacob (1994)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La biblia :Jesús (1999)" tvg-logo="http://redworld.pro:8880/images/fb5176e4a595b0836b19c1bae12fece4.jpg" group-title="✝️ Semana Santa ✝️",La biblia :Jesús (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La biblia :Jesús (1999)" tvg-logo="http://redworld.pro:8880/images/fb5176e4a595b0836b19c1bae12fece4.jpg" group-title="✝️ Semana Santa ✝️",La biblia :Jesús (1999)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: Pablo de Tarso (2000)" tvg-logo="http://redworld.pro:8880/images/415453aef8ba6da5cf10458ac9d497f8.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: Pablo de Tarso (2000)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Biblia: Salomón (1997)" tvg-logo="http://redworld.pro:8880/images/1da849a1fa10ffec7ba0c268bd2cfeaf.jpg" group-title="✝️ Semana Santa ✝️",La Biblia: Salomón (1997)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La espina de Dios (2015)" tvg-logo="http://redworld.pro:8880/images/281fd5720a2d3dd291710078cc190c48.jpg" group-title="✝️ Semana Santa ✝️",La espina de Dios (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Historia de David \ (1997)" tvg-logo="http://redworld.pro:8880/images/281fd5720a2d3dd291710078cc190c48.jpg" group-title="✝️ Semana Santa ✝️",La Historia de David \ (1997)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Pasion de Cristo - The Passion of the Christ \ (2004)" tvg-logo="http://redworld.pro:8880/images/281fd5720a2d3dd291710078cc190c48.jpg" group-title="✝️ Semana Santa ✝️",La Pasion de Cristo - The Passion of the Christ \ (2004)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pasión de Cristo (2004)" tvg-logo="http://redworld.pro:8880/images/ce822852975089e424b4c1a8343cd2ec.jpg" group-title="✝️ Semana Santa ✝️",La pasión de Cristo (2004)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la película animada \ (2003)" tvg-logo="http://redworld.pro:8880/images/ce822852975089e424b4c1a8343cd2ec.jpg" group-title="✝️ Semana Santa ✝️",la película animada \ (2003)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La virgen de Guadalupe (1976)" tvg-logo="http://redworld.pro:8880/images/0c3a410b009754f87a2ce05a5186ad4c.jpg" group-title="✝️ Semana Santa ✝️",La virgen de Guadalupe (1976)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="levántate\)" tvg-logo="http://redworld.pro:8880/images/0c3a410b009754f87a2ce05a5186ad4c.jpg" group-title="✝️ Semana Santa ✝️",levántate\)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Diez Mandamientos (1956)" tvg-logo="http://redworld.pro:8880/images/96f27bb8e727de9352582346841fc7b1.jpg" group-title="✝️ Semana Santa ✝️",Los Diez Mandamientos (1956)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="los sueños del faraón \ (1995)" tvg-logo="http://redworld.pro:8880/images/96f27bb8e727de9352582346841fc7b1.jpg" group-title="✝️ Semana Santa ✝️",los sueños del faraón \ (1995)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Magdalena\; De la verguenza a la Libertad \ (2007)" tvg-logo="http://redworld.pro:8880/images/96f27bb8e727de9352582346841fc7b1.jpg" group-title="✝️ Semana Santa ✝️",Magdalena\; De la verguenza a la Libertad \ (2007)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="María Magdalena (2018)" tvg-logo="http://redworld.pro:8880/images/9da6551c30bb6027e37b43461b2c2181.jpg" group-title="✝️ Semana Santa ✝️",María Magdalena (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Masada \ (1981)" tvg-logo="http://redworld.pro:8880/images/9da6551c30bb6027e37b43461b2c2181.jpg" group-title="✝️ Semana Santa ✝️",Masada \ (1981)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Me enamoré de una chica cristiana (2013)" tvg-logo="http://redworld.pro:8880/images/0a8daa40cf757903e173bed8497f4a7c.jpg" group-title="✝️ Semana Santa ✝️",Me enamoré de una chica cristiana (2013)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Milagro en la Celda 7 (2019)" tvg-logo="http://redworld.pro:8880/images/38b486917d6ad613fc9157181293484d.jpg" group-title="✝️ Semana Santa ✝️",Milagro en la Celda 7 (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Milagros del Cielo (2016)" tvg-logo="http://redworld.pro:8880/images/7de1af958175990716c6ba6319d81d08.jpg" group-title="✝️ Semana Santa ✝️",Milagros del Cielo (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No pierdas la fe \ (2006)" tvg-logo="http://redworld.pro:8880/images/7de1af958175990716c6ba6319d81d08.jpg" group-title="✝️ Semana Santa ✝️",No pierdas la fe \ (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Night with the King (2006)" tvg-logo="http://redworld.pro:8880/images/5b2e96d82e8f4b28a69bacc42107415e.jpg" group-title="✝️ Semana Santa ✝️",One Night with the King (2006)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos - O Filme \ (2016)" tvg-logo="http://redworld.pro:8880/images/5b2e96d82e8f4b28a69bacc42107415e.jpg" group-title="✝️ Semana Santa ✝️",Os Dez Mandamentos - O Filme \ (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pablo el apóstol de Cristo (2018)" tvg-logo="http://redworld.pro:8880/images/aea8edff26c3270adc3e59d8c42d10d1.jpg" group-title="✝️ Semana Santa ✝️",Pablo el apóstol de Cristo (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ponzio Pilato (1962)" tvg-logo="http://redworld.pro:8880/images/8f39c06042a3e457f5dcadc94801ef90.jpg" group-title="✝️ Semana Santa ✝️",Ponzio Pilato (1962)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quién mató a Jesús (2015)" tvg-logo="http://redworld.pro:8880/images/b17b2a8e616750f5ae1838c0d2fcc320.jpg" group-title="✝️ Semana Santa ✝️",Quién mató a Jesús (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quo Vadis - Parte 1 \ (1951)" tvg-logo="http://redworld.pro:8880/images/b17b2a8e616750f5ae1838c0d2fcc320.jpg" group-title="✝️ Semana Santa ✝️",Quo Vadis - Parte 1 \ (1951)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quo Vadis - Parte 2 \ (1951)" tvg-logo="http://redworld.pro:8880/images/b17b2a8e616750f5ae1838c0d2fcc320.jpg" group-title="✝️ Semana Santa ✝️",Quo Vadis - Parte 2 \ (1951)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reto de Valientes (2011)" tvg-logo="http://redworld.pro:8880/images/0af1655ff9f8f1860ba105be70861843.jpg" group-title="✝️ Semana Santa ✝️",Reto de Valientes (2011)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rey de reyes (1961)" tvg-logo="http://redworld.pro:8880/images/ec2a3d9a3febebc4e81248daa0238367.jpg" group-title="✝️ Semana Santa ✝️",Rey de reyes (1961)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salomé (1953)" tvg-logo="http://redworld.pro:8880/images/40fa7b9a4b016305ed5d17e95d2fea80.jpg" group-title="✝️ Semana Santa ✝️",Salomé (1953)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salomón \ (1997)" tvg-logo="http://redworld.pro:8880/images/40fa7b9a4b016305ed5d17e95d2fea80.jpg" group-title="✝️ Semana Santa ✝️",Salomón \ (1997)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salvar una vida (2009)" tvg-logo="http://redworld.pro:8880/images/8726ed8434cf56996f01cca50ce98db9.jpg" group-title="✝️ Semana Santa ✝️",Salvar una vida (2009)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sansón (2018)" tvg-logo="http://redworld.pro:8880/images/ce067da616d94b970cd51b2162dac5c0.jpg" group-title="✝️ Semana Santa ✝️",Sansón (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Si solo pudiera imaginar (2018)" tvg-logo="http://redworld.pro:8880/images/79e0b13d19cc39e10722a05b87a485e1.jpg" group-title="✝️ Semana Santa ✝️",Si solo pudiera imaginar (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teresa (2015)" tvg-logo="http://redworld.pro:8880/images/764c4e61cc9f3cec6e48dfb7f48fe0a0.jpg" group-title="✝️ Semana Santa ✝️",Teresa (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una cuestión de fe (2017)" tvg-logo="http://redworld.pro:8880/images/474b053fab3deaaf65adefa34f7ab1f2.jpg" group-title="✝️ Semana Santa ✝️",Una cuestión de fe (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un amor inquebrantable (2019)" tvg-logo="http://redworld.pro:8880/images/49247f73815b38bf99af805a91229c9c.jpg" group-title="✝️ Semana Santa ✝️",Un amor inquebrantable (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un cruce en el destino \ (2007)" tvg-logo="http://redworld.pro:8880/images/49247f73815b38bf99af805a91229c9c.jpg" group-title="✝️ Semana Santa ✝️",Un cruce en el destino \ (2007)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uno de vosotros me traicionará \ (2007)" tvg-logo="http://redworld.pro:8880/images/49247f73815b38bf99af805a91229c9c.jpg" group-title="✝️ Semana Santa ✝️",Uno de vosotros me traicionará \ (2007)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Éxodo: Dioses y Reyes (2014)" tvg-logo="http://redworld.pro:8880/images/3c2ab81cfb6eb7f06628bfd3639bcdb0.jpg" group-title="✝️ Semana Santa ✝️",Éxodo: Dioses y Reyes (2014)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bull: La hora de la venganza (2021)" tvg-logo="http://redworld.pro:8880/images/22f82a03ae52aaca836a202ff24f26f4.jpg" group-title="⭐️Películas 2021",Bull: La hora de la venganza (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu  (2026)" tvg-logo="http://redworld.pro:8880/images/7dc37b80b71ea70ff41130184cb70bb6.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Star Wars: The Mandalorian and Grogu  (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars: The Mandalorian (2026)" tvg-logo="http://redworld.pro:8880/images/b78fef6a797f698c573dcb883f728e2b.jpg" group-title="⭐️ Estrenos 2026 ⭐️",LEGO Star Wars: The Mandalorian (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Te extraño, te amo (2026)" tvg-logo="http://redworld.pro:8880/images/7d07252fbc740db33f60a16e283d07ef.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Te extraño, te amo (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la carrera (2026)" tvg-logo="http://redworld.pro:8880/images/b17eb613365675ee68109227a0eaf735.jpg" group-title="⭐️ Estrenos 2026 ⭐️",A la carrera (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DW | Español" tvg-logo="http://redworld.pro:8880/images/936c91c5cd525a1c9208d69b3a0cab87.jpg" group-title="⭐️ CULTURA",DW | Español
-http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/560932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Clash of the Thundermans (2026)" tvg-logo="http://redworld.pro:8880/images/c5963926dc252b8012058336fe47434d.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Clash of the Thundermans (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Una tóxica historia de amor (2026)" tvg-logo="http://redworld.pro:8880/images/a3a991bddcc6280610df347c6beaba08.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Una tóxica historia de amor (2026)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL MAX(solo eventos)" tvg-logo="http://redworld.pro:8880/images/7e126cd0391933708601269cb709ad62.png" group-title="⚽ FÚTBOL CHILE",SEÑAL MAX(solo eventos)
-http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/560966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL MAX EXCLUSIVA (solo eventos)" tvg-logo="http://redworld.pro:8880/images/7e126cd0391933708601269cb709ad62.png" group-title="⭐️ CHILE DEPORTE",SEÑAL MAX EXCLUSIVA (solo eventos)
-http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/560967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2 Corazones (2020)" tvg-logo="http://redworld.pro:8880/images/4d53d289db019c8bbead0c6ac6d4beda.jpg" group-title="⭐️Netflix",2 Corazones (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02 GB" tvg-logo="http://redworld.pro:8880/images/4d53d289db019c8bbead0c6ac6d4beda.jpg" group-title="⭐️Netflix",02 GB
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7 Women and a Murder \ (2021)" tvg-logo="http://redworld.pro:8880/images/4d53d289db019c8bbead0c6ac6d4beda.jpg" group-title="⭐️Netflix",7 Women and a Murder \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560970.mkv
-#EXTINF:-1 tvg-id="" tvg-name="13: El musical (2022)" tvg-logo="http://redworld.pro:8880/images/7e55f7e519d8cc819c24b743868a6957.jpg" group-title="⭐️Netflix",13: El musical (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560971.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" 1976 (1976)" tvg-logo="http://redworld.pro:8880/images/7e55f7e519d8cc819c24b743868a6957.jpg" group-title="⭐️Netflix", 1976 (1976)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560972.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" 2012 (2012)" tvg-logo="http://redworld.pro:8880/images/7e55f7e519d8cc819c24b743868a6957.jpg" group-title="⭐️Netflix", 2012 (2012)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560973.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Boy Called Christmas \ (2021)" tvg-logo="http://redworld.pro:8880/images/7e55f7e519d8cc819c24b743868a6957.jpg" group-title="⭐️Netflix",A Boy Called Christmas \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560974.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adam Devine: Best Time of Our Lives (2019)" tvg-logo="http://redworld.pro:8880/images/2558ba1f899a3170a80ccfff625c81bd.jpg" group-title="⭐️Netflix",Adam Devine: Best Time of Our Lives (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560975.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler: Love You (2024)" tvg-logo="http://redworld.pro:8880/images/bd3d7d82417b19adff4629e78a5e5c92.jpg" group-title="⭐️Netflix",Adam Sandler: Love You (2024)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560976.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ad Astra: Hacia las estrellas (2019)" tvg-logo="http://redworld.pro:8880/images/e536f2b5b44f009363fd8bcf55e8e122.jpg" group-title="⭐️Netflix",Ad Astra: Hacia las estrellas (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560977.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Afterlife of the Party \ (2021)" tvg-logo="http://redworld.pro:8880/images/e536f2b5b44f009363fd8bcf55e8e122.jpg" group-title="⭐️Netflix",Afterlife of the Party \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Against the Ice \ (2022)" tvg-logo="http://redworld.pro:8880/images/e536f2b5b44f009363fd8bcf55e8e122.jpg" group-title="⭐️Netflix",Against the Ice \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560979.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí te encargo (2020)" tvg-logo="http://redworld.pro:8880/images/c993c7e7f8d1881d93582397a993c20c.jpg" group-title="⭐️Netflix",Ahí te encargo (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A La Mierda Con Los Zombis (2015)" tvg-logo="http://redworld.pro:8880/images/25584cf78a88a2ed31b023266290c49f.jpg" group-title="⭐️Netflix",A La Mierda Con Los Zombis (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560981.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alan Saldaña: encarcelado (2021)" tvg-logo="http://redworld.pro:8880/images/6e8b114ddb6d40f7298051269f476360.jpg" group-title="⭐️Netflix",Alan Saldaña: encarcelado (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560982.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Hope Solo vs. Federación de Fútbol de EE. UU. (2024)" tvg-logo="http://redworld.pro:8880/images/ff0c3baa7687cb9748f3f19f82fc5870.jpg" group-title="⭐️Netflix",Al descubierto: Hope Solo vs. Federación de Fútbol de EE. UU. (2024)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alerta roja (2021)" tvg-logo="http://redworld.pro:8880/images/8a034d4f600502a2f6d83fceb8b0b3af.jpg" group-title="⭐️Netflix",Alerta roja (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alfa (2016)" tvg-logo="http://redworld.pro:8880/images/abd4c0cba0ec6415666f1be0e16d2152.jpg" group-title="⭐️Netflix",Alfa (2016)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Algo embarazada (2025)" tvg-logo="http://redworld.pro:8880/images/eab3e5405a3a096c1880095fbcaee729.jpg" group-title="⭐️Netflix",Algo embarazada (2025)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All My Friends Are Dead \ (2020)" tvg-logo="http://redworld.pro:8880/images/eab3e5405a3a096c1880095fbcaee729.jpg" group-title="⭐️Netflix",All My Friends Are Dead \ (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All Quiet on the Western Front \ (2022)" tvg-logo="http://redworld.pro:8880/images/eab3e5405a3a096c1880095fbcaee729.jpg" group-title="⭐️Netflix",All Quiet on the Western Front \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon: Reenfundados (2020)" tvg-logo="http://redworld.pro:8880/images/d7eccce0d8c310b0931ffff9da539179.jpg" group-title="⭐️Netflix",Altered Carbon: Reenfundados (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Madea Homecoming \ (2022)" tvg-logo="http://redworld.pro:8880/images/d7eccce0d8c310b0931ffff9da539179.jpg" group-title="⭐️Netflix",A Madea Homecoming \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560990.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor Adulto (2022)" tvg-logo="http://redworld.pro:8880/images/5c5df07913933acfc3dde508597e2b37.jpg" group-title="⭐️Netflix",Amor Adulto (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor de madre (2022)" tvg-logo="http://redworld.pro:8880/images/bb78eab37d478ceb1329b01c04100e81.jpg" group-title="⭐️Netflix",Amor de madre (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amores Caníbales (2017)" tvg-logo="http://redworld.pro:8880/images/fb55c39b13e2015c975e4d50a80f2a78.jpg" group-title="⭐️Netflix",Amores Caníbales (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amy Schumer: Growing (2019)" tvg-logo="http://redworld.pro:8880/images/59133aaa7b492a0e45ff843668576c50.jpg" group-title="⭐️Netflix",Amy Schumer: Growing (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Naija Christmas \ (2021)" tvg-logo="http://redworld.pro:8880/images/59133aaa7b492a0e45ff843668576c50.jpg" group-title="⭐️Netflix",A Naija Christmas \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Night at the Kindergarten  \ (2022)" tvg-logo="http://redworld.pro:8880/images/59133aaa7b492a0e45ff843668576c50.jpg" group-title="⭐️Netflix",A Night at the Kindergarten  \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anon (2018)" tvg-logo="http://redworld.pro:8880/images/03bf8074f57890f61089678034886d4b.jpg" group-title="⭐️Netflix",Anon (2018)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anthony Jeselnik: Fire in the Maternity Ward (2019)" tvg-logo="http://redworld.pro:8880/images/8163e2912cc81a272591575846abb034.jpg" group-title="⭐️Netflix",Anthony Jeselnik: Fire in the Maternity Ward (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An Unremarkable Christmas \ (2020)" tvg-logo="http://redworld.pro:8880/images/8163e2912cc81a272591575846abb034.jpg" group-title="⭐️Netflix",An Unremarkable Christmas \ (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ardiente paciencia (2022)" tvg-logo="http://redworld.pro:8880/images/9f11c6ad7235853f09fa7f05057a36e4.jpg" group-title="⭐️Netflix",Ardiente paciencia (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves \ (2021)" tvg-logo="http://redworld.pro:8880/images/9f11c6ad7235853f09fa7f05057a36e4.jpg" group-title="⭐️Netflix",Army of Thieves \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arsenio Hall: Smart and Classy (2019)" tvg-logo="http://redworld.pro:8880/images/82c52ea687afe0be324432db5ba46c30.jpg" group-title="⭐️Netflix",Arsenio Hall: Smart and Classy (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ataque de los Titanes (2015)" tvg-logo="http://redworld.pro:8880/images/7f746e8d807c70475979000ffec4389a.jpg" group-title="⭐️Netflix",Ataque de los Titanes (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ataque de los Titanes 2: El fin del mundo (2015)" tvg-logo="http://redworld.pro:8880/images/aace21659399fb925f6a60df5ad66180.jpg" group-title="⭐️Netflix",Ataque de los Titanes 2: El fin del mundo (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Todas Partes (2023)" tvg-logo="http://redworld.pro:8880/images/a6a0b43050852a2ceabc9e83bcf48d71.jpg" group-title="⭐️Netflix",A Todas Partes (2023)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A todo tren: Destino Asturias (2021)" tvg-logo="http://redworld.pro:8880/images/43bd8a7d50edbc2fa0f4485ba591355a.jpg" group-title="⭐️Netflix",A todo tren: Destino Asturias (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana (2022)" tvg-logo="http://redworld.pro:8880/images/0d88ce925031d915be24ff277704ae35.jpg" group-title="⭐️Netflix",A través de mi ventana (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Awake\ (2021)" tvg-logo="http://redworld.pro:8880/images/0d88ce925031d915be24ff277704ae35.jpg" group-title="⭐️Netflix",Awake\ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Week Away \ (2021)" tvg-logo="http://redworld.pro:8880/images/0d88ce925031d915be24ff277704ae35.jpg" group-title="⭐️Netflix",A Week Away \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aziz Ansari: Right Now (2019)" tvg-logo="http://redworld.pro:8880/images/38b52e792e637511daf6eaf3df7d127d.jpg" group-title="⭐️Netflix",Aziz Ansari: Right Now (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Back to Black (2024)" tvg-logo="http://redworld.pro:8880/images/825f87ab95235ce5dafbed4f56a95e0c.jpg" group-title="⭐️Netflix",Back to Black (2024)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BAC Nord \ (2021)" tvg-logo="http://redworld.pro:8880/images/825f87ab95235ce5dafbed4f56a95e0c.jpg" group-title="⭐️Netflix",BAC Nord \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys para Siempre (2020)" tvg-logo="http://redworld.pro:8880/images/9760ac842ffbe277b05e01798df39361.jpg" group-title="⭐️Netflix",Bad Boys para Siempre (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561013.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Trip \ (2020)" tvg-logo="http://redworld.pro:8880/images/9760ac842ffbe277b05e01798df39361.jpg" group-title="⭐️Netflix",Bad Trip \ (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajocero (2021)" tvg-logo="http://redworld.pro:8880/images/bd3ba291b406543b7d8c3bd8cf77edd6.jpg" group-title="⭐️Netflix",Bajocero (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Mermaid Power" tvg-logo="http://redworld.pro:8880/images/bd3ba291b406543b7d8c3bd8cf77edd6.jpg" group-title="⭐️Netflix",Barbie Mermaid Power
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beckett (2021)" tvg-logo="http://redworld.pro:8880/images/f4f2209e3e288dd4300245efc20e748a.jpg" group-title="⭐️Netflix",Beckett (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Belinda \ (2023)" tvg-logo="http://redworld.pro:8880/images/f4f2209e3e288dd4300245efc20e748a.jpg" group-title="⭐️Netflix",Belinda \ (2023)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="http://redworld.pro:8880/images/9c91b6881274b54fd314c3f22d96ae2c.jpg" group-title="⭐️Netflix",Bigbug (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bill Burr: Paper Tiger (2019)" tvg-logo="http://redworld.pro:8880/images/70d8c4c03183d36e65c1c30a6f911009.jpg" group-title="⭐️Netflix",Bill Burr: Paper Tiger (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona (2023)" tvg-logo="http://redworld.pro:8880/images/87ba3b52c1b47b03c4c17bcc6807849b.jpg" group-title="⭐️Netflix",Bird Box Barcelona (2023)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Beach (2020)" tvg-logo="http://redworld.pro:8880/images/408b87586477b335e89939392d17d1af.jpg" group-title="⭐️Netflix",Black Beach (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Island \ (2021)" tvg-logo="http://redworld.pro:8880/images/408b87586477b335e89939392d17d1af.jpg" group-title="⭐️Netflix",Black Island \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049 (2017)" tvg-logo="http://redworld.pro:8880/images/d4151c4d7b739a8202173adb55a0f030.jpg" group-title="⭐️Netflix",Blade Runner 2049 (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLAME! (2017)" tvg-logo="http://redworld.pro:8880/images/2624fa253030009f842ae45059d43d71.jpg" group-title="⭐️Netflix",BLAME! (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blood Red Sky \ (2021)" tvg-logo="http://redworld.pro:8880/images/2624fa253030009f842ae45059d43d71.jpg" group-title="⭐️Netflix",Blood Red Sky \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://redworld.pro:8880/images/ef642edb16fc3b121506dd0c73daec5b.jpg" group-title="⭐️Netflix",Bloodshot (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blue Miracle \ (2021)" tvg-logo="http://redworld.pro:8880/images/ef642edb16fc3b121506dd0c73daec5b.jpg" group-title="⭐️Netflix",Blue Miracle \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bogotá: Tierra de últimas oportunidades (2024)" tvg-logo="http://redworld.pro:8880/images/295c35ba8727c4368a608073f11c63ce.jpg" group-title="⭐️Netflix",Bogotá: Tierra de últimas oportunidades (2024)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boksoon debe morir (2023)" tvg-logo="http://redworld.pro:8880/images/6d609a49b086cf9e1939d8550e1e697c.jpg" group-title="⭐️Netflix",Boksoon debe morir (2023)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Brazen \ (2022)" tvg-logo="http://redworld.pro:8880/images/6d609a49b086cf9e1939d8550e1e697c.jpg" group-title="⭐️Netflix",Brazen \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Brené Brown: The Call to Courage (2019)" tvg-logo="http://redworld.pro:8880/images/b49911b8e3eeaa9a59414d71acf560e8.jpg" group-title="⭐️Netflix",Brené Brown: The Call to Courage (2019)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bronx (2020)" tvg-logo="http://redworld.pro:8880/images/ca8ebcc889573e454115322f98d0f9ef.jpg" group-title="⭐️Netflix",Bronx (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bros: Más que amigos (2022)" tvg-logo="http://redworld.pro:8880/images/3f5e407d3f598f0fd49ed52f5f18290b.jpg" group-title="⭐️Netflix",Bros: Más que amigos (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Buba (2022)" tvg-logo="http://redworld.pro:8880/images/0bd407f03a14ca871a6f2587ee3270a3.jpg" group-title="⭐️Netflix",Buba (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cabras da Peste \ (2021)" tvg-logo="http://redworld.pro:8880/images/0bd407f03a14ca871a6f2587ee3270a3.jpg" group-title="⭐️Netflix",Cabras da Peste \ (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cangrejo Negro (2022)" tvg-logo="http://redworld.pro:8880/images/f9cf2a1b9f1ab7e3a6866310a226006f.jpg" group-title="⭐️Netflix",Cangrejo Negro (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caracortada (1983)" tvg-logo="http://redworld.pro:8880/images/a568f9d3c6a86ad048f1d42b0bde0a57.jpg" group-title="⭐️Netflix",Caracortada (1983)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caramelo (2025)" tvg-logo="http://redworld.pro:8880/images/0c210f480c55a4886f9e5b0473e8ff60.jpg" group-title="⭐️Netflix",Caramelo (2025)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cargo (2017)" tvg-logo="http://redworld.pro:8880/images/dc3224255e313c20d9ef05995372c65c.jpg" group-title="⭐️Netflix",Cargo (2017)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carnaval (2021)" tvg-logo="http://redworld.pro:8880/images/3cbbdaf82b685985f1a6ce307d3b7d60.jpg" group-title="⭐️Netflix",Carnaval (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chappelle's Home Team - Earthquake: Legendary (2022)" tvg-logo="http://redworld.pro:8880/images/866ffc7b9fb966c8127b7f9afb4f3f9e.jpg" group-title="⭐️Netflix",Chappelle's Home Team - Earthquake: Legendary (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chappie (2015)" tvg-logo="http://redworld.pro:8880/images/498401e6c33dfd541b642afaa6309b48.jpg" group-title="⭐️Netflix",Chappie (2015)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chris Rock Total Blackout- The Tamborine (2021)" tvg-logo="http://redworld.pro:8880/images/498401e6c33dfd541b642afaa6309b48.jpg" group-title="⭐️Netflix",Chris Rock Total Blackout- The Tamborine (2021)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christmas Crossfire \ (2020)" tvg-logo="http://redworld.pro:8880/images/498401e6c33dfd541b642afaa6309b48.jpg" group-title="⭐️Netflix",Christmas Crossfire \ (2020)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christmas Full of Grace \ (2022)" tvg-logo="http://redworld.pro:8880/images/498401e6c33dfd541b642afaa6309b48.jpg" group-title="⭐️Netflix",Christmas Full of Grace \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christmas on Mistletoe Farm \ (2022)" tvg-logo="http://redworld.pro:8880/images/498401e6c33dfd541b642afaa6309b48.jpg" group-title="⭐️Netflix",Christmas on Mistletoe Farm \ (2022)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chupa (2023)" tvg-logo="http://redworld.pro:8880/images/1d20139480c71beb1e43cad4af95ec27.jpg" group-title="⭐️Netflix",Chupa (2023)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Club de las madres solteras (2014)" tvg-logo="http://redworld.pro:8880/images/5f57fbd2235e836073ea5f75c3ffdf7a.jpg" group-title="⭐️Netflix",Club de las madres solteras (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: renegados (2019)" tvg-logo="http://redworld.pro:8880/images/ae8d1b87ab7283b70789e922cabc0e21.jpg" group-title="⭐️Netflix",Code 8: renegados (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Collision \ (2022)" tvg-logo="http://redworld.pro:8880/images/ae8d1b87ab7283b70789e922cabc0e21.jpg" group-title="⭐️Netflix",Collision \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Comediantes del mundo" tvg-logo="http://redworld.pro:8880/images/ae8d1b87ab7283b70789e922cabc0e21.jpg" group-title="⭐️Netflix",Comediantes del mundo
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corre (2015)" tvg-logo="http://redworld.pro:8880/images/c8b66e353d592c2f02f5b4f9d318c62d.jpg" group-title="⭐️Netflix",Corre (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crazy About Her \ (2021)" tvg-logo="http://redworld.pro:8880/images/c8b66e353d592c2f02f5b4f9d318c62d.jpg" group-title="⭐️Netflix",Crazy About Her \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuarentones (2022)" tvg-logo="http://redworld.pro:8880/images/a968da3e5a8d9db07cf15cd439b92129.jpg" group-title="⭐️Netflix",Cuarentones (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Culpable (1960)" tvg-logo="http://redworld.pro:8880/images/1cebe6632902d7810b0199dc5199fe79.jpg" group-title="⭐️Netflix",Culpable (1960)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código: Emperador (2022)" tvg-logo="http://redworld.pro:8880/images/b3dd9c127081177aa7c487b2380d5afe.jpg" group-title="⭐️Netflix",Código: Emperador (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darlings (2022)" tvg-logo="http://redworld.pro:8880/images/51dd568b0cd3e4a38017f3d970ca828f.jpg" group-title="⭐️Netflix",Darlings (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="David And The Elves \ (2021)" tvg-logo="http://redworld.pro:8880/images/51dd568b0cd3e4a38017f3d970ca828f.jpg" group-title="⭐️Netflix",David And The Elves \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day Shift \ (2022)" tvg-logo="http://redworld.pro:8880/images/51dd568b0cd3e4a38017f3d970ca828f.jpg" group-title="⭐️Netflix",Day Shift \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="de Dani Rovira \ (2021)" tvg-logo="http://redworld.pro:8880/images/51dd568b0cd3e4a38017f3d970ca828f.jpg" group-title="⭐️Netflix",de Dani Rovira \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dejar el mundo atrás (2023)" tvg-logo="http://redworld.pro:8880/images/d0e77ac9c2a7ac763e76d4962bc0e361.jpg" group-title="⭐️Netflix",Dejar el mundo atrás (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delivery by Christmas \ (2022)" tvg-logo="http://redworld.pro:8880/images/d0e77ac9c2a7ac763e76d4962bc0e361.jpg" group-title="⭐️Netflix",Delivery by Christmas \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demetri Martin: The Overthinker (2018)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",Demetri Martin: The Overthinker (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka \ (2021)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",Dhamaka \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="divorciada \ (2023)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",divorciada \ (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="divorciada 2 \ (2025)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",divorciada 2 \ (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Look Up \ (2021)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",Don’t Look Up \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Do Revenge \ (2022)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",Do Revenge \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Double Dad \ (2021)" tvg-logo="http://redworld.pro:8880/images/5c794bf6d99bce581f547fee7a78dcaa.jpg" group-title="⭐️Netflix",Double Dad \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Día de la Madre (2020)" tvg-logo="http://redworld.pro:8880/images/423f1f075d894cd0c3b10e9949fbec82.jpg" group-title="⭐️Netflix",Día de la Madre (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El baile de los 41 (2020)" tvg-logo="http://redworld.pro:8880/images/8a57f7577b9a9202e444519ffbdb2f8e.jpg" group-title="⭐️Netflix",El baile de los 41 (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Cadáver (2020)" tvg-logo="http://redworld.pro:8880/images/75d88e327fac90a3ea40f2624a270257.jpg" group-title="⭐️Netflix",El Cadáver (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Comediante (2021)" tvg-logo="http://redworld.pro:8880/images/1ec71a83054fcae069ee356154d31903.jpg" group-title="⭐️Netflix",El Comediante (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El conde (2023)" tvg-logo="http://redworld.pro:8880/images/89739f69ac16037e7536f28b758a7ef4.jpg" group-title="⭐️Netflix",El conde (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encanto del champán (2025)" tvg-logo="http://redworld.pro:8880/images/5661a1ece9bf53c1d97597555bf000f6.jpg" group-title="⭐️Netflix",El encanto del champán (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Guau (2022)" tvg-logo="http://redworld.pro:8880/images/0c9f7128f603bec6172538f6e082121e.jpg" group-title="⭐️Netflix",El Guau (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña (2002)" tvg-logo="http://redworld.pro:8880/images/432f59cab73b51ecbd472a2b6dade375.jpg" group-title="⭐️Netflix",El hombre araña (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña 3 (2007)" tvg-logo="http://redworld.pro:8880/images/9c52e05623f0328851ad1bae8d758b2a.jpg" group-title="⭐️Netflix",El hombre araña 3 (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre del saco (2023)" tvg-logo="http://redworld.pro:8880/images/08bfc790cf5e212b8d28726b1415d77a.jpg" group-title="⭐️Netflix",El hombre del saco (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Gris (2022)" tvg-logo="http://redworld.pro:8880/images/9069e0dfea72cf69359c8cb059b3b918.jpg" group-title="⭐️Netflix",El Hombre Gris (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre que corría tras el viento (2009)" tvg-logo="http://redworld.pro:8880/images/5f927f490f7f535613622a19d3fd5bab.jpg" group-title="⭐️Netflix",El hombre que corría tras el viento (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elige o muere (2022)" tvg-logo="http://redworld.pro:8880/images/ca2b84a34127531ac4e821a53aae3c92.jpg" group-title="⭐️Netflix",Elige o muere (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ellen DeGeneres: Relatable (2018)" tvg-logo="http://redworld.pro:8880/images/ad68d0fb615e577de11be41c19d2b368.jpg" group-title="⭐️Netflix",Ellen DeGeneres: Relatable (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El libro de los secretos (2010)" tvg-logo="http://redworld.pro:8880/images/3f7397faf7e8fccb93fe492bd4a177b9.jpg" group-title="⭐️Netflix",El libro de los secretos (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El misterio del dragón (2019)" tvg-logo="http://redworld.pro:8880/images/49b45ef5dd4932fa3f08f0549b19136b.jpg" group-title="⭐️Netflix",El misterio del dragón (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El negocio del dolor (2023)" tvg-logo="http://redworld.pro:8880/images/d39db5ccd130faea957aceedd30cdfc2.jpg" group-title="⭐️Netflix",El negocio del dolor (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de Ruby (2022)" tvg-logo="http://redworld.pro:8880/images/6e950ef1a7e12f7990468e3bdb871c20.jpg" group-title="⭐️Netflix",El rescate de Ruby (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto del Doctor Grinberg (2022)" tvg-logo="http://redworld.pro:8880/images/eb38d79f8de72caa1e7476b9295ab41e.jpg" group-title="⭐️Netflix",El Secreto del Doctor Grinberg (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio (2017)" tvg-logo="http://redworld.pro:8880/images/33f33bdc8f7eaf5038dfb64ed0e95711.jpg" group-title="⭐️Netflix",El silencio (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El stand de los besos (2018)" tvg-logo="http://redworld.pro:8880/images/909d31bd4ba5ead28115ec03645e5de7.jpg" group-title="⭐️Netflix",El stand de los besos (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El stand de los besos 2 (2020)" tvg-logo="http://redworld.pro:8880/images/346ff8f3ba09be7546432f0d59ec7cb0.jpg" group-title="⭐️Netflix",El stand de los besos 2 (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Titán (2024)" tvg-logo="http://redworld.pro:8880/images/7fd0320ee5ac9137f126bbc7a344c6ea.jpg" group-title="⭐️Netflix",El Titán (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo de los ladrones (2023)" tvg-logo="http://redworld.pro:8880/images/72c37586b076285bc83309df50a71aaf.jpg" group-title="⭐️Netflix",El vuelo de los ladrones (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elway (2025)" tvg-logo="http://redworld.pro:8880/images/afc09871be89837a8f8d33a30cb36170.jpg" group-title="⭐️Netflix",Elway (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elysium (2013)" tvg-logo="http://redworld.pro:8880/images/569e868af977a15543deaefa5ff1c884.jpg" group-title="⭐️Netflix",Elysium (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Ángel de la Muerte (2022)" tvg-logo="http://redworld.pro:8880/images/733068ad941e2cbd7480a354329c1ee8.jpg" group-title="⭐️Netflix",El Ángel de la Muerte (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último hombre sobre la Tierra (2022)" tvg-logo="http://redworld.pro:8880/images/c195b0655a3c298a0e401396d91d3adf.jpg" group-title="⭐️Netflix",El último hombre sobre la Tierra (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro Explosivo (2010)" tvg-logo="http://redworld.pro:8880/images/d3f5294dff3018ad5d68dcd65b683851.jpg" group-title="⭐️Netflix",Encuentro Explosivo (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="http://redworld.pro:8880/images/33ae9b844a3041ff7ed0809949433b74.jpg" group-title="⭐️Netflix",Enola Holmes 2 (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entergalactic (2022)" tvg-logo="http://redworld.pro:8880/images/0268591a868a916b53ae3524c0637112.jpg" group-title="⭐️Netflix",Entergalactic (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Erax (2022)" tvg-logo="http://redworld.pro:8880/images/5a514d0fc09ca3b84a41b173ff9fc42a.jpg" group-title="⭐️Netflix",Erax (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eres tú (2023)" tvg-logo="http://redworld.pro:8880/images/315c5fbf4a6c28dd8de755c4731acaea.jpg" group-title="⭐️Netflix",Eres tú (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="espejo \ (2022)" tvg-logo="http://redworld.pro:8880/images/315c5fbf4a6c28dd8de755c4731acaea.jpg" group-title="⭐️Netflix",espejo \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evil Influencer: The Jodi Hildebrandt Story (2025)" tvg-logo="http://redworld.pro:8880/images/6450a215d5261153601f5f36827e99e3.jpg" group-title="⭐️Netflix",Evil Influencer: The Jodi Hildebrandt Story (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EVNGLNDTHTR2" tvg-logo="http://redworld.pro:8880/images/6450a215d5261153601f5f36827e99e3.jpg" group-title="⭐️Netflix",EVNGLNDTHTR2
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exhuma: La Tumba Del Diablo (2024)" tvg-logo="http://redworld.pro:8880/images/e4d5f3c0135b6855fd41f1fb0b421f34.jpg" group-title="⭐️Netflix",Exhuma: La Tumba Del Diablo (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extinción (2015)" tvg-logo="http://redworld.pro:8880/images/8e448ccd8d611b71ed267d26532a430f.jpg" group-title="⭐️Netflix",Extinción (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extraterritorial (2025)" tvg-logo="http://redworld.pro:8880/images/ae55dcbb804b254a500d7f02d2a5bd61.jpg" group-title="⭐️Netflix",Extraterritorial (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faraway \ (2023)" tvg-logo="http://redworld.pro:8880/images/ae55dcbb804b254a500d7f02d2a5bd61.jpg" group-title="⭐️Netflix",Faraway \ (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Father Christmas Is Back \ (2021)" tvg-logo="http://redworld.pro:8880/images/ae55dcbb804b254a500d7f02d2a5bd61.jpg" group-title="⭐️Netflix",Father Christmas Is Back \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatherhood \ (2021)" tvg-logo="http://redworld.pro:8880/images/ae55dcbb804b254a500d7f02d2a5bd61.jpg" group-title="⭐️Netflix",Fatherhood \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fauces de la noche (2021)" tvg-logo="http://redworld.pro:8880/images/03e980476bd5615dec864bfc4c8da2d3.jpg" group-title="⭐️Netflix",Fauces de la noche (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fenced In \ (2022)" tvg-logo="http://redworld.pro:8880/images/03e980476bd5615dec864bfc4c8da2d3.jpg" group-title="⭐️Netflix",Fenced In \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fin de semana en Croacia (2022)" tvg-logo="http://redworld.pro:8880/images/de4d20bf92ca1241919da1fccbd48397.jpg" group-title="⭐️Netflix",Fin de semana en Croacia (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finding Ohana \ (2021)" tvg-logo="http://redworld.pro:8880/images/de4d20bf92ca1241919da1fccbd48397.jpg" group-title="⭐️Netflix",Finding Ohana \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fondeados (2021)" tvg-logo="http://redworld.pro:8880/images/890a7aa9ad5abad61c149bdc8444486c.jpg" group-title="⭐️Netflix",Fondeados (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forever Rich (2021)" tvg-logo="http://redworld.pro:8880/images/dcf95e75b453c1bb9130a1bb40bdeefd.jpg" group-title="⭐️Netflix",Forever Rich (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Francotirador 6: El tirador fantasma (2016)" tvg-logo="http://redworld.pro:8880/images/8ba57218a073c0d14408b198136f59a6.jpg" group-title="⭐️Netflix",Francotirador 6: El tirador fantasma (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friendzone \ (2021)" tvg-logo="http://redworld.pro:8880/images/8ba57218a073c0d14408b198136f59a6.jpg" group-title="⭐️Netflix",Friendzone \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuck Love Too \ (2022)" tvg-logo="http://redworld.pro:8880/images/8ba57218a073c0d14408b198136f59a6.jpg" group-title="⭐️Netflix",Fuck Love Too \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Reinas (2023)" tvg-logo="http://redworld.pro:8880/images/4e5de786d94775e794a8f12b8ee16333.jpg" group-title="⭐️Netflix",Fuga de Reinas (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell (1995)" tvg-logo="http://redworld.pro:8880/images/8835cc1c78e0c49f9fee854681258f22.jpg" group-title="⭐️Netflix",Ghost in the Shell (1995)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Glass Onion A Knives Out Mystery \ (2022)" tvg-logo="http://redworld.pro:8880/images/8835cc1c78e0c49f9fee854681258f22.jpg" group-title="⭐️Netflix",Glass Onion A Knives Out Mystery \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gloria (2014)" tvg-logo="http://redworld.pro:8880/images/bb6e829922c712612600c602a873d02f.jpg" group-title="⭐️Netflix",Gloria (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Go! La Fiesta Inolvidable (2019)" tvg-logo="http://redworld.pro:8880/images/6ef1a097a4a33d76997e592ea9fb2dbf.jpg" group-title="⭐️Netflix",Go! La Fiesta Inolvidable (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good on Paper \ (2021)" tvg-logo="http://redworld.pro:8880/images/6ef1a097a4a33d76997e592ea9fb2dbf.jpg" group-title="⭐️Netflix",Good on Paper \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Granizo (2022)" tvg-logo="http://redworld.pro:8880/images/69f61d525f830cbfc0ddd0da37e53b2f.jpg" group-title="⭐️Netflix",Granizo (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hambre (2023)" tvg-logo="http://redworld.pro:8880/images/abafc2b51ec377047c29599253209217.jpg" group-title="⭐️Netflix",Hambre (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el cielo (2020)" tvg-logo="http://redworld.pro:8880/images/4ff56c2cef83e43580fb9f97c4803466.jpg" group-title="⭐️Netflix",Hasta el cielo (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heartsong \ (2022)" tvg-logo="http://redworld.pro:8880/images/4ff56c2cef83e43580fb9f97c4803466.jpg" group-title="⭐️Netflix",Heartsong \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hipnótico (2021)" tvg-logo="http://redworld.pro:8880/images/37d369b6fcf65d7720830540e60fad22.jpg" group-title="⭐️Netflix",Hipnótico (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio (2019)" tvg-logo="http://redworld.pro:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="⭐️Netflix",Historia de un matrimonio (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HO \ (1979)" tvg-logo="http://redworld.pro:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="⭐️Netflix",HO \ (1979)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holidate \ (2020)" tvg-logo="http://redworld.pro:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="⭐️Netflix",Holidate \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Team \ (2022)" tvg-logo="http://redworld.pro:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="⭐️Netflix",Home Team \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horario Estelar (2021)" tvg-logo="http://redworld.pro:8880/images/f2387edbbe927e67c38d2be9c54ad38b.jpg" group-title="⭐️Netflix",Horario Estelar (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hoy se arregla el mundo (2022)" tvg-logo="http://redworld.pro:8880/images/e2df715e80689538f1d78fbdb55c7c12.jpg" group-title="⭐️Netflix",Hoy se arregla el mundo (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hubie Halloween \ (2020)" tvg-logo="http://redworld.pro:8880/images/e2df715e80689538f1d78fbdb55c7c12.jpg" group-title="⭐️Netflix",Hubie Halloween \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Huracán: Categoría 5 (2018)" tvg-logo="http://redworld.pro:8880/images/23fe9f6cc53181f7337f169c53e5436c.jpg" group-title="⭐️Netflix",Huracán: Categoría 5 (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="http://redworld.pro:8880/images/f11e1d3e4bff67f8803577de6ba9c30a.jpg" group-title="⭐️Netflix",I Am Mother (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identidad Desbloqueada (2023)" tvg-logo="http://redworld.pro:8880/images/293033e16741238de5c9a395f7122bd3.jpg" group-title="⭐️Netflix",Identidad Desbloqueada (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Illang: La brigada del lobo (2018)" tvg-logo="http://redworld.pro:8880/images/dc98bb46e915b3b4c8454454e0eb650d.jpg" group-title="⭐️Netflix",Illang: La brigada del lobo (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Imaginario: Juguete diabólico (2024)" tvg-logo="http://redworld.pro:8880/images/0394ffc36bcb9535fb021ef8b985a08c.jpg" group-title="⭐️Netflix",Imaginario: Juguete diabólico (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In for a Murder \ (2021)" tvg-logo="http://redworld.pro:8880/images/0394ffc36bcb9535fb021ef8b985a08c.jpg" group-title="⭐️Netflix",In for a Murder \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrusion (2021)" tvg-logo="http://redworld.pro:8880/images/e1bbcd6072759b4fc5350e29694389d5.jpg" group-title="⭐️Netflix",Intrusion (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I onde dager \ (2021)" tvg-logo="http://redworld.pro:8880/images/e1bbcd6072759b4fc5350e29694389d5.jpg" group-title="⭐️Netflix",I onde dager \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="iRehén (2025)" tvg-logo="http://redworld.pro:8880/images/45902681c8494f2fe969d45e2026cb3d.jpg" group-title="⭐️Netflix",iRehén (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jani Dueñas: Grandes fracasos de ayer y hoy (2018)" tvg-logo="http://redworld.pro:8880/images/d6112f83b482d43642bd5abe91b207d6.jpg" group-title="⭐️Netflix",Jani Dueñas: Grandes fracasos de ayer y hoy (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jenny Slate: Stage Fright (2019)" tvg-logo="http://redworld.pro:8880/images/4fec4440b3267d44859f7e2aa38fc778.jpg" group-title="⭐️Netflix",Jenny Slate: Stage Fright (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jingle Jangle A Christmas Journey \ (2020)" tvg-logo="http://redworld.pro:8880/images/4fec4440b3267d44859f7e2aa38fc778.jpg" group-title="⭐️Netflix",Jingle Jangle A Christmas Journey \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jo Koy: Comin' in Hot (2019)" tvg-logo="http://redworld.pro:8880/images/4ef90bc9f0c164866718e3b8163cc1b9.jpg" group-title="⭐️Netflix",Jo Koy: Comin' in Hot (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juanpis González: El presidente de la gente (2024)" tvg-logo="http://redworld.pro:8880/images/ee37ecec697ca17e2793b2e6ee280354.jpg" group-title="⭐️Netflix",Juanpis González: El presidente de la gente (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jung E" tvg-logo="http://redworld.pro:8880/images/ee37ecec697ca17e2793b2e6ee280354.jpg" group-title="⭐️Netflix",Jung E
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Another Christmas \ (2020)" tvg-logo="http://redworld.pro:8880/images/ee37ecec697ca17e2793b2e6ee280354.jpg" group-title="⭐️Netflix",Just Another Christmas \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Short of Perfect \ (2021)" tvg-logo="http://redworld.pro:8880/images/ee37ecec697ca17e2793b2e6ee280354.jpg" group-title="⭐️Netflix",Just Short of Perfect \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Katherine Ryan: Glitter Room (2019)" tvg-logo="http://redworld.pro:8880/images/1d094fe44c571fb7658bfe1f971e0b2a.jpg" group-title="⭐️Netflix",Katherine Ryan: Glitter Room (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La apariencia de las cosas (2021)" tvg-logo="http://redworld.pro:8880/images/61a74e8de170d4cdf3645182e438100c.jpg" group-title="⭐️Netflix",La apariencia de las cosas (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Bestia \ (2020)" tvg-logo="http://redworld.pro:8880/images/61a74e8de170d4cdf3645182e438100c.jpg" group-title="⭐️Netflix",La Bestia \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cabeza de la araña (2022)" tvg-logo="http://redworld.pro:8880/images/d2c2067baf6f23516d853e8f9952b08a.jpg" group-title="⭐️Netflix",La cabeza de la araña (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa bajo el agua (2021)" tvg-logo="http://redworld.pro:8880/images/1ebee8a02e88bdb75a73b79eeec162f8.jpg" group-title="⭐️Netflix",La casa bajo el agua (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de las flores: La película (2021)" tvg-logo="http://redworld.pro:8880/images/9750cb454b552d4da70eef79d896b80a.jpg" group-title="⭐️Netflix",La casa de las flores: La película (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mira, la chica del tren (2021)" tvg-logo="http://redworld.pro:8880/images/95fcab51b998fccd9d8e56a9b23072bb.jpg" group-title="⭐️Netflix",Mira, la chica del tren (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La chica salvaje (2022)" tvg-logo="http://redworld.pro:8880/images/3376f60ccd0361b4930982b383a7bc3a.jpg" group-title="⭐️Netflix",La chica salvaje (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La clásica historia de terror (2021)" tvg-logo="http://redworld.pro:8880/images/fd0221682b3dbc58a6c305ec9f18da31.jpg" group-title="⭐️Netflix",La clásica historia de terror (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cordillera de los sueños (2019)" tvg-logo="http://redworld.pro:8880/images/060cf7197d9933c148ea86d02b2efb31.jpg" group-title="⭐️Netflix",La cordillera de los sueños (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La elefanta del Mago (2023)" tvg-logo="http://redworld.pro:8880/images/7c75f40df93baf276de3f12063844f76.jpg" group-title="⭐️Netflix",La elefanta del Mago (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Escuela del Bien y del Mal (2022)" tvg-logo="http://redworld.pro:8880/images/9eb48fa998f1be73a62e64e527f5fa2d.jpg" group-title="⭐️Netflix",La Escuela del Bien y del Mal (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Estrella de Belén (2017)" tvg-logo="http://redworld.pro:8880/images/f1ffc64dba7c4698b67ff75aae4363e0.jpg" group-title="⭐️Netflix",La Estrella de Belén (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Mitchell vs. las máquinas (2021)" tvg-logo="http://redworld.pro:8880/images/1146f4c3346c46543be62d3c513771eb.jpg" group-title="⭐️Netflix",La familia Mitchell vs. las máquinas (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia perfecta (2021)" tvg-logo="http://redworld.pro:8880/images/1a88d78ccb7888e8eeaa1818301f1912.jpg" group-title="⭐️Netflix",La familia perfecta (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del futuro (2022)" tvg-logo="http://redworld.pro:8880/images/9e0868967bfe97479f3b485228c83c66.jpg" group-title="⭐️Netflix",La guerra del futuro (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La isla negra (2021)" tvg-logo="http://redworld.pro:8880/images/6eb450823f3027987ccf3e27962ff543.jpg" group-title="⭐️Netflix",La isla negra (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Siniestra (2010)" tvg-logo="http://redworld.pro:8880/images/c7838c449af7dc18e8323a5f68c59f93.jpg" group-title="⭐️Netflix",La Isla Siniestra (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jefa (2022)" tvg-logo="http://redworld.pro:8880/images/3ff0186bda3c4e1c29c72e184969307b.jpg" group-title="⭐️Netflix",La jefa (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de la Nahuala (2007)" tvg-logo="http://redworld.pro:8880/images/6ce5a70c1e41fb485e13a6c41c2b2922.jpg" group-title="⭐️Netflix",La Leyenda de la Nahuala (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda Del Charro Negro (2018)" tvg-logo="http://redworld.pro:8880/images/6ce8e95b86e00fc9574b1dcd7d5f7e8a.jpg" group-title="⭐️Netflix",La Leyenda Del Charro Negro (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda del Lobo de la Montaña (2022)" tvg-logo="http://redworld.pro:8880/images/31e36f2d94f53bc4e6412875717129cf.jpg" group-title="⭐️Netflix",La Leyenda del Lobo de la Montaña (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer en la ventana (2021)" tvg-logo="http://redworld.pro:8880/images/e8d899f3149a31ee64701dbe334ec412.jpg" group-title="⭐️Netflix",La mujer en la ventana (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pandilla 2: Pequeños Traviesos Al Rescate (2014)" tvg-logo="http://redworld.pro:8880/images/37aa72e63a5dff83898d85ff5177ea68.jpg" group-title="⭐️Netflix",La Pandilla 2: Pequeños Traviesos Al Rescate (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Paradoja Cloverfield (2018)" tvg-logo="http://redworld.pro:8880/images/865b9cffd2918b9e098d5cbe43a1f23b.jpg" group-title="⭐️Netflix",La Paradoja Cloverfield (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa de la Yakuza (2021)" tvg-logo="http://redworld.pro:8880/images/cdbd2ce4056e6838955df82ab2209fc0.jpg" group-title="⭐️Netflix",La Princesa de la Yakuza (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Quinta Ola (2016)" tvg-logo="http://redworld.pro:8880/images/dbbd2f51e71dc3911c29e1724b05589a.jpg" group-title="⭐️Netflix",La Quinta Ola (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Razón De Estar Contigo 2: Un Nuevo Viaje (2019)" tvg-logo="http://redworld.pro:8880/images/5542057741add3495ece88b7dbe03a49.jpg" group-title="⭐️Netflix",La Razón De Estar Contigo 2: Un Nuevo Viaje (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las leyes de la frontera (2021)" tvg-logo="http://redworld.pro:8880/images/6d0e9e68e5797e433b70b4521adb30a6.jpg" group-title="⭐️Netflix",Las leyes de la frontera (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las semanas mágicas (2023)" tvg-logo="http://redworld.pro:8880/images/d70182442f82cdafb909e0379f433839.jpg" group-title="⭐️Netflix",Las semanas mágicas (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La tormenta mortal (1940)" tvg-logo="http://redworld.pro:8880/images/a1393206594994b7ed2e97a921fcb314.jpg" group-title="⭐️Netflix",La tormenta mortal (1940)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lavaperros (2020)" tvg-logo="http://redworld.pro:8880/images/98fa93453fcc2ede22c391b04676d828.jpg" group-title="⭐️Netflix",Lavaperros (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida entre leopardos (2024)" tvg-logo="http://redworld.pro:8880/images/ba3e5eee11f901d6ecc1f68f2bcc4589.jpg" group-title="⭐️Netflix",La vida entre leopardos (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vigilante del futuro: Ghost in the Shell (2017)" tvg-logo="http://redworld.pro:8880/images/f7cb29a8412ceaf7fa4faf4a7ceb92d4.jpg" group-title="⭐️Netflix",La vigilante del futuro: Ghost in the Shell (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Guide de la famille parfaite \ (2021)" tvg-logo="http://redworld.pro:8880/images/f7cb29a8412ceaf7fa4faf4a7ceb92d4.jpg" group-title="⭐️Netflix",Le Guide de la famille parfaite \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="les ha pasado otra vez \ (2022)" tvg-logo="http://redworld.pro:8880/images/f7cb29a8412ceaf7fa4faf4a7ceb92d4.jpg" group-title="⭐️Netflix",les ha pasado otra vez \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lewis Capaldi: How I'm Feeling Now (2023)" tvg-logo="http://redworld.pro:8880/images/b1588caa495b46c57287bd978403cb80.jpg" group-title="⭐️Netflix",Lewis Capaldi: How I'm Feeling Now (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Big Mouth \ (2021)" tvg-logo="http://redworld.pro:8880/images/b1588caa495b46c57287bd978403cb80.jpg" group-title="⭐️Netflix",Little Big Mouth \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lobo Vikingo (2022)" tvg-logo="http://redworld.pro:8880/images/8bb2df8de3ef53ed0c1cb81e854d3219.jpg" group-title="⭐️Netflix",Lobo Vikingo (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lokillo: nada es igual (2021)" tvg-logo="http://redworld.pro:8880/images/b27a7c4b804de750e31632270928d8e2.jpg" group-title="⭐️Netflix",Lokillo: nada es igual (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Looking for Her (2022)" tvg-logo="http://redworld.pro:8880/images/cb77e75c3f0aba5b24e448245e1e66db.jpg" group-title="⭐️Netflix",Looking for Her (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo que le falta a esta estrella (2025)" tvg-logo="http://redworld.pro:8880/images/362b7b10e5f927382a13a0e5c3ad199c.jpg" group-title="⭐️Netflix",Lo que le falta a esta estrella (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los adioses (2017)" tvg-logo="http://redworld.pro:8880/images/9e99c15642494970e56f458482e7a1bc.jpg" group-title="⭐️Netflix",Los adioses (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los crímenes de la academia (2022)" tvg-logo="http://redworld.pro:8880/images/6ba4c3130e51ed4cb2c45857564c66ef.jpg" group-title="⭐️Netflix",Los crímenes de la academia (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los dos hemisferios de Lucca (2025)" tvg-logo="http://redworld.pro:8880/images/218db73624ee02ac9b264f6b27dd5ca8.jpg" group-title="⭐️Netflix",Los dos hemisferios de Lucca (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Extraños Capítulo 1 (2024)" tvg-logo="http://redworld.pro:8880/images/1f6e67483501f3ae8d5b8462399ccc63.jpg" group-title="⭐️Netflix",Los Extraños Capítulo 1 (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Locos Addams (1991)" tvg-logo="http://redworld.pro:8880/images/c97d8ff78c540f0371a15e467a80acdf.jpg" group-title="⭐️Netflix",Los Locos Addams (1991)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams II (1993)" tvg-logo="http://redworld.pro:8880/images/c0fbe5edd23f1b4bbc1cd053f5a1588b.jpg" group-title="⭐️Netflix",Los locos Addams II (1993)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los renglones torcidos de Dios (2022)" tvg-logo="http://redworld.pro:8880/images/6a57d66657f9160314e53758b14986c1.jpg" group-title="⭐️Netflix",Los renglones torcidos de Dios (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)" tvg-logo="http://redworld.pro:8880/images/b1c2101a1cdcf7eb72a7156c8bc40707.jpg" group-title="⭐️Netflix",Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los últimos días del crimen (2020)" tvg-logo="http://redworld.pro:8880/images/4a738657219267a4fa42f839c2a92ab3.jpg" group-title="⭐️Netflix",Los últimos días del crimen (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lou \ (2022)" tvg-logo="http://redworld.pro:8880/images/4a738657219267a4fa42f839c2a92ab3.jpg" group-title="⭐️Netflix",Lou \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luciano Mellera: Infantiloide (2018)" tvg-logo="http://redworld.pro:8880/images/2f183703467f33ea3c64f33117fb89b3.jpg" group-title="⭐️Netflix",Luciano Mellera: Infantiloide (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lulli (2021)" tvg-logo="http://redworld.pro:8880/images/85aae2e36b6acb0204aace57cfa8bf4a.jpg" group-title="⭐️Netflix",Lulli (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luther: Cae la noche (2023)" tvg-logo="http://redworld.pro:8880/images/fad65f296ed0f827c33a4cbedec990fb.jpg" group-title="⭐️Netflix",Luther: Cae la noche (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madre/Androide (2021)" tvg-logo="http://redworld.pro:8880/images/4db710066f85a557796642b254b04cc3.jpg" group-title="⭐️Netflix",Madre/Androide (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mala influencia (2025)" tvg-logo="http://redworld.pro:8880/images/4bc8b1d22f6918aa11a4ed30aa6e780d.jpg" group-title="⭐️Netflix",Mala influencia (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malnazidos (2020)" tvg-logo="http://redworld.pro:8880/images/855861522acfdc08576965f896c677bb.jpg" group-title="⭐️Netflix",Malnazidos (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrimillas (2022)" tvg-logo="http://redworld.pro:8880/images/1d5162ca50092728ac6feebabea2901e.jpg" group-title="⭐️Netflix",Matrimillas (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meet the Fockers \(Los Focker\)" tvg-logo="http://redworld.pro:8880/images/1d5162ca50092728ac6feebabea2901e.jpg" group-title="⭐️Netflix",Meet the Fockers \(Los Focker\)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me Time \ (2022)" tvg-logo="http://redworld.pro:8880/images/1d5162ca50092728ac6feebabea2901e.jpg" group-title="⭐️Netflix",Me Time \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi año en Oxford (2025)" tvg-logo="http://redworld.pro:8880/images/a742b6000bdf968321ddd4be026323ca.jpg" group-title="⭐️Netflix",Mi año en Oxford (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minnal Murali \ (2021)" tvg-logo="http://redworld.pro:8880/images/a742b6000bdf968321ddd4be026323ca.jpg" group-title="⭐️Netflix",Minnal Murali \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mixtape \ (2021)" tvg-logo="http://redworld.pro:8880/images/a742b6000bdf968321ddd4be026323ca.jpg" group-title="⭐️Netflix",Mixtape \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Trap (2019)" tvg-logo="http://redworld.pro:8880/images/f905377313e7596d683600559819aa29.jpg" group-title="⭐️Netflix",Money Trap (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mosul (2019)" tvg-logo="http://redworld.pro:8880/images/84014801364638e6c572cee53002f934.jpg" group-title="⭐️Netflix",Mosul (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moxie (2021)" tvg-logo="http://redworld.pro:8880/images/454e2d910f8a42d04bd381d52206e768.jpg" group-title="⭐️Netflix",Moxie (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muchas más hormigas entre las piernas (2023)" tvg-logo="http://redworld.pro:8880/images/cf722e3205296b0aa709497853ff2b93.jpg" group-title="⭐️Netflix",Muchas más hormigas entre las piernas (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujercitas (2019)" tvg-logo="http://redworld.pro:8880/images/905b10812fa48503219bff6b507ab1a3.jpg" group-title="⭐️Netflix",Mujercitas (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Wonderful Life \ (2021)" tvg-logo="http://redworld.pro:8880/images/905b10812fa48503219bff6b507ab1a3.jpg" group-title="⭐️Netflix",My Wonderful Life \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Múnich en vísperas de una guerra (2021)" tvg-logo="http://redworld.pro:8880/images/8c8d88e27ba5c6e9b817cbfab2a6269d.jpg" group-title="⭐️Netflix",Múnich en vísperas de una guerra (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="http://redworld.pro:8880/images/4228f768d35718e6b46c9b0998797691.jpg" group-title="⭐️Netflix",Narvik (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nate Bargatze: The Tennessee Kid (2019)" tvg-logo="http://redworld.pro:8880/images/18836f4ed7a9d014a5824ae288d88062.jpg" group-title="⭐️Netflix",Nate Bargatze: The Tennessee Kid (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nightbooks \ (2021)" tvg-logo="http://redworld.pro:8880/images/18836f4ed7a9d014a5824ae288d88062.jpg" group-title="⭐️Netflix",Nightbooks \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de fuego (2021)" tvg-logo="http://redworld.pro:8880/images/a6452bc24bb7f9027a15918e009762bb.jpg" group-title="⭐️Netflix",Noche de fuego (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche en el paraíso (2020)" tvg-logo="http://redworld.pro:8880/images/e47deca5f379dd503c089fe112f88212.jpg" group-title="⭐️Netflix",Noche en el paraíso (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Norbit (2007)" tvg-logo="http://redworld.pro:8880/images/a9035f4e79e0fdaa692fa2663d2640c2.jpg" group-title="⭐️Netflix",Norbit (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Off Track \ (2022)" tvg-logo="http://redworld.pro:8880/images/a9035f4e79e0fdaa692fa2663d2640c2.jpg" group-title="⭐️Netflix",Off Track \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Jacinto (2021)" tvg-logo="http://redworld.pro:8880/images/ace77544f970c79cb5f60c6108820fa9.jpg" group-title="⭐️Netflix",Operación Jacinto (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación muérdago (2024)" tvg-logo="http://redworld.pro:8880/images/24642e564d513118328a6d59b2050fb6.jpg" group-title="⭐️Netflix",Operación muérdago (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Orbita 9 (2017)" tvg-logo="http://redworld.pro:8880/images/8336f344481a638b497d0a3e2511d298.jpg" group-title="⭐️Netflix",Orbita 9 (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire \ (2021)" tvg-logo="http://redworld.pro:8880/images/8336f344481a638b497d0a3e2511d298.jpg" group-title="⭐️Netflix",Outside the Wire \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oxygène \ (2021)" tvg-logo="http://redworld.pro:8880/images/8336f344481a638b497d0a3e2511d298.jpg" group-title="⭐️Netflix",Oxygène \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdida (1950)" tvg-logo="http://redworld.pro:8880/images/19b636bfc03dcb9beb4f48cc3db5c412.jpg" group-title="⭐️Netflix",Perdida (1950)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perro perdido (2023)" tvg-logo="http://redworld.pro:8880/images/59e10405e271fd52d5e02759948d776f.jpg" group-title="⭐️Netflix",Perro perdido (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prey: Presas de caza (2021)" tvg-logo="http://redworld.pro:8880/images/a8aba08b63eb236406aca7458d3773bd.jpg" group-title="⭐️Netflix",Prey: Presas de caza (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto rojo (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Netflix",Punto rojo (1996)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto rojo (2021)" tvg-logo="http://redworld.pro:8880/images/f737bd91e0a7d32b1d9ee93911f4fe9c.jpg" group-title="⭐️Netflix",Punto rojo (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow (2022)" tvg-logo="http://redworld.pro:8880/images/692f5263ac6a14bfe90494e3b98a9816.jpg" group-title="⭐️Netflix",Rainbow (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rascacielos: Rescate En Las Alturas (2018)" tvg-logo="http://redworld.pro:8880/images/71a794b01bf25ed81b66bf552517e659.jpg" group-title="⭐️Netflix",Rascacielos: Rescate En Las Alturas (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="http://redworld.pro:8880/images/34358f7107dcb9841171caef73484fb1.jpg" group-title="⭐️Netflix",Re/Member (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebeca (2020)" tvg-logo="http://redworld.pro:8880/images/a9bd55cdc34cbb704dd938d52b25ef1b.jpg" group-title="⭐️Netflix",Rebeca (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Re Loca (2018)" tvg-logo="http://redworld.pro:8880/images/3296803e482c8a914b04b75089df4a05.jpg" group-title="⭐️Netflix",Re Loca (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Apocalipsis (2004)" tvg-logo="http://redworld.pro:8880/images/b4f8bc1d1cb325257baf6418ec0e97b7.jpg" group-title="⭐️Netflix",Resident Evil: Apocalipsis (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resort to Love \ (2021)" tvg-logo="http://redworld.pro:8880/images/b4f8bc1d1cb325257baf6418ec0e97b7.jpg" group-title="⭐️Netflix",Resort to Love \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reviviendo la Navidad (2022)" tvg-logo="http://redworld.pro:8880/images/0a9d242255e9d95c69e2f1d005e21bd1.jpg" group-title="⭐️Netflix",Reviviendo la Navidad (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricardo O'Farrill: Abrazo Genial (2016)" tvg-logo="http://redworld.pro:8880/images/ade6881c945960e7079a3d35951843b4.jpg" group-title="⭐️Netflix",Ricardo O'Farrill: Abrazo Genial (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricardo Quevedo: Mañana será peor (2022)" tvg-logo="http://redworld.pro:8880/images/b920ff4600d0ae6e6ed371aad78708a8.jpg" group-title="⭐️Netflix",Ricardo Quevedo: Mañana será peor (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riesgo bajo cero (2021)" tvg-logo="http://redworld.pro:8880/images/f061490a2cfa9a53672be7c4e2179b60.jpg" group-title="⭐️Netflix",Riesgo bajo cero (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roald Dahls Matilda The Musical \ (2022)" tvg-logo="http://redworld.pro:8880/images/f061490a2cfa9a53672be7c4e2179b60.jpg" group-title="⭐️Netflix",Roald Dahls Matilda The Musical \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock My Heart (2017)" tvg-logo="http://redworld.pro:8880/images/714ab7c8d0de5e594300b56693dae8f7.jpg" group-title="⭐️Netflix",Rock My Heart (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romance con estilo (2022)" tvg-logo="http://redworld.pro:8880/images/ebbc603e97cfa7e797d0ea9f4ba72785.jpg" group-title="⭐️Netflix",Romance con estilo (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romance renovador (2024)" tvg-logo="http://redworld.pro:8880/images/aba554b9b8fd20c274fdb3eaec5a9e5c.jpg" group-title="⭐️Netflix",Romance renovador (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rose Island \ (2020)" tvg-logo="http://redworld.pro:8880/images/aba554b9b8fd20c274fdb3eaec5a9e5c.jpg" group-title="⭐️Netflix",Rose Island \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rumspringa (2022)" tvg-logo="http://redworld.pro:8880/images/52e689bf7cec733e3596beb065ea23f5.jpg" group-title="⭐️Netflix",Rumspringa (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rurouni Kenshin The Final \ (2021)" tvg-logo="http://redworld.pro:8880/images/52e689bf7cec733e3596beb065ea23f5.jpg" group-title="⭐️Netflix",Rurouni Kenshin The Final \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salir del ropero \ (2019)" tvg-logo="http://redworld.pro:8880/images/52e689bf7cec733e3596beb065ea23f5.jpg" group-title="⭐️Netflix",Salir del ropero \ (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sangre y oro (2023)" tvg-logo="http://redworld.pro:8880/images/6801340a2a2fee23213f941a755dc09b.jpg" group-title="⭐️Netflix",Sangre y oro (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SAS: el ascenso del Cisne Negro (2021)" tvg-logo="http://redworld.pro:8880/images/25991ff5cbdd58cdfaed220eeddd90a7.jpg" group-title="⭐️Netflix",SAS: el ascenso del Cisne Negro (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream: Grita antes de morir (1996)" tvg-logo="http://redworld.pro:8880/images/e105cc00765fca6b5736970109530e43.jpg" group-title="⭐️Netflix",Scream: Grita antes de morir (1996)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 2: Grita y vuelve a Gritar (1997)" tvg-logo="http://redworld.pro:8880/images/20b41423e757b929db9e017760e30d7e.jpg" group-title="⭐️Netflix",Scream 2: Grita y vuelve a Gritar (1997)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 6 (2023)" tvg-logo="http://redworld.pro:8880/images/0a9feb942ff20462a5e6e5c968c02089.jpg" group-title="⭐️Netflix",Scream 6 (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Selva Trágica (2020)" tvg-logo="http://redworld.pro:8880/images/469948c743892b744876387399fa9bed.jpg" group-title="⭐️Netflix",Selva Trágica (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Senior Year \ (2022)" tvg-logo="http://redworld.pro:8880/images/469948c743892b744876387399fa9bed.jpg" group-title="⭐️Netflix",Senior Year \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seth Meyers: Lobby Baby (2019)" tvg-logo="http://redworld.pro:8880/images/9d09966d7be5976760287ab22de8b124.jpg" group-title="⭐️Netflix",Seth Meyers: Lobby Baby (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaolin Soccer (2001)" tvg-logo="http://redworld.pro:8880/images/d20c927000427b9548dda52cfb3ccfea.jpg" group-title="⭐️Netflix",Shaolin Soccer (2001)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sideline the qb and me" tvg-logo="http://redworld.pro:8880/images/d20c927000427b9548dda52cfb3ccfea.jpg" group-title="⭐️Netflix",Sideline the qb and me
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silver Skates \ (2020)" tvg-logo="http://redworld.pro:8880/images/d20c927000427b9548dda52cfb3ccfea.jpg" group-title="⭐️Netflix",Silver Skates \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sing: ¡Ven y canta! (2016)" tvg-logo="http://redworld.pro:8880/images/7a3d8d68da2bcfc0092dd331a89aed3e.jpg" group-title="⭐️Netflix",Sing: ¡Ven y canta! (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin hijos (2020)" tvg-logo="http://redworld.pro:8880/images/3838dfe4aca84de59240c04227bfd053.jpg" group-title="⭐️Netflix",Sin hijos (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin miedo a las estrellas (2022)" tvg-logo="http://redworld.pro:8880/images/92fe1381bd0046c400f12d731c7f6425.jpg" group-title="⭐️Netflix",Sin miedo a las estrellas (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="http://redworld.pro:8880/images/f885960374112b77a9589fc7a670ed6b.jpg" group-title="⭐️Netflix",Sin novedad en el frente (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skylines (2020)" tvg-logo="http://redworld.pro:8880/images/c2da72886ab3ed7123b01c76a3553ea9.jpg" group-title="⭐️Netflix",Skylines (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Someone Borrowed \ (2022)" tvg-logo="http://redworld.pro:8880/images/c2da72886ab3ed7123b01c76a3553ea9.jpg" group-title="⭐️Netflix",Someone Borrowed \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy Rada: Serendipia (2021)" tvg-logo="http://redworld.pro:8880/images/bcc1ff028ba1b0232b5d0f51829fe347.jpg" group-title="⭐️Netflix",Soy Rada: Serendipia (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spoiled Brats \ (2021)" tvg-logo="http://redworld.pro:8880/images/bcc1ff028ba1b0232b5d0f51829fe347.jpg" group-title="⭐️Netflix",Spoiled Brats \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Squared Love \ (2021)" tvg-logo="http://redworld.pro:8880/images/bcc1ff028ba1b0232b5d0f51829fe347.jpg" group-title="⭐️Netflix",Squared Love \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stowaway (2021)" tvg-logo="http://redworld.pro:8880/images/f354c98f25e67e96ff50682e8bf6d3e2.jpg" group-title="⭐️Netflix",Stowaway (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuck Together \ (2021)" tvg-logo="http://redworld.pro:8880/images/f354c98f25e67e96ff50682e8bf6d3e2.jpg" group-title="⭐️Netflix",Stuck Together \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sueños de trenes (2025)" tvg-logo="http://redworld.pro:8880/images/0deee93618bcebeda16f4742f948cef0.jpg" group-title="⭐️Netflix",Sueños de trenes (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Me \ (2019)" tvg-logo="http://redworld.pro:8880/images/0deee93618bcebeda16f4742f948cef0.jpg" group-title="⭐️Netflix",Super Me \ (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Susurros mortales 3 (2025)" tvg-logo="http://redworld.pro:8880/images/b9a81cf1b4adb9a6374b2c6ecf68d8e8.jpg" group-title="⭐️Netflix",Susurros mortales 3 (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Svaha: El sexto dedo (2019)" tvg-logo="http://redworld.pro:8880/images/25f24081e9f4beeb00acc94a8ccd8a06.jpg" group-title="⭐️Netflix",Svaha: El sexto dedo (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sweet and Sour \ (2021)" tvg-logo="http://redworld.pro:8880/images/25f24081e9f4beeb00acc94a8ccd8a06.jpg" group-title="⭐️Netflix",Sweet and Sour \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sé tu misma (2023)" tvg-logo="http://redworld.pro:8880/images/6876faa13f10e79e05b9a231bc8db3a2.jpg" group-title="⭐️Netflix",Sé tu misma (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Take Your Pills (2018)" tvg-logo="http://redworld.pro:8880/images/6eae39211532aadd543cf4d786db09f0.jpg" group-title="⭐️Netflix",Take Your Pills (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Take Your Pills: Xanax (2022)" tvg-logo="http://redworld.pro:8880/images/6d9b775a943861bdd84a3dc3fee8b214.jpg" group-title="⭐️Netflix",Take Your Pills: Xanax (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tall Girl 2 \ (2022)" tvg-logo="http://redworld.pro:8880/images/6d9b775a943861bdd84a3dc3fee8b214.jpg" group-title="⭐️Netflix",Tall Girl 2 \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taxi Driver (1976)" tvg-logo="http://redworld.pro:8880/images/3421d3000a66d5a7086d736c3ac8f414.jpg" group-title="⭐️Netflix",Taxi Driver (1976)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taylor Tomlinson  Quarter" tvg-logo="http://redworld.pro:8880/images/3421d3000a66d5a7086d736c3ac8f414.jpg" group-title="⭐️Netflix",Taylor Tomlinson  Quarter
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me When \ (2020)" tvg-logo="http://redworld.pro:8880/images/3421d3000a66d5a7086d736c3ac8f414.jpg" group-title="⭐️Netflix",Tell Me When \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenemos un fantasma (2023)" tvg-logo="http://redworld.pro:8880/images/e2fb967b32eeaef2b46efb749eeb241d.jpg" group-title="⭐️Netflix",Tenemos un fantasma (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="That’s Amor \ (2022)" tvg-logo="http://redworld.pro:8880/images/e2fb967b32eeaef2b46efb749eeb241d.jpg" group-title="⭐️Netflix",That’s Amor \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Adam Project \ (2022)" tvg-logo="http://redworld.pro:8880/images/e2fb967b32eeaef2b46efb749eeb241d.jpg" group-title="⭐️Netflix",The Adam Project \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bubble \ (2022)" tvg-logo="http://redworld.pro:8880/images/e2fb967b32eeaef2b46efb749eeb241d.jpg" group-title="⭐️Netflix",The Bubble \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Call (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles 2 \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Christmas Chronicles 2 \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Claus Family \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Claus Family \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Claus Family 2 \ (2021)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Claus Family 2 \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Curse of Bridge Hollow \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Curse of Bridge Hollow \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Forgotten Battle \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Forgotten Battle \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Forty-Year-Old Version \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Forty-Year-Old Version \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Four of Us \ (2021)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Four of Us \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lost Lotteries \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Lost Lotteries \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Man from Toronto \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Man from Toronto \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Midnight Sky \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Midnight Sky \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Noel Diary \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Noel Diary \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The People We Hate At The Wedding \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The People We Hate At The Wedding \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Photocopier \ (2021)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Photocopier \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Price of Family \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Price of Family \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Princess Switch 3 Romancing the Star \ (2021)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Princess Switch 3 Romancing the Star \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Prom \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Prom \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Room \ (2006)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Room \ (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Scary House \ (2020)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The Scary House \ (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The School for Good and Evil \ (2022)" tvg-logo="http://redworld.pro:8880/images/88ad30790fd193a6ecafa0fe9fa34763.jpg" group-title="⭐️Netflix",The School for Good and Evil \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Stranger (2022)" tvg-logo="http://redworld.pro:8880/images/8f2511dbdb82205986488911bf3c5499.jpg" group-title="⭐️Netflix",The Stranger (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Takedown \ (2022)" tvg-logo="http://redworld.pro:8880/images/8f2511dbdb82205986488911bf3c5499.jpg" group-title="⭐️Netflix",The Takedown \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Taming of the Shrew \ (2022)" tvg-logo="http://redworld.pro:8880/images/8f2511dbdb82205986488911bf3c5499.jpg" group-title="⭐️Netflix",The Taming of the Shrew \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thunder Force \ (2021)" tvg-logo="http://redworld.pro:8880/images/8f2511dbdb82205986488911bf3c5499.jpg" group-title="⭐️Netflix",Thunder Force \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="tick... BOOM! \ (2021)" tvg-logo="http://redworld.pro:8880/images/8f2511dbdb82205986488911bf3c5499.jpg" group-title="⭐️Netflix",tick... BOOM! \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiempo para mí (2022)" tvg-logo="http://redworld.pro:8880/images/001c385e9c26b63a196199152ab70169.jpg" group-title="⭐️Netflix",Tiempo para mí (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo es Gila (2022)" tvg-logo="http://redworld.pro:8880/images/2fae2b65f520d3d8b9346854d77027aa.jpg" group-title="⭐️Netflix",Todo es Gila (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2022)" tvg-logo="http://redworld.pro:8880/images/2514d4505f62d9305438022270575d61.jpg" group-title="⭐️Netflix",Togo (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Too Old for Fairy Tales \ (2022)" tvg-logo="http://redworld.pro:8880/images/2514d4505f62d9305438022270575d61.jpg" group-title="⭐️Netflix",Too Old for Fairy Tales \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tornado: Atrapados en la tormenta (2025)" tvg-logo="http://redworld.pro:8880/images/95465ab1184c62191a5887475d5cf70d.jpg" group-title="⭐️Netflix",Tornado: Atrapados en la tormenta (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trevor Noah: Son of Patricia (2018)" tvg-logo="http://redworld.pro:8880/images/338668ce2f0c0ccefd3da6c712c6ac5b.jpg" group-title="⭐️Netflix",Trevor Noah: Son of Patricia (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trippin’ with the Kandasamys \ (2021)" tvg-logo="http://redworld.pro:8880/images/338668ce2f0c0ccefd3da6c712c6ac5b.jpg" group-title="⭐️Netflix",Trippin’ with the Kandasamys \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 2  World Tour" tvg-logo="http://redworld.pro:8880/images/338668ce2f0c0ccefd3da6c712c6ac5b.jpg" group-title="⭐️Netflix",Trolls 2  World Tour
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Desde el primer día (2024)" tvg-logo="http://redworld.pro:8880/images/1c4b93e87357be4d076fc32a9f1dfff5.jpg" group-title="⭐️Netflix",Umjolo: Desde el primer día (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Perdidamente enamorada (2024)" tvg-logo="http://redworld.pro:8880/images/e5f45102b26e76e6c5ada7e73e580f29.jpg" group-title="⭐️Netflix",Umjolo: Perdidamente enamorada (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad no tan padre (2021)" tvg-logo="http://redworld.pro:8880/images/413e6b724d86b540e55ec72495bd6aad.jpg" group-title="⭐️Netflix",Una Navidad no tan padre (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una película de policías (2021)" tvg-logo="http://redworld.pro:8880/images/8e44e9fd985d7421e0b50ea27c1f7d78.jpg" group-title="⭐️Netflix",Una película de policías (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una vida maravillosa (2023)" tvg-logo="http://redworld.pro:8880/images/ef7b2d4f25ac4f174c965867f3db3d5a.jpg" group-title="⭐️Netflix",Una vida maravillosa (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted: Fuera del mapa (2022)" tvg-logo="http://redworld.pro:8880/images/cec7a4b8942cd03d78330164e4596d78.jpg" group-title="⭐️Netflix",Uncharted: Fuera del mapa (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un despertar glorioso (2010)" tvg-logo="http://redworld.pro:8880/images/f1a1e87fc7c4c3edd8b29bdd49009320.jpg" group-title="⭐️Netflix",Un despertar glorioso (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre de acción (2022)" tvg-logo="http://redworld.pro:8880/images/6a745f337949e79c0bfc0fa8cced7199.jpg" group-title="⭐️Netflix",Un hombre de acción (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked \ (2023)" tvg-logo="http://redworld.pro:8880/images/6a745f337949e79c0bfc0fa8cced7199.jpg" group-title="⭐️Netflix",Unlocked \ (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vampiros vs. el Bronx (2020)" tvg-logo="http://redworld.pro:8880/images/63048d1961efb5bb84a1406db07d06f6.jpg" group-title="⭐️Netflix",Vampiros vs. el Bronx (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza (2026)" tvg-logo="http://redworld.pro:8880/images/7ca3300a593325577dadba884bad0252.jpg" group-title="⭐️Netflix",Venganza (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Pasadas (2023)" tvg-logo="http://redworld.pro:8880/images/4034d8fcae022427ec57aa8ca86b04bb.jpg" group-title="⭐️Netflix",Vidas Pasadas (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vir Das: Losing It (2018)" tvg-logo="http://redworld.pro:8880/images/560eb9d2476d287c9dc53cd5a48bd905.jpg" group-title="⭐️Netflix",Vir Das: Losing It (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vivir dos veces (2019)" tvg-logo="http://redworld.pro:8880/images/23e604461b387963e07cf92784143584.jpg" group-title="⭐️Netflix",Vivir dos veces (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Voyeur (2017)" tvg-logo="http://redworld.pro:8880/images/5769b68ba1e699b778a6a73139ca91f0.jpg" group-title="⭐️Netflix",Voyeur (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Víctima Sospechosa" tvg-logo="http://redworld.pro:8880/images/5769b68ba1e699b778a6a73139ca91f0.jpg" group-title="⭐️Netflix",Víctima Sospechosa
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="W. Kamau Bell: Private School Negro (2018)" tvg-logo="http://redworld.pro:8880/images/414ee84ea3cc7671d798e8aaf28038ad.jpg" group-title="⭐️Netflix",W. Kamau Bell: Private School Negro (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wallace y Gromit: La venganza se sirve con plumas (2024)" tvg-logo="http://redworld.pro:8880/images/2575d04e0be60ccbf017bc917039ebcd.jpg" group-title="⭐️Netflix",Wallace y Gromit: La venganza se sirve con plumas (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wanda Sykes: Not Normal (2019)" tvg-logo="http://redworld.pro:8880/images/89fa1cedb33f2948b8a53e8df2e0eac2.jpg" group-title="⭐️Netflix",Wanda Sykes: Not Normal (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warriors of Future \ (2022)" tvg-logo="http://redworld.pro:8880/images/89fa1cedb33f2948b8a53e8df2e0eac2.jpg" group-title="⭐️Netflix",Warriors of Future \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Season \ (2022)" tvg-logo="http://redworld.pro:8880/images/89fa1cedb33f2948b8a53e8df2e0eac2.jpg" group-title="⭐️Netflix",Wedding Season \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="We’re Mad  \ (2022)" tvg-logo="http://redworld.pro:8880/images/89fa1cedb33f2948b8a53e8df2e0eac2.jpg" group-title="⭐️Netflix",We’re Mad  \ (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="What Happened to Mr Cha \ (2021)" tvg-logo="http://redworld.pro:8880/images/89fa1cedb33f2948b8a53e8df2e0eac2.jpg" group-title="⭐️Netflix",What Happened to Mr Cha \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Miel y Sangre (2023)" tvg-logo="http://redworld.pro:8880/images/6e1f610d1d2cd6e2e897403a860fa923.jpg" group-title="⭐️Netflix",Winnie the Pooh: Miel y Sangre (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Xtremo (2021)" tvg-logo="http://redworld.pro:8880/images/e714b2758b93c79470c0b94d5155be5c.jpg" group-title="⭐️Netflix",Xtremo (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ya no estoy aquí (2019)" tvg-logo="http://redworld.pro:8880/images/abc7a63045a618d4d1502e2149b1bf24.jpg" group-title="⭐️Netflix",Ya no estoy aquí (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yes Day \ (2021)" tvg-logo="http://redworld.pro:8880/images/abc7a63045a618d4d1502e2149b1bf24.jpg" group-title="⭐️Netflix",Yes Day \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy todas las niñas (2021)" tvg-logo="http://redworld.pro:8880/images/9eba21fe98f486df51afd49600a84453.jpg" group-title="⭐️Netflix",Yo soy todas las niñas (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="yo te cuido \ (2021)" tvg-logo="http://redworld.pro:8880/images/9eba21fe98f486df51afd49600a84453.jpg" group-title="⭐️Netflix",yo te cuido \ (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You People \ (2023)" tvg-logo="http://redworld.pro:8880/images/9eba21fe98f486df51afd49600a84453.jpg" group-title="⭐️Netflix",You People \ (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No estás invitada a mi bat Mitzvah! (2023)" tvg-logo="http://redworld.pro:8880/images/a7ae09d9c7086512f1ebb942d7ec8e06.jpg" group-title="⭐️Netflix",¡No estás invitada a mi bat Mitzvah! (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Encontró lo que buscaba? (2023)" tvg-logo="http://redworld.pro:8880/images/330a9d0c05d5dc1adc67c58f8c8acb9d.jpg" group-title="⭐️Netflix",¿Encontró lo que buscaba? (2023)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué culpa tiene el karma? (2022)" tvg-logo="http://redworld.pro:8880/images/ec34e4b829e57532ad77644bda8e357c.jpg" group-title="⭐️Netflix",¿Qué culpa tiene el karma? (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué le pasó a Lunes? (2017)" tvg-logo="http://redworld.pro:8880/images/f8b339a5feaa3814a16bb7fb48613486.jpg" group-title="⭐️Netflix",¿Qué le pasó a Lunes? (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Æon Flux" tvg-logo="http://redworld.pro:8880/images/f8b339a5feaa3814a16bb7fb48613486.jpg" group-title="⭐️Netflix",Æon Flux
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oldboy: Cinco días para vengarse (2003)" tvg-logo="http://redworld.pro:8880/images/4a702093100f7a22b633d40dd8dd72d2.jpg" group-title="⭐️Acción",Oldboy: Cinco días para vengarse (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Montañas: Nada es Imposible (2021)" tvg-logo="http://redworld.pro:8880/images/b0397348ee85d87b29b024dbd9903eed.jpg" group-title="⭐️Películas 2021",14 Montañas: Nada es Imposible (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anémona (2025)" tvg-logo="http://redworld.pro:8880/images/036db1bfe4a475933ac982e1f013f994.jpg" group-title="⭐️Películas 2025 ",Anémona (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kangaroo: Una Aventura en Australia (2025)" tvg-logo="http://redworld.pro:8880/images/687d63bf125b50ad59270ed3c409e550.jpg" group-title="⭐️Películas 2025 ",Kangaroo: Una Aventura en Australia (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mayday (2026)" tvg-logo="http://redworld.pro:8880/images/b44536baf1cc5b596ab4938cbf57b0c6.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Mayday (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vértigo 2: Punto muerto (2026) CAM" tvg-logo="http://redworld.pro:8880/images/df246be01eeb0d6d03016fdaf7feb176.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Vértigo 2: Punto muerto (2026) CAM
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En el camino (2026)" tvg-logo="http://redworld.pro:8880/images/664bee4bcc34d1373b30af8b4eff6941.jpg" group-title="⭐️ Estrenos 2026 ⭐️",En el camino (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="N121: Ultima Parada (2026)" tvg-logo="http://redworld.pro:8880/images/0c3509539ec57aad0a2d0a1324ecf20f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",N121: Ultima Parada (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moscas (2026)" tvg-logo="http://redworld.pro:8880/images/83fa86f5896111574e04ce93b9e5fef1.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Moscas (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caída libre: Toda la verdad sobre Boeing (2026)" tvg-logo="http://redworld.pro:8880/images/e0f622852d0e8aadc7bbe0a005f10bf0.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Caída libre: Toda la verdad sobre Boeing (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gandhari (2026)" tvg-logo="http://redworld.pro:8880/images/6a3989bc2dc121746afcdbefe8710b66.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Gandhari (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luchadores 2 (2026)" tvg-logo="http://redworld.pro:8880/images/f54e2a09a3c60955879a1aad70344ed0.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Luchadores 2 (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Lock (2026) CAM" tvg-logo="http://redworld.pro:8880/images/efc542b493b2f9cac7a05988d9f374aa.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Blue Lock (2026) CAM
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buddy (2026) CAM SUB" tvg-logo="http://redworld.pro:8880/images/f4c7d3c65f35d301b9072718390a386f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Buddy (2026) CAM SUB
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana (2026)" tvg-logo="http://redworld.pro:8880/images/9859388952bafd9708ac64aa7184716d.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Moana (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561484.mp4
+#EXTINF:-1 tvg-id="lch2775" tvg-name="*Ə*$P*N 1" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə*$P*N 1
+http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/561485.m3u8
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-name="*Ə$P*N 2 " tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə$P*N 2 
+http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/561486.m3u8
+#EXTINF:-1 tvg-id="ESPN3.pe" tvg-name="*Ə$*PN 3" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə$*PN 3
+http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/561487.m3u8
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="*Ə*$P*N 4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə*$P*N 4
+http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/561488.m3u8
+#EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="*Ə*$P*N 5" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="LIGA DE CAMPEONES 2026/27",*Ə*$P*N 5
+http://starlatino.tv:8880/live/jorge@57/C7hugVHzDmjt/561489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Mr. T (2026)" tvg-logo="http://redworld.pro:8880/images/19c9b3a2a90c9fbe51d82b7d172899fa.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Al descubierto: Mr. T (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solo por una noche (2026)" tvg-logo="http://redworld.pro:8880/images/20b487293127fca8c856de07365d5bf3.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Solo por una noche (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volcán: Fuego bajo tierra (2025)" tvg-logo="http://redworld.pro:8880/images/1fadde808831e3759c096f8b504b9170.jpg" group-title="⭐️Películas 2025 ",Volcán: Fuego bajo tierra (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wardriver (2026)" tvg-logo="http://redworld.pro:8880/images/4ed1174a5439309ddb8cd999967eb8fa.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Wardriver (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supremacia Cuántica (2026)" tvg-logo="http://redworld.pro:8880/images/121d5d874f89407b4090a60cd2b96ef3.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Supremacia Cuántica (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol: La dino película (2026)" tvg-logo="http://redworld.pro:8880/images/083f855884468b1e879ce346c8a2001e.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Paw Patrol: La dino película (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Punto de inflexión: Generación 11S (2026)" tvg-logo="http://redworld.pro:8880/images/ae30315c80a314b5773e98de66d9bc3a.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Punto de inflexión: Generación 11S (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfrentados: Marfil (2026)" tvg-logo="http://redworld.pro:8880/images/e4b7497b0c59214016e97b4897232c24.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Enfrentados: Marfil (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Por qué me casé, entonces? (2026)" tvg-logo="http://redworld.pro:8880/images/fed36ee50b7178f8c590ed029ff624fe.jpg" group-title="⭐️ Estrenos 2026 ⭐️",¿Por qué me casé, entonces? (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniversario (2025)" tvg-logo="http://redworld.pro:8880/images/efbab350ddb95286ed50a7638644e205.jpg" group-title="⭐️Películas 2025 ",Aniversario (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fito Páez: El mundo cabe en una canción (2026)" tvg-logo="http://redworld.pro:8880/images/7c60b709356dfece195f3f4a38eb6963.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Fito Páez: El mundo cabe en una canción (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besar es Fácil (2026)" tvg-logo="http://redworld.pro:8880/images/ea826fbe84e15ad5aed898559d6a1367.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Besar es Fácil (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Llama a mi agente!: La película (2026)" tvg-logo="http://redworld.pro:8880/images/a035ddc7134270b82cb5bd672c6e9993.jpg" group-title="⭐️ Estrenos 2026 ⭐️",¡Llama a mi agente!: La película (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballena Asesina (2026)" tvg-logo="http://redworld.pro:8880/images/be7310c79e8fde3c7d04abc2ac83a3c7.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Ballena Asesina (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La chica que lloraba perlas (2025)" tvg-logo="http://redworld.pro:8880/images/03eb112e77663b395f1b91ccee460265.jpg" group-title="⭐️Películas 2025 ",La chica que lloraba perlas (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hope: El primer impacto (2026) SUB" tvg-logo="http://redworld.pro:8880/images/4223b198ce5bed235a1dee4f9ff0aff5.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Hope: El primer impacto (2026) SUB
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el fin del mundo (2026)" tvg-logo="http://redworld.pro:8880/images/9936dd39a53d0f6c99fcc3bfb882b64c.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Hasta el fin del mundo (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto: La leyenda del perro esquimal (1995)" tvg-logo="http://redworld.pro:8880/images/216537f2b39a01c219470c0870315588.jpg" group-title="⭐️Infantiles",Balto: La leyenda del perro esquimal (1995)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto 2: En busca de tus raíces (2002)" tvg-logo="http://redworld.pro:8880/images/23a5442648a794b39a2e9eece40bce86.jpg" group-title="⭐️Infantiles",Balto 2: En busca de tus raíces (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balto 3: Aprendiendo a volar (2004)" tvg-logo="http://redworld.pro:8880/images/cfc76461d07e410c859006ed08a42e7a.jpg" group-title="⭐️Infantiles",Balto 3: Aprendiendo a volar (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen: Una Aventura Congelada  (2013)" tvg-logo="http://redworld.pro:8880/images/0537254908476564c77b9ecc3802d9a5.jpg" group-title="⭐️Infantiles",Frozen: Una Aventura Congelada  (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen 2  (2019)" tvg-logo="http://redworld.pro:8880/images/d344e6969784cd2d84c923624c528164.jpg" group-title="⭐️Infantiles",Frozen 2  (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en un Ring (2025)" tvg-logo="http://redworld.pro:8880/images/cdc59d14f7bd9b556ea400375b87af77.jpg" group-title="⭐️Películas 2025 ",Érase una vez en un Ring (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ladrona Del Tiempo (2025)" tvg-logo="http://redworld.pro:8880/images/f69519aeee12c09285f66a4d7e666bd6.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La Ladrona Del Tiempo (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gracias, equipo (2026)" tvg-logo="http://redworld.pro:8880/images/5c4b77bbfb03014c122e1fe7aefcccde.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Gracias, equipo (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hechizo de amor: La magia continúa (2026) CAM" tvg-logo="http://redworld.pro:8880/images/14e2937a34e5fcd34eea3f9ef49aab8f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Hechizo de amor: La magia continúa (2026) CAM
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El final de la Calle Oak (2026)" tvg-logo="http://redworld.pro:8880/images/5119f3b84f525de5defbb5c40bb315ec.jpg" group-title="⭐️ Estrenos 2026 ⭐️",El final de la Calle Oak (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citizen Vigilante (2026) (SUB)" tvg-logo="http://redworld.pro:8880/images/02b7547acea47553668068158a78ce56.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Citizen Vigilante (2026) (SUB)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de gorilas contada por David Attenborough (2026)" tvg-logo="http://redworld.pro:8880/images/49c738a90292baa5aaf508bb3c12c3b2.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Una historia de gorilas contada por David Attenborough (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El doc de la IA: O cómo me convertí en apocaloptimista (2026)" tvg-logo="http://redworld.pro:8880/images/ca2232e0e3ce995535829bbaebec8037.jpg" group-title="⭐️ Estrenos 2026 ⭐️",El doc de la IA: O cómo me convertí en apocaloptimista (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La apuesta más alta (2026)" tvg-logo="http://redworld.pro:8880/images/cc8b252c69de7126dd2350fc4a360721.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La apuesta más alta (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sultana (2026)" tvg-logo="http://redworld.pro:8880/images/8b6434006873fa3fd5e15dfc20e98ada.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Sultana (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Painted (2024)" tvg-logo="http://redworld.pro:8880/images/c8fdb23e88fb6103df5a9747aea1e9d0.jpg" group-title="⭐️Películas 2024",The Painted (2024)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón blanco: La bestia del mar (2025)" tvg-logo="http://redworld.pro:8880/images/f6c2ccb9803e111bef98332670698554.jpg" group-title="⭐️Películas 2025 ",Tiburón blanco: La bestia del mar (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lector omnisciente: La profecía (2025)" tvg-logo="http://redworld.pro:8880/images/1384c37773c52b1124231b45e4ef4ef5.jpg" group-title="⭐️Películas 2025 ",Lector omnisciente: La profecía (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tú+Yo - Los dos contra todos (2026)" tvg-logo="http://redworld.pro:8880/images/3093e4ab9498eefc0ed1b70e83d3b02f.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Tú+Yo - Los dos contra todos (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Savage House (2026)" tvg-logo="http://redworld.pro:8880/images/06893ffbef25076db26b43bf90f46694.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Savage House (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volviendo a Casa: Un Viaje Increíble (1993)" tvg-logo="http://redworld.pro:8880/images/47deaa252e37e2be4d680736679f9660.jpg" group-title="⭐️Aventura",Volviendo a Casa: Un Viaje Increíble (1993)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volviendo a Casa 2: Perdidos en San Francisco (1996)" tvg-logo="http://redworld.pro:8880/images/b021c116c4ca370e794ca52c0f02aa1a.jpg" group-title="⭐️Aventura",Volviendo a Casa 2: Perdidos en San Francisco (1996)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La señal del apocalipsis (2026)" tvg-logo="http://redworld.pro:8880/images/3512f6e3ea3b9c9e48676a37e3ea45ca.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La señal del apocalipsis (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo el hechizo del deseo 3 (2026)" tvg-logo="http://redworld.pro:8880/images/34e740be202db4e64171153c4c4285a4.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Bajo el hechizo del deseo 3 (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Mejores (2026)" tvg-logo="http://redworld.pro:8880/images/d6690e75e76c74ad6a7045bd8b1344ef.jpg" group-title="⭐️ Estrenos 2026 ⭐️",Las Mejores (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última bala (2026)" tvg-logo="http://redworld.pro:8880/images/8d27f552dc7ecaef424ffde37f0f27ed.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La última bala (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hipótesis del amor (2026)" tvg-logo="http://redworld.pro:8880/images/555d8a83baaa88b911fbb50e0caf271e.jpg" group-title="⭐️ Estrenos 2026 ⭐️",La hipótesis del amor (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Heladero: Dulce sabor a muerte (2026)" tvg-logo="http://redworld.pro:8880/images/d83c05aeed240627b875e247fccc88e1.jpg" group-title="⭐️ Estrenos 2026 ⭐️",El Heladero: Dulce sabor a muerte (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/562949.mp4vv
