@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV VIP
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",60 SEGUNDOS
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/545880.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",BUSQUEDA IMPLACABLE
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/545927.mkv
