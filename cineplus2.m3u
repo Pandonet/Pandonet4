@@ -1,105 +1,525 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E06" tvg-logo="http://redworld.pro:8880/images/3279226e4ee066c7a38193810652bf09.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E06
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E07" tvg-logo="http://redworld.pro:8880/images/3e297c5410c40fcb2ea3c4b5185ae120.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E07
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E08" tvg-logo="http://redworld.pro:8880/images/3e297c5410c40fcb2ea3c4b5185ae120.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E08
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E09" tvg-logo="http://redworld.pro:8880/images/3e297c5410c40fcb2ea3c4b5185ae120.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E09
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E10" tvg-logo="http://redworld.pro:8880/images/d400a513432633e7bc4bb4e994a49cfc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E10
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E11" tvg-logo="http://redworld.pro:8880/images/d400a513432633e7bc4bb4e994a49cfc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E11
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E12" tvg-logo="http://redworld.pro:8880/images/d400a513432633e7bc4bb4e994a49cfc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E12
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E13" tvg-logo="http://redworld.pro:8880/images/ef13f194410a335f891441d2e51424d2.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E13
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E14" tvg-logo="http://redworld.pro:8880/images/ef13f194410a335f891441d2e51424d2.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E14
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E15" tvg-logo="http://redworld.pro:8880/images/ef13f194410a335f891441d2e51424d2.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E15
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E16" tvg-logo="http://redworld.pro:8880/images/419434edb7c62ff2a2b14883ee43bb16.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E16
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E17" tvg-logo="http://redworld.pro:8880/images/419434edb7c62ff2a2b14883ee43bb16.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E17
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E18" tvg-logo="http://redworld.pro:8880/images/419434edb7c62ff2a2b14883ee43bb16.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E18
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E19" tvg-logo="http://redworld.pro:8880/images/c482045271974a10dfcb48a153ee3217.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E19
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E20" tvg-logo="http://redworld.pro:8880/images/c482045271974a10dfcb48a153ee3217.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E20
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E21" tvg-logo="http://redworld.pro:8880/images/c482045271974a10dfcb48a153ee3217.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E21
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E22" tvg-logo="http://redworld.pro:8880/images/ba13f48450f7b2e09e4bf8ca1207bbde.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E22
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E23" tvg-logo="http://redworld.pro:8880/images/ba13f48450f7b2e09e4bf8ca1207bbde.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E23
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E24" tvg-logo="http://redworld.pro:8880/images/ba13f48450f7b2e09e4bf8ca1207bbde.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E24
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E25" tvg-logo="http://redworld.pro:8880/images/9de3d96d4ca13aca3e18672d88f563bc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E25
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E26" tvg-logo="http://redworld.pro:8880/images/9de3d96d4ca13aca3e18672d88f563bc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E26
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E27" tvg-logo="http://redworld.pro:8880/images/9de3d96d4ca13aca3e18672d88f563bc.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E27
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E28" tvg-logo="http://redworld.pro:8880/images/8b15a20b3b921e4bb20e2ce49068cd00.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E28
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E29" tvg-logo="http://redworld.pro:8880/images/8b15a20b3b921e4bb20e2ce49068cd00.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E29
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E30" tvg-logo="http://redworld.pro:8880/images/8b15a20b3b921e4bb20e2ce49068cd00.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E30
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E31" tvg-logo="http://redworld.pro:8880/images/3252da215e07bb4529b1e3fe049cabc5.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E31
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E32" tvg-logo="http://redworld.pro:8880/images/3252da215e07bb4529b1e3fe049cabc5.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E32
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E33" tvg-logo="http://redworld.pro:8880/images/3252da215e07bb4529b1e3fe049cabc5.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E33
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E34" tvg-logo="http://redworld.pro:8880/images/93870be6141febf205db65e78e8285b8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E34
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E35" tvg-logo="http://redworld.pro:8880/images/93870be6141febf205db65e78e8285b8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E35
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E36" tvg-logo="http://redworld.pro:8880/images/93870be6141febf205db65e78e8285b8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E36
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E37" tvg-logo="http://redworld.pro:8880/images/41a594e9131123525e6c5b5ef76258ac.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E37
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E38" tvg-logo="http://redworld.pro:8880/images/41a594e9131123525e6c5b5ef76258ac.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E38
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E39" tvg-logo="http://redworld.pro:8880/images/41a594e9131123525e6c5b5ef76258ac.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E39
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E40" tvg-logo="http://redworld.pro:8880/images/70d0f0d8a355b4836af210d76cd2a9d8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E40
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E41" tvg-logo="http://redworld.pro:8880/images/70d0f0d8a355b4836af210d76cd2a9d8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E41
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S12 E42" tvg-logo="http://redworld.pro:8880/images/70d0f0d8a355b4836af210d76cd2a9d8.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S12 E42
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E01" tvg-logo="http://redworld.pro:8880/images/bf14033d0f37a5add09d18ade05294e4.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E01
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E02" tvg-logo="http://redworld.pro:8880/images/081aa88c7832ebb156d1bce5f5e8eb65.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E02
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E03" tvg-logo="http://redworld.pro:8880/images/891452476d83b8797807d4f12f0f2ad2.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E03
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E04" tvg-logo="http://redworld.pro:8880/images/34ec19faf66c568d4ecd57b03ac13c7a.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E04
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E05" tvg-logo="http://redworld.pro:8880/images/263864ab6bcafc91a1768070429d0668.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E05
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E06" tvg-logo="http://redworld.pro:8880/images/91b6e01b743a28def6cdfa470ef45c46.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E06
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E07" tvg-logo="http://redworld.pro:8880/images/8f8862902a1649e277d7a2e99280c4ad.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E07
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E08" tvg-logo="http://redworld.pro:8880/images/84f12873d71894a4fb2711a1fbf1d3a0.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E08
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E09" tvg-logo="http://redworld.pro:8880/images/bb2d2685512fc9d2b58baa244211d1be.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E09
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E10" tvg-logo="http://redworld.pro:8880/images/4e0b68d85fd4b43a1febef898b47b731.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E10
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E11" tvg-logo="http://redworld.pro:8880/images/3430de3d3ae0283eaa6db4bdb36d056b.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E11
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E12" tvg-logo="http://redworld.pro:8880/images/946b05a6ad699dde251245332009f261.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E12
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E13" tvg-logo="http://redworld.pro:8880/images/fb8d1b3a4bdbf28545199574878a259f.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E13
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unidad de Investigacion S13 E14" tvg-logo="http://redworld.pro:8880/images/4d15b81bc3c4b40cf8556e71a0084988.jpg" group-title="⭐️ Series Policiales",Unidad de Investigacion S13 E14
-http://starlatino.tv:8880/series/jorge@57/C7hugVHzDmjt/461426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Racers (2008)" tvg-logo="http://redworld.pro:8880/images/d117cedf674845d9aeb1c0f48342e005.jpg" group-title="⭐️Variadas",Death Racers (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredador (1987)" tvg-logo="http://redworld.pro:8880/images/6355b671cd923eaa3fdf0cd8bc874fc6.jpg" group-title="⭐️Variadas",Depredador (1987)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredador 2 (1990)" tvg-logo="http://redworld.pro:8880/images/6fa52b2fafa69cac792b71702b5f9924.jpg" group-title="⭐️Variadas",Depredador 2 (1990)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredadores (2010)" tvg-logo="http://redworld.pro:8880/images/9f1056c331ce41e4125f3af7268f8954.jpg" group-title="⭐️Variadas",Depredadores (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despicable me \ (2010)" tvg-logo="http://redworld.pro:8880/images/9f1056c331ce41e4125f3af7268f8954.jpg" group-title="⭐️Variadas",Despicable me \ (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despicable Me 3 \ (2017)" tvg-logo="http://redworld.pro:8880/images/9f1056c331ce41e4125f3af7268f8954.jpg" group-title="⭐️Variadas",Despicable Me 3 \ (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange \ (2016)" tvg-logo="http://redworld.pro:8880/images/9f1056c331ce41e4125f3af7268f8954.jpg" group-title="⭐️Variadas",Doctor Strange \ (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange: Hechicero supremo (2016)" tvg-logo="http://redworld.pro:8880/images/9fab439a05c3465c01f5c82f56d41aac.jpg" group-title="⭐️Variadas",Doctor Strange: Hechicero supremo (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doom: Aniquilación (2019)" tvg-logo="http://redworld.pro:8880/images/94dffd0ab2b882ab589f9e8c95c5e211.jpg" group-title="⭐️Variadas",Doom: Aniquilación (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos Policías Rebeldes (1995)" tvg-logo="http://redworld.pro:8880/images/3cc609af2a4a94d9876dfc26f6036136.jpg" group-title="⭐️Variadas",Dos Policías Rebeldes (1995)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drones \ (2018)" tvg-logo="http://redworld.pro:8880/images/3cc609af2a4a94d9876dfc26f6036136.jpg" group-title="⭐️Variadas",Drones \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Amarre (2021)" tvg-logo="http://redworld.pro:8880/images/c11fc4701f26da1e5385aa8e65198ce3.jpg" group-title="⭐️Variadas",El Amarre (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El aro (2002)" tvg-logo="http://redworld.pro:8880/images/5e09125cadd5833a12a60acc73d5442a.jpg" group-title="⭐️Variadas",El aro (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El aro 2 (2005)" tvg-logo="http://redworld.pro:8880/images/677530e0397872b4734279d5ca0b2837.jpg" group-title="⭐️Variadas",El aro 2 (2005)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El aro 3 (2017)" tvg-logo="http://redworld.pro:8880/images/b7b97beae8932b71e6abafc6048fbe7e.jpg" group-title="⭐️Variadas",El aro 3 (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ascensor (2021)" tvg-logo="http://redworld.pro:8880/images/0cf3565c7f48de4be7f5ec6a7739b9d4.jpg" group-title="⭐️Variadas",El ascensor (2021)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caballero de las sombras: Entre el Yin y el Yang (2019)" tvg-logo="http://redworld.pro:8880/images/2fbdd509e3f301a0bccfb036b979a510.jpg" group-title="⭐️Variadas",El caballero de las sombras: Entre el Yin y el Yang (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro 2 (2016)" tvg-logo="http://redworld.pro:8880/images/9bc586c7ee736e4d940aeb526b11652d.jpg" group-title="⭐️Variadas",El Conjuro 2 (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El demonio (2001)" tvg-logo="http://redworld.pro:8880/images/e4369e773e51791706f9dcd52b04917b.jpg" group-title="⭐️Variadas",El demonio (2001)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El demonio 2 (2003)" tvg-logo="http://redworld.pro:8880/images/987a23daff561e140999aafc32e1ed48.jpg" group-title="⭐️Variadas",El demonio 2 (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Depredador (2018)" tvg-logo="http://redworld.pro:8880/images/235c6aa1abac8798f7e4786055942794.jpg" group-title="⭐️Variadas",El Depredador (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Día de la Independencia (1996)" tvg-logo="http://redworld.pro:8880/images/a1d9465c61d3dd095b4941ec2ba15257.jpg" group-title="⭐️Variadas",El Día de la Independencia (1996)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encanto (2020)" tvg-logo="http://redworld.pro:8880/images/9ac894c02ab1093838a54bd4fa3c0435.jpg" group-title="⭐️Variadas",El encanto (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Fin de Los Tiempos (2008)" tvg-logo="http://redworld.pro:8880/images/f8edc80741cf6147d2c4ca6c14cff14e.jpg" group-title="⭐️Variadas",El Fin de Los Tiempos (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: Un viaje inesperado (2012)" tvg-logo="http://redworld.pro:8880/images/54486eef3eca8d467a18c25d08fec064.jpg" group-title="⭐️Variadas",El Hobbit: Un viaje inesperado (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit 2: La Desolación de Smaug (2013)" tvg-logo="http://redworld.pro:8880/images/3bd029c4e66baa8f35bf1fbbfee070be.jpg" group-title="⭐️Variadas",El Hobbit 2: La Desolación de Smaug (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit 3- La Batalla de Los Cinco Ejércitos \ (2014)" tvg-logo="http://redworld.pro:8880/images/3bd029c4e66baa8f35bf1fbbfee070be.jpg" group-title="⭐️Variadas",El Hobbit 3- La Batalla de Los Cinco Ejércitos \ (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña (2002)" tvg-logo="http://redworld.pro:8880/images/432f59cab73b51ecbd472a2b6dade375.jpg" group-title="⭐️Variadas",El hombre araña (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Búfalo (2020)" tvg-logo="http://redworld.pro:8880/images/e3b9a5e8f997dded1a497dfa01d81c6f.jpg" group-title="⭐️Variadas",El Hombre Búfalo (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk \ (2008)" tvg-logo="http://redworld.pro:8880/images/e3b9a5e8f997dded1a497dfa01d81c6f.jpg" group-title="⭐️Variadas",El increíble Hulk \ (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Legado Bourne (2012)" tvg-logo="http://redworld.pro:8880/images/88cc029adb710b69671b601691e39d4a.jpg" group-title="⭐️Variadas",El Legado Bourne (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Marine (2006)" tvg-logo="http://redworld.pro:8880/images/7c9f36e3b0c20aa262a190c6cca3855e.jpg" group-title="⭐️Variadas",El Marine (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Marino 2 (2009)" tvg-logo="http://redworld.pro:8880/images/4b2858051fad1d9d6abf131a85fde122.jpg" group-title="⭐️Variadas",El Marino 2 (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Marino 3 (2013)" tvg-logo="http://redworld.pro:8880/images/d584f68edce2167df82b452b408f5b95.jpg" group-title="⭐️Variadas",El Marino 3 (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Marino 4 (2015)" tvg-logo="http://redworld.pro:8880/images/8c3791c1aaef32b28e17f809ee26526d.jpg" group-title="⭐️Variadas",El Marino 4 (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mundo perdido: Jurassic Park (1997)" tvg-logo="http://redworld.pro:8880/images/9ca425dae82124a77acf6bacaccc2de6.jpg" group-title="⭐️Variadas",El mundo perdido: Jurassic Park (1997)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Más Buscado (2014)" tvg-logo="http://redworld.pro:8880/images/4c153c41482c19119ddea6af4c732600.jpg" group-title="⭐️Variadas",El Más Buscado (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Padrino (1972)" tvg-logo="http://redworld.pro:8880/images/b448c6463d92b180b5634ca3e422404b.jpg" group-title="⭐️Variadas",El Padrino (1972)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Padrino II (1974)" tvg-logo="http://redworld.pro:8880/images/578f99d1484adef912ba12cdce92529a.jpg" group-title="⭐️Variadas",El Padrino II (1974)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Padrino III (1990)" tvg-logo="http://redworld.pro:8880/images/fc809976331d786901d21c958b6388e2.jpg" group-title="⭐️Variadas",El Padrino III (1990)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El paseo 3 (2013)" tvg-logo="http://redworld.pro:8880/images/fc46d8d3b43f268af06bf6c088d0cc72.jpg" group-title="⭐️Variadas",El paseo 3 (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El paseo 4 (2016)" tvg-logo="http://redworld.pro:8880/images/2cc6e29bf1273a4f7647b438abda5a5a.jpg" group-title="⭐️Variadas",El paseo 4 (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El planeta de los simios (1968)" tvg-logo="http://redworld.pro:8880/images/568ac6773ff03f9f8c20bdde4fd9dfc8.jpg" group-title="⭐️Variadas",El planeta de los simios (1968)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Quinto Elemento (1997)" tvg-logo="http://redworld.pro:8880/images/ddec7da9380c0ccf1517838207f68d60.jpg" group-title="⭐️Variadas",El Quinto Elemento (1997)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña (2012)" tvg-logo="http://redworld.pro:8880/images/2133faa17039d13df1ab9850cc8d451d.jpg" group-title="⭐️Variadas",El Sorprendente Hombre-Araña (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña 2: La Amenaza de Electro (2014)" tvg-logo="http://redworld.pro:8880/images/4bbdc4af2f56b27b015c459a4f4beb56.jpg" group-title="⭐️Variadas",El Sorprendente Hombre-Araña 2: La Amenaza de Electro (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador (2002)" tvg-logo="http://redworld.pro:8880/images/9fb08311dfc6561e0858722538481fe7.jpg" group-title="⭐️Variadas",El Transportador (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador: Recargado (2015)" tvg-logo="http://redworld.pro:8880/images/44247c181af04cf3c5b375d8bb8db04e.jpg" group-title="⭐️Variadas",El Transportador: Recargado (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador 2 (2005)" tvg-logo="http://redworld.pro:8880/images/8e5edb34b4036f6c0a0ad0c3dc8b6c59.jpg" group-title="⭐️Variadas",El Transportador 2 (2005)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador 3 (2008)" tvg-logo="http://redworld.pro:8880/images/d81f4e95b737e8bab87392b8c2406f53.jpg" group-title="⭐️Variadas",El Transportador 3 (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Empire of Dreams: The Story of the Star Wars Trilogy (2004)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Empire of Dreams: The Story of the Star Wars Trilogy (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escalofrios 2- Noche de Halloween \ (2018)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Escalofrios 2- Noche de Halloween \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Freed \ (2018)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Fifty Shades Freed \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades of Grey \ (2015)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Fifty Shades of Grey \ (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination \ (2000)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Final Destination \ (2000)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 2 \ (2003)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Final Destination 2 \ (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 3 \ (2006)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Final Destination 3 \ (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 5 \ (2011)" tvg-logo="http://redworld.pro:8880/images/8d102e1eb28de11bfca46cdb82ff1910.jpg" group-title="⭐️Variadas",Final Destination 5 \ (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freddy contra Jason (2003)" tvg-logo="http://redworld.pro:8880/images/b0eb4f6c65d3214a05c7e8397f09fbc0.jpg" group-title="⭐️Variadas",Freddy contra Jason (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From Dusk Till Dawn \ (1996)" tvg-logo="http://redworld.pro:8880/images/b0eb4f6c65d3214a05c7e8397f09fbc0.jpg" group-title="⭐️Variadas",From Dusk Till Dawn \ (1996)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From Dusk Till Dawn 2 Texas Blood Money \ (1999)" tvg-logo="http://redworld.pro:8880/images/b0eb4f6c65d3214a05c7e8397f09fbc0.jpg" group-title="⭐️Variadas",From Dusk Till Dawn 2 Texas Blood Money \ (1999)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From Dusk Till Dawn 3 The Hangman\'s Daughter \ (1999)" tvg-logo="http://redworld.pro:8880/images/b0eb4f6c65d3214a05c7e8397f09fbc0.jpg" group-title="⭐️Variadas",From Dusk Till Dawn 3 The Hangman\'s Daughter \ (1999)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuego en el Cielo (1993)" tvg-logo="http://redworld.pro:8880/images/373f7f8ff4ea3db6aa31741679e5cc80.jpg" group-title="⭐️Variadas",Fuego en el Cielo (1993)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider: el vengador fantasma (2007)" tvg-logo="http://redworld.pro:8880/images/42a6c04a6d823131ab611bfc8f6ab047.jpg" group-title="⭐️Variadas",Ghost Rider: el vengador fantasma (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 2: Espíritu de Venganza (2011)" tvg-logo="http://redworld.pro:8880/images/bb236772908651ee0b0d6fb43d8e57b5.jpg" group-title="⭐️Variadas",Ghost Rider 2: Espíritu de Venganza (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia (2014)" tvg-logo="http://redworld.pro:8880/images/2a294f4cbff1b1c5ab8b4e7991aff7cc.jpg" group-title="⭐️Variadas",Guardianes de la galaxia (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia volumen 2 (2017)" tvg-logo="http://redworld.pro:8880/images/d49ab1149ff49bd2a3d85bd050913e7c.jpg" group-title="⭐️Variadas",Guardianes de la Galaxia volumen 2 (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia volumen 2 (2017)" tvg-logo="http://redworld.pro:8880/images/d49ab1149ff49bd2a3d85bd050913e7c.jpg" group-title="⭐️Variadas",Guardianes de la Galaxia volumen 2 (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hulk: El hombre increíble (2008)" tvg-logo="http://redworld.pro:8880/images/292fc91ef10f8c682614d78b7cfa7825.jpg" group-title="⭐️Variadas",Hulk: El hombre increíble (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="http://redworld.pro:8880/images/f11e1d3e4bff67f8803577de6ba9c30a.jpg" group-title="⭐️Variadas",I Am Mother (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identidad desconocida (2002)" tvg-logo="http://redworld.pro:8880/images/70a1cabc48d75860dfc227d9033b450e.jpg" group-title="⭐️Variadas",Identidad desconocida (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3: La rebelión de los Lycans (2009)" tvg-logo="http://redworld.pro:8880/images/6c138a28e98480870774a34dee80f3b5.jpg" group-title="⭐️Variadas",Inframundo 3: La rebelión de los Lycans (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5: Guerras de sangre (2016)" tvg-logo="http://redworld.pro:8880/images/aaa2f2b505eefaa8e2cd4f9fceda5885.jpg" group-title="⭐️Variadas",Inframundo 5: Guerras de sangre (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invicto: Contraataque (2002)" tvg-logo="http://redworld.pro:8880/images/3517d046ba8ef237d7eed9217c2686f3.jpg" group-title="⭐️Variadas",Invicto: Contraataque (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invicto 2: El último hombre en pie (2006)" tvg-logo="http://redworld.pro:8880/images/98bccbb65cb132c4c77020b14ffc970b.jpg" group-title="⭐️Variadas",Invicto 2: El último hombre en pie (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invicto 3: Redención (2010)" tvg-logo="http://redworld.pro:8880/images/1c52dbe8aa41d50a674fc747dcb02c72.jpg" group-title="⭐️Variadas",Invicto 3: Redención (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invicto 4: La gran pelea (2016)" tvg-logo="http://redworld.pro:8880/images/abf502210b895f694dada9f5649e4e01.jpg" group-title="⭐️Variadas",Invicto 4: La gran pelea (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IO: Sola en la Tierra (2019)" tvg-logo="http://redworld.pro:8880/images/85f0aa0218e99115e0fe641db02a2268.jpg" group-title="⭐️Variadas",IO: Sola en la Tierra (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man \ (2008)" tvg-logo="http://redworld.pro:8880/images/85f0aa0218e99115e0fe641db02a2268.jpg" group-title="⭐️Variadas",Iron Man \ (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro (2008)" tvg-logo="http://redworld.pro:8880/images/7fe096fdb5de5fd4ae01360a953032d5.jpg" group-title="⭐️Variadas",Iron man - El hombre de hierro (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 (2010)" tvg-logo="http://redworld.pro:8880/images/3faf071b3957a19575c7e68c1094b3db.jpg" group-title="⭐️Variadas",Iron Man 2 (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013)" tvg-logo="http://redworld.pro:8880/images/434a1572afc32dfaf80814262276ba09.jpg" group-title="⭐️Variadas",Iron Man 3 (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher: Bajo la Mira (2012)" tvg-logo="http://redworld.pro:8880/images/f5668cce21984abe7d59abdf0894d4f5.jpg" group-title="⭐️Variadas",Jack Reacher: Bajo la Mira (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher 2: Sin Regreso (2016)" tvg-logo="http://redworld.pro:8880/images/04d15f6c9cf111e0cef4cefa6abfd02c.jpg" group-title="⭐️Variadas",Jack Reacher 2: Sin Regreso (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jarhead 2 - Campo De Fuego (2014)" tvg-logo="http://redworld.pro:8880/images/e444d792f549d79d2bd00e5f74d2801c.jpg" group-title="⭐️Variadas",Jarhead 2 - Campo De Fuego (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jarhead 3 - El Asedio (2016)" tvg-logo="http://redworld.pro:8880/images/3fa8444d2ea1ebb1a549bcd79335c95e.jpg" group-title="⭐️Variadas",Jarhead 3 - El Asedio (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="http://redworld.pro:8880/images/a79ed6e5b8652d6440467aa895234bb5.jpg" group-title="⭐️Variadas",Jason Bourne (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3: El Regreso del Demonio (2017)" tvg-logo="http://redworld.pro:8880/images/9d1975d9ac305c44d0efed713bcc9dd8.jpg" group-title="⭐️Variadas",Jeepers Creepers 3: El Regreso del Demonio (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English (2003)" tvg-logo="http://redworld.pro:8880/images/153f670c43fa226e9a388bd9125a0e5a.jpg" group-title="⭐️Variadas",Johnny English (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English 2: Recargado (2011)" tvg-logo="http://redworld.pro:8880/images/f619af4d25eed08308627ba746cf0ee8.jpg" group-title="⭐️Variadas",Johnny English 2: Recargado (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English 3.0 (2018)" tvg-logo="http://redworld.pro:8880/images/41598a58737870bc608f88c35ecf37f8.jpg" group-title="⭐️Variadas",Johnny English 3.0 (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick- Otro Día para Matar \ (2014)" tvg-logo="http://redworld.pro:8880/images/41598a58737870bc608f88c35ecf37f8.jpg" group-title="⭐️Variadas",John Wick- Otro Día para Matar \ (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="http://redworld.pro:8880/images/cd8dc948060b4de0cd1499c5ae1781d6.jpg" group-title="⭐️Variadas",John Wick 3: Parabellum (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Diabólicos 2 (1986)" tvg-logo="http://redworld.pro:8880/images/b0da691647f5e41539bc8f5eea3faa32.jpg" group-title="⭐️Variadas",Juegos Diabólicos 2 (1986)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji (1995)" tvg-logo="http://redworld.pro:8880/images/6ca189917660a36b272463d188f209a4.jpg" group-title="⭐️Variadas",Jumanji (1995)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: El siguiente nivel (2019)" tvg-logo="http://redworld.pro:8880/images/33e22a5121fb1194e4631e6d5db43bc7.jpg" group-title="⭐️Variadas",Jumanji: El siguiente nivel (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: En la selva (2017)" tvg-logo="http://redworld.pro:8880/images/2f1ba0efde33416fc190b9954f791bff.jpg" group-title="⭐️Variadas",Jumanji: En la selva (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Galaxy \ (2018)" tvg-logo="http://redworld.pro:8880/images/2f1ba0efde33416fc190b9954f791bff.jpg" group-title="⭐️Variadas",Jurassic Galaxy \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World (2015)" tvg-logo="http://redworld.pro:8880/images/48487863221a51bd16faec09d575d270.jpg" group-title="⭐️Variadas",Jurassic World (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass 2 (2013)" tvg-logo="http://redworld.pro:8880/images/7431c98f87451f29403bc43f7e6af59a.jpg" group-title="⭐️Variadas",Kick-Ass 2 (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer (1989)" tvg-logo="http://redworld.pro:8880/images/9c1336960d2e0abc42ee62a95bf6049c.jpg" group-title="⭐️Variadas",Kickboxer (1989)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Vengeance (2016)" tvg-logo="http://redworld.pro:8880/images/e391f72de2085da2ba3b6ba51571053b.jpg" group-title="⭐️Variadas",Kickboxer: Vengeance (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kin \ (2018)" tvg-logo="http://redworld.pro:8880/images/e391f72de2085da2ba3b6ba51571053b.jpg" group-title="⭐️Variadas",Kin \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda (2008)" tvg-logo="http://redworld.pro:8880/images/05a97ba38db2adb10637a52488edf9c3.jpg" group-title="⭐️Variadas",Kung Fu Panda (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 2 (2011)" tvg-logo="http://redworld.pro:8880/images/8a21257c83e99d8eb2a60618f1800653.jpg" group-title="⭐️Variadas",Kung Fu Panda 2 (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="la bruja y el ropero \ (2005)" tvg-logo="http://redworld.pro:8880/images/8a21257c83e99d8eb2a60618f1800653.jpg" group-title="⭐️Variadas",la bruja y el ropero \ (2005)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Estafa (2001)" tvg-logo="http://redworld.pro:8880/images/6ba460c2d16464c5160aa115b3bb3679.jpg" group-title="⭐️Variadas",La Gran Estafa (2001)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La historia sin fin (1984)" tvg-logo="http://redworld.pro:8880/images/387ba59e6579230fc6955f5fa1ccdae0.jpg" group-title="⭐️Variadas",La historia sin fin (1984)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Variadas",La Historia sin Fin II (1990)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La justicia del Ninja (1981)" tvg-logo="http://redworld.pro:8880/images/ea15bc0ed394f527d1652e11b1a6eeed.jpg" group-title="⭐️Variadas",La justicia del Ninja (1981)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (1974)" tvg-logo="http://redworld.pro:8880/images/5d7a58ed796ceee627f1f999eda71489.jpg" group-title="⭐️Variadas",La masacre de Texas (1974)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Momia (1999)" tvg-logo="http://redworld.pro:8880/images/674a10baf63996d3f9db267cce28b7a6.jpg" group-title="⭐️Variadas",La Momia (1999)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La momia (2017)" tvg-logo="http://redworld.pro:8880/images/9736b3d178fe64dfe52d986e96168b49.jpg" group-title="⭐️Variadas",La momia (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Momia: La tumba del emperador dragón (2008)" tvg-logo="http://redworld.pro:8880/images/4dc1f86cb7f1fc2f0a2df43a28ad1d8e.jpg" group-title="⭐️Variadas",La Momia: La tumba del emperador dragón (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Momia Regresa (2001)" tvg-logo="http://redworld.pro:8880/images/6f66ffa09635b661a1b986cdeb607a0c.jpg" group-title="⭐️Variadas",La Momia Regresa (2001)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Noche de la Expiación (2013)" tvg-logo="http://redworld.pro:8880/images/01660f2dfb944a86765dc92fc6f2a9ad.jpg" group-title="⭐️Variadas",La Noche de la Expiación (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Nueva Gran Estafa (2004)" tvg-logo="http://redworld.pro:8880/images/0181aedcfef33377fbb140519d86f201.jpg" group-title="⭐️Variadas",La Nueva Gran Estafa (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía (1976)" tvg-logo="http://redworld.pro:8880/images/1e485758c74b10befaa3103cf2e16625.jpg" group-title="⭐️Variadas",La profecía (1976)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía (2006)" tvg-logo="http://redworld.pro:8880/images/4a2bb7f45dc2b8ffdfb3617fa95fe729.jpg" group-title="⭐️Variadas",La profecía (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía III (1981)" tvg-logo="http://redworld.pro:8880/images/d36c624f779a461e141e497cfcb89c15.jpg" group-title="⭐️Variadas",La profecía III (1981)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía IV: El despertar (1991)" tvg-logo="http://redworld.pro:8880/images/4a332212ab12c17b690fdebb9f883eda.jpg" group-title="⭐️Variadas",La profecía IV: El despertar (1991)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Narnia: El príncipe Caspian (2008)" tvg-logo="http://redworld.pro:8880/images/43c80b0d382ca54dbafbec685ea8072e.jpg" group-title="⭐️Variadas",Las crónicas de Narnia: El príncipe Caspian (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Crónicas de Narnia 3: La Travesía del Viajero del Alba (2010)" tvg-logo="http://redworld.pro:8880/images/174c1063cfd8818135c36261b8cc1198.jpg" group-title="⭐️Variadas",Las Crónicas de Narnia 3: La Travesía del Viajero del Alba (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La supremacía Bourne (2004)" tvg-logo="http://redworld.pro:8880/images/9163a0133d3a41fcbdf7fbcd4bb67c98.jpg" group-title="⭐️Variadas",La supremacía Bourne (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Tierra errante (2019)" tvg-logo="http://redworld.pro:8880/images/7d93d9b211b033754a93c24d439c64e0.jpg" group-title="⭐️Variadas",La Tierra errante (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La venganza del Ninja (1983)" tvg-logo="http://redworld.pro:8880/images/61682f49873fe1ab9638dc96a090def7.jpg" group-title="⭐️Variadas",La venganza del Ninja (1983)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leatherface (1939)" tvg-logo="http://redworld.pro:8880/images/e1bece9b386ff0c80924460f8443e79b.jpg" group-title="⭐️Variadas",Leatherface (1939)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Frozen: Operation Puffins (2025)" tvg-logo="http://redworld.pro:8880/images/44e81b371179ecc6634a699edac615fe.jpg" group-title="⭐️Variadas",LEGO Frozen: Operation Puffins (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Línea mortal: al límite (2017)" tvg-logo="http://redworld.pro:8880/images/753764414b6572033af5a93899b0ab79.jpg" group-title="⭐️Variadas",Línea mortal: al límite (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde: Caballeros Esmeralda (2011)" tvg-logo="http://redworld.pro:8880/images/4606b33fd862e819e4b1a8a653e3a62b.jpg" group-title="⭐️Variadas",Linterna Verde: Caballeros Esmeralda (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca academia de policía (1984)" tvg-logo="http://redworld.pro:8880/images/e8e4540eee807ed70d13b6b362e61b14.jpg" group-title="⭐️Variadas",Loca academia de policía (1984)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca Academia De Policía 2: Su Primera Misión (1985)" tvg-logo="http://redworld.pro:8880/images/d037383fcfc4edd06519d4dd3ce27ec6.jpg" group-title="⭐️Variadas",Loca Academia De Policía 2: Su Primera Misión (1985)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca Academia De Policía 3: De Vuelta A La Escuela (1986)" tvg-logo="http://redworld.pro:8880/images/7584b5cdfbe6ec8d66c2ffeba4fb3205.jpg" group-title="⭐️Variadas",Loca Academia De Policía 3: De Vuelta A La Escuela (1986)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca academia de policía 4: Los ciudadanos se defienden (1987)" tvg-logo="http://redworld.pro:8880/images/d5a043cf2af9262c659b290be7cea101.jpg" group-title="⭐️Variadas",Loca academia de policía 4: Los ciudadanos se defienden (1987)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca Academia de Policía 5: Operación Miami Beach (1988)" tvg-logo="http://redworld.pro:8880/images/ba27fcde67cca7f96a9936593aefd103.jpg" group-title="⭐️Variadas",Loca Academia de Policía 5: Operación Miami Beach (1988)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca Academia de Policía 6: Ciudad Sitiada (1989)" tvg-logo="http://redworld.pro:8880/images/9bc838d9f25302417c742e96f12f1536.jpg" group-title="⭐️Variadas",Loca Academia de Policía 6: Ciudad Sitiada (1989)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca Academia de Policía 7: Misión en Moscú (1994)" tvg-logo="http://redworld.pro:8880/images/2849f6791516d97082bad570e0684437.jpg" group-title="⭐️Variadas",Loca Academia de Policía 7: Misión en Moscú (1994)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan: Wolverine (2017)" tvg-logo="http://redworld.pro:8880/images/3057092deb920fa5f547e5c785323d6e.jpg" group-title="⭐️Variadas",Logan: Wolverine (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="London Has Fallen \ (2016)" tvg-logo="http://redworld.pro:8880/images/3057092deb920fa5f547e5c785323d6e.jpg" group-title="⭐️Variadas",London Has Fallen \ (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los 4 Fantásticos (2005)" tvg-logo="http://redworld.pro:8880/images/a7fd256dff9e6d76d4c72feaf919bbeb.jpg" group-title="⭐️Variadas",Los 4 Fantásticos (2005)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los 4 Fantásticos y Silver Surfer (2007)" tvg-logo="http://redworld.pro:8880/images/265c6b1c8103cc7cddc11cf253e5c34f.jpg" group-title="⭐️Variadas",Los 4 Fantásticos y Silver Surfer (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los increíbles (2004)" tvg-logo="http://redworld.pro:8880/images/e8992cbb9a53fabd6fa74345dccf8a1c.jpg" group-title="⭐️Variadas",Los increíbles (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles (2010)" tvg-logo="http://redworld.pro:8880/images/6696e2052983ae87ddc0925c103f18fe.jpg" group-title="⭐️Variadas",Los indestructibles (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 2 (2012)" tvg-logo="http://redworld.pro:8880/images/4e25a5a413b384118b7993bd07011804.jpg" group-title="⭐️Variadas",Los indestructibles 2 (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 3 (2014)" tvg-logo="http://redworld.pro:8880/images/c6f0c83ec7e4d4586fe1f3009ec6867a.jpg" group-title="⭐️Variadas",Los indestructibles 3 (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre (2012)" tvg-logo="http://redworld.pro:8880/images/bdc506b8d37bded33ad9d185331c5d69.jpg" group-title="⭐️Variadas",Los juegos del hambre (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: En llamas (2013)" tvg-logo="http://redworld.pro:8880/images/a3ff44fe4fe38c0646268122d4edce00.jpg" group-title="⭐️Variadas",Los juegos del hambre: En llamas (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: Sinsajo - Parte 1 (2014)" tvg-logo="http://redworld.pro:8880/images/417a35214a4545db388b7fc2f68ff771.jpg" group-title="⭐️Variadas",Los juegos del hambre: Sinsajo - Parte 1 (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: Sinsajo - Parte 2 (2015)" tvg-logo="http://redworld.pro:8880/images/fc8b01aa29eb4c4c7bc12324fe8cde7f.jpg" group-title="⭐️Variadas",Los juegos del hambre: Sinsajo - Parte 2 (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Nuevos Mutantes (2020)" tvg-logo="http://redworld.pro:8880/images/54aafad30e06a9423872f96f0512a070.jpg" group-title="⭐️Variadas",Los Nuevos Mutantes (2020)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los pequeños magos (2022)" tvg-logo="http://redworld.pro:8880/images/e1365cb12d2848e22efd009950a07320.jpg" group-title="⭐️Variadas",Los pequeños magos (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Vengadores \ (2012)" tvg-logo="http://redworld.pro:8880/images/e1365cb12d2848e22efd009950a07320.jpg" group-title="⭐️Variadas",Los Vengadores \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Vengadores 2- La Era de Ultrón \ (2015)" tvg-logo="http://redworld.pro:8880/images/e1365cb12d2848e22efd009950a07320.jpg" group-title="⭐️Variadas",Los Vengadores 2- La Era de Ultrón \ (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="http://redworld.pro:8880/images/7df2e0a7940298f9594e054363050ad9.jpg" group-title="⭐️Variadas",Lucy (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar (2005)" tvg-logo="http://redworld.pro:8880/images/ce56c337643111443cdd73217e5cd671.jpg" group-title="⭐️Variadas",Madagascar (2005)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mail Order Monster \ (2018)" tvg-logo="http://redworld.pro:8880/images/ce56c337643111443cdd73217e5cd671.jpg" group-title="⭐️Variadas",Mail Order Monster \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maléfica (2014)" tvg-logo="http://redworld.pro:8880/images/360c9fa1f06a7f9cb94de73b56309a0b.jpg" group-title="⭐️Variadas",Maléfica (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Rising: Guerreros secretos (2018)" tvg-logo="http://redworld.pro:8880/images/b42693e224a2ebcfdd7156639b535b37.jpg" group-title="⭐️Variadas",Marvel Rising: Guerreros secretos (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Masacre en Texas: Herencia maldita (2013)" tvg-logo="http://redworld.pro:8880/images/503948bea56c74000f9a52370a3a7acc.jpg" group-title="⭐️Variadas",Masacre en Texas: Herencia maldita (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrix: Revoluciones (2003)" tvg-logo="http://redworld.pro:8880/images/2f2664cba4d492b5a22e78047754960f.jpg" group-title="⭐️Variadas",Matrix: Revoluciones (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Correr o morir (2014)" tvg-logo="http://redworld.pro:8880/images/72df5c7131dce144e9f6bb06260ecb06.jpg" group-title="⭐️Variadas",Maze Runner: Correr o morir (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: La cura mortal (2018)" tvg-logo="http://redworld.pro:8880/images/83dc76115505673eca9f5835b7d5d50f.jpg" group-title="⭐️Variadas",Maze Runner: La cura mortal (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="http://redworld.pro:8880/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="⭐️Variadas",Morbius (2022)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Futuro \ (2018)" tvg-logo="http://redworld.pro:8880/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="⭐️Variadas",Mundo Futuro \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="más furioso \ (2003)" tvg-logo="http://redworld.pro:8880/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="⭐️Variadas",más furioso \ (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ninja 3- Poseída \ (1984)" tvg-logo="http://redworld.pro:8880/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="⭐️Variadas",Ninja 3- Poseída \ (1984)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olympus Has Fallen \ (2013)" tvg-logo="http://redworld.pro:8880/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="⭐️Variadas",Olympus Has Fallen \ (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Otra película de huevos y un pollo (2009)" tvg-logo="http://redworld.pro:8880/images/7f1c5dbaac6fe73e63db34efc8034238.jpg" group-title="⭐️Variadas",Otra película de huevos y un pollo (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Pantera Negra (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity \ (2009)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Paranormal Activity \ (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity 2 \ (2010)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Paranormal Activity 2 \ (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity 3 \ (2011)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Paranormal Activity 3 \ (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity 4 \ (2012)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Paranormal Activity 4 \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity The Ghost Dimension \ (2015)" tvg-logo="http://redworld.pro:8880/images/ff17531ffd54dda7c893b694c3db0cd5.jpg" group-title="⭐️Variadas",Paranormal Activity The Ghost Dimension \ (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parque Jurásico (1993)" tvg-logo="http://redworld.pro:8880/images/34a4bd3885da28b1fdd599ac1372a2dc.jpg" group-title="⭐️Variadas",Parque Jurásico (1993)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parque Jurásico III (2001)" tvg-logo="http://redworld.pro:8880/images/67c4cc5c414c98bc3296c9bed09cc052.jpg" group-title="⭐️Variadas",Parque Jurásico III (2001)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parte II \ (1981)" tvg-logo="http://redworld.pro:8880/images/67c4cc5c414c98bc3296c9bed09cc052.jpg" group-title="⭐️Variadas",Parte II \ (1981)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parte III \ (1982)" tvg-logo="http://redworld.pro:8880/images/67c4cc5c414c98bc3296c9bed09cc052.jpg" group-title="⭐️Variadas",Parte III \ (1982)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parte V- Todo comienza de nuevo \ (1985)" tvg-logo="http://redworld.pro:8880/images/67c4cc5c414c98bc3296c9bed09cc052.jpg" group-title="⭐️Variadas",Parte V- Todo comienza de nuevo \ (1985)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parte VII- Sangre nueva \ (1988)" tvg-logo="http://redworld.pro:8880/images/67c4cc5c414c98bc3296c9bed09cc052.jpg" group-title="⭐️Variadas",Parte VII- Sangre nueva \ (1988)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el espacio (1998)" tvg-logo="http://redworld.pro:8880/images/90bd80417cc62173d8947c9e9f27d327.jpg" group-title="⭐️Variadas",Perdidos en el espacio (1998)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect \ (2012)" tvg-logo="http://redworld.pro:8880/images/90bd80417cc62173d8947c9e9f27d327.jpg" group-title="⭐️Variadas",Pitch Perfect \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect 2 \ (2015)" tvg-logo="http://redworld.pro:8880/images/90bd80417cc62173d8947c9e9f27d327.jpg" group-title="⭐️Variadas",Pitch Perfect 2 \ (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect 3 \ (2017)" tvg-logo="http://redworld.pro:8880/images/90bd80417cc62173d8947c9e9f27d327.jpg" group-title="⭐️Variadas",Pitch Perfect 3 \ (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polo Norte: Abierto por Navidad (2015)" tvg-logo="http://redworld.pro:8880/images/ed1ed00f0fc281673ba4c5d6718a8433.jpg" group-title="⭐️Variadas",Polo Norte: Abierto por Navidad (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porky\'s \ (1982)" tvg-logo="http://redworld.pro:8880/images/ed1ed00f0fc281673ba4c5d6718a8433.jpg" group-title="⭐️Variadas",Porky\'s \ (1982)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porky's 2: Al día siguiente (1983)" tvg-logo="http://redworld.pro:8880/images/a0d66a3ba9b3173a70c8654d6a62181e.jpg" group-title="⭐️Variadas",Porky's 2: Al día siguiente (1983)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porky's 3: La revancha (1985)" tvg-logo="http://redworld.pro:8880/images/f7aa1b027aca420616f0e9652c714149.jpg" group-title="⭐️Variadas",Porky's 3: La revancha (1985)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predator \ (1987)" tvg-logo="http://redworld.pro:8880/images/f7aa1b027aca420616f0e9652c714149.jpg" group-title="⭐️Variadas",Predator \ (1987)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predator 2 \ (1990)" tvg-logo="http://redworld.pro:8880/images/f7aa1b027aca420616f0e9652c714149.jpg" group-title="⭐️Variadas",Predator 2 \ (1990)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predators \ (2010)" tvg-logo="http://redworld.pro:8880/images/f7aa1b027aca420616f0e9652c714149.jpg" group-title="⭐️Variadas",Predators \ (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Projecto Ithaca (2019)" tvg-logo="http://redworld.pro:8880/images/f60e4d3da9d2cc735a3935481dc6e306.jpg" group-title="⭐️Variadas",Projecto Ithaca (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo (1982)" tvg-logo="http://redworld.pro:8880/images/1adde6b9101bf8847c0d409ba654d50a.jpg" group-title="⭐️Variadas",Rambo (1982)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)" tvg-logo="http://redworld.pro:8880/images/10be29f700e10c667bcd139dccfe5b88.jpg" group-title="⭐️Variadas",Rambo: Last Blood (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 4: Regreso al infierno (2008)" tvg-logo="http://redworld.pro:8880/images/75c183fc7199bea48b808ddc1aa79786.jpg" group-title="⭐️Variadas",Rambo 4: Regreso al infierno (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="http://redworld.pro:8880/images/19c3c7589b76279a07c454f39e05715f.jpg" group-title="⭐️Variadas",Rambo III (1988)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RED \ (2010)" tvg-logo="http://redworld.pro:8880/images/19c3c7589b76279a07c454f39e05715f.jpg" group-title="⭐️Variadas",RED \ (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RED 2 (2013)" tvg-logo="http://redworld.pro:8880/images/4889df809599b2b59c4c2890ee1ddddd.jpg" group-title="⭐️Variadas",RED 2 (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso del Todopoderoso (2007)" tvg-logo="http://redworld.pro:8880/images/cefd43a016a992b98fafb48550ea20a5.jpg" group-title="⭐️Variadas",Regreso del Todopoderoso (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Apocalipsis (2004)" tvg-logo="http://redworld.pro:8880/images/b4f8bc1d1cb325257baf6418ec0e97b7.jpg" group-title="⭐️Variadas",Resident Evil: Apocalipsis (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Degeneración (2008)" tvg-logo="http://redworld.pro:8880/images/ea33fcc822d619e294840bb6a738d177.jpg" group-title="⭐️Variadas",Resident Evil: Degeneración (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: El Huésped Maldito (2002)" tvg-logo="http://redworld.pro:8880/images/6ff367efc9ae0fe837eab126187895de.jpg" group-title="⭐️Variadas",Resident Evil: El Huésped Maldito (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Infierno (2012)" tvg-logo="http://redworld.pro:8880/images/fc001c71adfd281223fb47d78d539a74.jpg" group-title="⭐️Variadas",Resident Evil: Infierno (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Venganza (2017)" tvg-logo="http://redworld.pro:8880/images/6ecf829aeefd8c2a2249a50424dc8cfc.jpg" group-title="⭐️Variadas",Resident Evil: Venganza (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 3: La extinción (2007)" tvg-logo="http://redworld.pro:8880/images/1db94f3f1c0731b86a8804ca38e645bf.jpg" group-title="⭐️Variadas",Resident Evil 3: La extinción (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 4: La resurrección (2010)" tvg-logo="http://redworld.pro:8880/images/39dbd1efc70f1f906933492d5f79981e.jpg" group-title="⭐️Variadas",Resident Evil 4: La resurrección (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 5: La venganza (2012)" tvg-logo="http://redworld.pro:8880/images/77cccea0eb96f7f8dae9c865f9be0fdf.jpg" group-title="⭐️Variadas",Resident Evil 5: La venganza (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: Capítulo final (2016)" tvg-logo="http://redworld.pro:8880/images/7c55742460ead9b94a32fa26ecf9a750.jpg" group-title="⭐️Variadas",Resident Evil 6: Capítulo final (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riddick- Eclipse Mortal \ (2000)" tvg-logo="http://redworld.pro:8880/images/7c55742460ead9b94a32fa26ecf9a750.jpg" group-title="⭐️Variadas",Riddick- Eclipse Mortal \ (2000)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop (1987)" tvg-logo="http://redworld.pro:8880/images/0e558b8402dd49d752eae22d8e8f596a.jpg" group-title="⭐️Variadas",RoboCop (1987)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="http://redworld.pro:8880/images/b8a264ad008f2a7918c5d36162461f65.jpg" group-title="⭐️Variadas",RoboCop (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2 (1990)" tvg-logo="http://redworld.pro:8880/images/acc23549356bd9db9bcc5934f1d2ac9b.jpg" group-title="⭐️Variadas",RoboCop 2 (1990)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 3 (1993)" tvg-logo="http://redworld.pro:8880/images/542c8b1c3cc8d0a1c3ac345c8fc3b0e4.jpg" group-title="⭐️Variadas",RoboCop 3 (1993)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rápido y furioso: Reto Tokio (2006)" tvg-logo="http://redworld.pro:8880/images/c2fdc2640259d4eaefd15631521d0f5c.jpg" group-title="⭐️Variadas",Rápido y furioso: Reto Tokio (2006)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Réplicas (2018)" tvg-logo="http://redworld.pro:8880/images/d54929bd1cd6cfe104cd4fa9a8b29387.jpg" group-title="⭐️Variadas",Réplicas (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río (2011)" tvg-logo="http://redworld.pro:8880/images/1d1310fa34fd2f0883a94d54fcd43e37.jpg" group-title="⭐️Variadas",Río (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río 2 (2014)" tvg-logo="http://redworld.pro:8880/images/3286fb783c26c664e65c05a2e5eeba81.jpg" group-title="⭐️Variadas",Río 2 (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Claus. La Película (1985)" tvg-logo="http://redworld.pro:8880/images/58077469116272229e6393119db98042.jpg" group-title="⭐️Variadas",Santa Claus. La Película (1985)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shrek ogrorisa la Navidad (2007)" tvg-logo="http://redworld.pro:8880/images/4d7ab0eba2d2f050b9f899ef78cf17f8.jpg" group-title="⭐️Variadas",Shrek ogrorisa la Navidad (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicario: Tierra de nadie (2015)" tvg-logo="http://redworld.pro:8880/images/70225a41e9f28b8483df2f1d78f3507e.jpg" group-title="⭐️Variadas",Sicario: Tierra de nadie (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2012)" tvg-logo="http://redworld.pro:8880/images/fc2c4a3f8bc19290b86e28c0d732ee72.jpg" group-title="⭐️Variadas",Siniestro (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro 2 (2015)" tvg-logo="http://redworld.pro:8880/images/dd0bcc0a95bdbb098b1ca5df20b090f7.jpg" group-title="⭐️Variadas",Siniestro 2 (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="http://redworld.pro:8880/images/755b82552d121617407aca67e179fd31.jpg" group-title="⭐️Variadas",Soldado Universal (1992)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: La última batalla (2010)" tvg-logo="http://redworld.pro:8880/images/77d4eaa6ef2a5d7acebc7bf956bc2066.jpg" group-title="⭐️Variadas",Soldado Universal 3: La última batalla (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man \ (2002)" tvg-logo="http://redworld.pro:8880/images/77d4eaa6ef2a5d7acebc7bf956bc2066.jpg" group-title="⭐️Variadas",Spider-Man \ (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De regreso a casa (2017)" tvg-logo="http://redworld.pro:8880/images/4d54fae282ee34378cf89d589c7610e0.jpg" group-title="⭐️Variadas",Spider-Man: De regreso a casa (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man- Homecoming \ (2017)" tvg-logo="http://redworld.pro:8880/images/4d54fae282ee34378cf89d589c7610e0.jpg" group-title="⭐️Variadas",Spider-Man- Homecoming \ (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa (2019)" tvg-logo="http://redworld.pro:8880/images/de15df0c08ddb8e81d647b3a8bab8921.jpg" group-title="⭐️Variadas",Spider-Man 2: Lejos de Casa (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2 \ (2004)" tvg-logo="http://redworld.pro:8880/images/de15df0c08ddb8e81d647b3a8bab8921.jpg" group-title="⭐️Variadas",Spider-Man 2 \ (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa (2019)" tvg-logo="http://redworld.pro:8880/images/de15df0c08ddb8e81d647b3a8bab8921.jpg" group-title="⭐️Variadas",Spider-Man 2: Lejos de Casa (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 3 \ (2007)" tvg-logo="http://redworld.pro:8880/images/de15df0c08ddb8e81d647b3a8bab8921.jpg" group-title="⭐️Variadas",Spider-Man 3 \ (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="http://redworld.pro:8880/images/718b6d6773e5c82b8e450f5bd9f89ff6.jpg" group-title="⭐️Variadas",Star Trek (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: En la oscuridad (2013)" tvg-logo="http://redworld.pro:8880/images/148f8ae01a36c4c3edac7b8cb691c3a0.jpg" group-title="⭐️Variadas",Star Trek: En la oscuridad (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Sin Límites (2016)" tvg-logo="http://redworld.pro:8880/images/54b53a52f90b096b0a84abbe6ad97062.jpg" group-title="⭐️Variadas",Star Trek Sin Límites (2016)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up 3 (2010)" tvg-logo="http://redworld.pro:8880/images/438b1f0bb1e7d97de3ccf76794ea1a18.jpg" group-title="⭐️Variadas",Step Up 3 (2010)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up Revolution Dance Workout (2012)" tvg-logo="http://redworld.pro:8880/images/55766bdcc9e1bb07dd9c09b4d0998daf.jpg" group-title="⭐️Variadas",Step Up Revolution Dance Workout (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SuperGrid \ (2018)" tvg-logo="http://redworld.pro:8880/images/55766bdcc9e1bb07dd9c09b4d0998daf.jpg" group-title="⭐️Variadas",SuperGrid \ (2018)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman Viaja al Sol \ (2011)" tvg-logo="http://redworld.pro:8880/images/55766bdcc9e1bb07dd9c09b4d0998daf.jpg" group-title="⭐️Variadas",Superman Viaja al Sol \ (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted \ (2012)" tvg-logo="http://redworld.pro:8880/images/55766bdcc9e1bb07dd9c09b4d0998daf.jpg" group-title="⭐️Variadas",Ted \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted 2 (2015)" tvg-logo="http://redworld.pro:8880/images/5db8bc2858e48d71142d6f4d3e73b18e.jpg" group-title="⭐️Variadas",Ted 2 (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino Oculto (2019)" tvg-logo="http://redworld.pro:8880/images/1eef7ce8d421697cbf6825924955c724.jpg" group-title="⭐️Variadas",Terminator: Destino Oculto (2019)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: El exterminador (1984)" tvg-logo="http://redworld.pro:8880/images/a2875ad09d41cc20c866def3c1a537e9.jpg" group-title="⭐️Variadas",Terminator: El exterminador (1984)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Génesis (2015)" tvg-logo="http://redworld.pro:8880/images/df5ae4c9b4ebb161253bf6bfa43a792e.jpg" group-title="⭐️Variadas",Terminator: Génesis (2015)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Salvación (2009)" tvg-logo="http://redworld.pro:8880/images/f91ef02aeb551a056a3b66eba97b1d52.jpg" group-title="⭐️Variadas",Terminator: Salvación (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator 2: El juicio final (1991)" tvg-logo="http://redworld.pro:8880/images/13d079c0dfa8439054aba395408cda84.jpg" group-title="⭐️Variadas",Terminator 2: El juicio final (1991)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator 3- La rebelión de las máquinas \ (2003)" tvg-logo="http://redworld.pro:8880/images/13d079c0dfa8439054aba395408cda84.jpg" group-title="⭐️Variadas",Terminator 3- La rebelión de las máquinas \ (2003)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill 2: La revelación (2012)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",Terror en Silent Hill 2: La revelación (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man \ (2012)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Amazing Spider-Man \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man 2- El poder de Electro \ (2014)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Amazing Spider-Man 2- El poder de Electro \ (2014)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Identity \ (2002)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Bourne Identity \ (2002)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Legacy \ (2012)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Bourne Legacy \ (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy \ (2004)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Bourne Supremacy \ (2004)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Ultimatum \ (2007)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Bourne Ultimatum \ (2007)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight \ (2008)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Dark Knight \ (2008)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Final Destination \ (2009)" tvg-logo="http://redworld.pro:8880/images/b6ca7c35bf51ce00a059b342ba2df1e0.jpg" group-title="⭐️Variadas",The Final Destination \ (2009)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Raid (2012)" tvg-logo="http://redworld.pro:8880/images/e65068992d07a619b1496d2e524d6ce5.jpg" group-title="⭐️Variadas",The Raid (2012)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="http://redworld.pro:8880/images/fbd6c325fa986253f80076200b82c093.jpg" group-title="⭐️Variadas",Thor (2011)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: un mundo oscuro (2013)" tvg-logo="http://redworld.pro:8880/images/dbd7b5fa52b4fbb2a31e957d7e72f8d0.jpg" group-title="⭐️Variadas",Thor: un mundo oscuro (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="http://redworld.pro:8880/images/64590ebe4c8e801130f1e24c9a199d83.jpg" group-title="⭐️Variadas",Thor: Ragnarok (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="http://redworld.pro:8880/images/64590ebe4c8e801130f1e24c9a199d83.jpg" group-title="⭐️Variadas",Thor: Ragnarok (2017)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: un mundo oscuro (2013)" tvg-logo="http://redworld.pro:8880/images/dbd7b5fa52b4fbb2a31e957d7e72f8d0.jpg" group-title="⭐️Variadas",Thor: un mundo oscuro (2013)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/560767.mkv
