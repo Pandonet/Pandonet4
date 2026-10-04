@@ -1,439 +1,677 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTv
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="ESPN",DEP | ESPN
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/253253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN ARG" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",DEP | ESPN ARG
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/72707.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="DEP | ESPN DEPORTES" tvg-logo="http://visualservice.xyz:80/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN",DEP | ESPN DEPORTES
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/29768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="ESPN",DEP | ESPN PREMIUM
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/253254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN PREMIUM  " tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN PREMIUM  
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1*" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 1" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",DEP | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/30956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 7" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN 7
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 " tvg-logo="http://visualservice.xyz:80/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",DEP | ESPN 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/29785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 " tvg-logo="http://visualservice.xyz:80/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",DEP | ESPN 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 " tvg-logo="http://visualservice.xyz:80/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN",DEP | ESPN 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="ESPN",DEP | ESPN 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/29776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="ESPN",DEP | ESPN 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/29775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN x" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN x
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPN",DEP | ESPN 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPN",DEP | ESPN 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3" tvg-logo="http://visualservice.xyz:80/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",DEP | ESPN 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/30954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPN",DEP | ESPN 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",DEP | ESPN 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 6" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 6
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN  4" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="ESPN",DEP | ESPN  4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 4 S" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 4 S
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/34241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 5
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN USA" tvg-logo="http://visualservice.xyz:80/images/613116b797d81bf47cc463f05530e5b9.jpg" group-title="ESPN",DEP | ESPN USA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/84120.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="DEP | ESPN DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROn0M8RBgmNWgCUuGX6FzK8hx8gMcvgU0EfQ&s" group-title="ESPN",DEP | ESPN DEPORTES
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/767427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2M | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM LATINO 2MB",2M | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/197127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2M | ESPN SUR" tvg-logo="" group-title="PREMIUM LATINO 2MB",2M | ESPN SUR
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/197131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG" tvg-logo="" group-title="PREMIUM LATINO 2MB",ESPN ARG
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/197132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="USA DEPORTE",ESPN 2 HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/274928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="USA DEPORTE",ESPN U
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/274931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/299265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/299266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/299283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 2" tvg-logo="" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4 " tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKRIRGLROGZUmEMEPfnqqLHzyRgD14gVb32KreSiNxfL7m7DI2WgFIwzmHnRmtZdqY.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 1" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqJilZ7sOGDsnkIdnI74QILq18s493ZQssf9Rd-Luy_V8NZSoukuLeGr2MNiOATOBLY.png" group-title="PREMIUM SATELITE",SAT | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 1" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqJilZ7sOGDsnkIdnI74QILq18s493ZQssf9Rd-Luy_V8NZSoukuLeGr2MNiOATOBLY.png" group-title="PREMIUM SATELITE",SAT | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 1" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSZw0_3R_fNvtxttr325N88.png" group-title="PREMIUM SATELITE",SAT | ESPN 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsQ-oNEXdHeQv20zQRZeIhNQ.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa5VfC1L68fPvdaxFUx1M9g.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa5VfC1L68fPvdaxFUx1M9g.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsdZoCjARfSc6wJsOOXkRBbs.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSZw0_3R_fNvtxttr325N88.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsc-z5qFvdfJIx1hqp8IIaqM.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/440993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 B*URU" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS 1 B*URU
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS ecu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DIRECTV",DIRECTV SPORTS ecu
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/70150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV",DIRECTV SPORTS COLOMBIA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/197220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS URU*" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS URU*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/289665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV",DIRECTV SPORTS 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/192358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DIRECTV",DIRECTV SPORTS +
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS +
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +. *lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV",DIRECTV SPORTS +. *lt
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA SD (PJ)." tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA SD (PJ).
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136650.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | M+ LA LIGA  SD (KO)." tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA  SD (KO).
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA HD (TP).." tvg-logo="https://i.ibb.co/yVdJ0Cn/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA HD (TP)..
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA HD (KO)..." tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA HD (KO)...
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA HD (KO).." tvg-logo="https://i.ibb.co/yVdJ0Cn/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA HD (KO)..
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA HD (KO)." tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA HD (KO).
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159025.m3u8
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="D-ESP | M+ LA LIGA FHD (TP)." tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA FHD (TP).
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136649.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | M+ LA LIGA FHD (TP)" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA FHD (TP)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | M+ LA LIGA FHD ᴹ H.265" tvg-logo="https://i.ibb.co/4MDcvVV/La-Liga-TV3.png" group-title="LA LIGA ESPAÑA",D-ESP | M+ LA LIGA FHD ᴹ H.265
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159035.m3u8
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="D-ESP | LA LIGA 2 HD (TP)" tvg-logo="https://i.ibb.co/fCtkJ8w/La-Liga-TV2.png" group-title="LA LIGA ESPAÑA",D-ESP | LA LIGA 2 HD (TP)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | LA LIGA HD (KO) E." tvg-logo="https://i.ibb.co/NFbq7SB/La-Liga-TV4.png" group-title="LA LIGA ESPAÑA",D-ESP | LA LIGA HD (KO) E.
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159036.m3u8
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="D-ESP | LA LIGA 2 HD (KO) " tvg-logo="https://i.ibb.co/fCtkJ8w/La-Liga-TV2.png" group-title="LA LIGA ESPAÑA",D-ESP | LA LIGA 2 HD (KO) 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159033.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | EVENTOS Q" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="LA LIGA ESPAÑA",D-ESP | EVENTOS Q
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/342778.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | EVENTOS Q" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | EVENTOS Q
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | EVENTOS Q" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | EVENTOS Q
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/190794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | EVENTOS Q" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | EVENTOS Q
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/290261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D-ESP | EVENTOS Q" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png" group-title="LA LIGA ESPAÑA",D-ESP | EVENTOS Q
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/190793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | WIN SPORTS PLUS" tvg-logo="http://visualservice.xyz:80/images/295c6a2a261905970889580da0f3c601.png" group-title="WIN SPORTS",DLAT | WIN SPORTS PLUS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/200941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | WIN SPORTS PLUS" tvg-logo="http://visualservice.xyz:80/images/295c6a2a261905970889580da0f3c601.png" group-title="WIN SPORTS",DLAT | WIN SPORTS PLUS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/46333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | WIN SPORTS **CB" tvg-logo="http://visualservice.xyz:80/images/295c6a2a261905970889580da0f3c601.png" group-title="WIN SPORTS",DLAT | WIN SPORTS **CB
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/200939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS **CB" tvg-logo="http://visualservice.xyz:80/images/295c6a2a261905970889580da0f3c601.png" group-title="WIN SPORTS",COL | WIN SPORTS **CB
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/38815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDN USA HD " tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTE LATINO",DLAT | TUDN USA HD 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDN USA FHD " tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTE LATINO",DLAT | TUDN USA FHD 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | CDF" tvg-logo="http://visualservice.xyz:80/images/d4c9f892e4b6a5fdf3461ad238b1e9e4.png" group-title="DEPORTE LATINO",DLAT | CDF
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDN USA   " tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTE LATINO",DLAT | TUDN USA   
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/44409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS ARG" tvg-logo="http://visualservice.xyz:80/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT SPORTS ARG
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS ARG" tvg-logo="http://visualservice.xyz:80/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT SPORTS ARG
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDN MX " tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTE LATINO",DLAT | TUDN MX 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/84090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS 2" tvg-logo="http://visualservice.xyz:80/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/84332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | DEPORTV HD" tvg-logo="https://static.epg.best/ar/DeporTV.ar.png" group-title="DEPORTE LATINO",DLAT | DEPORTV HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/110878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | ADRENALINA" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" group-title="DEPORTE LATINO",DLAT | ADRENALINA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/110879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TYC SPORTS INTERNACIONAL HD " tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="DEPORTE LATINO",DLAT | TYC SPORTS INTERNACIONAL HD 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/110880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | GOLPERU*" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTE LATINO",DLAT | GOLPERU*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT STADIO CHILE op1" tvg-logo="http://visualservice.xyz:80/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT STADIO CHILE op1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/166690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS 3 " tvg-logo="http://visualservice.xyz:80/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT SPORTS 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/187119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX | AFIZZIONADOS " tvg-logo="http://mylatinotv.com:8080/images/mexico/afizzionados.png" group-title="DEPORTE LATINO",MEX | AFIZZIONADOS 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/276735.m3u8
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="D-ESP | DAZN FORMULA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN",D-ESP | DAZN FORMULA 1 HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEU | EUROSPORT 2" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png" group-title="PREMIUM ESPAÑA ",DEU | EUROSPORT 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV ECUADOR SD" tvg-logo="http://visualservice.xyz:80/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="GOLTV",GOLTV ECUADOR SD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/48338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV ECUADOR FHD " tvg-logo="http://visualservice.xyz:80/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="GOLTV",GOLTV ECUADOR FHD 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/62211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV LATINOAMERICA    *lt" tvg-logo="http://visualservice.xyz:80/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="GOLTV",GOLTV LATINOAMERICA    *lt
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://visualservice.xyz:80/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="FOX SPORTS",FOX SPORTS 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS " tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22890.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="FOX SPORTS PREMIUM " tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX SPORTS PREMIUM 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES " tvg-logo="https://play-lh.googleusercontent.com/uMDC_ZCZXk4i6YfmdiiPfWRBzYKwdpk9pP2gDmg6qkOWBqodlLBdIYPTJTbX8ZxyTA" group-title="FOX SPORTS",FOX DEPORTES 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 " tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2  " tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS 2  
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1  " tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX SPORTS 1  
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 " tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX SPORTS 1 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/32109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS USA " tvg-logo="http://visualservice.xyz:80/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="FOX SPORTS",FOX SPORTS USA 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/61811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 " tvg-logo="http://visualservice.xyz:80/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="FOX SPORTS",FOX SPORTS 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/61813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/61814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX SPORTS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/124527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/uMDC_ZCZXk4i6YfmdiiPfWRBzYKwdpk9pP2gDmg6qkOWBqodlLBdIYPTJTbX8ZxyTA" group-title="FOX SPORTS",USA: FOX DEPORTES
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/275734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/04/26/fox-sports-premium-cumplir-mes.jpg" group-title="FOX SPORTS",FOX SPORTS PREMIUM
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/277666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T | GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="TIGO SPORTS",T | GUATEMALA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/249212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T | HONDURAS" tvg-logo="http://visualservice.xyz:80/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="TIGO SPORTS",T | HONDURAS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T | HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="TIGO SPORTS",T | HONDURAS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="http://visualservice.xyz:80/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="TIGO SPORTS",TIGO SPORTS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/5887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T | COSTA RICA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="TIGO SPORTS",T | COSTA RICA 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/109033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV  " tvg-logo="http://latinoamericatv.vip:8080/images/c432644aa137982307d590564818f76d.png" group-title="GOLTV",GOL TV  
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/273457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV  " tvg-logo="http://latinoamericatv.vip:8080/images/c432644aa137982307d590564818f76d.png" group-title="GOLTV",GOLTV  
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/273456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS LA LIGA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/293983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T | GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="TIGO SPORTS",T | GUATEMALA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/295984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ᴘʀᴇᴍɪᴇʀ ʟᴇᴀɢᴜᴇ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",ᴘʀᴇᴍɪᴇʀ ʟᴇᴀɢᴜᴇ
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS LA LIGA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY GOLF
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS BUNDESLIGA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/296972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport | COSTA RICA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="TIGO SPORTS",Tigo Sport | COSTA RICA 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/109026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 3
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 2 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="FOX SPORTS",FOX SPORTS 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="FOX SPORTS",FOX SPORTS 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 " tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="FOX SPORTS",FOX SPORTS 1 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 " tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="FOX SPORTS",FOX SPORTS 1 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="FOX SPORTS",FOX SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="FOX SPORTS",FOX SPORTS 3 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/292849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="FOX SPORTS",FOX SPORTS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/309992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX sports premium" tvg-logo="https://jamesademeo.com/wp-content/uploads/2018/11/FOX46-1.png" group-title="FOX SPORTS",FOX sports premium
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/309993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS 1" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS 2" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS MX" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS MX
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS GT
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS HD   *lt" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS HD   *lt
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT HD   *lt" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS GT HD   *lt
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS 2" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS ARG" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS ARG
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS CO" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS CO
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS 2" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS GT
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS HD GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS HD GT
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="CLARO SPORTS",DEP | CLARO SPORTS GT
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/311382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HD MX | AFIZZIONADOS" tvg-logo="http://xtreamgo.one:80/images/QCqX5p5x3Y181Q8jwb82JBdhEO1FiCh6bbNvU5DXSGopXacRDbSOD1cho1Nj0Fft.png" group-title="DEPORTE LATINO",HD MX | AFIZZIONADOS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/341670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP LAT | ESTADIO CHILE" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="DEPORTE LATINO",DEP LAT | ESTADIO CHILE
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/351105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANEL LATINO" tvg-logo="" group-title="DEPORTE LATINO",GOLF CHANEL LATINO
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/354210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS F1*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/375315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="EL SALVADOR",Claro Sports
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/393437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GT OP1" tvg-logo="http://svcabledigital.com:80/images/KJwy_HFuDxDvI1XyXXNLef810magYyo_s0bmax156VKk9EYs-92yoMr7u_DdforxdS9T-9Vi31s3orR59gvi8y0OFMlLCgRpMT2aGqV1NjQyzuRO1QoZgyCyZg3f_BVlNJ3zH7cOvVWflcb6gkcrTQ.png" group-title="TIGO SPORTS",TIGO SPORTS GT OP1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/443231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GT OP1" tvg-logo="http://svcabledigital.com:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40Lf_Ro5SuCqgp0w1QNW9DbI9YhI0SSv8Wius0_ywFwoOwyapbB7COx6kQMF-XKkio0.png" group-title="TIGO SPORTS",TIGO SPORTS GT OP1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/443232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA HONDURAS: TIGO SPORTS (solo eventos)" tvg-logo="http://svcabledigital.com:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40JYDPWbSIA492YFA5at4d7qxf7FSWfCfYynHYJ8B4z0rOGs9vDFsapNx8o_XqojSfU.png" group-title="TIGO SPORTS",LIGA HONDURAS: TIGO SPORTS (solo eventos)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/443234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HON: TIGO SPORTS" tvg-logo="http://svcabledigital.com:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40Lf_Ro5SuCqgp0w1QNW9DbI9YhI0SSv8Wius0_ywFwoOwyapbB7COx6kQMF-XKkio0.png" group-title="TIGO SPORTS",HON: TIGO SPORTS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/443238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY" tvg-logo="" group-title="PREMIUM ESPAÑA ",GOL PLAY
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/456308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="DEPORTE LATINO",RD: TOROS
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/458573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO 1 BOL " tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 1 BOL 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO 2 BOL SD" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 2 BOL SD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO 3 BOLIVIA SD" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 3 BOLIVIA SD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO 3 BOLIVIA" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 3 BOLIVIA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",EVENTOS 1
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIGO EL SALVADOR" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO EL SALVADOR
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BETIS TV" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png" group-title="PREMIUM ESPAÑA ",BETIS TV
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/720537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR V.I.P" tvg-logo="http://startv.solutions/images/z2vcEReLxhIYtLwBeXfQ6UCWgNgKOxcqbkyPrfcVoMBhzeruWl_O1ckqQv0DjUqoUj-bEwx85Oa6D-zfr55L_IesutcCV9Q4DOWn8b1tpH1h72O0AUWGwwqIwCw4po9Acb3hKqJE10oN0i5Z-7pMBg.jpg" group-title="LIGA ECUADOR",LIGA ECUADOR V.I.P
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/548824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZAPPING 2*" tvg-logo="http://flx.lat:8080/images/da84cbedfffc71e481ed7d0592ebc9a3.png" group-title="LIGA ECUADOR",ZAPPING 2*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/768171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 FHD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/780881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD*" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 HD*
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/780882.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EURO SPORTS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="PREMIUM ESPAÑA ",EURO SPORTS 2 HD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/792704.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 SD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/792705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK *" tvg-logo="" group-title="USA News",USA NETWORK *
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/808149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK **" tvg-logo="" group-title="USA News",USA NETWORK **
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/808150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/811804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 1 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 1 (EVENTOS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 2 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 2 (EVENTOS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 3 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 3 (EVENTOS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 4 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 4 (EVENTOS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A 1 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1861373819815890944/HWbgwMCn_400x400.jpg" group-title="DEPORTE EUROPEO",SERIE A 1 (EVENTOS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815957.m3u8
-#EXTINF:-1 tvg-id="PT | Sport TV 2" tvg-name="PT: Sport TV 2" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv2-2023-logo-png_seeklogo-504105.png" group-title="PORTUGAL",PT: Sport TV 2
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1029317.m3u8
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ESP | M+ LA LIGA SD**" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="LA LIGA ESPAÑA",ESP | M+ LA LIGA SD**
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/804225.m3u8
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA SD**" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="DAZN",ES: DAZN LA LIGA SD**
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1048389.m3u8
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LA LIGA TV BAR HD (ENG)" tvg-logo="http://kongking.shop:80/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="LA LIGA ESPAÑA",LA LIGA TV BAR HD (ENG)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/777453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1790 dhushwss" tvg-logo="http://channelstv.online:8080/images/02f91b51c079c0f62fbdf8b528892772.png" group-title="FOR ADULTS",1790 dhushwss
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RALLY TV" tvg-logo="https://res.cloudinary.com/dhp6f5wqz/image/upload/v1707877565/Rally_tv_bdvyr7.png" group-title="PREMIUM ESPAÑA ",RALLY TV
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/498157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RALLY TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1200px-F1.svg.png" group-title="PREMIUM ESPAÑA ",RALLY TV FHD
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/783550.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | LIGATV BAR SD (KO)" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | LIGATV BAR SD (KO)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA BAR FHD (50FPS)" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" group-title="LA LIGA ESPAÑA",LA LIGA BAR FHD (50FPS)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/777455.m3u8
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA (M+ LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (M+ LA LIGA)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/297296.m3u8
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="LA LIGA (M+ LA LIGA 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (M+ LA LIGA 2)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/298115.m3u8
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="LA LIGA (DAZN LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (DAZN LA LIGA)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/297295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL VIX LO MEJOR LIGA MX (HD) " tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="DEPORTE LATINO",CANAL VIX LO MEJOR LIGA MX (HD) 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/293496.m3u8
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="LA LIGA (DAZN LA LIGA 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (DAZN LA LIGA 2)
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/750538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | LCDLF / GALA 22:00 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",MX | LCDLF / GALA 22:00 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | LCDLF / ACCESO TOTAL " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",MX | LCDLF / ACCESO TOTAL 
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrSaXF39nDfAAeLKksRCyvSzI2a.jpg" group-title="V_Ciencia Ficcion",Interestelar (2014)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/724550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo, Robot (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0tUxQQxrbKX3GIfsCYeHrrYPzV.jpg" group-title="V_Accion",Yo, Robot (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/724730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Justiciero 2 (2018) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzOMMHrMqvRSLlmsXIlbTJT8vFj.jpg" group-title="V_Accion",El Justiciero 2 (2018) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/724959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La supremacía Bourne (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKrCaaQe4nXnipmYuf3WVdDiP54.jpg" group-title="V_Accion",La supremacía Bourne (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/725009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy (2004) SD DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg" group-title="V_Accion",The Bourne Supremacy (2004) SD DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/725236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="París en la mira (2010) 2 **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luEfodfF9EZ8RZCPadFBpauYkgi.jpg" group-title="V_Accion",París en la mira (2010) 2 **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/725599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador (2002) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flOR63degbHkVlL7BYoe0Eyhzrw.jpg" group-title="V_Accion",El Transportador (2002) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/725707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy (2004) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg" group-title="V_Accion",The Bourne Supremacy (2004) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/725779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy (2004) SD DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg" group-title="V_Accion",The Bourne Supremacy (2004) SD DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/726006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="París en la mira (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luEfodfF9EZ8RZCPadFBpauYkgi.jpg" group-title="V_Accion",París en la mira (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/726369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El oso Paddington 2 (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMIpsbNCWhFvpe0l6ozns88QSfJ.jpg" group-title="V_Animacion",El oso Paddington 2 (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/726988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Río 2 (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" group-title="V_Animacion",Río 2 (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/727056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los imprevistos del amor (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMX7qZAcF54d0DB1Vto8gbWZlVU.jpg" group-title="V_Romance",Los imprevistos del amor (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/727973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué Pasó Ayer? Parte III (2013) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg" group-title="V_Semana Santa",¿Qué Pasó Ayer? Parte III (2013) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/728156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resacón en Las Vegas (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqeim09TdaflSvPNVnCTBjUHlKu.jpg" group-title="V_Aventura",Resacón en Las Vegas (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/728172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué Pasó Ayer? Parte II (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg" group-title="V_Semana Santa",¿Qué Pasó Ayer? Parte II (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/728173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dukes of Hazzard: Reunion! (1997) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caaBvuhEGxtpgXyb4zpiQeAxXWU.jpg" group-title="VARIADAS 1",The Dukes of Hazzard: Reunion! (1997) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/728257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soy Leyenda (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg" group-title="V_Suspenso",Soy Leyenda (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/729310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hambre de poder (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg" group-title="V_Doramas",Hambre de poder (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/729658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un amor inquebrantable (2019) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNMHKpqpr5rrKLYlOhRfzZCa0wv.jpg" group-title="V_Doramas",Un amor inquebrantable (2019) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/729722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo Total (2002) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl7gdxYqKdFCioPT3DAkZR5DDUP.jpg" group-title="V_Dramas",Ritmo Total (2002) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas de Pasión (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg" group-title="V_Dramas",Leyendas de Pasión (1994)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas de Pasión (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg" group-title="V_Dramas",Leyendas de Pasión (1994)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drumline: Un nuevo Beat (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bK4bMXT4xQoJRytBqSQS3FJmFBS.jpg" group-title="V_Dramas",Drumline: Un nuevo Beat (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de una pasión (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdJNpBcLJH0nDis8cjQHGjaAbRl.jpg" group-title="V_Dramas",Diario de una pasión (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El doble del diablo (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vcqzoNkBcgsYabRgV41iXUYkOD.jpg" group-title="V_Dramas",El doble del diablo (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/730525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="V_Ciencia Ficcion",Iron Man 2 (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prometeo (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a1c2DhgkajssrdukOEtRd3KWK3.jpg" group-title="V_Ciencia Ficcion",Prometeo (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro (2008) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="V_Ciencia Ficcion",Iron man - El hombre de hierro (2008) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="V_Ciencia Ficcion",Iron Man 3 (2013) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes de Acero (2011) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg" group-title="V_Ciencia Ficcion",Gigantes de Acero (2011) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabaret (1972) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l7V58hgBEPZDQGFw162oJV9d3q.jpg" group-title="V_Ganadores del Oscar",Cabaret (1972) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/734798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch 2: Stitch en cortocircuito (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l71VXcph19ZwJr2ZtEFuZA6ZzK5.jpg" group-title="V_Infantiles",Lilo y Stitch 2: Stitch en cortocircuito (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/735258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDdllslMtsU9JixAv5HR9biXlp.jpg" group-title="DISNEY",Dumbo (1941) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey leon 2: El tesoro de Simba (1998) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jnskwVz92bOikkKlh0e9QaLLA6.jpg" group-title="DISNEY",El rey leon 2: El tesoro de Simba (1998) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (1998) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCVcnQ2fm77vm7vFjTcrWGjz1Wb.jpg" group-title="DISNEY",Mulan (1998) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan 2 (2004) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg" group-title="DISNEY",Mulan 2 (2004) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis: El Retorno De Milo (2003) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9siOypFgzsKL4LQI1d3EkDN6U3.jpg" group-title="DISNEY",Atlantis: El Retorno De Milo (2003) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bichos Una en Miniatura(1998) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg" group-title="DISNEY",Bichos Una en Miniatura(1998) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Cenicienta 3 Un Giro En El Tiempo (2007) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98PHWv6TTpjxvs6EHKJVyrjuuus.jpg" group-title="DISNEY",La Cenicienta 3 Un Giro En El Tiempo (2007) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Locuras del Emperador (2000) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6c4dzX5Io2i9tP30ZRnrhwjsYt7.jpg" group-title="DISNEY",Las Locuras del Emperador (2000) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La película de Tigger (2000) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxuiGvLHIL1ZyePP7bn6FcKj0Mr.jpg" group-title="DISNEY",La película de Tigger (2000) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story (1995) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="DISNEY",Toy Story (1995) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2 (1999) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg" group-title="DISNEY",Toy Story 2 (1999) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tres Caballeros (1944) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMfScRxw9wVLoO7LiEjziFAKLSK.jpg" group-title="DISNEY",Los Tres Caballeros (1944) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Jorobado de Notre Dame 2 (2002) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jtZ032EK1LwdxjegMQFAaT7t9A.jpg" group-title="DISNEY",El Jorobado de Notre Dame 2 (2002) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 3: El Origen De Ariel (2008) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LJs21HQ7foXB37tDI0JiGkuEAC.jpg" group-title="DISNEY",La Sirenita 3: El Origen De Ariel (2008) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olaf Frozen Otra Aventura Congelada (2017) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg" group-title="DISNEY",Olaf Frozen Otra Aventura Congelada (2017) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vida Salvaje (2006) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg" group-title="DISNEY",Vida Salvaje (2006) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winnie Pooh Nuevas aventuras con Rito (2004) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgVcU1BdPqvnyYnOkb1QtVNd5V.jpg" group-title="DISNEY",Winnie Pooh Nuevas aventuras con Rito (2004) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper escuela de héroes (2005) 1080 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGCNSsQp0oHLAv9XmG6YU38Vlnf.jpg" group-title="DISNEY",Súper escuela de héroes (2005) 1080 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Locuras del Emperador 2 (2005) 1080 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyMrt0RPVC8LDpdMrk1DjN6Gqdu.jpg" group-title="DISNEY",Las Locuras del Emperador 2 (2005) 1080 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cars 2 (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg" group-title="DISNEY",Cars 2 (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3 (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg" group-title="DISNEY",Cars 3 (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cars (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCg0QukAwOJ6BFnitO3fVJrA3TT.jpg" group-title="DISNEY",Cars (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cars (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCg0QukAwOJ6BFnitO3fVJrA3TT.jpg" group-title="DISNEY",Cars (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulán (2020) **ser49**" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72XYwdIugXnjHxS6upI6U0yeTBU.jpg" group-title="DISNEY",Mulán (2020) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antz (Hormigaz) (1998) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFDqymFtThCysdUsCywYD8wj7nf.jpg" group-title="DISNEY",Antz (Hormigaz) (1998) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Hero 6 (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg" group-title="DISNEY",Big Hero 6 (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El camino hacia El Dorado (2000) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI7KqevlFBOJDpXFTZa0swDQZLU.jpg" group-title="DISNEY",El camino hacia El Dorado (2000) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas (1961) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="DISNEY",101 Dálmatas (1961) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sueños sobre hielo (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg" group-title="DISNEY",Sueños sobre hielo (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis: El Regreso de Milo (2003) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9siOypFgzsKL4LQI1d3EkDN6U3.jpg" group-title="DISNEY",Atlantis: El Regreso de Milo (2003) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aviones (2013) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uqCaPEIep4iBG3U4AqSP20LGjq.jpg" group-title="DISNEY",Aviones (2013) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aviones 2: equipo de rescate (2014) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9spC8cdfyyzLyIxNmNFmfaUPKl.jpg" group-title="DISNEY",Aviones 2: equipo de rescate (2014) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bichos, una Aventura en Miniatura (1998) SD DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg" group-title="DISNEY",Bichos, una Aventura en Miniatura (1998) SD DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bolt: un Perro Fuera de Serie (2008) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg" group-title="DISNEY",Bolt: un Perro Fuera de Serie (2008) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Nemo (2003) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVNSgrsvpcAHPnyKf2phYxyppNZ.jpg" group-title="DISNEY",Buscando a Nemo (2003) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear La pelcula (2000) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mr43sXx7PRmwPmLgMYha7qLVAMn.jpg" group-title="DISNEY",Buzz Lightyear La pelcula (2000) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736412.avi
+#EXTINF:-1 tvg-id="" tvg-name="Cars (2006) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qa6HCwP4Z15l3hpsASz3auugEW6.jpg" group-title="DISNEY",Cars (2006) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderella (2015) 720 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH4C837ZWm8IYqULL3PWyGKVtqY.jpg" group-title="DISNEY",Cinderella (2015) 720 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cenicienta 2: un Sueño Hecho Realidad (2002) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmyZ10NuMrQ5FZHXsqVpRQJ5JPy.jpg" group-title="DISNEY",Cenicienta 2: un Sueño Hecho Realidad (2002) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cinderella III: A Twist in Time (2007) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98PHWv6TTpjxvs6EHKJVyrjuuus.jpg" group-title="DISNEY",Cinderella III: A Twist in Time (2007) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017) SD DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg" group-title="DISNEY",Coco (2017) SD DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los fantasmas de Scrooge (2009) 720 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg" group-title="DISNEY",Los fantasmas de Scrooge (2009) 720 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón: El obsequio de la Furia Nocturna (2011) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKQiMhLOsAUkUCLVfDO6HWXY500.jpg" group-title="DISNEY",Cómo entrenar a tu dragón: El obsequio de la Furia Nocturna (2011) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Leon (1994) 720 ESP **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" group-title="DISNEY",El Rey Leon (1994) 720 ESP **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El viaje de Arlo (2015) SD ESP **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM50iVbcnzQUIoc9TmUUk0SP4P4.jpg" group-title="DISNEY",El viaje de Arlo (2015) SD ESP **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enredados (2010) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uPxRO0iYwW02lzwatRhkugWBYs.jpg" group-title="DISNEY",Enredados (2010) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frankenweenie (2012) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg" group-title="DISNEY",Frankenweenie (2012) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen Una Aventura Congelada (2013) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yald8Lsb4uCRvjIH3spzR84Kdwf.jpg" group-title="DISNEY",Frozen Una Aventura Congelada (2013) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hercules (1997) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16JPL3c6ET7ibfO35WjjWxCaVmj.jpg" group-title="DISNEY",Hercules (1997) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736425.avi
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita. (1989) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aXMusULuKFAK0ZRUlv7RJ9zHTc.jpg" group-title="DISNEY",La Sirenita. (1989) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Increibles 2 (2018) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg" group-title="DISNEY",Los Increibles 2 (2018) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Inc. (2001) SD ESP **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg" group-title="DISNEY",Monster Inc. (2001) SD ESP **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noche de las narices frías 101 dalmatas (1961) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9klDisS1sVb5LljRhpYJ0TUbPzt.jpg" group-title="DISNEY",La noche de las narices frías 101 dalmatas (1961) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736429.avi
+#EXTINF:-1 tvg-id="" tvg-name="Goofy 2: Extremadamente Goofy (2000) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg" group-title="DISNEY",Goofy 2: Extremadamente Goofy (2000) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736430.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Descubre la Navidad (1999) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBmKN7zS8fl0rhgtOr9T8BM90k8.jpg" group-title="DISNEY",Mickey Descubre la Navidad (1999) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monsters University (2013) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="DISNEY",Monsters University (2013) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan (1999) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urlu2XhSCA8gQypBJmc1nsRQz1Y.jpg" group-title="DISNEY",Tarzan (1999) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas (1995) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="DISNEY",Pocahontas (1995) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2: Encuentro de dos mundos (1998) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAnmNjw1TCTzS702mj1OwwmXBpM.jpg" group-title="DISNEY",Pocahontas 2: Encuentro de dos mundos (1998) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocchio (1940) 720 DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN1dQBHi4557cFduIu9njOr6knW.jpg" group-title="DISNEY",Pinocchio (1940) 720 DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinkerbell y el Secreto de las Hadas (2012) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q72GagtB9NM4i3z7M40EXLb3ut.jpg" group-title="DISNEY",Tinkerbell y el Secreto de las Hadas (2012) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story de Terror (2013) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNDrMDZYmcoMlJa6K3VicYeAgt1.jpg" group-title="DISNEY",Toy Story de Terror (2013) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valiente (2012) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fg57nIBn2xQw8JZKIX6AzMa3pEp.jpg" group-title="DISNEY",Valiente (2012) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladdín: el Regreso de Jafar (1994) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mw2vRHNiA8l7lWXwKs8Q2eNADy.jpg" group-title="DISNEY",Aladdín: el Regreso de Jafar (1994) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin el Rey de los Ladrones (1996) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg" group-title="DISNEY",Aladdin el Rey de los Ladrones (1996) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 El Gran Principe Del Bosque  (2006) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg" group-title="DISNEY",Bambi 2 El Gran Principe Del Bosque  (2006) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cars 2 (2011) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="DISNEY",Cars 2 (2011) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cenando Con Timon Y Pumba (1996) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5D2KawtFYpUMDi2N4DvXCNKdJ3.jpg" group-title="DISNEY",Cenando Con Timon Y Pumba (1996) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736444.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Jorobado de Notre Dame (1996) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7V92gY3AMO6li17MmGTixAnFcv.jpg" group-title="DISNEY",El Jorobado de Notre Dame (1996) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El planeta del tesoro (2002) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg" group-title="DISNEY",El planeta del tesoro (2002) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736446.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Durazno Gigante (1996) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p7pCYiPdqWHKz5JLr4i0B1pAcZ.jpg" group-title="DISNEY",El Durazno Gigante (1996) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736447.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lilo & Stitch (2002) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i7VnIKdfbQm3JFYTgMpL7bWW3z.jpg" group-title="DISNEY",Lilo & Stitch (2002) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736448.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mickey y los 3 Mosqueteros (2004) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23bvOwfOS9fw347Yc68yPpkmd8i.jpg" group-title="DISNEY",Mickey y los 3 Mosqueteros (2004) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736449.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan 2 (2005) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg" group-title="DISNEY",Tarzan 2 (2005) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736450.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan & Jane (2002) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esRxshmD2BY1UPkiUHt7Gn2mksl.jpg" group-title="DISNEY",Tarzan & Jane (2002) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736451.avi
+#EXTINF:-1 tvg-id="" tvg-name="Todos Queremos a Goofy (2003) SD ESP **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRK37oEVKiQIisC62Gg6GJavyQu.jpg" group-title="DISNEY",Todos Queremos a Goofy (2003) SD ESP **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos queremos a Donald (2003) SD ESP **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLBk0hVqwVkZWZRjwrn3XfCS0aX.jpg" group-title="DISNEY",Todos queremos a Donald (2003) SD ESP **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736453.avi
+#EXTINF:-1 tvg-id="" tvg-name="Unas Fiestas Con Mucho Pooh (2002) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xfh2PPZsjEwFyLqp6bisrbdxZs.jpg" group-title="DISNEY",Unas Fiestas Con Mucho Pooh (2002) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736454.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ratatouille (2007) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npHNjldbeTHdKKw28bJKs7lzqzj.jpg" group-title="DISNEY",Ratatouille (2007) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas (1961) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="DISNEY",101 dálmatas (1961) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin (2018) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQYgljzKgkeGEukezaJsMWp7oq1.jpg" group-title="DISNEY",Christopher Robin (2018) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cascanueces y los Cuatro Reinos (2018) 720 LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg" group-title="DISNEY",El Cascanueces y los Cuatro Reinos (2018) 720 LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana (2016) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7AJMME1l8xg3S7OKoFasW13N5l.jpg" group-title="DISNEY",Moana (2016) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monsters University (2013) SD DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="DISNEY",Monsters University (2013) SD DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TIERRA DE OSOS (2003) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otptPbEY0vBostmo95xwiiumMJm.jpg" group-title="DISNEY",TIERRA DE OSOS (2003) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia (2016) SD LAT **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="DISNEY",Zootopia (2016) SD LAT **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFoXi2iVwyOtJr1PD5nDVSkpkVo.jpg" group-title="DISNEY",Dumbo (1941) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736463.avi
+#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas (1961) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="DISNEY",101 dálmatas (1961) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas 2 (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjocXoaNAqd8WHWfoiRaVvaYid.jpg" group-title="DISNEY",101 dálmatas 2 (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas 2 (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjocXoaNAqd8WHWfoiRaVvaYid.jpg" group-title="DISNEY",101 dálmatas 2 (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goofy e hijo (1995) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJvlkB3S25vxosfEIHlewJXBxt.jpg" group-title="DISNEY",Goofy e hijo (1995) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bambi (1942) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Shq6yU7vqXskmZbX2AEf57ddy.jpg" group-title="DISNEY",Bambi (1942) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bambi II (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg" group-title="DISNEY",Bambi II (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bolt (2008) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg" group-title="DISNEY",Bolt (2008) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermano oso 2 (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8aCmglbG3MmXLUA2bmdqO9NjxL.jpg" group-title="DISNEY",Hermano oso 2 (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermano oso 2 (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8aCmglbG3MmXLUA2bmdqO9NjxL.jpg" group-title="DISNEY",Hermano oso 2 (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Dory (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="DISNEY",Buscando a Dory (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Nemo (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="DISNEY",Buscando a Nemo (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas (1961) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="DISNEY",101 dálmatas (1961) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho (1940) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhhcYlozIjTj3jhrH7dKL0Adt3l.jpg" group-title="DISNEY",Pinocho (1940) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFoXi2iVwyOtJr1PD5nDVSkpkVo.jpg" group-title="DISNEY",Dumbo (1941) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg" group-title="DISNEY",Bee Movie (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFoXi2iVwyOtJr1PD5nDVSkpkVo.jpg" group-title="DISNEY",Dumbo (1941) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" group-title="DISNEY",High School Musical (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiana y el sapo (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="DISNEY",Tiana y el sapo (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos los perros van al cielo 2 (1996) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNmIJILOW9qF2F1Z0qOXkadaS50.jpg" group-title="DISNEY",Todos los perros van al cielo 2 (1996) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey león (1994) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg" group-title="DISNEY",El rey león (1994) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey león 2: El tesoro de Simba (1998) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdD5VcvTD43p048ueswYdgLJZh.jpg" group-title="DISNEY",El rey león 2: El tesoro de Simba (1998) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey león 3: Hakuna Matata (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2SAEOXURbKDgKfdHdZ49VhPGrB.jpg" group-title="DISNEY",El rey león 3: Hakuna Matata (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enredados (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="DISNEY",Enredados (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/736486.avi
+#EXTINF:-1 tvg-id="" tvg-name="Los Diez Mandamientos (1956) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg" group-title="V_Semana Santa",Los Diez Mandamientos (1956) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Set It Up: El plan imperfecto (2018) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6EL4eQqu3MRCnmeBqBebvrPRT.jpg" group-title="V_Romance",Set It Up: El plan imperfecto (2018) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camino hacia el terror (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76TiHoedBCu2A4NyHSzk09GNdjH.jpg" group-title="SAGAS",Camino hacia el terror (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino hacia el terror 2 (2007) Km. 666 II: Camino sangriento **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chskPoHeqWIiWzeZLpuQSeXLBtM.jpg" group-title="SAGAS",Camino hacia el terror 2 (2007) Km. 666 II: Camino sangriento **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino sangriento 3 (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CGNZk2HJHHFpnLdCJEe6JI6Fsi.jpg" group-title="SAGAS",Camino sangriento 3 (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino Hacia el Terror 4 (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3mobjgAhf2q7MzsT0CTb73X7P2.jpg" group-title="SAGAS",Camino Hacia el Terror 4 (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino Hacia El Terror 5 (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rCVdIzSIDIALXArSjLyw44teD0.jpg" group-title="SAGAS",Camino Hacia El Terror 5 (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino Hacia el Terror 6: La Herencia (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks5ehO11dNfc3SQyXigCKmg0TmP.jpg" group-title="SAGAS",Camino Hacia el Terror 6: La Herencia (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739170.avi
+#EXTINF:-1 tvg-id="" tvg-name="Chucky: el muñeco diabólico (1988) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg" group-title="SAGAS",Chucky: el muñeco diabólico (1988) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chucky: el muñeco diabólico 2 (1990) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3l56tzguybfimpjLFM77TuBAeGk.jpg" group-title="SAGAS",Chucky: el muñeco diabólico 2 (1990) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chucky: el muñeco diabólico 3 (1991) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKXfXBCozgm2020fDYPaEN2cEw6.jpg" group-title="SAGAS",Chucky: el muñeco diabólico 3 (1991) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chucky: el muñeco diabólico (1988) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg" group-title="SAGAS",Chucky: el muñeco diabólico (1988) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El Reencuentro (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prurn3HioMykwlFMZdfvJ88iPlM.jpg" group-title="SAGAS",American Pie: El Reencuentro (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg" group-title="SAGAS",American Pie 2 (2001) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="SAGAS",American Pie ¡Menuda boda! (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="SAGAS",American Pie (1999) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro de matar (1988) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m54tK4wKjc1w2dp7QInG0munGao.jpg" group-title="SAGAS",Duro de matar (1988) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro de matar 2 (1990) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg" group-title="SAGAS",Duro de matar 2 (1990) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro de matar 3: La venganza (1995) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLVcPispwVVa5LMpAWwQngFcm8.jpg" group-title="SAGAS",Duro de matar 3: La venganza (1995) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro de matar 4.0 (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZhPQCwfTIv8rkJrd5fOU7jlwJ5.jpg" group-title="SAGAS",Duro de matar 4.0 (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freddy vs. Jason (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVS44i49BswTvEuVCSe2p2o6df8.jpg" group-title="SAGAS",Freddy vs. Jason (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. 7ª parte: Sangre nueva (1988) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg" group-title="SAGAS",Viernes 13. 7ª parte: Sangre nueva (1988) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, 2ª parte (1981) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg" group-title="SAGAS",Viernes 13, 2ª parte (1981) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. 7ª parte: Sangre nueva (1988) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg" group-title="SAGAS",Viernes 13. 7ª parte: Sangre nueva (1988) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. Último capítulo (1984) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" group-title="SAGAS",Viernes 13. Último capítulo (1984) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. Parte V: Un nuevo comienzo (1985) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrq4ZiZs1YoJwO56cdjKibWdD10.jpg" group-title="SAGAS",Viernes 13. Parte V: Un nuevo comienzo (1985) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, parte III (1982) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg" group-title="SAGAS",Viernes 13, parte III (1982) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. Parte VIII: Jason vuelve... para siempre (1989) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg" group-title="SAGAS",Viernes 13. Parte VIII: Jason vuelve... para siempre (1989) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg" group-title="SAGAS",Viernes 13 (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Volver al Futuro (1985) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldJzO9D40mCVeDaZQ1986t8rguZ.jpg" group-title="SAGAS",Volver al Futuro (1985) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Volver al Futuro 2 (1989) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD9UL43dn1LTInOV5MtSyxXGbE6.jpg" group-title="SAGAS",Volver al Futuro 2 (1989) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volver al Futuro 3 (1990) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWzlaEl509RqTntFPbW8D1JN9k.jpg" group-title="SAGAS",Volver al Futuro 3 (1990) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3: El regreso del demonio (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j49G5F7dZVeGzAB8Fnc2GdzO1T.jpg" group-title="SAGAS",Jeepers Creepers 3: El regreso del demonio (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigoló por accidente (1999) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AchGgEoS0l6DAJuXDYzhwP9STt.jpg" group-title="SAGAS",Gigoló por accidente (1999) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Ciempiés Humano 3: Secuencia final (2015) **ser49**" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg" group-title="SAGAS",El Ciempiés Humano 3: Secuencia final (2015) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigsaw: El Juego Continúa (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaHuEyGPSEVS731p6jsRCBdEXre.jpg" group-title="SAGAS",Jigsaw: El Juego Continúa (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Dragón (1996) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaEK2AlCqEROncvin4uh0k0R7BL.jpg" group-title="SAGAS",Corazón de Dragón (1996) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Dragón 2: Un Nuevo Comienzo (2000) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8c8DTXDdpSK6PytaoNgImR2ZFY.jpg" group-title="SAGAS",Corazón de Dragón 2: Un Nuevo Comienzo (2000) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Dragón 4: La batalla por el fuego del corazón (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuhWzb39UawF0dQnfEV2tFSdycp.jpg" group-title="SAGAS",Corazón de Dragón 4: La batalla por el fuego del corazón (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Dragón 5: La venganza (2020) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg" group-title="SAGAS",Corazón de Dragón 5: La venganza (2020) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" group-title="SAGAS",El juego del miedo (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo 2 (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="SAGAS",El juego del miedo 2 (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo 3 (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3ARA2fHufyKJcOFxb3Gv4DclkB.jpg" group-title="SAGAS",El juego del miedo 3 (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo 4 (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGLouNtJMYZjgfXW7EisUTa0ti.jpg" group-title="SAGAS",El juego del miedo 4 (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo 5 (2008) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg" group-title="SAGAS",El juego del miedo 5 (2008) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo 6 (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JtluosCbioSXJSABZByaODyPpa.jpg" group-title="SAGAS",El juego del miedo 6 (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del miedo VII (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg" group-title="SAGAS",El juego del miedo VII (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ys7zRSQOzPgOyiw46LeVbL4iTDR.jpg" group-title="SAGAS",Saw (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739217.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 2 (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="SAGAS",Saw 2 (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739218.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 3 (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iO9n24Rb10peXV0JH2EldIOrAp.jpg" group-title="SAGAS",Saw 3 (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739219.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 4 (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGLouNtJMYZjgfXW7EisUTa0ti.jpg" group-title="SAGAS",Saw 4 (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739220.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 5 (2008) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg" group-title="SAGAS",Saw 5 (2008) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739221.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 6 (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JtluosCbioSXJSABZByaODyPpa.jpg" group-title="SAGAS",Saw 6 (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739222.avi
+#EXTINF:-1 tvg-id="" tvg-name="Saw 7 (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEr8HuWSb7XIQfhkIwyyI8Frs0G.jpg" group-title="SAGAS",Saw 7 (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739223.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="SAGAS",El Conjuro (2013) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Movie 2 (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv3uZUta4UWRNDMdDKSRGhA6lwC.jpg" group-title="SAGAS",Paranormal Movie 2 (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura, un detective diferente (1994) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="SAGAS",Ace Ventura, un detective diferente (1994) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura, un detective diferente (1994) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="SAGAS",Ace Ventura, un detective diferente (1994) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: operación África (1995) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg" group-title="SAGAS",Ace Ventura: operación África (1995) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Actividad Paranormal 2 (2010) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg" group-title="SAGAS",Actividad Paranormal 2 (2010) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Actividad Paranormal 3 (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mgtnguCilTT7OtSURCWWE65iWr.jpg" group-title="SAGAS",Actividad Paranormal 3 (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Actividad Paranormal 4 (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg" group-title="SAGAS",Actividad Paranormal 4 (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Actividad Paranormal: La dimensión fantasma (2015) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg" group-title="SAGAS",Actividad Paranormal: La dimensión fantasma (2015) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity: Los señalados (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7ZnmeVELNBg7CY5BHQvfQPJ6FO.jpg" group-title="SAGAS",Paranormal Activity: Los señalados (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien-2: Sobre la Tierra (1980) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEbiaQrBa4kqCkG4vcERiJshlAb.jpg" group-title="SAGAS",Alien-2: Sobre la Tierra (1980) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien³ (1992) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg" group-title="SAGAS",Alien³ (1992) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title="SAGAS",Alien: Covenant (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Depredador (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="SAGAS",Alien vs. Depredador (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="SAGAS",American Pie (1999) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="SAGAS",American Pie ¡Menuda boda! (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="SAGAS",American Pie (1999) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg" group-title="SAGAS",American Pie 2 (2001) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="SAGAS",American Pie ¡Menuda boda! (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="SAGAS",American Pie presenta: Band Camp (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="SAGAS",American Pie: El reencuentro (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Fraternidad Beta (2007) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg" group-title="SAGAS",American Pie presenta: Fraternidad Beta (2007) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="SAGAS",American Pie presenta: El libro del amor (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="SAGAS",American Pie: El reencuentro (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="SAGAS",American Pie presenta: Band Camp (2005) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="SAGAS",American Pie presenta: El libro del amor (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="SAGAS",American Pie: El reencuentro (2012) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="SAGAS",American Pie ¡Menuda boda! (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anaconda (1997) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" group-title="SAGAS",Anaconda (1997) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anaconda (1997) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" group-title="SAGAS",Anaconda (1997) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anacondas: La cacería por la orquídea sangrienta (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph64l6cJSfSiQwIKK9JbzQpWBy3.jpg" group-title="SAGAS",Anacondas: La cacería por la orquídea sangrienta (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anacondas: La cacería por la orquídea sangrienta (2004) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph64l6cJSfSiQwIKK9JbzQpWBy3.jpg" group-title="SAGAS",Anacondas: La cacería por la orquídea sangrienta (2004) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro (1985) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drUbeOWuKYarYpD5E0lGnc6lfqf.jpg" group-title="SAGAS",Regreso al futuro (1985) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro II (1989) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t27pmhEZoNFOQUXKJZICNfBoVeS.jpg" group-title="SAGAS",Regreso al futuro II (1989) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro III (1990) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Sd42pdvz0JcswvBuMlgAAsCJu.jpg" group-title="SAGAS",Regreso al futuro III (1990) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop (2013) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tk86nJ2ALcZzBgeRfjpJMCgrsLZ.jpg" group-title="SAGAS",Beverly Hills Cop (2013) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boyka: Invicto IV (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hn2C89W1APrPPoZ1XQv69jJb1RP.jpg" group-title="SAGAS",Boyka: Invicto IV (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boyka: Invicto IV (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hn2C89W1APrPPoZ1XQv69jJb1RP.jpg" group-title="SAGAS",Boyka: Invicto IV (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furia Oriental (Fist of Fury) (1972) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu472WKm52n3ZJvZwPPJ6djrI3V.jpg" group-title="SAGAS",Furia Oriental (Fist of Fury) (1972) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739263.avi
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Bruce Lee (1984) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdD3whXbdfHjlcDNt2oEy6jsxjD.jpg" group-title="SAGAS",La leyenda de Bruce Lee (1984) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último combate (1981) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxM3Rsf9zrDcOvnpB1CrZ6B7tDd.jpg" group-title="SAGAS",El último combate (1981) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739265.avi
+#EXTINF:-1 tvg-id="" tvg-name="El último combate (1981) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxM3Rsf9zrDcOvnpB1CrZ6B7tDd.jpg" group-title="SAGAS",El último combate (1981) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739266.avi
+#EXTINF:-1 tvg-id="" tvg-name="Kárate a muerte en Bangkok (1971) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub6pVCrVhKONdgfQ5qWkURDRzst.jpg" group-title="SAGAS",Kárate a muerte en Bangkok (1971) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739267.avi
+#EXTINF:-1 tvg-id="" tvg-name="Kárate a muerte en Bangkok (1971) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub6pVCrVhKONdgfQ5qWkURDRzst.jpg" group-title="SAGAS",Kárate a muerte en Bangkok (1971) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739268.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Curse of the Dragon (1993) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="SAGAS",The Curse of the Dragon (1993) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Li Contra el Dedo de Hierro (1979) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ALu05Tf8bgq6NZADsDOtPKZ6id.jpg" group-title="SAGAS",Bruce Li Contra el Dedo de Hierro (1979) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee Contra los halcones negros (1975) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsyjtjX6JB9tZrgDVUvpn6n14ZH.jpg" group-title="SAGAS",Bruce Lee Contra los halcones negros (1975) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El retorno del dragón (1974) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qz0pG8TzmlJZI0nJagODHWar6A.jpg" group-title="SAGAS",El retorno del dragón (1974) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El furor del Dragón (1972) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQypZXgN2QhqAVO0cxxlsAe9Fzw.jpg" group-title="SAGAS",El furor del Dragón (1972) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Tigre vuelve al ataque (1977) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP9L8I02mduhGiWcTWxrWF7YdbH.jpg" group-title="SAGAS",El Tigre vuelve al ataque (1977) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee el rey del Kung Fu (1980) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fESlBj8KLXJEKRIWgKrliLxaBo0.jpg" group-title="SAGAS",Bruce Lee el rey del Kung Fu (1980) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee en Nueva Guinea (1978) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84F4SdC0WwC8qeoEAbheYoYC3Vr.jpg" group-title="SAGAS",Bruce Lee en Nueva Guinea (1978) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739276.avi
+#EXTINF:-1 tvg-id="" tvg-name="Furia Oriental (Fist of Fury) (1972) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="SAGAS",Furia Oriental (Fist of Fury) (1972) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Real Bruce Lee (1977) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHvl0KU7ChzcMnVmzteDcLFFgvk.jpg" group-title="SAGAS",The Real Bruce Lee (1977) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego con la muerte (Game of Death) (1978) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkkJydEiUgVSy3LpGvSFZl9lEWE.jpg" group-title="SAGAS",Juego con la muerte (Game of Death) (1978) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee lucha desde la tumba (1976) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xbFd6egaggwKvWmic0SkTXXLgf.jpg" group-title="SAGAS",Bruce Lee lucha desde la tumba (1976) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739280.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Tigre vuelve al ataque (1977) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP9L8I02mduhGiWcTWxrWF7YdbH.jpg" group-title="SAGAS",El Tigre vuelve al ataque (1977) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Budapest (2018) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lDG1Clxtxl2smirw9BRsddhQQP.jpg" group-title="SAGAS",Budapest (2018) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers (2001) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg" group-title="SAGAS",Jeepers Creepers (2001) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 2 (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg" group-title="SAGAS",Jeepers Creepers 2 (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2002) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8kYxuHNkFkhA7I4IKAk8sN9bdY.jpg" group-title="SAGAS",Resident Evil (2002) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fast and the FuriousA todo gas (2001) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg" group-title="SAGAS",Fast and the FuriousA todo gas (2001) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KHFGNCQvAa5xjJpAFBgqcF4mC2.jpg" group-title="SAGAS",Destino Final 2 (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" group-title="SAGAS",Destino Final 3 (2006) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvvKHROhxc6pMOfeYqWbUqUZYvS.jpg" group-title="SAGAS",Destino Final 4 (2009) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="SAGAS",Destino Final 5 (2011) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aD4wDFnWl7AkeZt4xr0XcC3S9x.jpg" group-title="SAGAS",Destino Final (2000) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragón, la vida de Bruce Lee (1993) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wd37L8drcgESu46CFJV6ISLyEtq.jpg" group-title="SAGAS",Dragón, la vida de Bruce Lee (1993) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739294.avi
+#EXTINF:-1 tvg-id="" tvg-name="El duende maldito (1993) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpzSHNX9lQlCKnh1cQwIXDFX5d.jpg" group-title="SAGAS",El duende maldito (1993) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El duende maldito 2 (1994) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnOeKX9eURA9000TgLp6HUErNHR.jpg" group-title="SAGAS",El duende maldito 2 (1994) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 3 (El duende 3) (1995) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9NT2smK66pYOjBtmZuKFFTZ478.jpg" group-title="SAGAS",Leprechaun 3 (El duende 3) (1995) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 4: En el espacio (1996) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uMaa4VnNN2TS42tGYu04we7GOM.jpg" group-title="SAGAS",Leprechaun 4: En el espacio (1996) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 5: En El Vecindario (2000) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCRwtuxnJWkZ04gwtfYF9h1GUkl.jpg" group-title="SAGAS",Leprechaun 5: En El Vecindario (2000) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 6: El regreso (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXtcz92oigWaWnFDyS8j5tMAc1.jpg" group-title="SAGAS",Leprechaun 6: El regreso (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cult of Chucky (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg" group-title="SAGAS",Cult of Chucky (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: El retorno del rey (2003) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="SAGAS",El señor de los anillos: El retorno del rey (2003) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: La comunidad del anillo (2001) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6QjtBmO6U105l44U0qMDSLxT0L.jpg" group-title="SAGAS",El señor de los anillos: La comunidad del anillo (2001) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Las dos torres (2002) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg" group-title="SAGAS",El señor de los anillos: Las dos torres (2002) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R3sacón (2013) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg" group-title="SAGAS",R3sacón (2013) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes Ocultos (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33grY7LydUEUyNOOXIOPwDTajz.jpg" group-title="V_Suspenso",Crímenes Ocultos (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cien Años de Perdón (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2j3jrNrnzvMiEkCsgaXFbyj2hV.jpg" group-title="V_Suspenso",Cien Años de Perdón (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739307.avi
+#EXTINF:-1 tvg-id="" tvg-name="Clinical (2017) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFRyXUPqoZ7uORGtV2y8eSdJHuA.jpg" group-title="V_Suspenso",Clinical (2017) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739308.avi
+#EXTINF:-1 tvg-id="" tvg-name="Persecución al límite (2016) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTWaCclusGbSNCeR1VMXWkQbsEM.jpg" group-title="V_Suspenso",Persecución al límite (2016) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739309.avi
+#EXTINF:-1 tvg-id="" tvg-name="La Patrulla (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vctchuhLkObVFZJVmpPrCtBhEjQ.jpg" group-title="V_Suspenso",La Patrulla (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739310.avi
+#EXTINF:-1 tvg-id="" tvg-name="Infierno en la tormenta (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPCQHc1LqLEC2ozuFQngqvc2SIO.jpg" group-title="V_Suspenso",Infierno en la tormenta (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739311.avi
+#EXTINF:-1 tvg-id="" tvg-name="Actividades criminales (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXRw3CHVBRHHIphtiOTwX4Cv03Y.jpg" group-title="V_Suspenso",Actividades criminales (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739312.avi
+#EXTINF:-1 tvg-id="" tvg-name="Cut Bank (2014) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg" group-title="V_Suspenso",Cut Bank (2014) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739313.avi
+#EXTINF:-1 tvg-id="" tvg-name="Una Verdad Inquietante (2018)DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysyXA46FXVI38f11mNBoc5ZbYRj.jpg" group-title="V_Suspenso",Una Verdad Inquietante (2018)DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739314.avi
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg" group-title="V_Suspenso",7500 (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739315.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tierra Sombría (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whHfahWNCEo7sK03c58oyfKB7aV.jpg" group-title="V_Suspenso",Tierra Sombría (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739316.avi
+#EXTINF:-1 tvg-id="" tvg-name="El hombre más buscado (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hkdjO3VEcU5ZpHpj3VeBcJ2ZKL.jpg" group-title="V_Suspenso",El hombre más buscado (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739317.avi
+#EXTINF:-1 tvg-id="" tvg-name="Al primer disparo (2013) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRGBGjdeGf12Pmalr1adT9IpoId.jpg" group-title="V_Suspenso",Al primer disparo (2013) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739318.avi
+#EXTINF:-1 tvg-id="" tvg-name="La Vigilante (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqmPcwXV8uuUx2ahqQC7veqmSo.jpg" group-title="V_Suspenso",La Vigilante (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739319.avi
+#EXTINF:-1 tvg-id="" tvg-name="Infiel (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUpWRFvvN6l0LUIJbFNZw4jWvB.jpg" group-title="V_Suspenso",Infiel (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739320.avi
+#EXTINF:-1 tvg-id="" tvg-name="Actos de Venganza (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llp6oHKjNd0VwthPgSkh8lA7Iub.jpg" group-title="V_Suspenso",Actos de Venganza (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739321.avi
+#EXTINF:-1 tvg-id="" tvg-name="Al final del túnel (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6qrI5irqqDS7Pt1WjNVe6vbYHG.jpg" group-title="V_Suspenso",Al final del túnel (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739323.avi
+#EXTINF:-1 tvg-id="" tvg-name="Todo el dinero del mundo (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egWOh1jpp2QC6kknO98guzC4ZBe.jpg" group-title="V_Suspenso",Todo el dinero del mundo (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739324.avi
+#EXTINF:-1 tvg-id="" tvg-name="Amityville: El Despertar (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihROTaicjrYu6buBqn79M6OHvA6.jpg" group-title="V_Suspenso",Amityville: El Despertar (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739325.avi
+#EXTINF:-1 tvg-id="" tvg-name="Anna: El peligro tiene nombre (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="V_Suspenso",Anna: El peligro tiene nombre (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739326.avi
+#EXTINF:-1 tvg-id="" tvg-name="Nación asesina (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOxF8dMdMSjyubsq2jdIvndepVI.jpg" group-title="V_Suspenso",Nación asesina (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739327.avi
+#EXTINF:-1 tvg-id="" tvg-name="Backcountry (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdIkDCWcBqv1B10ncm71sMiqEEF.jpg" group-title="V_Suspenso",Backcountry (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739328.avi
+#EXTINF:-1 tvg-id="" tvg-name="Latidos en la oscuridad (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1sjSwjt3Z1DvFdwNRXHuKHBKgX.jpg" group-title="V_Suspenso",Latidos en la oscuridad (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739329.avi
+#EXTINF:-1 tvg-id="" tvg-name="Malos Momentos en el Hotel Royale (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cQm8HpC5K5Q9rhVVJhcMLOxACF.jpg" group-title="V_Suspenso",Malos Momentos en el Hotel Royale (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739330.avi
+#EXTINF:-1 tvg-id="" tvg-name="Batalla Naval (2012) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg" group-title="V_Suspenso",Batalla Naval (2012) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739331.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Síndrome de Berlín (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg" group-title="V_Suspenso",El Síndrome de Berlín (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739332.avi
+#EXTINF:-1 tvg-id="" tvg-name="Persecución (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nybo6597UJuYlKVx1SeoHq4poK.jpg" group-title="V_Suspenso",Persecución (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739333.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box: A Ciegas (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJXlEnJwIz3vOq51G3SrJlcr1yr.jpg" group-title="V_Suspenso",Bird Box: A Ciegas (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739334.avi
+#EXTINF:-1 tvg-id="" tvg-name="Blackhats (2015) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="V_Suspenso",Blackhats (2015) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739335.avi
+#EXTINF:-1 tvg-id="" tvg-name="La bruja de Blair (2016) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa2vim7UMsuEIkhxbK4hIMB5W4O.jpg" group-title="V_Suspenso",La bruja de Blair (2016) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739336.avi
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Incontenible (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9wTq9MuLAeX4Qq0G1CsivaJdCv.jpg" group-title="V_Suspenso",Instinto Incontenible (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739337.avi
+#EXTINF:-1 tvg-id="" tvg-name="Puente de espías (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEMHaQZGaFqvXa46cdywMDIY1Vg.jpg" group-title="V_Suspenso",Puente de espías (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739338.avi
+#EXTINF:-1 tvg-id="" tvg-name="El hijo (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcytE1v9e4RGjdhDYobbkFUNJxB.jpg" group-title="V_Suspenso",El hijo (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739339.avi
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone (2016) **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k54KZO3l2DystTUK597pVC02d4U.jpg" group-title="V_Suspenso",Brimstone (2016) **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739340.avi
+#EXTINF:-1 tvg-id="" tvg-name="Peligro en Bushwick (2017) DAUL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMGcxUu3hiOyVlk0K9gnAIfVCG1.jpg" group-title="V_Suspenso",Peligro en Bushwick (2017) DAUL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739341.avi
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes de familia (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bASjGGIpu9cw4EqstqukpP3XYbj.jpg" group-title="V_Suspenso",Crímenes de familia (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739342.avi
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes imposibles (2019) DUAL **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQRyHHP6w8kUtG2SOMIixh83wcQ.jpg" group-title="V_Suspenso",Crímenes imposibles (2019) DUAL **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739343.avi
+#EXTINF:-1 tvg-id="" tvg-name="Crypto (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSeYalxGSsB69rJj4EVy6W4HI7g.jpg" group-title="V_Suspenso",Crypto (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739344.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mentiras peligrosas (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg" group-title="V_Suspenso",Mentiras peligrosas (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739345.avi
+#EXTINF:-1 tvg-id="" tvg-name="Dark Places (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t5qXa3Xzj2IQLvvbIhldJvRQGT.jpg" group-title="V_Suspenso",Dark Places (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739346.avi
+#EXTINF:-1 tvg-id="" tvg-name="Líbranos del mal (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvhfvwbM39csF1RXdVUfgSuINRK.jpg" group-title="V_Suspenso",Líbranos del mal (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739347.avi
+#EXTINF:-1 tvg-id="" tvg-name="Destrucción (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="V_Suspenso",Destrucción (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739348.avi
+#EXTINF:-1 tvg-id="" tvg-name="La maldición de Blackwood (2018) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBKD12N8P78jLO6GtcVgp96Yfky.jpg" group-title="V_Suspenso",La maldición de Blackwood (2018) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739349.avi
+#EXTINF:-1 tvg-id="" tvg-name="El practicante (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snyVRvYz8P06rY1FbcsxTT3uZVp.jpg" group-title="V_Suspenso",El practicante (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739350.avi
+#EXTINF:-1 tvg-id="" tvg-name="El hombre duplicado (2013) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfnlKJtM7mztkrRE8dMOOdm1GJh.jpg" group-title="V_Suspenso",El hombre duplicado (2013) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739351.avi
+#EXTINF:-1 tvg-id="" tvg-name="Escobar (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abQ8OpL4YKdwJbALKoAnNwUp0lt.jpg" group-title="V_Suspenso",Escobar (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739352.avi
+#EXTINF:-1 tvg-id="" tvg-name="Dura de matar (2015) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkWtQ4hp6ZDSpW7AwCdnqYkLWwE.jpg" group-title="V_Suspenso",Dura de matar (2015) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739353.avi
+#EXTINF:-1 tvg-id="" tvg-name="Evil Eye (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" group-title="V_Suspenso",Evil Eye (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739354.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: Durmiendo con el asesino (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzo6I6SKTFPLXK8BqZhq7sTVCSV.jpg" group-title="V_Suspenso",Ted Bundy: Durmiendo con el asesino (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739355.avi
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro fatal (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eodzsYZkDVDmG77m74DOIRMqma8.jpg" group-title="V_Suspenso",Encuentro fatal (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739356.avi
+#EXTINF:-1 tvg-id="" tvg-name="Fractura (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfoMqGrwIdAtfbiIU3TSn2gMMJ.jpg" group-title="V_Suspenso",Fractura (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739357.avi
+#EXTINF:-1 tvg-id="" tvg-name="¡Huye! (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" group-title="V_Suspenso",¡Huye! (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739358.avi
+#EXTINF:-1 tvg-id="" tvg-name="Glass (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" group-title="V_Suspenso",Glass (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739359.avi
+#EXTINF:-1 tvg-id="" tvg-name="Casas de Cristal (2020) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg" group-title="V_Suspenso",Casas de Cristal (2020) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739360.avi
+#EXTINF:-1 tvg-id="" tvg-name="Perdida (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg" group-title="V_Suspenso",Perdida (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739361.avi
+#EXTINF:-1 tvg-id="" tvg-name="Gente de bien (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFrMkf8iX8nyEGuABuuGSsqgaLW.jpg" group-title="V_Suspenso",Gente de bien (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739362.avi
+#EXTINF:-1 tvg-id="" tvg-name="Grace (2014) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9Lg3jlLbOzHMDW7gRAkff4UsrC.jpg" group-title="V_Suspenso",Grace (2014) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739363.avi
+#EXTINF:-1 tvg-id="" tvg-name="Grand Isle (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OQf805zU1G5W1fAFc5pWTsvSCn.jpg" group-title="V_Suspenso",Grand Isle (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739364.avi
+#EXTINF:-1 tvg-id="" tvg-name="Grey Lady (2017) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/S3BRZj3FJkYSvxco7pvPCUsQYK.jpg" group-title="V_Suspenso",Grey Lady (2017) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739365.avi
+#EXTINF:-1 tvg-id="" tvg-name="Una noche dura (2019) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="V_Suspenso",Una noche dura (2019) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739366.avi
+#EXTINF:-1 tvg-id="" tvg-name="Las escondidas (2016) DUAL+ **ser49**" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wnOZoMeLiDRRrIOaLKPL4GTlUq.jpg" group-title="V_Suspenso",Las escondidas (2016) DUAL+ **ser49**
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/739367.avi
