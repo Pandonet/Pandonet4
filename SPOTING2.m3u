@@ -1,0 +1,749 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV
+https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="DEPORTE LATINO",RD: TOROS
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/458573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO 1 BOL " tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 1 BOL 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO 2 BOL SD" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 2 BOL SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO 3 BOLIVIA SD" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 3 BOLIVIA SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO 3 BOLIVIA" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO 3 BOLIVIA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",EVENTOS 1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO EL SALVADOR" tvg-logo="http://th4.online:2095/images/65108f1cc546d92fb4daff21b54227e2.jpg" group-title="TIGO SPORTS",TIGO EL SALVADOR
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BETIS TV" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png" group-title="PREMIUM ESPAÑA ",BETIS TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/720537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR V.I.P" tvg-logo="http://startv.solutions/images/z2vcEReLxhIYtLwBeXfQ6UCWgNgKOxcqbkyPrfcVoMBhzeruWl_O1ckqQv0DjUqoUj-bEwx85Oa6D-zfr55L_IesutcCV9Q4DOWn8b1tpH1h72O0AUWGwwqIwCw4po9Acb3hKqJE10oN0i5Z-7pMBg.jpg" group-title="LIGA ECUADOR",LIGA ECUADOR V.I.P
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/548824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING 2*" tvg-logo="http://flx.lat:8080/images/da84cbedfffc71e481ed7d0592ebc9a3.png" group-title="LIGA ECUADOR",ZAPPING 2*
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/768171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/780881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD*" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 HD*
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/780882.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EURO SPORTS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="PREMIUM ESPAÑA ",EURO SPORTS 2 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/792704.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/792705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK *" tvg-logo="" group-title="USA News",USA NETWORK *
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/808149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK **" tvg-logo="" group-title="USA News",USA NETWORK **
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/808150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/811804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 1 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 1 (EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 2 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 2 (EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 3 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 3 (EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 4 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1742837199005954048/YGI6Kw7P_400x400.jpg" group-title="DEPORTE EUROPEO",PREMIER LEAGUE 4 (EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A 1 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1861373819815890944/HWbgwMCn_400x400.jpg" group-title="DEPORTE EUROPEO",SERIE A 1 (EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/815957.m3u8
+#EXTINF:-1 tvg-id="PT | Sport TV 2" tvg-name="PT: Sport TV 2" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv2-2023-logo-png_seeklogo-504105.png" group-title="PORTUGAL",PT: Sport TV 2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1029317.m3u8
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ESP | M+ LA LIGA SD**" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="LA LIGA ESPAÑA",ESP | M+ LA LIGA SD**
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/804225.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA SD**" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="DAZN",ES: DAZN LA LIGA SD**
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1048389.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LA LIGA TV BAR HD (ENG)" tvg-logo="http://kongking.shop:80/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="LA LIGA ESPAÑA",LA LIGA TV BAR HD (ENG)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/777453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1790 dhushwss" tvg-logo="http://channelstv.online:8080/images/02f91b51c079c0f62fbdf8b528892772.png" group-title="FOR ADULTS",1790 dhushwss
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV" tvg-logo="https://res.cloudinary.com/dhp6f5wqz/image/upload/v1707877565/Rally_tv_bdvyr7.png" group-title="PREMIUM ESPAÑA ",RALLY TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/498157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1200px-F1.svg.png" group-title="PREMIUM ESPAÑA ",RALLY TV FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/783550.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="D-ESP | LIGATV BAR SD (KO)" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png" group-title="LA LIGA ESPAÑA",D-ESP | LIGATV BAR SD (KO)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA BAR FHD (50FPS)" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" group-title="LA LIGA ESPAÑA",LA LIGA BAR FHD (50FPS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/777455.m3u8
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA (M+ LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (M+ LA LIGA)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/297296.m3u8
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="LA LIGA (M+ LA LIGA 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (M+ LA LIGA 2)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/298115.m3u8
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="LA LIGA (DAZN LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (DAZN LA LIGA)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/297295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL VIX LO MEJOR LIGA MX (HD) " tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="DEPORTE LATINO",CANAL VIX LO MEJOR LIGA MX (HD) 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/293496.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="LA LIGA (DAZN LA LIGA 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="LA LIGA ESPAÑA",LA LIGA (DAZN LA LIGA 2)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/750538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | LCDLF / GALA 22:00 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",MX | LCDLF / GALA 22:00 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | LCDLF / ACCESO TOTAL " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",MX | LCDLF / ACCESO TOTAL 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS *SALA* MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",CASA DE LOS FAMOSOS *SALA* MEXICO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*CUARTO MALIBU* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*CUARTO MALIBU* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*CUARTO IBIZA* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*CUARTO IBIZA* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*CUIARTO TULUM* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*CUIARTO TULUM* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*BAÑO* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*BAÑO* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*SALA* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*SALA* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*COCINA* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*COCINA* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*MULTICAMARAS* CASA DE LOS FAMOSOS MEXICO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZaJu7FclpPKTVKSqSa3JVwIOWTKclegCHkEXab9cOpGy-COUvyjO-KX1&s=10" group-title="LA CASA DE LOS FAMOSOS MX",*MULTICAMARAS* CASA DE LOS FAMOSOS MEXICO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1146940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="06:00 - Segunda España - Albacete vs. Eibar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS",06:00 - Segunda España - Albacete vs. Eibar
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="07:00 - UEFA Nations League - Finlandia vs. Albania" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",07:00 - UEFA Nations League - Finlandia vs. Albania
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Amistoso - India vs Brasil" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",08:00 - Amistoso - India vs Brasil
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League One - Burton Albion vs. Huddersfield Town" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png" group-title="EVENTOS HOY VARIOS",08:00 - League One - Burton Albion vs. Huddersfield Town
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League One - Leyton Orient vs. Plymouth Argyle" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png" group-title="EVENTOS HOY VARIOS",08:00 - League One - Leyton Orient vs. Plymouth Argyle
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League One - Reading vs. Bradford City" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png" group-title="EVENTOS HOY VARIOS",08:00 - League One - Reading vs. Bradford City
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League Two - Crewe Alexandra vs. Bristol Rovers" tvg-logo="https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png" group-title="EVENTOS HOY VARIOS",08:00 - League Two - Crewe Alexandra vs. Bristol Rovers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League Two - Grimsby Town vs. Shrewsbury Town" tvg-logo="https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png" group-title="EVENTOS HOY VARIOS",08:00 - League Two - Grimsby Town vs. Shrewsbury Town
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - League Two - Salford City vs. Fleetwood Town" tvg-logo="https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png" group-title="EVENTOS HOY VARIOS",08:00 - League Two - Salford City vs. Fleetwood Town
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Uruguay - Liverpool FC vs. Progreso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="EVENTOS HOY VARIOS",08:00 - Uruguay - Liverpool FC vs. Progreso
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Swimming WC: Baku Day 3 - Natacion" tvg-logo="https://i.ytimg.com/vi/FoHSNV8VdEo/maxresdefault.jpg" group-title="EVENTOS HOY VARIOS",08:00 - Swimming WC: Baku Day 3 - Natacion
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:15 - Segunda España - Almeria vs. Burgos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS",08:15 - Segunda España - Almeria vs. Burgos
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:30 - Segunda Chile - Magallanes vs Curicó U." tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="EVENTOS HOY VARIOS",09:30 - Segunda Chile - Magallanes vs Curicó U.
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - UEFA Nations League - Bielorrusia vs San Marino" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",10:00 - UEFA Nations League - Bielorrusia vs San Marino
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - UEFA Nations League - Croacia vs. Inglaterra" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",10:00 - UEFA Nations League - Croacia vs. Inglaterra
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - UEFA Nations League - Estonia vs. Luxemburgo" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",10:00 - UEFA Nations League - Estonia vs. Luxemburgo
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - UEFA Nations League - Islandia vs. Bulgaria" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",10:00 - UEFA Nations League - Islandia vs. Bulgaria
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - Basket - High School AZ Compass vs Columbus" tvg-logo="https://png.pngtree.com/png-clipart/20191123/original/pngtree-basketball-championship-logo-modern-professional-basketball-logo-design-png-image_5199214.jpg" group-title="EVENTOS HOY VARIOS",10:00 - Basket - High School AZ Compass vs Columbus
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - IMSA Motul Petit Le Mans - Motor" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS",10:00 - IMSA Motul Petit Le Mans - Motor
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:30 - Segunda España - Cadiz vs. Leganes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS",10:30 - Segunda España - Cadiz vs. Leganes
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:30 - Segunda España - Sabadell vs. FC Andorra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS",10:30 - Segunda España - Sabadell vs. FC Andorra
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - F Americano - Sprint League D'Yousville vs. Cornell" tvg-logo="https://sprintfootball.com/img/layout/csfl-primary-logo.png" group-title="EVENTOS HOY VARIOS",11:00 - F Americano - Sprint League D'Yousville vs. Cornell
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - Bushido: Würzburg in Germany - MMA" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS",11:00 - Bushido: Würzburg in Germany - MMA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - MLB 01 - White Sox vs Guardians" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",11:00 - MLB 01 - White Sox vs Guardians
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - MLB 02 - White Sox vs Guardians Español" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",11:00 - MLB 02 - White Sox vs Guardians Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - Basket - High School Southeastern Prep vs St Francis" tvg-logo="https://png.pngtree.com/png-clipart/20191123/original/pngtree-basketball-championship-logo-modern-professional-basketball-logo-design-png-image_5199214.jpg" group-title="EVENTOS HOY VARIOS",11:30 - Basket - High School Southeastern Prep vs St Francis
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:45 - Arg - Defensa y Justicia vs San Lorenzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS",11:45 - Arg - Defensa y Justicia vs San Lorenzo
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Amistoso - Canadá vs Perú" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",12:00 - Amistoso - Canadá vs Perú
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Uruguay - Albion FC vs. Defensor Sporting" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="EVENTOS HOY VARIOS",12:00 - Uruguay - Albion FC vs. Defensor Sporting
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Segunda Chile - Dep. Copiapó vs Dep. Puerto Montt" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="EVENTOS HOY VARIOS",12:00 - Segunda Chile - Dep. Copiapó vs Dep. Puerto Montt
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Segunda Chile - Dep. Recoleta vs S. Wanderers" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="EVENTOS HOY VARIOS",12:00 - Segunda Chile - Dep. Recoleta vs S. Wanderers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:45 - Shakira Live from Madrid" tvg-logo="https://cdn.entertainment-focus.com/wp-content/uploads/2026/09/shakiraamazonfeat-1068x601.jpg" group-title="EVENTOS HOY VARIOS",12:45 - Shakira Live from Madrid
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:45 - Shakira Live from Madrid" tvg-logo="https://cdn.entertainment-focus.com/wp-content/uploads/2026/09/shakiraamazonfeat-1068x601.jpg" group-title="EVENTOS HOY VARIOS",12:45 - Shakira Live from Madrid
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:45 - UEFA Nations League - Macedonia del Norte vs Escocia" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",12:45 - UEFA Nations League - Macedonia del Norte vs Escocia
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:45 - UEFA Nations League - España vs. Chequia" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",12:45 - UEFA Nations League - España vs. Chequia
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:45 - UEFA Nations League - Suiza vs. Eslovenia" tvg-logo="https://i.imgur.com/ISw2fU2.png" group-title="NATIONS LEAGUE⚽",12:45 - UEFA Nations League - Suiza vs. Eslovenia
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Colombia - Rionegro Águilas vs Jaguares de Córdoba" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS HOY VARIOS",13:00 - Colombia - Rionegro Águilas vs Jaguares de Córdoba
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - USL League One - Ath. Club Boise vs. Greenville" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",13:00 - USL League One - Ath. Club Boise vs. Greenville
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - F Americano - CFL Toronto Argonauts vs BC Lions" tvg-logo="https://logos-world.net/wp-content/uploads/2025/07/Canadian-Football-League-Logo-2002.png" group-title="EVENTOS HOY VARIOS",13:00 - F Americano - CFL Toronto Argonauts vs BC Lions
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - IMSA Motul Petit Le Mans - Motor" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS",13:00 - IMSA Motul Petit Le Mans - Motor
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - Arg - Newell's Old Boys vs Lanús" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS",14:00 - Arg - Newell's Old Boys vs Lanús
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - Arg - Atlético Tucumán vs. Barracas Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS",14:00 - Arg - Atlético Tucumán vs. Barracas Central
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - UFC - UFC 332: Silva vs Wang Español" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS",14:00 - UFC - UFC 332: Silva vs Wang Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - UFC - UFC 332: Silva vs Wang English" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS",14:00 - UFC - UFC 332: Silva vs Wang English
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - MLB 03 - Dodgers vs Braves Español" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",14:00 - MLB 03 - Dodgers vs Braves Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - MLB 04 - Dodgers vs Braves" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",14:00 - MLB 04 - Dodgers vs Braves
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:30 - Segunda Chile - Dep. Temuco vs Cobreloa" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="EVENTOS HOY VARIOS",14:30 - Segunda Chile - Dep. Temuco vs Cobreloa
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - CONCACAF Nations League - Sint Maarten vs San Vicente / Granadinas" tvg-logo="https://i.imgur.com/11AsWCU.png" group-title="NATIONS LEAGUE⚽",15:00 - CONCACAF Nations League - Sint Maarten vs San Vicente / Granadinas
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - Uruguay - Deportivo Maldonado vs. Central Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="EVENTOS HOY VARIOS",15:00 - Uruguay - Deportivo Maldonado vs. Central Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:05 - Colombia - Deportes Tolima vs Boyacá Chicó" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS HOY VARIOS",15:05 - Colombia - Deportes Tolima vs Boyacá Chicó
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:30 - Brasileirao - Atlético Mineiro vs RB Bragantino" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png" group-title="EVENTOS HOY VARIOS",15:30 - Brasileirao - Atlético Mineiro vs RB Bragantino
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 - USL Championship - Loudoun vs. Indy Eleven" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",16:00 - USL Championship - Loudoun vs. Indy Eleven
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 - USL League One - Richmond vs. One Knoxville SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",16:00 - USL League One - Richmond vs. One Knoxville SC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 - USL League One - Chat Red Wolves vs. Corpus Christi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",16:00 - USL League One - Chat Red Wolves vs. Corpus Christi
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:30 - MLB 05 - Yankees vs Rays" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",16:30 - MLB 05 - Yankees vs Rays
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:30 - MLB 06 - Yankees vs Rays Español" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",16:30 - MLB 06 - Yankees vs Rays Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - USL Championship - Detroit City FC vs. Birmingham" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",17:00 - USL Championship - Detroit City FC vs. Birmingham
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - USL Championship - Lexington SC vs. El Paso" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",17:00 - USL Championship - Lexington SC vs. El Paso
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - USL Championship - Brooklyn FC vs. Rhode Island FC" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",17:00 - USL Championship - Brooklyn FC vs. Rhode Island FC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - USL League One - FC Naples vs. Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",17:00 - USL League One - FC Naples vs. Cosmos
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - USL League One - Westchester SC vs. AV Alta FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",17:00 - USL League One - Westchester SC vs. AV Alta FC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Segunda Chile - Dep. Santa Cruz vs San Marcos" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="EVENTOS HOY VARIOS",17:00 - Segunda Chile - Dep. Santa Cruz vs San Marcos
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - El Salvador - Isidro Metapán vs Atlético Balboa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png" group-title="EVENTOS HOY VARIOS",17:00 - El Salvador - Isidro Metapán vs Atlético Balboa
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - F Americano - CFL Montreal Alouettes vs Winnipeg Blue Bombers" tvg-logo="https://logos-world.net/wp-content/uploads/2025/07/Canadian-Football-League-Logo-2002.png" group-title="EVENTOS HOY VARIOS",17:00 - F Americano - CFL Montreal Alouettes vs Winnipeg Blue Bombers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Liga MX Fem - Querétaro vs Atlético San Luis" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS",17:00 - Liga MX Fem - Querétaro vs Atlético San Luis
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NBA 01 - Raptors vs Heat" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="NBA",17:00 - NBA 01 - Raptors vs Heat
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NBA 02 - Raptors vs Heat Español" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="NBA",17:00 - NBA 02 - Raptors vs Heat Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 01 - Chicago Blackhawks vs. Buffalo Sabres" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 01 - Chicago Blackhawks vs. Buffalo Sabres
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 02 - Utah Mammoth vs. Columbus Blue Jackets" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 02 - Utah Mammoth vs. Columbus Blue Jackets
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 03 - Seattle Kraken vs. Edmonton Oilers" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 03 - Seattle Kraken vs. Edmonton Oilers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 04 - Carolina Hurricanes vs. Philadelphia Flyers" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 04 - Carolina Hurricanes vs. Philadelphia Flyers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 05 - Montreal Canadiens vs. Pittsburgh Penguins" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 05 - Montreal Canadiens vs. Pittsburgh Penguins
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 06 - Washington Capitals vs. Tampa Bay Lightning" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 06 - Washington Capitals vs. Tampa Bay Lightning
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 07 - Ottawa Senators vs. Toronto Maple Leafs" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:00 - NHL 07 - Ottawa Senators vs. Toronto Maple Leafs
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 - USL Championship - Rowdies vs. Miami FC" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",17:30 - USL Championship - Rowdies vs. Miami FC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 - USL League One - Fort Wayne FC vs. Madison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",17:30 - USL League One - Fort Wayne FC vs. Madison
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 - USL League One - Sarasota vs. Charlotte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",17:30 - USL League One - Sarasota vs. Charlotte
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 - NHL 08 - New Jersey Devils vs. New York Islanders" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",17:30 - NHL 08 - New Jersey Devils vs. New York Islanders
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:40 - MotoGP Asia Talent Cup | Grand Prix of Japan (Carrera 2) - Motor" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS",17:40 - MotoGP Asia Talent Cup | Grand Prix of Japan (Carrera 2) - Motor
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - Amistoso - Argentina vs. Burkina Faso" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",18:00 - Amistoso - Argentina vs. Burkina Faso
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - Amistoso - Monterrey vs. Toluca" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",18:00 - Amistoso - Monterrey vs. Toluca
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - USL Championship - FC Tulsa vs. Sacramento FC" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",18:00 - USL Championship - FC Tulsa vs. Sacramento FC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - UFC - UFC 332: Silva vs Wang Multiview" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS",18:00 - UFC - UFC 332: Silva vs Wang Multiview
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - NHL 09 - Boston Bruins vs. Minnesota Wild" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",18:00 - NHL 09 - Boston Bruins vs. Minnesota Wild
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - NHL 10 - Dallas Stars vs. Nashville Predators" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",18:00 - NHL 10 - Dallas Stars vs. Nashville Predators
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - MLB 07 - Padres vs Brewers" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",18:30 - MLB 07 - Padres vs Brewers
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - MLB 08 - Padres vs Brewers Español" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="MLB",18:30 - MLB 08 - Padres vs Brewers Español
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - USL Championship - Colorado vs. Oakland Roots" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",19:00 - USL Championship - Colorado vs. Oakland Roots
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - USL League One - Spokane Velocity vs. Portland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/960px-USL_League_One_vert_dark_logo.svg.png" group-title="EVENTOS HOY VARIOS",19:00 - USL League One - Spokane Velocity vs. Portland
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Expansión MX - Durango vs Mineros de Zacatecas" tvg-logo="https://contentmasters.app/logos/ligamx.png" group-title="EVENTOS HOY VARIOS",19:00 - Expansión MX - Durango vs Mineros de Zacatecas
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Expansión MX - Piratas vs Alebrijes de Oaxaca" tvg-logo="https://contentmasters.app/logos/ligamx.png" group-title="EVENTOS HOY VARIOS",19:00 - Expansión MX - Piratas vs Alebrijes de Oaxaca
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Expansión MX - Atlético Morelia vs Tlaxcala" tvg-logo="https://contentmasters.app/logos/ligamx.png" group-title="EVENTOS HOY VARIOS",19:00 - Expansión MX - Atlético Morelia vs Tlaxcala
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Expansión MX - Cancún vs Tapatío" tvg-logo="https://contentmasters.app/logos/ligamx.png" group-title="EVENTOS HOY VARIOS",19:00 - Expansión MX - Cancún vs Tapatío
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Liga MX Fem - Tijuana vs Atlante" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS",19:00 - Liga MX Fem - Tijuana vs Atlante
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - NHL 11 - St. Louis Blues vs. Colorado Avalanche" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",19:00 - NHL 11 - St. Louis Blues vs. Colorado Avalanche
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - CONCACAF Nations League - Belice vs. Guayana Francesa" tvg-logo="https://i.imgur.com/11AsWCU.png" group-title="NATIONS LEAGUE⚽",20:00 - CONCACAF Nations League - Belice vs. Guayana Francesa
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - Amistoso - EE. UU. vs México" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",20:00 - Amistoso - EE. UU. vs México
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - Amistoso - EE. UU. vs México Opc 2" tvg-logo="https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg" group-title="AMISTOSO ⚽",20:00 - Amistoso - EE. UU. vs México Opc 2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - USL Championship - Orange County vs. Monterey Bay FC" tvg-logo="https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png" group-title="EVENTOS HOY VARIOS",20:00 - USL Championship - Orange County vs. Monterey Bay FC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - LUCHA LIBRE AAA" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS",20:00 - LUCHA LIBRE AAA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - NHL 12 - Los Angeles Kings vs. San Jose Sharks" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",20:00 - NHL 12 - Los Angeles Kings vs. San Jose Sharks
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - NHL 13 - Calgary Flames vs. Vancouver Canucks" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",20:00 - NHL 13 - Calgary Flames vs. Vancouver Canucks
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - Kinoshita Group Japan Open (Cuartos de Final) - ATP" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",20:00 - Kinoshita Group Japan Open (Cuartos de Final) - ATP
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - Kinoshita Group Japan Open / Kinoshita Group Arena (Doubles) - ATP" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",20:00 - Kinoshita Group Japan Open / Kinoshita Group Arena (Doubles) - ATP
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:30 - MotoGP Races GP Japón - Motor" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS",20:30 - MotoGP Races GP Japón - Motor
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - China Open / Lotus Court (Cuartos de Final) - ATP" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - China Open / Lotus Court (Cuartos de Final) - ATP
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - WTA China Open / HSBC Moon - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - WTA China Open / HSBC Moon - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - WTA China Open / Brad Drewett (Doubles) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - WTA China Open / Brad Drewett (Doubles) - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - WTA China Open (Tercera Ronda) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - WTA China Open (Tercera Ronda) - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - WTA China Open / Court 3 (Doubles) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - WTA China Open / Court 3 (Doubles) - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - WTA China Open / Capital Group Diamond - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",21:00 - WTA China Open / Capital Group Diamond - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:10 - Liga MX Fem - Necaxa vs Cruz Azul" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS",21:10 - Liga MX Fem - Necaxa vs Cruz Azul
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 - China Open (Cuartos de Final) - ATP" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",23:00 - China Open (Cuartos de Final) - ATP
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 - WTA China Open / Lotus Court - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS",23:00 - WTA China Open / Lotus Court - WTA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://i.imgur.com/rsSVCBR.png" group-title="EVENTOS HOY VARIOS",NFL Network
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | WWE Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png" group-title="EVENTOS HOY VARIOS",PPV BOX | WWE Channel
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | WWE SMACKDOWN (SOLO EVENTOS)" tvg-logo="https://s.yimg.com/ny/api/res/1.2/3EEN3zL5JbobsgGu6fMkug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/8726fb1effb0efe9401a23536ae8d492" group-title="EVENTOS HOY VARIOS",PPV BOX | WWE SMACKDOWN (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | WWE RAW (SOLO EVENTOS)" tvg-logo="https://pbs.twimg.com/media/Ge77Z8_bMAAQofn?format=jpg&name=large" group-title="EVENTOS HOY VARIOS",PPV BOX | WWE RAW (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | WWE NXT (SOLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/NXT2024.jpg" group-title="EVENTOS HOY VARIOS",PPV BOX | WWE NXT (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | TITAN" tvg-logo="https://yt3.googleusercontent.com/s3VKv041cd_2fI5QdEG6T8IvDkLepdRKofk3ztEjRwb2TkH3UQIGtchzR-SX-KFxPeBeXIMKlw=s900-c-k-c0x00ffffff-no-rj" group-title="EVENTOS HOY VARIOS",PPV BOX | TITAN
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | AEW TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png" group-title="EVENTOS HOY VARIOS",PPV BOX | AEW TBS
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | AEW FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png" group-title="EVENTOS HOY VARIOS",PPV BOX | AEW FOX SPORTS PREMIUM
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s" group-title="EVENTOS HOY VARIOS",PPV BOX | UFC FIGHT PASS
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | USA NETWORK OP1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s" group-title="EVENTOS HOY VARIOS",PPV BOX | USA NETWORK OP1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | USA NETWORK OP2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s" group-title="EVENTOS HOY VARIOS",PPV BOX | USA NETWORK OP2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="NHL",NHL Network
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/1149658.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 FHD" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278202.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD**" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1 HD**
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278203.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278204.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD*" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1 HD*
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278205.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291859.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES:  DAZN F1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES:  DAZN F1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291860.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/297297.m3u8
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN FORMULA 1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/792687.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: DAZN MOTO GP" tvg-logo="https://motorsport.nda.ac.uk/wp-content/uploads/2024/11/MotoGP_Logo-explaned-on-dark.png" group-title="DAZN",ES: DAZN MOTO GP
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67526.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/768094.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 SD (SAT)" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1 SD (SAT)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/768095.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 SD KO" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1 SD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136658.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 HD KO" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1 HD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/351248.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 FHD KO" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1 FHD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278207.m3u8
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2 SD KO" tvg-logo="https://i.ibb.co/j9s4Rb14/dz2.png" group-title="DAZN",ES: DAZN 2 SD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136659.m3u8
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2 HD KO" tvg-logo="https://i.ibb.co/j9s4Rb14/dz2.png" group-title="DAZN",ES: DAZN 2 HD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278210.m3u8
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2 FHD KO" tvg-logo="https://i.ibb.co/j9s4Rb14/dz2.png" group-title="DAZN",ES: DAZN 2 FHD KO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278209.m3u8
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 HD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/3gSpTNw/dz3.png" group-title="DAZN",ES: DAZN 3 HD KO (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278213.m3u8
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 FHD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/3gSpTNw/dz3.png" group-title="DAZN",ES: DAZN 3 FHD KO (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136660.m3u8
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 HD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/vvh5189S/dz4.png" group-title="DAZN",ES: DAZN 4 HD KO (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136661.m3u8
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 FHD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/vvh5189S/dz4.png" group-title="DAZN",ES: DAZN 4 FHD KO (SOLO EVENTOS)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278215.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA FHD" tvg-logo="https://i.ibb.co/9kz3SXbt/dzl.png" group-title="DAZN",ES: DAZN LA LIGA FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/342777.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="https://i.ibb.co/9kz3SXbt/dzl.png" group-title="DAZN",ES: DAZN LA LIGA HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279005.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/mCmBpbGr/dzl2.png" group-title="DAZN",ES: DAZN LA LIGA 2 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279008.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 FHD" tvg-logo="https://i.ibb.co/mCmBpbGr/dzl2.png" group-title="DAZN",ES: DAZN LA LIGA 2 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279009.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES SD (KO)" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES SD (KO)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31240.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES SD (OR)." tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES SD (OR).
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159043.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES HD (TP)*" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES HD (TP)*
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55794.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES HD (TP)." tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES HD (TP).
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159039.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES HD (KO). " tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES HD (KO). 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159042.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES HD (KO).." tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES HD (KO)..
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159041.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="D-ESP | LIGA DE CAMPEONES HD (PJ)*" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA DE CAMPEONES HD (PJ)*
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/155844.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="D-ESP | LIGA CAMPEONES 2 SD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 2 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159045.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="D-ESP | LIGA CAMPEONES 2 FHD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 2 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159047.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="D-ESP | LIGA CAMPEONES 3 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 3 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159048.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="D-ESP | LIGA CAMPEONES 3 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 3 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159049.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ES: M. LIGA CAMPEONES 4 HD " tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",ES: M. LIGA CAMPEONES 4 HD 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/159050.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ES: M. LIGA CAMPEONES 4 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",ES: M. LIGA CAMPEONES 4 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/190799.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="D-ESP | LIGA CAMPEONES 5 SD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 5 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279295.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="D-ESP | LIGA CAMPEONES 5 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 5 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288936.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ES: LIGA CAMPEONES 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="M+ CAMPEONES",ES: LIGA CAMPEONES 5 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/768293.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="D-ESP | LIGA CAMPEONES 5 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 5 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/288935.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="D-ESP | LIGA CAMPEONES 5 FHD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 5 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/290846.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="D-ESP | LIGA CAMPEONES 6 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 6 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/290857.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="D-ESP | LIGA CAMPEONES 7 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 7 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/290858.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="D-ESP | LIGA CAMPEONES 8 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 8 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/290859.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="ES: LIGA CAMPEONES 9 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",ES: LIGA CAMPEONES 9 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291447.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="ES: LIGA CAMPEONES 10 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",ES: LIGA CAMPEONES 10 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/291448.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LA LIGA HYPERMOTION TV (A)" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LA LIGA HYPERMOTION TV (A)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/535993.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LA LIGA HYPERMOTION TV (B)" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LA LIGA HYPERMOTION TV (B)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/535994.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LA LIGA HYPERMOTION TV (C)" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LA LIGA HYPERMOTION TV (C)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/535995.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LIGA HYPERMOTION SD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279510.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LIGA HYPERMOTION HD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279511.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LIGA HYPERMOTION FHD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279512.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LIGA HYPERMOTION M2 SD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION M2 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279514.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LIGA HYPERMOTION M2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION M2 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279513.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LIGA HYPERMOTION M2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION M2 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279515.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LIGA HYPERMOTION M3 HD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION M3 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279516.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LIGA HYPERMOTION M3 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg" group-title="M+ LIGA HYPERMOTION",LIGA HYPERMOTION M3 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/279517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TVE INTERNACIONAL  " tvg-logo="http://visualservice.xyz:80/images/3f1aec919860db046bfc3fa1a8862ef4.png" group-title="PREMIUM ESPAÑA ",ESP | TVE INTERNACIONAL  
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/42720.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="PREMIUM ESPAÑA ",LA 1 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278027.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 SD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="PREMIUM ESPAÑA ",LA 1 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/278028.m3u8
+#EXTINF:-1 tvg-id="La 2" tvg-name="ESP | LA 2" tvg-logo="http://visualservice.xyz:80/images/922e86e4739e99bdd544c8a0dae3b64c.png" group-title="PREMIUM ESPAÑA ",ESP | LA 2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31912.m3u8
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ESP | ANTENA 3 HD " tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 HD 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55885.m3u8
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ESP | ANTENA 3 SD" tvg-logo="http://visualservice.xyz:80/images/ebe7530166c75e1c27565cbdecb71acc.png" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31906.m3u8
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ESP | CUATRO (X) " tvg-logo="http://visualservice.xyz:80/images/488e788a513046c2ac746ccf3399cce5.png" group-title="PREMIUM ESPAÑA ",ESP | CUATRO (X) 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31907.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | TELECINCO HD (A)" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (A)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/68748.m3u8
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="ESP | TELECINCO HD (B) " tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (B) 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/68747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TELECINCO HD (C) " tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (C) 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/74831.m3u8
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ESP | SEXTA " tvg-logo="http://visualservice.xyz:80/images/7f601cdc04f348e922bda4c3391a7c94.png" group-title="PREMIUM ESPAÑA ",ESP | SEXTA 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | FDF." tvg-logo="http://visualservice.xyz:80/images/750a409b263a679451a040f65734d886.png" group-title="PREMIUM ESPAÑA ",ESP | FDF.
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NEOX" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="PREMIUM ESPAÑA ",ESP | NEOX
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NOVA" tvg-logo="http://visualservice.xyz:80/images/b53daea2e4ba67233019cb88e8d0566c.png" group-title="PREMIUM ESPAÑA ",ESP | NOVA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | A3SERIES HD" tvg-logo="http://visualservice.xyz:80/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="PREMIUM ESPAÑA ",ESP | A3SERIES HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ESTRENOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="MOVISTAR +",ESP | MOVISTAR ESTRENOS FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR COMEDIA" tvg-logo="http://visualservice.xyz:80/images/28f81fd74546dfc1420dd1cb9b2bc964.png" group-title="MOVISTAR +",ESP | MOVISTAR COMEDIA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/33493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR DRAMA SD  " tvg-logo="http://visualservice:8000/images/7edfeaba5a4df33e78a0258ab95645f4.png" group-title="MOVISTAR +",ESP | MOVISTAR DRAMA SD  
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/33496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY" tvg-logo="http://visualservice.xyz:80/images/e2b44c8908559da092950702153566ee.png" group-title="MOVISTAR +",ESP | DISNEY
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/33494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ACCION HD" tvg-logo="http://intelcodecs.hopto.org:8080/picon/logo.png" group-title="MOVISTAR +",ESP | MOVISTAR ACCION HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR #0 " tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="MOVISTAR +",ESP | MOVISTAR #0 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/164982.m3u8
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ESP | MOVISTAR VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="MOVISTAR +",ESP | MOVISTAR VAMOS SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/182436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR CINE" tvg-logo="http://51.222.43.170:36995/images/ed1b47217efe6e2ac626e530b500e7e1.jpg" group-title="MOVISTAR +",ESP | MOVISTAR CINE
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/190754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png" group-title="MOVISTAR +",MOVISTAR PLUS
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/454343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M SERIES XTRA" tvg-logo="http://visualservice.xyz:80/images/06bed58ad843f314df7ff757960fcb64.png" group-title="PREMIUM ESPAÑA ",ESP | M SERIES XTRA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67541.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ESP | SERIESMANIA HD" tvg-logo="http://visualservice.xyz:80/images/b3b9bfbe8c823c7b268d685ad9fa3919.png" group-title="PREMIUM ESPAÑA ",ESP | SERIESMANIA HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NICKELODEON  HD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="PREMIUM ESPAÑA ",ESP | NICKELODEON  HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | AXN WHITE HD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="PREMIUM ESPAÑA ",ESP | AXN WHITE HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIE FHD" tvg-logo="https://i.imgur.com/let75vk.png" group-title="PREMIUM ESPAÑA ",AXN MOVIE FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/781915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | AXN*CB" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="PREMIUM ESPAÑA ",ESP | AXN*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FHD*CB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="PREMIUM ESPAÑA ",CALLE 13 FHD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/497661.m3u8
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ESP | SYFY HD(A)" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="PREMIUM ESPAÑA ",ESP | SYFY HD(A)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | COSMO" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="PREMIUM ESPAÑA ",ESP | COSMO
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | PARAMOUNT" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="PREMIUM ESPAÑA ",ESP | PARAMOUNT
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NAT GEO WILD " tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="PREMIUM ESPAÑA ",ESP | NAT GEO WILD 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55858.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="PREMIUM ESPAÑA ",ESP | HISTORIA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/b59c032c79b7d1613a2e6814ca8a24c0.png" group-title="PREMIUM ESPAÑA ",ESP | DISCOVERY CHANNEL
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MEZZO LIVE" tvg-logo="https://static.epg.best/es/Mezzo.es.png" group-title="PREMIUM ESPAÑA ",ESP | MEZZO LIVE
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="PREMIUM ESPAÑA ",ESP | CANAL COCINA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55867.m3u8
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ESP | TELEMADRID" tvg-logo="https://lh3.googleusercontent.com/-5TYou-SVGrs/Xx2pLv3pVqI/AAAAAAAA3eU/83GKy9h3WbsnUo61hYeLg7bp19zab5UEACK8BGAsYHg/s0/2020-07-26.png" group-title="PREMIUM ESPAÑA ",ESP | TELEMADRID
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EXTREMADURA TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="PREMIUM ESPAÑA ",ESP | EXTREMADURA TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55870.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="ESP | MEGA HD" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" group-title="PREMIUM ESPAÑA ",ESP | MEGA HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55890.m3u8
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ESP | HOLLYWOOD*CB" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="PREMIUM ESPAÑA ",ESP | HOLLYWOOD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | FOX HD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="PREMIUM ESPAÑA ",ESP | FOX HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY JR" tvg-logo="http://visualservice.xyz:80/images/ff177987fe3c3995620dc9ab951ad100.png" group-title="PREMIUM ESPAÑA ",ESP | DISNEY JR
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TCM HD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="PREMIUM ESPAÑA ",ESP | TCM HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NAT GEO HD" tvg-logo="http://visualservice.xyz:80/images/64e8745649c2dc426bd4d3c932f35887.png" group-title="PREMIUM ESPAÑA ",ESP | NAT GEO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BOING" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="PREMIUM ESPAÑA ",ESP | BOING
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CLAN TVE HD" tvg-logo="http://visualservice.xyz:80/images/b68f17157d1cd26effee1afc366ded1a.png" group-title="PREMIUM ESPAÑA ",ESP | CLAN TVE HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TELEDEPORTE" tvg-logo="http://visualservice.xyz:80/images/ea6024bd8d7ef7651f99bec25acf4013.png" group-title="PREMIUM ESPAÑA ",ESP | TELEDEPORTE
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EL TORO TV" tvg-logo="http://visualservice.xyz:80/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="PREMIUM ESPAÑA ",ESP | EL TORO TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="PREMIUM ESPAÑA ",MUNDOTORO TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/364416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="PREMIUM ESPAÑA ",MUNDO TORO TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/511753.m3u8
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV" tvg-logo="http://res.cloudinary.com/dhp6f5wqz/image/upload/v1707855711/Toros_tv_qsnktv.png" group-title="PREMIUM ESPAÑA ",TOROS TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/196452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV " tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="PREMIUM ESPAÑA ",TOROS TV 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/203473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO HD" tvg-logo="https://i.imgur.com/nQH5LBq.png" group-title="PREMIUM ESPAÑA ",ONE TORO HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/784096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO FHD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="PREMIUM ESPAÑA ",ONE TORO FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/784097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="PREMIUM ESPAÑA ",EL TORO TV HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/515356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL ODISEA HD" tvg-logo="http://visualservice.xyz:80/images/841121fa27af9920103e23e0a62a3baa.png" group-title="PREMIUM ESPAÑA ",ESP | CANAL ODISEA HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CAZYPESCA HD" tvg-logo="http://visualservice.xyz:80/images/af2b2290d2419ac058c801c47af14d90.png" group-title="PREMIUM ESPAÑA ",ESP | CAZYPESCA HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DECASA" tvg-logo="http://visualservice.xyz:80/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="PREMIUM ESPAÑA ",ESP | DECASA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DMAX" tvg-logo="http://visualservice.xyz:80/images/888d0d03549e54793050d64651d143fa.png" group-title="PREMIUM ESPAÑA ",ESP | DMAX
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | SUNDANCE" tvg-logo="http://visualservice.xyz:80/images/9d121e3abb6ffebf888e1aed45a72c2f.png" group-title="PREMIUM ESPAÑA ",ESP | SUNDANCE
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TNT" tvg-logo="http://visualservice.xyz:80/images/2bfef0530e86875773ac557931601714.png" group-title="PREMIUM ESPAÑA ",ESP | TNT
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | AMC" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="PREMIUM ESPAÑA ",ESP | AMC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | COMEDY CENTRAL" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title="PREMIUM ESPAÑA ",ESP | COMEDY CENTRAL
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NATIONAL GEOGRAPHIC" tvg-logo="http://visualservice.xyz:80/images/9e86bfc75978cb98cb3e9cdbc5c63a43.png" group-title="PREMIUM ESPAÑA ",ESP | NATIONAL GEOGRAPHIC
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | SYFY HD" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="PREMIUM ESPAÑA ",ESP | SYFY HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PREMIUM ESPAÑA ",ESP | TCM HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/190776.m3u8
+#EXTINF:-1 tvg-id="DARK" tvg-name="ESP | DARK" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="PREMIUM ESPAÑA ",ESP | DARK
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/196085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H" tvg-logo="" group-title="PREMIUM ESPAÑA ",24H
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/194761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | ARAGON TV (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="ESPAÑA LOCAL",ESP-L | ARAGON TV (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | BETEVÃ© (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | BETEVÃ© (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | BLOOMBERG TV EMEA LIVE EVENT (720P)" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="ESPAÑA LOCAL",ESP-L | BLOOMBERG TV EMEA LIVE EVENT (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | CANAL 2000 LA SOLANA (720P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | CANAL 2000 LA SOLANA (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | DIEZ TV (1080P)" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="ESPAÑA LOCAL",ESP-L | DIEZ TV (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | LOGOS TV (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | LOGOS TV (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | LOGOS TV (720P)" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="ESPAÑA LOCAL",ESP-L | LOGOS TV (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | PEQUERADIO (720P) [NOT 24/7]" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="ESPAÑA LOCAL",ESP-L | PEQUERADIO (720P) [NOT 24/7]
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | PUNT 3 VALL UIXÃ³ (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | PUNT 3 VALL UIXÃ³ (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | RADIO TELEVISIÃ³N MELILLA (720P)" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="ESPAÑA LOCAL",ESP-L | RADIO TELEVISIÃ³N MELILLA (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/157945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | RTV VIDA (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | RTV VIDA (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/158002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | SOLIDARIA TV (720P)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png" group-title="ESPAÑA LOCAL",ESP-L | SOLIDARIA TV (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/158007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | TELERIBERA (720P)" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="ESPAÑA LOCAL",ESP-L | TELERIBERA (720P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/158017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP-L | TUYA LA JANDA TELEVISIÃ³N (1080P)" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320" group-title="ESPAÑA LOCAL",ESP-L | TUYA LA JANDA TELEVISIÃ³N (1080P)
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/158027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png" group-title="MOVISTAR +",ESP | MOVISTAR ESTRENOS 2 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/298112.m3u8
+#EXTINF:-1 tvg-id="GOL" tvg-name="ES: GOL PLAY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s" group-title="PREMIUM ESPAÑA ",ES: GOL PLAY HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/21984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1 SD" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="PREMIUM ESPAÑA ",ESP | EUROSPORT 1 SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/537361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1 HD" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="PREMIUM ESPAÑA ",ESP | EUROSPORT 1 HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/537362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1 FHD" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="PREMIUM ESPAÑA ",ESP | EUROSPORT 1 FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/266751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 2" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png" group-title="PREMIUM ESPAÑA ",ESP | EUROSPORT 2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURO SPORT FHD*CB" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="PREMIUM ESPAÑA ",ES: EURO SPORT FHD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/517560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEU | SEVILLA FC TV" tvg-logo="http://visualservice.xyz:80/images/cdb0e11e2a45ab1bdfda572ad5724916.png" group-title="PREMIUM ESPAÑA ",DEU | SEVILLA FC TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/22074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY SD  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s" group-title="PREMIUM ESPAÑA ",ES: GOL PLAY SD  
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEU | BARCA TV" tvg-logo="http://visualservice.xyz:80/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="PREMIUM ESPAÑA ",DEU | BARCA TV
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEU | REAL MADRID TV " tvg-logo="http://visualservice.xyz:80/images/0772d16ce1d33ab15bd56fae07156d7e.png" group-title="PREMIUM ESPAÑA ",DEU | REAL MADRID TV 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/87078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEU | BARCA TV HD" tvg-logo="http://visualservice.xyz:80/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="PREMIUM ESPAÑA ",DEU | BARCA TV HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/136665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ EXTRA" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",BEIN SPORT Ñ EXTRA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/21944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ HD " tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",BEIN SPORT Ñ HD 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUR | BEIN SPORTS LALIGA USA HD (P)  " tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",EUR | BEIN SPORTS LALIGA USA HD (P)  
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD ingles" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",BEIN SPORTS HD ingles
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/90012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",beIN SPORTS 1 PREMIUM
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/166665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",beIN SPORTS 3 PREMIUM
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/166667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",Bein Sports
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/166669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="PREMIUM ESPAÑA ",Canal Sur Andalucía
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/289666.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | AMC CRIME" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="PREMIUM ESPAÑA ",ESP | AMC CRIME
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/351195.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: LIGA CAMPEONES HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="M+ CAMPEONES",ES: LIGA CAMPEONES HD 
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/342776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Otra" tvg-logo="https://imgur.com/W1UZyXH.png" group-title="ESPAÑA LOCAL",La Otra
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/371013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EITB1" tvg-logo="https://imgur.com/VBVu2bu.png" group-title="ESPAÑA LOCAL",EITB1
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/371020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EITB2" tvg-logo="https://imgur.com/VBVu2bu.png" group-title="ESPAÑA LOCAL",EITB2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/371021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3/24" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="ESPAÑA LOCAL",3/24
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/371023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bon Dia" tvg-logo="https://imgur.com/XaiP3nJ.png" group-title="ESPAÑA LOCAL",Bon Dia
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/371024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="PREMIUM ESPAÑA ",CASTILLA LA MANCHA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/372204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="PREMIUM ESPAÑA ",CAZA Y PESCA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/379487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="PREMIUM ESPAÑA ",DREAMWORKS
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/396233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ESPAÑA LOCAL",ES | IBERALIA
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="ESPAÑA LOCAL",ES | CAZAVISION HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447109.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" group-title="PREMIUM ESPAÑA ",MEGA FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447168.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA SD" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" group-title="PREMIUM ESPAÑA ",MEGA SD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/447169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY OP 2" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="PREMIUM ESPAÑA ",ENERGY OP 2
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/457985.m3u8
+#EXTINF:-1 tvg-id="Energy" tvg-name="ESP | ENERGY" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="PREMIUM ESPAÑA ",ESP | ENERGY
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M. Clasicos" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="PREMIUM ESPAÑA ",M. Clasicos
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/494430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M. Series*CB" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="PREMIUM ESPAÑA ",M. Series*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/494431.m3u8
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales*CB" tvg-logo="" group-title="PREMIUM ESPAÑA ",M+ Originales*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/494437.m3u8
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ Indie*CB" tvg-logo="" group-title="PREMIUM ESPAÑA ",M+ Indie*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/494439.m3u8
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ Documentales" tvg-logo="" group-title="PREMIUM ESPAÑA ",M+ Documentales
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/494441.m3u8
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV Espana FHD*CB" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="PREMIUM ESPAÑA ",Warner TV Espana FHD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/498175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ANDALUCIA SUR ʰᵈ" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WKlF1eRscUzvfM0fmAsRPnQ.png" group-title="PREMIUM ESPAÑA ",ES: CANAL ANDALUCIA SUR ʰᵈ
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/540906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV ECUADOR HD" tvg-logo="http://visualservice.xyz:80/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="GOLTV",GOLTV ECUADOR HD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/21993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTI | CNN ESP CL  *CB" tvg-logo="https://static.epg.best/us/CNNEspanol.us.png" group-title="NOTICIAS INTERNACIONALES",NOTI | CNN ESP CL  *CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO*CB" tvg-logo="http://visualservice.xyz:80/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="PREMIUM LATINO",LAT | CINELATINO*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA HD***CB" tvg-logo="http://visualservice.xyz:80/images/f9318418184f449baf2b148a3a6a6021.png" group-title="COLOMBIA",COL | TELEANTIOQUIA HD***CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL INSTITUCIONAL HD*CB" tvg-logo="http://visualservice.xyz:80/images/a244d019d3349a0f8103a657fceebd1a.png" group-title="COLOMBIA",COL | CANAL INSTITUCIONAL HD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD*CB" tvg-logo="http://visualservice.xyz:80/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/31387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | TVC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR",ECU | TVC FHD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/32152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CINE DISNEY 24/7" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="PREMIUM ESPAÑA ",ESP | CINE DISNEY 24/7
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CALLE 13" tvg-logo="http://visualservice.xyz:80/images/ce46bd7fa1c6d08afcbac80b2f760e22.png" group-title="PREMIUM ESPAÑA ",ESP | CALLE 13
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BE MAD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="PREMIUM ESPAÑA ",ESP | BE MAD
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55865.m3u8
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ESP | DIVINITY" tvg-logo="http://visualservice.xyz:80/images/261937f4fa9e7e4fe254602783e90274.png" group-title="PREMIUM ESPAÑA ",ESP | DIVINITY
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NICK JR" tvg-logo="http://visualservice.xyz:80/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" group-title="PREMIUM ESPAÑA ",ESP | NICK JR
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/55923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BLAZE*CB" tvg-logo="http://visualservice.xyz:80/images/51f420bd5b29e19b2c90a69b085d7c08.png" group-title="PREMIUM ESPAÑA ",ESP | BLAZE*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/67513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CABLE NOTICIAS   *lt*CB" tvg-logo="http://visualservice.xyz:80/images/bcfb932ca281271ae21817f57565c28d.png" group-title="COLOMBIA",COL | CABLE NOTICIAS   *lt*CB
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/84868.m3u8
