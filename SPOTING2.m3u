@@ -1,301 +1,411 @@
-‎#EXTM3U
-‎#EXTINCIÓN:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV VIP
-‎https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALAPERIODISTA 
-‎https://live20.bozztv.com/giatvplayout7/giatv-209405/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/pvYW3cBJ/327690229-894417668657300-977691807371883893-n.jpg" group-title="General",TVU PANDO
-‎https://live20.bozztv.com/giatv/giatv-tvupandopro/tvupandopro/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/JRxgj8yw/IMG-20250528-WA0122.jpg" group-title="General",CANAL 15 SPC
-‎https://live20.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
-‎https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  
-‎https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SANTA CRUZ 
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573413.ts
-‎#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL FHD
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573416.ts
-‎#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",Unitel COCHABAMB@
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/812700.ts
-‎#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CADENA A
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/887048.ts
-‎#EXTINF:-1 tvg-logo="https://pxcdn.reduno.com.bo/reduno/122017/1544505888786.webp?extw=png&cw=600&ch=365" group-title="General",RED UNO
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/887045.ts
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
-‎https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/756037.ts
-‎#EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
-‎http://deluxe-tv.online:80/live/pXKTerpJmKQ5/FrGezF9MnAAW/1623145.ts
-‎#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg" group-title="General",GIGAVISION
-‎https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
-‎#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OMVFH1RWMUSMbTKjjiibXZ7FV3SRxzouZ8dDzXgr9gtNLbPBNsTJUdaIeWclM6GlL-mH=w240-h480-rw" group-title="General",UPEA TELEVISION
-‎https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-‎#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
-‎https://rtp.noxun.net/hls720/stream3.m3u8
-‎#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ATB LA PAZ
-‎https://dalive.site:443/JorgeLeon/JorgeLeon/271319
-‎#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PAT LA PAZ
-‎https://dalive.site:443/JorgeLeon/JorgeLeon/271327
-‎#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Bolivia TV
-‎https://dalive.site:443/JorgeLeon/JorgeLeon/271338
-‎#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7H-sXAPphOit6jA0KWrYFaKBPNBYCM3RGQ&s" group-title="General",F10
-‎https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-‎#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1280px-The_Simpsons_yellow_logo.svg.png" group-title="General", LOS SIMPSOM
-‎http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/281184.m3u8
-‎#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TODO NOVELAS
-‎https://dalive.site:443/JorgeLeon/JorgeLeon/408471
-‎#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD
-‎http://weibplus.is/live/Pedro40769/Colmenares21764/9476.ts
-‎#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",América tv FHd
-‎http://superxlatino.com:8880/kJLsCbk7e4jz/xDvtCWfwuAMg/428948
-‎#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="General",PANAMERICANA TV
-‎http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/273.m3u8
-‎#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg" group-title="General",LATINA PERÚ 
-‎https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-‎#EXTINF:-1 tvg-logo="https://i.ibb.co/twWn8ZDX/nv.jpg" group-title="General",TL NOVELAS 
-‎http://weibplus.is/live/Pedro40769/Colmenares21764/755552.ts
-‎#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd558116e424f19f92ce5633e256e6c.webp" group-title="General",CORAZON TV
-‎https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
-http://planettvweb.com:8091/RichardCaceres/RC0856/14306
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/20324
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR_" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 SUR_
-http://planettvweb.com:8091/RichardCaceres/RC0856/20325
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/20326
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/21457
-#EXTINF:-1 tvg-id="epg_2.msgzone1.us_estados_unidos_xtream_ai" tvg-name="ESPN ARG HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN ARG HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12755
-#EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-name="ESPN 2 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 HD ARG
-http://planettvweb.com:8091/RichardCaceres/RC0856/11996
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 HD ARG
-http://planettvweb.com:8091/RichardCaceres/RC0856/11915
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 ARG
-http://planettvweb.com:8091/RichardCaceres/RC0856/11698
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUM ARG
-http://planettvweb.com:8091/RichardCaceres/RC0856/14637
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORT HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12040
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS 2
-http://planettvweb.com:8091/RichardCaceres/RC0856/20327
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS INTERNACIONAL
-http://planettvweb.com:8091/RichardCaceres/RC0856/16278
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/0a/8e/850a8ec7-928c-bd47-6e60-81ca3a9d97c9/source/512x512bb.jpg" group-title="DEPORTES ARGENTINA HD",TNT SPORT HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11873
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS HD SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/11702
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 2 SUR HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/20328
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 3 SUR HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/20329
-#EXTINF:-1 tvg-id="" tvg-name="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES",--------DEPORTES-------
-http://planettvweb.com:8091/RichardCaceres/RC0856/12813
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 HD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title="General",PANDONETTV VIP
+https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
+https://live20.bozztv.com/giatvplayout7/giatv-209405/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvYW3cBJ/327690229-894417668657300-977691807371883893-n.jpg" group-title="General",TVU PANDO
+https://live20.bozztv.com/giatv/giatv-tvupandopro/tvupandopro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRxgj8yw/IMG-20250528-WA0122.jpg" group-title="General",CANAL 15 SPC
+https://live20.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
+https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SANTA CRUZ 
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573413.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL FHD
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573416.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",Unitel COCHABAMB@
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/812700.ts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CADENA A
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/887048.ts
+#EXTINF:-1 tvg-logo="https://pxcdn.reduno.com.bo/reduno/122017/1544505888786.webp?extw=png&cw=600&ch=365" group-title="General",RED UNO
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/887045.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/756037.ts
+#EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
+http://deluxe-tv.online:80/live/pXKTerpJmKQ5/FrGezF9MnAAW/1623145.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/59/39/c8/5939c868b85165d4f836eda3337c9e80.jpg" group-title="General",GIGAVISION
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OMVFH1RWMUSMbTKjjiibXZ7FV3SRxzouZ8dDzXgr9gtNLbPBNsTJUdaIeWclM6GlL-mH=w240-h480-rw" group-title="General",UPEA TELEVISION
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ATB LA PAZ
+https://dalive.site:443/JorgeLeon/JorgeLeon/271319
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PAT LA PAZ
+https://dalive.site:443/JorgeLeon/JorgeLeon/271327
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Bolivia TV
+https://dalive.site:443/JorgeLeon/JorgeLeon/271338
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7H-sXAPphOit6jA0KWrYFaKBPNBYCM3RGQ&s" group-title="General",F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1280px-The_Simpsons_yellow_logo.svg.png" group-title="General", LOS SIMPSOM
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/281184.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TODO NOVELAS
+https://dalive.site:443/JorgeLeon/JorgeLeon/408471
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD
+http://weibplus.is/live/Pedro40769/Colmenares21764/9476.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",América tv FHd
+http://superxlatino.com:8880/kJLsCbk7e4jz/xDvtCWfwuAMg/428948
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="General",PANAMERICANA TV
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/273.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg" group-title="General",LATINA PERÚ 
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twWn8ZDX/nv.jpg" group-title="General",TL NOVELAS 
+http://weibplus.is/live/Pedro40769/Colmenares21764/755552.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd558116e424f19f92ce5633e256e6c.webp" group-title="General",CORAZON TV
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/63b8a8d7238cfada696985e64dae4d26.webp" group-title="General",NOVELAS TURCAS
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2011611b497db73fa9dfc7954871225f.webp" group-title="General",Todo Novelas
+https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf0b09469b863ba943590967bc25b9ed.webp" group-title="General",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/508d57285ddb9547199cbede4ba72f19.webp" group-title="General",TNT NOVELAS 
+https://dalive.site:443/JorgeLeon/JorgeLeon/316996
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="General",TV AZTECA
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/24772.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4be68a530a5a53cdb383d52d51b7fccd.webp" group-title="General",RCN NOVELAS 
+https://dalive.site:443/JorgeLeon/JorgeLeon/21167
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title="General",PELIMEX
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ENTEL GOL
+http://deluxe-tv.online:80/live/pXKTerpJmKQ5/FrGezF9MnAAW/809869.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DIREC SPORT
 http://planettvweb.com:8091/RichardCaceres/RC0856/12739
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES",Directv Sport 2 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12042
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport +" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sport +
-http://planettvweb.com:8091/RichardCaceres/RC0856/12738
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12019
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",FOX SPORTS PREMIUM SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/20321
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES",TYC SPORTS SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/20322
-#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",Fox Deportes HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12041
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",TNT SPORTS SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",TNT SPORT 
 http://planettvweb.com:8091/RichardCaceres/RC0856/12004
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD " tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN SD 
-http://planettvweb.com:8091/RichardCaceres/RC0856/11851
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD " tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 SD 
-http://planettvweb.com:8091/RichardCaceres/RC0856/11850
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3  SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES",ESPN 3  SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11849
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES",Espn 4 SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/21456
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SUR" tvg-logo="https://iili.io/BEUKlmx.png" group-title="DEPORTES",ESPN 5 SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/17719
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="data:image/png;base64,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" group-title="DEPORTES",ESPN 6
-http://planettvweb.com:8091/RichardCaceres/RC0856/92313
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SUR" tvg-logo="https://img.utdstc.com/icons/tigo-sports-android.png:l" group-title="DEPORTES",ESPN 7 SUR
-http://planettvweb.com:8091/RichardCaceres/RC0856/17720
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Colombia HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN Colombia HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/20323
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Colombia" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 HD Colombia
-http://planettvweb.com:8091/RichardCaceres/RC0856/11905
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 CHILE
-http://planettvweb.com:8091/RichardCaceres/RC0856/11966
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="DEPORTES",ESPN 3 CHILE
-http://planettvweb.com:8091/RichardCaceres/RC0856/11917
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALkAAAC5CAMAAABDc25uAAAAh1BMVEX////tHCT95ebvOUDtICfvMDj0cHX/+/vyX2T0eX32kpX+8PD83N7wSE7vNz7uKC/wP0X7z9H+9vb5tbjuJi3xUVjyVlz81tf5urz7x8n+8fH96+vvNDv1gYbwQUj4oqXzanD2iY33nKD5r7L4p6r2j5P0dXrzbHH6w8XzY2n3n6LxU1n1f4OBJvWDAAAD9klEQVR4nO2Y3ZaiMBCEAyKoiIriv6go46jj+z/fhnGHbpPQzroXs2dPfXdKE4qku9JBKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOC/ZN4OmulWEatJOBoKQW7aSTGv7o46DQFZa7+IuBI/aTeT2MqXmdfMmw5IL1KExKjUyuKkOWB4i5mSdCiM5VB+DIT4Ur/Z6EXdlbKJnsmBEBDkbNYXkpK9rbwnDbzQS/ii6k8+VvJMeu2UlJRSYGErvwnhw1QdpIl4ih5AnEnPO5CSQggLSkt4dBHiB340e0Eve+BEnknPu5GUkxA2PFvKx1MhPlmt/yLLNcFRvckRpDzqCGGbuaXcl6TNon77FcE1wVmcSe/uXnckE/K2a0t5P2k1k6t0K1x+TjJXJzniSHNIJpRZdr4f23nuC8RqLF3+BpFaywGkiJlQt2/iW8L/IZgJ7X5ay5+xo+pYfCe+DJvp+urQcOlUHO8LmAr3h+FRzelHrWdc1P8VlC0FKT/1OOUytnXLdr7xo2bPDEaH6qkH4X7P63E7r3OA1eKUlIeNo2RJaRfoEzsffwiXg0I3HbkkXNs5NReUA3Oy2nf1DeVae2FJF3eaThTtJWHDpVLvYkCquvzHb87UfOYkRZyD7GgqF3eaUD1pW3I1FruD6Ypl46B2NtaesrZFbFq9malc7M4L9aRV7ETrrXBZN7kruj+p64xl0IQtv5S43tBULr5oVVLLRIjQ3cGm+eroGCm/xYK/HkrtacaaXJVKsxSYyskagqRjsqwi/DI0/qYEu/CNb/QYddr11UMxhl/PZBm06XMxfq+TPEJ3W3NOZZEtI5P6UQ+saFW7asJS1nUzK8b6bMD8zGykolX8ABnEyBDOvKPdV9+D2VFPXWnNJq7go2NLZwPMbJ9+kEf1b1Yo82tHH+mG7EgfVApaztQV7LLzvtPOXcRU/6FxyadL7VPXYKf83PxPc6mnMTszO98418xl50tHBik16dnkVEVvxsBz2c5Fz6wSjC2nc814Mbrs/FpHipu5Yyc6SwfzgtefiyRmy+lMWVbNZOfMz6g2xI3h8RvBJ6Vs53I75e0Vs3NnyrKzItk5+RmrjSfHxsRcUel4q0tKbCWqforZueODiNvOFfkZq40niXkzR5b6Mz0hYr/ldWKeTldz7AqnnTv9TE7MgXX0l5rYTV/scb2pnrCX7NxZG1dPoG0P3hLCt7HQAgeDvPIKtgW/YufMpItmIdnM/kykWsJ330vU+Fl4e+ndly8ffJE47byob2nVb5bSQ5lJN+VtNgonrsMcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH6SX/xnR8CAFpE7AAAAAElFTkSuQmCC" group-title="DEPORTES",ESPN 5 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12030
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="" group-title="DEPORTES",ESPN Deportes HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11913
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL DE ECUADOR" tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES",FUTBOL DE ECUADOR
-http://planettvweb.com:8091/RichardCaceres/RC0856/16963
-#EXTINF:-1 tvg-id="" tvg-name="DeporTV HD" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="DEPORTES",DeporTV HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11893
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORT SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11998
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT 2 HD" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES",CLARO SPORT 2 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11922
-#EXTINF:-1 tvg-id="" tvg-name="Ufc (Ufc Fight Pass)" tvg-logo="http://descargas.podzone.net/logos/-UFC-FIGHT-PASS.png" group-title="DEPORTES",Ufc (Ufc Fight Pass)
-http://planettvweb.com:8091/RichardCaceres/RC0856/12003
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS CHILE SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12044
-#EXTINF:-1 tvg-id="" tvg-name="CL Estadio TNT Sports 1 HD" tvg-logo="http://3.bp.blogspot.com/-JFht_TGbcTI/UZbtz3tpUII/AAAAAAAAAog/9ufu15mKjcA/s1600/cdf+premium+nuevo.png" group-title="DEPORTES",CL Estadio TNT Sports 1 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12001
-#EXTINF:-1 tvg-id="" tvg-name="CL Estadio TNT Sports 2 HD" tvg-logo="http://3.bp.blogspot.com/-G2-4yYvvcEE/UhECiUQcGMI/AAAAAAAAOmo/a6UhoJrISyg/s1600/cdf+premium+NUEVO.png" group-title="DEPORTES",CL Estadio TNT Sports 2 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12045
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ESTADIO TNT SPORTS CHILE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/21813
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL PERU
-http://planettvweb.com:8091/RichardCaceres/RC0856/12741
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDN
-http://planettvweb.com:8091/RichardCaceres/RC0856/20318
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="http://descargas.podzone.net/logos/-azteca.png" group-title="DEPORTES",Azteca Deportes
-http://planettvweb.com:8091/RichardCaceres/RC0856/12020
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull (Red Bull Sports)" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Red Bull (Red Bull Sports)
-http://planettvweb.com:8091/RichardCaceres/RC0856/14841
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTO GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",DAZN MOTO GP HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/14787
-#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
-http://planettvweb.com:8091/RichardCaceres/RC0856/20320
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",SKY SPORTS F1
-http://planettvweb.com:8091/RichardCaceres/RC0856/40365
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Sky Bundesliga
-http://planettvweb.com:8091/RichardCaceres/RC0856/23240
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES",TENNIS CHANNEL
-http://planettvweb.com:8091/RichardCaceres/RC0856/11845
-#EXTINF:-1 tvg-id="" tvg-name=" Wwb (Wwb Beisbol Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Wwb (Wwb Beisbol Latino)
-http://planettvweb.com:8091/RichardCaceres/RC0856/21462
-#EXTINF:-1 tvg-id="" tvg-name="Hi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Hi Sports
-http://planettvweb.com:8091/RichardCaceres/RC0856/16535
-#EXTINF:-1 tvg-id="" tvg-name="Tvcd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Tvcd
-http://planettvweb.com:8091/RichardCaceres/RC0856/16536
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports N HD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports N HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11970
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Us" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports Us
-http://planettvweb.com:8091/RichardCaceres/RC0856/21458
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra" tvg-logo="data:image/png;base64,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" group-title="DEPORTES",Bein Sports Xtra
-http://planettvweb.com:8091/RichardCaceres/RC0856/16965
-#EXTINF:-1 tvg-id="" tvg-name="NASCAR" tvg-logo="https://pbs.twimg.com/profile_images/1374024780249239556/UieJZSab_400x400.jpg" group-title="DEPORTES",NASCAR
-http://planettvweb.com:8091/RichardCaceres/RC0856/41756
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV ECUADOR HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11971
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11965
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport HD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",Tigo Sport HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/16537
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://www.digitaltveurope.com/files/2023/03/Screenshot-2023-03-08-at-12.33.41.png" group-title="DEPORTES",FIFA+
-http://planettvweb.com:8091/RichardCaceres/RC0856/20319
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ALEMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png" group-title="DEPORTES",DAZN 1 ALEMAN
-http://planettvweb.com:8091/RichardCaceres/RC0856/11976
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN F1
-http://planettvweb.com:8091/RichardCaceres/RC0856/16967
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="DEPORTES",GOLF CHANNEL HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11889
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/38586
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/38587
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT HD_" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",WIN SPORT HD_
-http://planettvweb.com:8091/RichardCaceres/RC0856/12445
-#EXTINF:-1 tvg-id="" tvg-name="CL TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CL TNT Sports FHD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12011
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 1 FHD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12043
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 2 FHD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11975
-#EXTINF:-1 tvg-id="" tvg-name="Bellator MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES",Bellator MMA
-http://planettvweb.com:8091/RichardCaceres/RC0856/41757
-#EXTINF:-1 tvg-id="" tvg-name="GLORY KICKBOXING" tvg-logo="https://ih1.redbubble.net/image.2247655092.2658/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" group-title="DEPORTES",GLORY KICKBOXING
-http://planettvweb.com:8091/RichardCaceres/RC0856/16964
-#EXTINF:-1 tvg-id="" tvg-name="MLS 07: Onesoccer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 07: Onesoccer
-http://planettvweb.com:8091/RichardCaceres/RC0856/14403
-#EXTINF:-1 tvg-id="" tvg-name="MLS 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 04:
-http://planettvweb.com:8091/RichardCaceres/RC0856/11977
-#EXTINF:-1 tvg-id="" tvg-name="------DEPORTES ESPAÑA------" tvg-logo="" group-title="DEPORTES ESPAÑA",------DEPORTES ESPAÑA------
-http://planettvweb.com:8091/RichardCaceres/RC0856/12836
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT SP" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA",BEIN SPORT SP
-http://planettvweb.com:8091/RichardCaceres/RC0856/12051
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES ESPAÑA",DAZN 4
-http://planettvweb.com:8091/RichardCaceres/RC0856/19995
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EURO SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA",CANAL EURO SPORTS HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12497
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA",EUROSPORT 2
-http://planettvweb.com:8091/RichardCaceres/RC0856/14263
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La lig@" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA",Dazn La lig@
-http://planettvweb.com:8091/RichardCaceres/RC0856/11910
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA",IBERALIA TV
-http://planettvweb.com:8091/RichardCaceres/RC0856/12113
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA",CAZA Y PESCA HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11909
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Lalig@ 2 HD" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA",Dazn Lalig@ 2 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12498
-#EXTINF:-1 tvg-id="" tvg-name="ESP LIG@ HD" tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA",ESP LIG@ HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/12050
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports La liga" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES ESPAÑA",Sky Sports La liga
-http://planettvweb.com:8091/RichardCaceres/RC0856/12115
-#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA",Fox Deportes
-http://planettvweb.com:8091/RichardCaceres/RC0856/12116
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA",MOVISTAR DEPORTES
-http://planettvweb.com:8091/RichardCaceres/RC0856/12049
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR F1" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA",MOVISTAR F1
-http://planettvweb.com:8091/RichardCaceres/RC0856/12048
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIG@ CAMPEONES HEVC" tvg-logo="https://i.blogs.es/3316aa/movistar/450_1000.jpg" group-title="DEPORTES ESPAÑA",MOVISTAR LIG@ CAMPEONES HEVC
-http://planettvweb.com:8091/RichardCaceres/RC0856/16288
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA",MOVISTAR GOLF
-http://planettvweb.com:8091/RichardCaceres/RC0856/12047
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD" tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA",Movistar Deportes 2 HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/22347
-#EXTINF:-1 tvg-id="" tvg-name="------DEPORTES MEXICO-------" tvg-logo="" group-title="DEPORTES MEXICO",------DEPORTES MEXICO-------
-http://planettvweb.com:8091/RichardCaceres/RC0856/12837
-#EXTINF:-1 tvg-id="" tvg-name="VIX Premium La Liga" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/07/16/vix-juegos-exclusivos-futbol-mexicano-1.jpg" group-title="DEPORTES MEXICO",VIX Premium La Liga
-http://planettvweb.com:8091/RichardCaceres/RC0856/132850
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="DEPORTES MEXICO",FOX SPORT HD MEX
-http://planettvweb.com:8091/RichardCaceres/RC0856/12008
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES MEXICO",FOX SPORT 2 HD MEX
-http://planettvweb.com:8091/RichardCaceres/RC0856/12009
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES MEXICO",FOX SPORT 3 HD MEX
-http://planettvweb.com:8091/RichardCaceres/RC0856/12010
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES MEXICO",ESPN HD MX
-http://planettvweb.com:8091/RichardCaceres/RC0856/11991
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png" group-title="DEPORTES MEXICO",ESPN 2 MX HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11989
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="DEPORTES MEXICO",ESPN 3 MX HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11990
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS MX HD" tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png" group-title="DEPORTES MEXICO",ESPN PLUS MX HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11992
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/AMC-Theatres-Logo-1980.jpg" group-title="CINE",AMC SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11642
-#EXTINF:-1 tvg-id="" tvg-name="Acion Max" tvg-logo="" group-title="CINE",Acion Max
-http://planettvweb.com:8091/RichardCaceres/RC0856/88271
-#EXTINF:-1 tvg-id="" tvg-name="RetroPlex HD" tvg-logo="https://p1.hiclipart.com/preview/568/1022/484/tv-channel-icons-pack-starz-retroplex-color-png-icon-thumbnail.jpg" group-title="CINE",RetroPlex HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/88272
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="https://p1.hiclipart.com/preview/610/415/806/tv-channel-icons-pack-starz-movieplex-color-png-icon-thumbnail.jpg" group-title="CINE",HBO Zone
-http://planettvweb.com:8091/RichardCaceres/RC0856/88274
-#EXTINF:-1 tvg-id="" tvg-name="Showtime-Extrem" tvg-logo="https://seeklogo.com/images/M/mgm-drive-in-logo-087B35A5FC-seeklogo.com.png" group-title="CINE",Showtime-Extrem
-http://planettvweb.com:8091/RichardCaceres/RC0856/88275
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ Marquee HD" tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="CINE",MGM+ Marquee HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/88276
-#EXTINF:-1 tvg-id="" tvg-name="Showtime-Family" tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="CINE",Showtime-Family
-http://planettvweb.com:8091/RichardCaceres/RC0856/88277
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ HD East" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--NbEM4jyb--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="CINE",MGM+ HD East
-http://planettvweb.com:8091/RichardCaceres/RC0856/88278
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ HD West" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--NbEM4jyb--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="CINE",MGM+ HD West
-http://planettvweb.com:8091/RichardCaceres/RC0856/88279
-#EXTINF:-1 tvg-id="" tvg-name="MoreMax HD" tvg-logo="https://logodix.com/logo/1987648.png" group-title="CINE",MoreMax HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/88280
-#EXTINF:-1 tvg-id="" tvg-name="Heartland HD" tvg-logo="https://archive.org/download/CinemaxMoviemax/cinemax%20moviemax.png" group-title="CINE",Heartland HD
-http://planettvweb.com:8091/RichardCaceres/RC0856/88281
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD West" tvg-logo="https://img2.gratispng.com/20180808/skv/kisspng-logo-cinemax-television-channel-image-5b6a9a47204a89.8950189515337129671323.jpg" group-title="CINE",Cinemax HD West
-http://planettvweb.com:8091/RichardCaceres/RC0856/88285
-#EXTINF:-1 tvg-id="" tvg-name="Películas",Pluto TV Sci-Fi" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cine-latino-grande.jpg" group-title="CINE",Películas",Pluto TV Sci-Fi
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE",STAR CHANNEL SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11700
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",CINECANAL SD
-http://planettvweb.com:8091/RichardCaceres/RC0856/11660
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN CL
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/501.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",EVENTOS BOLIVIA 
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/809869.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN LAT
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/522.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ESPN MX 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/519.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN 2 CL
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/452.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Bein sport 
+https://dalive.site:443/JorgeLeon/JorgeLeon/187293
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX  SPORT 1 ARG
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/456.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ESPN PREMIUM 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/542.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FighT Box
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DirecTV SPORT cl
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/481.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",D SPORT Arg
+http://midns1.com:8080/Cristian3453/kRRVmR9VbB/169946.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DirecTV SPORT pe
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/477.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Premiere Clubes 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/568.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Tigo sport
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/555462.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX DEPORTES 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN 4K
+https://dalive.site:443/JorgeLeon/JorgeLeon/321176
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="General",EL DOCTOR CANTINFLAS 
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1398734.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3wKqxK1/THE-WATERS-CHURCH-NEW-EXPANSION-1-1200x800.jpg" group-title="General",LA CHICA DEL RIO(2026)
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162094.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="General",A CUALQUIER  PRECIO (2026)&#34; 
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162070.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="General",CONTRA El HURACÁN (2026)
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162071.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wk0vpNCX5T40KsGQKjfoDAhmJw.jpg" group-title="General",NOCHE FATÍDICA 2026
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162072.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="General",LA BOLA NEGRA (2026)&#34; 
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162073.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x56c9uf4nAGkcop1jSHf7ytJ2B.jpg" group-title="General",OPERACIÓN TEHERÁN 
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162084.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="General",LA TORMENTA 
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162051.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzMfh4oin5UfKChKsTGQGsXw4In.jpg" group-title="General",EL ESTAFADOR  RUSO (2006)
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162052.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="General",LA manzana  PODRIDA (2026)&#34;
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/162041.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIMSCqvN803aLUUOshO3m9MRAZO.jpg" group-title="General",UN OSCURO  SECRETO (2018)&#34; 
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/161999.mp4
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="General",RETRO PLUS
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1586627540.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="General",Retro Plus Tv 3 En Vivo
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w900930503.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd1a297f1f16bf6cb34cf077ae7cd041.webp" group-title="General",Canal De Deportes CRTV Chile En Vivo
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s.t13.cl/sites/default/files/t13-2025.ico" group-title="General",Canal 13 Chile
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?auth-token=&platform=&dpssid=b220396327769c21a77cd0f3&sid=ba5t1l1xb2169677825869c21a77cd0f2&ndvc=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",EURO PORT HD
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/577.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",TyC SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/555.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",WIN SPORT COLOMBIA 
+http://starlatino.tv:8880/live/liliana18722/yubQnV5D7bDJ/437740.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48985d9dc0fd0b1ecac21b18ff6f0077.webp" group-title="General",Canela Narco-Drama En Vivo
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afTkeXGBGhp3jekam0vG1dQihOr.jpg" group-title="General",VÉRTIGO  2 (2026)
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/161648.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="General",MÁSTER PLAN (2026)
+http://planettvweb.com:8091/movie/RichardCaceres/RC0856/161987.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="General",LINDAS Y LETALES (2026)&#34;
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/554815.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="General", UNa familia de bastardos (2026
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/554859.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg" group-title="General",VIOLENCIA EN LA FRONTERA 2 (2026)
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/554871.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg" group-title="General",BALLENA ASESINA 2026
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/561559.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxeJQe4lcW8AzDrRjzixOrlmihv.jpg" group-title="General", PINOCHO SIN CUERDAS (2026)
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/564033.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lizYHlyDZIEcziPMBuwvd7ubii6.jpg" group-title="General",VÉRTIGO 2 (2026)
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/564076.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg" group-title="General",LA TORMENTA (2026)&#34;
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/564972.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="General",LA ODISEA (2026)&#34; 
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554750.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed5W7iDp8BINUPw0bXPStxGxJOh.jpg" group-title="General",LA CAIDA DE LA BALLENA (2026)
+http://superxlatino.com:8880/movie/kJLsCbk7e4jz/xDvtCWfwuAMg/565163.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw2sJqvY6wzRLhhAMsPlINVuPOQ.jpg" group-title="General",EN VIVO DESDE EL INFIERNO (2026)&#34;
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/563770.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJvszJS1nIcv2IWHEEkJsNl6VW3.jpg" group-title="General",ENTREGA NAL LÍMITE (2026)&#34;
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/563153.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg" group-title="General",LOS GUARDIANES DELMUSEO 2 LOS TESOROS DE EGIPTO (2026)&#34;
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/563152.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ1499F6hYxDxiqioy8oSUaxipG.jpg" group-title="General",EL CORAZON DE LA BESTIA (2025)&#34;
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/563005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="General",RESIDENT EVIL NOCHE CERO (CAM) (2026)&#34; 
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/563004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67PMTBnKahx4ywg7sqyjCHlvaSI.jpg" group-title="General",ENGENDRO (2026) 
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554687.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg" group-title="General",LA CASA DE LA PLAYA (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554735.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXw8hYk0z7VgryoaUN3ApjcOoze.jpg" group-title="General",LUCHADORES  2 (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/561474.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gu5tiSkZr2NlKp8Wb0fd4LJ41y.jpg" group-title="General",Hipótesis del  Amor(2026)&#34;
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285763.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg" group-title="General",Psicho Killer(2025)&#34; 
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/284032.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ZETA (2026)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554873.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqPUwI03NVnyrXmd0hiN4Au93hv.jpg" group-title="General",CARRERA  CONTRA  EL TIEMPO (2024)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/772121.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CARRERA  contra el tiempo (2015)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/724793.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kdPIy68DMoomY0nncJ09yE3VJ7g.jpg" group-title="General",Susurran tu nombre (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285398.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL AFINADOR (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/558511.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PROYECTO EL INTERNADO (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554852.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PROYECTO  FIN DEL MUNDO (2025)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554817.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",F1  LA PELÍCULA 2025
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/796004.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",180 (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554608.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",911 LLAMADA INFERNAL (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554609.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwRZ00JgrpF2xTmO6cvl3eYu5X.jpg" group-title="General",ACUSADA (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554610.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg" group-title="General",BEAST (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554630.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg" group-title="General",DETONACION (2025)&#34;
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554633.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCpABsHAJz7eKDNgPiAxl6nSFjU.jpg" group-title="General",AMOS DEL UNIVERSO (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282840.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DIA DE LA REVELACIÓN  (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282923.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SIN SALIDA (2026)&#34;
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554627.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AfwIqD0QFkKYBHQao78INWcoPSn.jpg" group-title="General",SÓLO  POR UNA NOCHE (2026)
+http://starlatino.tv:8880/movie/liliana18722/yubQnV5D7bDJ/560193.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA MALDICIÓN DE LA BRUJA (2026)&#34;
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282924.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evpyqT25VJzFT5juDflTM6OW5zW.jpg" group-title="General",BALAD DE VENGANZA (20219)
+http://cord-cutter.net:8080/movie/jay.ouillette@hotmail.com/PR1es2CO3/202310.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iANU8C9n6lH7Wx0MbOdM4aATfrW.jpg" group-title="General",El DRAMA  (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282616.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="General",OBSESIÓN (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/284420.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EN LA ZONA GRIS (2026)I
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/554689.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CONSECUENCIAS DURADERAS 2 (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554644.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gtwN9R6q0Ki97eUczLMlBzASOeM.jpg" group-title="General",CONTRA LAS CUERDAS (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554645.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" group-title="General",CRIATURAS LUMINOSAS (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554648.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZF6C4zXVzvtBdp5F43pM47ZHWa.jpg" group-title="General",Descendientes UN MALVADO PAÍS DE LAS MARAVILLAS (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554650.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MONSTRR HUNTER 4k )2022)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/249316.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PINOCHO  2026
+http://starlatino.tv:8880/movie/liliana18722/yubQnV5D7bDJ/554810.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="General",CORAZÓN VALIENTE 4K (1995)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/249272.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LETRAS ROBADA 2026
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283270.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA NOVIA (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280730.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ASESINATO DE RACHEL (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554658.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DESEO (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554652.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg" group-title="General",Clika (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554641.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Enola Holmes 3 (2006)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281954.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Strung (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281941.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DRÁCULA (2025)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/278779.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FRITOS A BALAZOS 
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/278677.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MARIDOS EN ACCIÓN (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281911.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LICENCIA PARA ROBAR (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281975.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SUPER GIRL (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281937.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BODA SANGRIENTA 2 (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282052.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DIABLO VISTE DE MODA 2
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281939.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MARTY SUPREMO 
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280850.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA POSESIÓN DE LA MOMIA 
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281318.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",12 horas para Sobrevivir  EL INICIO (2018)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554603.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DOBLEMENTE FELIZ (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554656.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HOMBRE LOBO (2025)
+http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/771622.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BLACK ADAM  4K (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/249270.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL CHOQUE (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554660.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DÍA D BAJO PRESIÓN (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554664.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ELEFANTES FANTASMAS (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554666.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ESPOSA Y ELLA (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554675.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ÚLTIMO CONQUISTADOR (2026)
+http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554681.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ESPANTOSO (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554695.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg" group-title="General",FLOW CALLEJERO 3 (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554701.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7KmMh4lH1l4a0EvS8Dq1MiQbc6.jpg" group-title="General",LA TOSTADORA (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554757.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",72 horas (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554607.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MEXICALI (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554775.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LÍMITE  VERTICAL (2000)
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/546147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="General",LA VOLUNTAD DE DIOS (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554759.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="General",MI MEJOR ENEMIGA (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554780.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", FAMILIA A LA DERIVA (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554700.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA AHORCADA  (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554730.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",INTERCAMBIADOS (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554721.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FRANCO  TIRADOR 6
+http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/546035.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UNA MUJER SIN PASADO (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/560105.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ASISTENTE DE LA MORGUE (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/560011.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NÁUFRAGIO PESADILLA EN EL MAR (2026)
+http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554789.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Space
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263355.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HBO FAMILY 
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301434.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="General",DirecTV SPORT HD
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/481.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="General",TNT SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/459.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE CANAL 
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263281.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",National Geografic
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263296.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",STAR CHANEL 
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301432.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg" group-title="General",TNT
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263280.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1680.jpg" group-title="General",TELEVISION DE FONDO DE BIKINI
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1623.png" group-title="General",CHICWAWE
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HBO XTREME
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263437.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE MAX
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263356.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Wordl TV
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ANIMAL PLANET
+http://38.87.224.19:2220/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LIFE TIME 
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263440.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE MAX
+http://38.87.224.19:2220/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DISCOVERY CHANEL 
+http://38.87.224.19:2220/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE FAMILY 
+http://38.87.224.19:2220/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NETFLIX 24/7
+http://midns1.com:8080/Cristian3453/kRRVmR9VbB/440282.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EDGE
+http://38.87.224.19:2220/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",AXN
+http://38.87.224.19:2220/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PLUOS TV
+http://38.87.224.19:2220/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Nick junior 
+http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/260544.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN PREMIUM 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/545.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LIGA DE CAMPEONES FHD
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/60283.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Cantinflas 24/7
+http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526468.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ROSA DE GUADALUPE 24/7
+http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526416.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UNIFRANK
+https://live.enhdtv.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CDO BÁSICO 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/74106.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN ARG
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/524.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Fox sport 3
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/525.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 6
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/526.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 7
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/453.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 5 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/527.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 4
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/517.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 3 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/512.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CLARO SPORT CO
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/463.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",T&c SPORT 
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/555.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FOX SPORT MX
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/534.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CANAL I VENEZUELA 
+https://streaming.canal-i.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Tele ritmo 
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CANTINFLAS 24/7
+http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/797174.m3u8
