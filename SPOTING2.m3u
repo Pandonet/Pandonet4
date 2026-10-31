@@ -9,14 +9,14 @@ https://live20.bozztv.com/giatv/giatv-tvupandopro/tvupandopro/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
 https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  BOLIVIA 
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SANTA CRUZ 
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573413.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL FHD
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573416.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",Unitel COCHABAMB@
-https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/812700.ts
+http://190.181.61.93:8000/play/1909/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CADENA A
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/887048.ts
 #EXTINF:-1 tvg-logo="https://pxcdn.reduno.com.bo/reduno/122017/1544505888786.webp?extw=png&cw=600&ch=365" group-title="General",RED UNO
@@ -85,12 +85,12 @@ https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1259152.ts
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1321397.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN 2 CL
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1572158.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Bein sport 
-https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1522512.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SPN PREMIUM 
+http://myultratv.com:8080/966143202tv/6447pfwx332/542
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX  SPORT 1 ARG
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1326785.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",ESPN PREMIUM 
-https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1321394.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",TYC SPORT 4
+http://myultratv.com:8080/966143202tv/6447pfwx332/555
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FighT Box
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",DirecTV SPORT cl
@@ -103,8 +103,8 @@ https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1321353.ts
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1652425.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Tigo sport GT
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/743011.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",FOX DEPORTES  MX
-https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1311344.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",REAL MADRID 
+http://aatedopes.top:8080/es6291743877577247/e40b057a29de/76496
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",SKY SPORT LA LIGA 
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1542748.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="General",SACRIFICIO  LOS ELEGIDOS 2026
@@ -142,7 +142,7 @@ https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1565997.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",Direct SPORT  COLOMBIA 
 https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1241535.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmYvkYm/LOGO.png" group-title="General",CLARO SPORT 
-https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1573752.ts
+http://myultratv.com:8080/966143202tv/6447pfwx332/463
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48985d9dc0fd0b1ecac21b18ff6f0077.webp" group-title="General",Canela Narco-Drama En Vivo
 https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afTkeXGBGhp3jekam0vG1dQihOr.jpg" group-title="General",VÉRTIGO  2 (2026)
@@ -243,104 +243,104 @@ http://planettvweb.com:8091/movie/RichardCaceres/RC0856/160882.mkv
 http://planettvweb.com:8091/movie/RichardCaceres/RC0856/131246.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",REBELIÓN EN LA GRANJA 
 https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1517818.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="General",CORAZÓN VALIENTE 4K (1995)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/249272.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LETRAS ROBADA 2026
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283270.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA NOVIA (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280730.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ASESINATO DE RACHEL (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554658.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DESEO (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554652.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg" group-title="General",Clika (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554641.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Enola Holmes 3 (2006)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281954.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Strung (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281941.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DRÁCULA (2025)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/278779.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FRITOS A BALAZOS 
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/278677.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MARIDOS EN ACCIÓN (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281911.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LICENCIA PARA ROBAR (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281975.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SUPER GIRL (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281937.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BODA SANGRIENTA 2 (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282052.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DIABLO VISTE DE MODA 2
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281939.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MARTY SUPREMO 
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280850.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA POSESIÓN DE LA MOMIA 
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281318.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",12 horas para Sobrevivir  EL INICIO (2018)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554603.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DOBLEMENTE FELIZ (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554656.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HOMBRE LOBO (2025)
-http://skynetdigital.us:8080/movie/Eleazar010125/2gefp@5/771622.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BLACK ADAM  4K (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/249270.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL CHOQUE (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554660.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DÍA D BAJO PRESIÓN (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554664.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ELEFANTES FANTASMAS (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554666.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ESPOSA Y ELLA (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554675.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ÚLTIMO CONQUISTADOR (2026)
-http://servpremium.net:8880/movie/Bru5ACTVY2f3/NjtfJD3C7dXk/554681.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ESPANTOSO (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554695.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg" group-title="General",FLOW CALLEJERO 3 (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554701.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7KmMh4lH1l4a0EvS8Dq1MiQbc6.jpg" group-title="General",LA TOSTADORA (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554757.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",72 horas (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554607.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MEXICALI (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554775.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LÍMITE  VERTICAL (2000)
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/546147.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="General",LA VOLUNTAD DE DIOS (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554759.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="General",MI MEJOR ENEMIGA (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554780.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", FAMILIA A LA DERIVA (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554700.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA AHORCADA  (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554730.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",INTERCAMBIADOS (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554721.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FRANCO  TIRADOR 6
-http://starlatino.tv:8880/movie/jorge@57/C7hugVHzDmjt/546035.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UNA MUJER SIN PASADO (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/560105.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ASISTENTE DE LA MORGUE (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/560011.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NÁUFRAGIO PESADILLA EN EL MAR (2026)
-http://starlatino.tv:8880/movie/Cristobal91uet/T5nTLNvVsajx/554789.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="General",INCAUTADO LA LUCHA DE AMANDA)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1710069.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",THE FIX 2026
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1708393.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PAPI RICKY LA PELÍCULA (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1712303.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA SILLA (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1712297.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL DESPERTAR (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1712294.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg" group-title="General",TADEO JONE Y LA LÁMPARA  MARAVILLOSA (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1692633.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",THE UPRISING (2006)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1663943.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SOLTERISIMA TAMBIÉN (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1705408.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HOT SPOT (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1633924.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BALLENA ASESINA 
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1632623.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SQUATCH (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1680971.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",RESIDENT EVIL Noche CERO (2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1650379.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",INFILTRADA  EN SIRIA(2026)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1602444.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Tren FANTASMA (2025)
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1604488.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PAPÁ A CARGO
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1624465.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",INSTINTO IMPLACABLE 
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1602413.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LEVITICUS  RITUAL DE SANGRE 
+https://deluxe-tv.online:443/movie/pXKTerpJmKQ5/FrGezF9MnAAW/1573364.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DEVORADOR DE ALMAS (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/287916.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",APOCALIPSIS Z NUEVO MUNDO (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/287923.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VELOCIDAD  Y DESEO (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/287881.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Enterramos a los muertos (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/285550.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CARRERA CONTRA EL TIEMPO (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/285471.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ASESINO  PERFECTO (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/247590.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Monster  ASESINA EN SERIE (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272472.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ASESINO NINJA (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/282827.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ASESINO A SUELDO (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/278094.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ASESINO  SIN MEMORIA (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/243201.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg" group-title="General",CAZA AL ASESINO (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269147.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7KmMh4lH1l4a0EvS8Dq1MiQbc6.jpg" group-title="General",TORTUGAS NINJA (2026)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/287810.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VENGANZA EN LA PRISIÓN 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/285739.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HIJO DE LA VIOLENCIA 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271267.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VENGANZA FATAL 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270219.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg" group-title="General",COLOMBIANA 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268649.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="General",CELDA 2011
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270110.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TERMINATOR GÉNESIS 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268632.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CALOR MORTAL 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/286233.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EFECTO PARADOJA 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/277774.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA JUSTICIA TIENE SU PRECIO 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271139.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ANGEL NEGRO 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271141.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL MEME MALDITO
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/284421.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",OPERACIÓN SOMBRA (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/282673.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Space
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263355.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",HBO FAMILY 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301434.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="General",DirecTV SPORT HD
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/481.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="General",TNT SPORT 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/459.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="General",FUERA DE LAS SOMBRAS
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/257658.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="General",DOS CHICOS EN FUGA 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/281101.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE CANAL 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263281.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",National Geografic
-http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263296.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",PRINCIPE DE LOS LADRONES 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/278676.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",STAR CHANEL 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/301432.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg" group-title="General",TNT
-http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/263280.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg" group-title="General",EL MENÚ (4K)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/249283.mkv
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1680.jpg" group-title="General",TELEVISION DE FONDO DE BIKINI
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1623.png" group-title="General",CHICWAWE
@@ -361,8 +361,8 @@ http://38.87.224.19:2220/play/a01q/index.m3u8
 http://38.87.224.19:2220/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CINE FAMILY 
 http://38.87.224.19:2220/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NETFLIX 24/7
-http://midns1.com:8080/Cristian3453/kRRVmR9VbB/440282.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ALERTA AEROPUERTO 24/7
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1680519.ts
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EDGE
 http://38.87.224.19:2220/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",AXN
@@ -371,41 +371,41 @@ http://38.87.224.19:2220/play/a02s/index.m3u8
 http://38.87.224.19:2220/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Nick junior 
 http://tutele.lat:8080/live/TavoMartinezSS7/a70ef5b8c46c7ef7/260544.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN PREMIUM 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/545.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LIGA DE CAMPEONES FHD
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/60283.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Cantinflas 24/7
-http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526468.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",1000 Formas de MORIR 24/7
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1680516.ts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 4 MX FHD
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1321402.ts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SKY SPORT LA liga 
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1542748.ts
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA ROSA DE GUADALUPE 24/7
-http://starlatino.tv:8880/live/Cristobal91uet/T5nTLNvVsajx/526416.m3u8
+https://deluxe-tv.online:443/live/pXKTerpJmKQ5/FrGezF9MnAAW/1323116.ts
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UNIFRANK
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CDO BÁSICO 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/74106.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN ARG
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/524.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Fox sport 3
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/525.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 6
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/526.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 7
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/453.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 5 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/527.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 4
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/517.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SPN 3 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/512.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CLARO SPORT CO
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/463.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",T&c SPORT 
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/555.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA CAÍDA DEL VUELO 811
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276907.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SIN SALIDA 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270106.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",AISLADOS (2018)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/7297.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NÚMERO  23 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/7378.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",COLISIÓN (2026(
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/287918.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",REGRESO A LOS 90s
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/285242.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DOCUMENTAL  ISLA ALÍEN 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/74468.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DOCUMENTAL SCREAM LA HISTORIA REAL 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/256183.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DOCUMENTAL MILLONARIO 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/277263.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",BLINDADO 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270266.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",FOX SPORT MX
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/534.m3u8
+http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CANAL I VENEZUELA 
 https://streaming.canal-i.com/master.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Tele ritmo 
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CANTINFLAS 24/7
-http://skynetdigital.us:8080/live/Eleazar010125/2gefp@5/797174.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",DEPORT TV 
+http://158.172.155.130:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Bein sport extra 
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
