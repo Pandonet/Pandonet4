@@ -409,3 +409,1333 @@ https://streaming.canal-i.com/master.m3u8
 http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Bein sport extra 
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Presa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMILqn3ArGkfDSteAlqsL2WiINT.jpg" group-title=" → VOD ESTRENOS 2024 ←",Presa (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Cerveza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebZLD9PD1YGU15QoY1PfVOj2x1n.jpg" group-title="→ VOD DRAMA ←",Operacion Cerveza
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embaucadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqOaJvWbTEHzISjyx3XibRI8Va9.jpg" group-title="→ VOD DRAMA ←",Embaucadores
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noche de Terror (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exgfubqSbF4veI4uXFOdbV66gEf.jpg" group-title=" → VOD ESTRENOS 2025 ←",Noche de Terror (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg" group-title="→ VOD COMEDIA ←",Happy Gilmore
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pEtr2o1aZEIyDaYDZgjbADNL4E.jpg" group-title=" → VOD ESTRENOS 2025 ←",Happy Gilmore 2 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacia la Libertad " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha8PLN3EgHR5uloDwDr426GANBI.jpg" group-title="→ VOD DRAMA ←",Hacia la Libertad 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Canto del Cisne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHT3GKTjgfKJdZaM9s3oYJePwCU.jpg" group-title="→ VOD DRAMA ←",El Canto del Cisne
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duquesa del Crimen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" group-title="→ VOD ACCIÓN ←",Duquesa del Crimen
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La vida de Michael J. Fox (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHvS3nL9oRXGxEwROj4H7wzNCIN.jpg" group-title="→ VOD DOCUMENTALES ←",La vida de Michael J. Fox (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis 84 m² (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhsXOE2FWBGOaHUoAnjBUW1Y1Ds.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mis 84 m² (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juegos de Seduccion (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s91PuVwq8jwDtrCWjkpF63rZgyX.jpg" group-title=" → VOD ESTRENOS 2025 ←",Juegos de Seduccion (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casi familia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgk4rtDNlP9LZql9rtC3Huil1ob.jpg" group-title=" → VOD ESTRENOS 2025 ←",Casi familia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN 2.0 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg" group-title=" → VOD ESTRENOS 2025 ←",M3GAN 2.0 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg" group-title=" → VOD ESTRENOS 2025 ←",Cómo entrenar a tu dragón (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/276359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre sin Memoria (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGUFzO1P703rq7YeuNOC74Y58FS.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Hombre sin Memoria (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corre o Muere (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUYEt6OWkppLIJuDpxVqLVLq5JY.jpg" group-title=" → VOD ESTRENOS 2024 ←",Corre o Muere (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stand Your Ground (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCv4Z1Fs4327p4zqR8tumi64WmY.jpg" group-title=" → VOD ESTRENOS 2025 ←",Stand Your Ground (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El insoportable Peso de un Talento Descomunal " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLXJRnVQlajzNYd8xDHC553Yi8H.jpg" group-title="→ VOD ACCIÓN ←",El insoportable Peso de un Talento Descomunal 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snGVInrnUBK6LrfLZkOdbj5PpJo.jpg" group-title="→ VOD COMEDIA ←",Z-O-M-B-I-E-S
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUXKuy6jjhJQHfb2hYyeupyDnZk.jpg" group-title="→ VOD COMEDIA ←",Z-O-M-B-I-E-S 2 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 3 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/966ceZHDYvXQOvGYu1pvxiB0A54.jpg" group-title="→ VOD COMEDIA ←",Z-O-M-B-I-E-S 3 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zombies 4: El Origen de los Vampiros (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EHx7lOm1jvNTr6lqRxiqmnFFDt.jpg" group-title=" → VOD ESTRENOS 2025 ←",Zombies 4: El Origen de los Vampiros (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thicket (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VzpKL8v5vFQsf00CKJ0dTfimJ8.jpg" group-title=" → VOD ESTRENOS 2024 ←",The Thicket (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre de Acero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg" group-title="→ VOD DC UNIVERSO ←",El Hombre de Acero
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman (2025) CAM C/ANUNCIOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg" group-title="→ VOD CAM 2025 ←",Superman (2025) CAM C/ANUNCIOS
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Huevos Sofia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhDH688uqzt8bJdcCDhP9vCpV2H.jpg" group-title=" → VOD ESTRENOS 2025 ←",Que Huevos Sofia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Almost Cops (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRfaESjUXHvsSv1fx8keTiLavZt.jpg" group-title=" → VOD ESTRENOS 2025 ←",Almost Cops (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COPES: Comandos de Elite (2025)" tvg-logo="https://television.com.ar/wp-content/uploads/2025/07/COPES-Comandos-de-Elite.jpg" group-title="→ VOD DOCUMENTALES ←",COPES: Comandos de Elite (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una boda en las Bahamas con Madea (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brXUEyuY25r3ksIt8poDGjNyWNt.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una boda en las Bahamas con Madea (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Muro Negro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m4Lfzh5IutmrteT4yjy7pCaJCz.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Muro Negro (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ziam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg" group-title=" → VOD ESTRENOS 2025 ←",Ziam (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/275001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Legends (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" group-title=" → VOD ESTRENOS 2025 ←",Karate Kid: Legends (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Rodeo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Last Rodeo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reagan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9uu5RZzz3bRKtV5T8ChamVzA0n.jpg" group-title=" → VOD ESTRENOS 2024 ←",Reagan (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Almas marcadas: Rule + Shaw (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rFgrN5k4c1HrVoyr0zNDdH4bK5.jpg" group-title=" → VOD ESTRENOS 2025 ←",Almas marcadas: Rule + Shaw (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invitacion al Infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGNwpNvmieIClw6a9XZGKPL3p4Z.jpg" group-title="→ VOD TERROR ←",Invitacion al Infierno
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Mejor Papa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22TqqVfuSrZhPIdtpnNm92sQ4cS.jpg" group-title=" → VOD ESTRENOS 2025 ←",Un Mejor Papa (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: El renacer (2025) CAM C/ANUNCIOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg" group-title="→ VOD CAM 2025 ←",Jurassic World: El renacer (2025) CAM C/ANUNCIOS
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja vs. Yakuza League (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg" group-title=" → VOD ESTRENOS 2025 ←",Batman Ninja vs. Yakuza League (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F1 la Película (2025) CAM C/ANUNCIOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg" group-title="→ VOD CAM 2025 ←",F1 la Película (2025) CAM C/ANUNCIOS
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title=" → VOD ESTRENOS 2025 ←",Bailarina (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criatura voraz (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iinb9KTcTqVWVj8sgNIFssaUGae.jpg" group-title=" → VOD ESTRENOS 2025 ←",Criatura voraz (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jefes de Estado (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CSdwqOUMH23cEBodqAJynMFz7c.jpg" group-title=" → VOD ESTRENOS 2025 ←",Jefes de Estado (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Vieja Guardia 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Vieja Guardia 2 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encerrado (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlo2rGpjjHh3X8XImBdeUayKJ6g.jpg" group-title=" → VOD ESTRENOS 2025 ←",Encerrado (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Countdown: La hora de tu Muerte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg" group-title="→ VOD TERROR ←",Countdown: La hora de tu Muerte 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tierras perdidas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg" group-title=" → VOD ESTRENOS 2025 ←",Tierras perdidas (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Camino: Una película de Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoWADuvXs3Ua4AXBAiZYnppTupO.jpg" group-title="→ VOD CRIMEN ←",El Camino: Una película de Breaking Bad
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Red Avispa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQumi9N4ulG76nC34pr4nh1cKwA.jpg" group-title="→ VOD DRAMA ←",La Red Avispa
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Proyecto Adam
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cielo Rojo Sangre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" group-title="→ VOD ACCIÓN ←",Cielo Rojo Sangre
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Profecia 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pINF9b9NeHtWAN0skAZkZUtYgUQ.jpg" group-title="→ VOD TERROR ←",La Profecia 3
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Profecia 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTSQ3VMTAxb5JJcQDJoyAFOoNtP.jpg" group-title="→ VOD TERROR ←",La Profecia 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN 2.0 (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBgyUqyu3ioTSQjJJE5RFs2EG3B.jpg" group-title="→ VOD CAM 2025 ←",M3GAN 2.0 (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malditos bastardos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg" group-title="→ VOD CASTELLANO ←",Malditos bastardos
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exterminio 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PJEQ63WebiLJ4vtuyXx68Jehmh.jpg" group-title="→ VOD TERROR ←",Exterminio 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exterminio 3 (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvIqaDUC48dwfd7taKczB7909Qg.jpg" group-title="→ VOD CAM 2025 ←",Exterminio 3 (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nueve Vidas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niPpFwLZJOA3zDgdoBbqnrVVXpe.jpg" group-title="→ VOD COMEDIA ←",Nueve Vidas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mickey 17 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZMGC839jsKNAweGeQDBZDmu6ka.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mickey 17 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Mercancia mas Preciosa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14FmrLNYmdSMvCwljZx2wgp89Tg.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Mercancia mas Preciosa (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Larga Distancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reDAdPDDZs5diNTef6UNuRwHomW.jpg" group-title=" → VOD ESTRENOS 2024 ←",Larga Distancia (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1978 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7oyy7KTlC01XD3pUn82V9Od0P.jpg" group-title=" → VOD ESTRENOS 2025 ←",1978 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiasco total: El Crucero de la Caca (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg" group-title="→ VOD DOCUMENTALES ←",Fiasco total: El Crucero de la Caca (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Tierra Prometida " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg" group-title="→ VOD DRAMA ←",La Tierra Prometida 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torre Grenfell (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kjTyXPJUqGs1iAwL1nIEyj0rew.jpg" group-title="→ VOD DOCUMENTALES ←",Torre Grenfell (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiasco total: La tragedia del festival Astroworld (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8E4aR8ghCnc1gWJTyHxXseHvpy.jpg" group-title="→ VOD DOCUMENTALES ←",Fiasco total: La tragedia del festival Astroworld (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como entrenar a tu dragon (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg" group-title="→ VOD CAM 2025 ←",Como entrenar a tu dragon (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elio (2025) QEPD TOMIII 11 CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGjwHlv8bCjZypi2bHbbSmyIGMV.jpg" group-title="→ VOD CAM 2025 ←",Elio (2025) QEPD TOMIII 11 CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/274076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peligrosa Ambicion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jw3CFmGrfs4qUf3Aih9xgN5BTqu.jpg" group-title="→ VOD SUSPENSO ←",Peligrosa Ambicion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chloe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1SQETW5XglZb8eGnmb648lVANw.jpg" group-title="→ VOD DRAMA ←",Chloe
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastardos sin Gloria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg" group-title="→ VOD BÉLICAS ←",Bastardos sin Gloria
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sting. Araña asesina." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xjip3BSCNQprHcpyBQoCtNxvfU.jpg" group-title="→ VOD TERROR ←",Sting. Araña asesina.
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate Imposible" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="→ VOD ACCIÓN ←",Rescate Imposible
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wrestler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQpBhEHCFNYgakxpP6pAVB2k3fp.jpg" group-title="→ VOD DRAMA ←",The Wrestler
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lukas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79vOYO1lKMnnE2PzbX3honhBCZq.jpg" group-title="→ VOD ACCIÓN ←",Lukas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Minutos o menos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOHbTyE3wDKu2ExhsfhGZQOIVUm.jpg" group-title="→ VOD COMEDIA ←",30 Minutos o menos 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanecer sangriento (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg" group-title=" → VOD ESTRENOS 2025 ←",Amanecer sangriento (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Echo Valley (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg" group-title=" → VOD ESTRENOS 2025 ←",Echo Valley (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Utopia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81PlfsAsb2wLY56UsbnUpMn80xh.jpg" group-title="→ VOD SUSPENSO ←",Utopia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana: Primer asesinato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eed4qNf174pcT65it1PBbaTTL3x.jpg" group-title="→ VOD TERROR ←",La huérfana: Primer asesinato (2022)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino final: Lazos de sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title=" → VOD ESTRENOS 2025 ←",Destino final: Lazos de sangre (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Aparcacoches" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRPYEiXKgOmZ4mwZ8BQwFMp2Ejw.jpg" group-title="→ VOD COMEDIA ←",El Aparcacoches
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warfare: Tiempo de guerra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0vm0Iot5gN8XfhzZIWeoOX7rcw.jpg" group-title=" → VOD ESTRENOS 2025 ←",Warfare: Tiempo de guerra (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/273790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titan: La tragedia de OceanGate (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg" group-title="→ VOD DOCUMENTALES ←",Titan: La tragedia de OceanGate (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuestros tiempos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0XyRsfjnxznZb803hXtleSXhtG.jpg" group-title=" → VOD ESTRENOS 2025 ←",Nuestros tiempos (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mensaje en una Botella (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mensaje en una Botella (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amateur (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WPWF0AmklsKclrXeyKXbQ543ZA.jpg" group-title=" → VOD ESTRENOS 2025 ←",Amateur (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predator: Asesino de asesinos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHDsrBZJRx6ZCO4tocFh3gnbosU.jpg" group-title=" → VOD ESTRENOS 2025 ←",Predator: Asesino de asesinos (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El final de nuestros Dias (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWw56vQLL33rS3Hq19ECv28dj6a.jpg" group-title=" → VOD ESTRENOS 2024 ←",El final de nuestros Dias (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Raiz de Miedo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EkX8965Hb2hZdkpEcFShrlrklw.jpg" group-title="→ VOD CRIMEN ←",La Raiz de Miedo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Better Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg" group-title="→ VOD DRAMA ←",Better Man (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mikaela (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnTNpOoqjqOLj2oIoGE9MnPFa4o.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mikaela (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harta (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg" group-title=" → VOD ESTRENOS 2025 ←",Harta (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K.O. (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rt5emaY1f6koXNUbOessY12731J.jpg" group-title=" → VOD ESTRENOS 2025 ←",K.O. (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presence (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRO5AdZ4Rn1crgjTHaUnWWhJXB.jpg" group-title=" → VOD ESTRENOS 2025 ←",Presence (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina, del universo de John Wick (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAlIRnwdp17A6HsOcEoqZJk0ZqJ.jpg" group-title="→ VOD CAM 2025 ←",Ballerina, del universo de John Wick (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Van Gogh, a las puertas de la Eternidad " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pQCcuuXuc7XDReovgWZlbK7TN1.jpg" group-title="→ VOD DRAMA ←",Van Gogh, a las puertas de la Eternidad 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Ultimos dias en Marte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehFgJhCQbQ98JdqERWIFa6ULoRy.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Los Ultimos dias en Marte
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Premonicion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX7us4Z78XVEX1RMkmIhKqK9DdV.jpg" group-title="→ VOD SUSPENSO ←",Premonicion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster: Asesina en Serie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaHEndERUUn3ZwdeeKYy0WBhgET.jpg" group-title="→ VOD CRIMEN ←",Monster: Asesina en Serie
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Contador 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUun3MoBbqeeCsiVJh7hgupgBYJ.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Contador 2 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="August Rush: El triunfo de un sueño " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOhfqgseHk1bjHu5YjtGlIbsKJA.jpg" group-title="→ VOD DRAMA ←",August Rush: El triunfo de un sueño 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Entrega" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15ODu72Q8Z6uFwefH8U0vjYZ75v.jpg" group-title="→ VOD CRIMEN ←",La Entrega
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria Me muero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0rr4qLKx0WuKVOwV6mXBsi8l56.jpg" group-title="→ VOD COMEDIA ←",Maria Me muero
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los pecadores (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL6puhup6PXqrKqItWbGA8LF529.jpg" group-title=" → VOD ESTRENOS 2025 ←",Los pecadores (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shadow Force (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg" group-title=" → VOD ESTRENOS 2025 ←",Shadow Force (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="57 Segundos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",57 Segundos
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Juego Legendario" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crBaf3upWbYAozPKfuqym7BxnwB.jpg" group-title="→ VOD FANTASÍA ←",Un Juego Legendario
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npyCpfYyYknFoY2iJPyfqp70FVX.jpg" group-title="→ VOD CRIMEN ←",Survivor
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo el Dinero del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egWOh1jpp2QC6kknO98guzC4ZBe.jpg" group-title="→ VOD SUSPENSO ←",Todo el Dinero del Mundo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Heroes de Brooklyn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IAQfcAUlQtmMyNN3AluLEuevhR.jpg" group-title="→ VOD CRIMEN ←",Los Heroes de Brooklyn
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ultimo Emperador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utbdORmc1tEmnxqQRMOapVAX8E8.jpg" group-title="→ VOD CLÁSICAS ←",El Ultimo Emperador
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg" group-title="→ VOD SUSPENSO ←",Locke
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nueva York Sin Salida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L56pZmao0tTUD7sYQUa6MyO67g.jpg" group-title="→ VOD CRIMEN ←",Nueva York Sin Salida
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Despertar de un Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nUd6rZ9Nmv8USawYaCOzVEkgfs.jpg" group-title="→ VOD SUSPENSO ←",El Despertar de un Asesino
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujer Valiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdqbujWmlmsdVm62Ob8sGuC2kDk.jpg" group-title="→ VOD ACCIÓN ←",Mujer Valiente
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Viuda Negra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvxz6rgNT2SA1F2CRZ19pXdGXbQ.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Viuda Negra (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo que le falta a esta Estrella (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9xQJjtX71oUVIUqNmZ9Qnnmxi.jpg" group-title=" → VOD ESTRENOS 2025 ←",Lo que le falta a esta Estrella (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazon Delator (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmEbRCuikEux2tjSNrroXvNcLGG.jpg" group-title=" → VOD ESTRENOS 2025 ←",Corazon Delator (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Hermandad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23S7b4Mm10CU5qWyTeI6GcegeaU.jpg" group-title="→ VOD TERROR ←",La Hermandad
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Abogado del Diablo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOXciqRgEXqRvvYS6Dk2im3NF7H.jpg" group-title="→ VOD DRAMA ←",El Abogado del Diablo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malas calles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSnb0P5xAXXeSqdXe2nPmkJOy5C.jpg" group-title="→ VOD CLÁSICAS ←",Malas calles
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campamento en Familia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njl0UjJxL2UQePjQY8LX0fOr0O.jpg" group-title="→ VOD COMEDIA ←",Campamento en Familia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbirds: La Elite de la Fuerza Aerea de EE. UU. (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7nh6hnQDUZMJ681ONpmzKnMjnU.jpg" group-title="→ VOD DOCUMENTALES ←",Thunderbirds: La Elite de la Fuerza Aerea de EE. UU. (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/272197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisioneros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg" group-title="→ VOD SUSPENSO ←",Prisioneros
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror: La Reina del Baile (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udAUZyViDFMGN72PYthH83LVBlO.jpg" group-title=" → VOD ESTRENOS 2025 ←",La calle del terror: La Reina del Baile (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch (2025)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg" group-title="→ VOD CAM 2025 ←",Lilo y Stitch (2025)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Until Dawn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg" group-title=" → VOD ESTRENOS 2025 ←",Until Dawn (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Fuente de la eterna Juventud (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Fuente de la eterna Juventud (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Vengador del Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX5aHvyyRgyjrSNnBRWuSfPcjOQ.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Vengador del Futuro
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malas Enseñanzas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNzecyjgBPPSn9g7GoB46BVW81Q.jpg" group-title="→ VOD COMEDIA ←",Malas Enseñanzas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Codigo Fuente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chcGEGGGk1GDYftpdwVGVtsYbDF.jpg" group-title="→ VOD SUSPENSO ←",Codigo Fuente
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Implacable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvJcP62XCRSWD7SxFoeLM89ttuj.jpg" group-title="→ VOD ACCIÓN ←",El Implacable
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Codigo del Miedo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLqtvwAsgGl7QQTkBrGmHI1LzFA.jpg" group-title="→ VOD ACCIÓN ←",El Codigo del Miedo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matriarca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N7eFfbqmTv3wBull55cG59qtrU.jpg" group-title="→ VOD TERROR ←",Matriarca
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Ochi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Leyenda de Ochi (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misterio en Venecia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg" group-title="→ VOD SUSPENSO ←",Misterio en Venecia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mision: Imposible - Sentencia final (2025)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg" group-title="→ VOD CAM 2025 ←",Mision: Imposible - Sentencia final (2025)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destino final: Lazos de sangre (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="→ VOD CAM 2025 ←",Destino final: Lazos de sangre (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan: Pesadilla en Nunca Jamas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUCTmmXJFF08WjYVuwqyJsBnEgE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Peter Pan: Pesadilla en Nunca Jamas (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rey del Higado (2025)" tvg-logo="https://pics.filmaffinity.com/untold_the_liver_king-694485819-large.jpg" group-title="→ VOD DOCUMENTALES ←",El Rey del Higado (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asesinos de Elite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Ep5s2af2Fy8hlWCH3lbLGZdAH.jpg" group-title="→ VOD ACCIÓN ←",Asesinos de Elite
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Informante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdc13Aj5w3Wn4RiJtYFHtrXIG2L.jpg" group-title="→ VOD DRAMA ←",El Informante
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos Buenos Tipos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg" group-title="→ VOD ACCIÓN ←",Dos Buenos Tipos 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escobar: Paraiso Perdido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abQ8OpL4YKdwJbALKoAnNwUp0lt.jpg" group-title="→ VOD SUSPENSO ←",Escobar: Paraiso Perdido
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Hombres Libres de Jones " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10jpQjLLYE2vzah45eGSVHv6os4.jpg" group-title="→ VOD DRAMA ←",Los Hombres Libres de Jones 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Land of Mine (Bajo la arena)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SlbP9s3ctfbSv2bnx3mIL2ghEC.jpg" group-title="→ VOD BÉLICAS ←",Land of Mine (Bajo la arena)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una pelicula de Minecraft (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una pelicula de Minecraft (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Escandalo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/560YqKXG0eyRGXh2rI3ve9uovb9.jpg" group-title="→ VOD DRAMA ←",El Escandalo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes de amanecer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlj6CeLqcbap4babkT9Bqi3vZUe.jpg" group-title="→ VOD ROMANCE ←",Antes de amanecer
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg" group-title=" → VOD ESTRENOS 2025 ←",Blancanieves (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Blade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg" group-title="→ VOD AVENTURAS ←",Dragon Blade
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Munich" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNcxRSvhLfxaqH5IBYcPGhBiuO.jpg" group-title="→ VOD DRAMA ←",Munich
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centurion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2wEjTdwl9kmd1HDtck4YlFFYX7.jpg" group-title="→ VOD AVENTURAS ←",Centurion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Legends (2025)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" group-title="→ VOD CAM 2025 ←",Karate Kid: Legends (2025)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colossal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Colossal
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Push " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRjIdNLUGYCzueCiuy5ZGo9vmOd.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Push 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shottas (Hermanos en el crimen)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amOWE3VqD0rKDiHZSWhYcpYZcxq.jpg" group-title="→ VOD CRIMEN ←",Shottas (Hermanos en el crimen)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Evaluacion (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tIE8BcUfousuV3pxyRxuRCptDM.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Evaluacion (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fight or flight (sicarios en el aire) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg" group-title=" → VOD ESTRENOS 2025 ←",Fight or flight (sicarios en el aire) (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mala influencia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mala influencia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killer Joe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg" group-title="→ VOD CRIMEN ←",Killer Joe
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karol G: Mañana fue muy Bonito (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg" group-title="→ VOD DOCUMENTALES ←",Karol G: Mañana fue muy Bonito (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenido a casa Roscoe Jenkins " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byPATRG4M4O4dD55Nc9u25bBWM0.jpg" group-title="→ VOD COMEDIA ←",Bienvenido a casa Roscoe Jenkins 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La partida de go (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99XUkLH31ArJYf4fqGmu9pmA00u.jpg" group-title=" → VOD ESTRENOS 2025 ←",La partida de go (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbolts* (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLbhKNJGDSfBCXFNtypM7ZuPTaW.jpg" group-title=" → VOD ESTRENOS 2025 ←",Thunderbolts* (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Alto Knights (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Alto Knights (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Herencia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiWlLf1H55gcM6IrtkFwEnNtdlq.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Herencia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bala perdida 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg" group-title=" → VOD ESTRENOS 2025 ←",La bala perdida 3 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraterritorial (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg" group-title=" → VOD ESTRENOS 2025 ←",Extraterritorial (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Generacion Perdida 2 (Cast)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI8cqCILtB9ppL5jgWvmmE844iC.jpg" group-title="→ VOD SUSPENSO ←",Generacion Perdida 2 (Cast)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presencia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc7YIx6KNiXm1dpqlhqdX3eTL7a.jpg" group-title=" → VOD ESTRENOS 2025 ←",Presencia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Hombre Lobo entre Nosotros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg" group-title="→ VOD COMEDIA ←",Un Hombre Lobo entre Nosotros
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre del Saco " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpdSrcuGctWLdHsuil27x58VAWI.jpg" group-title="→ VOD TERROR ←",El Hombre del Saco 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Kandahar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkzXrx1cAeCsVWLpWx0ZZeBHuTq.jpg" group-title="→ VOD ACCIÓN ←",Operacion Kandahar 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saint Catherine (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkzXrx1cAeCsVWLpWx0ZZeBHuTq.jpg" group-title=" → VOD ESTRENOS 2025 ←",Saint Catherine (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Mas Fan (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Mas Fan (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Otro pequeño favor (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZr2QCUbsekpiLnZ7788twcLpSn.jpg" group-title=" → VOD ESTRENOS 2025 ←",Otro pequeño favor (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" group-title="→ VOD FANTASÍA ←",Gabriel 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Detective en el Kinder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYwEZ7TWFAAuZucUJmWLktfLCEN.jpg" group-title="→ VOD COMEDIA ←",Un Detective en el Kinder
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo el Mismo Cielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTchyxSeCWc24vZAYT37cSL1pa.jpg" group-title="→ VOD DRAMA ←",Bajo el Mismo Cielo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día que la Tierra explotó: Una película de los Looney Tunes (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq32P0VC4yWYujyByp7ieNCZjA.jpg" group-title=" → VOD ESTRENOS 2025 ←",El día que la Tierra explotó: Una película de los Looney Tunes (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La cita (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg" group-title=" → VOD ESTRENOS 2025 ←",La cita (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolicion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGAQasaiocRmXkabQuvM2o1kjBB.jpg" group-title="→ VOD DRAMA ←",Demolicion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Dos Papas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KrH8cM2KudyhjJK8NtTgf2lMIP.jpg" group-title="→ VOD DRAMA ←",Los Dos Papas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Contador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UGoHBbVY8Y5xBwfgFfiplhCOaP.jpg" group-title="→ VOD CRIMEN ←",El Contador
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Contador 2 (2025) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg" group-title="→ VOD CAM 2025 ←",El Contador 2 (2025) (CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultravioleta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBH229rMswFIkk3l4C7iZhNKCOB.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Ultravioleta
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hijos de la Violencia" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b4b5ead1de7dd5002ae07e2812733f00b58b95b6ecd4f9774b95d044aad47b3b._SX1080_FMjpg_.jpg" group-title="→ VOD ACCIÓN ←",Hijos de la Violencia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ash (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg" group-title=" → VOD ESTRENOS 2025 ←",Ash (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ladron de Joyas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7ZPLbyVV1JvIVu7yNECXnTwXR.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Ladron de Joyas (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Monkey (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaky Tales (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg" group-title=" → VOD ESTRENOS 2025 ←",Freaky Tales (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estragos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOr4Qg1NOp2kHaCpC0mKJROKjub.jpg" group-title=" → VOD ESTRENOS 2025 ←",Estragos (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pánico en el tren bala (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg" group-title=" → VOD ESTRENOS 2025 ←",Pánico en el tren bala (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Justicia tiene su Precio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wimgbZSfDW78r0DXaBXCBl3Ueiy.jpg" group-title="→ VOD ACCIÓN ←",La Justicia tiene su Precio
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doble Impacto " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg" group-title="→ VOD ESPECIAL VAN DAMME ←",Doble Impacto 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angel Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyoHaQiew5zk6ZSYLAHbSRkbrbc.jpg" group-title="→ VOD ACCIÓN ←",Angel Negro
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Brave New World (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI6iqk6a1MOIfYfIMQcTDDGEl8h.jpg" group-title=" → VOD ESTRENOS 2025 ←",Capitán América: Brave New World (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equilibrium (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Equilibrium (2002)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Chicago Crossover Event (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VMudwS53McycrJ4ltYEBThuQ9O.jpg" group-title=" → VOD ESTRENOS 2025 ←",One Chicago Crossover Event (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efecto Flashback " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFhFaRz06alm2rsPnWF3IElJA4C.jpg" group-title="→ VOD SUSPENSO ←",Efecto Flashback 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delirio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR68Qbd0ETPXGDtC6HZtTmliX1G.jpg" group-title="→ VOD SUSPENSO ←",Delirio
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yghOYVOI9PEgbOaHpR4sZhklot.jpg" group-title="→ VOD DRAMA ←",Chef
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" group-title="→ VOD TERROR ←",Terror en Silent Hill
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Granja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXScU5uBAD5L7QTYGtvN0WJ2GwQ.jpg" group-title="→ VOD INFANTILES ←",La Granja
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David y Goliat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8ZE7AJO1UchOGCLe2nLR61HOpN.jpg" group-title="→ VOD SEMANA SANTA ←",David y Goliat
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rehen (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rehen (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria de Nazareth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vlLPEkTdVckgxzjjhlWVZwXr.jpg" group-title="→ VOD SEMANA SANTA ←",Maria de Nazareth
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCaCLrODsQwFyunqKRfXHugMzGA.jpg" group-title="→ VOD SEMANA SANTA ←",Barrabas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marea roja " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9biXf0EATwtMLOKsG6SoYM2eegU.jpg" group-title="→ VOD ACCIÓN ←",Marea roja 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buscando un Amigo para el Fin del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2a84AnE698LHT4fMvc89Enth9Mx.jpg" group-title="→ VOD DRAMA ←",Buscando un Amigo para el Fin del Mundo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/271038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajos Instintos 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TKhsDYG2s3gi575FEhx5wMS9W1.jpg" group-title="→ VOD CRIMEN ←",Bajos Instintos 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="→ VOD AVENTURAS ←",Troya
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u0uaJdCdyBiUE4vaQMLFLQeaF2.jpg" group-title="→ VOD AVENTURAS ←",Pompeya 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="G20 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg" group-title=" → VOD ESTRENOS 2025 ←",G20 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfrentando a la oscuridad (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddOe8coyI38cauKrd5PRu4bfj9u.jpg" group-title=" → VOD ESTRENOS 2025 ←",Enfrentando a la oscuridad (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novocaine (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljTarS50b3L08SNyWvmb2ZQTvMP.jpg" group-title=" → VOD ESTRENOS 2025 ←",Novocaine (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YH326wovVubxK10Yjh9xjE6wTm.jpg" group-title=" → VOD ESTRENOS 2025 ←",Corina (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart Eyes (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title=" → VOD ESTRENOS 2025 ←",Heart Eyes (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor del Mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg" group-title=" → VOD ESTRENOS 2025 ←",Lo Mejor del Mundo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicos de Hielo en el Tropico (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg" group-title=" → VOD ESTRENOS 2025 ←",Chicos de Hielo en el Tropico (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Maravilloso Mago de Oz (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Maravilloso Mago de Oz (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajos Instintos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygHJenUnjGNqKByp2Ymqwjkp4Ox.jpg" group-title="→ VOD CLÁSICAS ←",Bajos Instintos
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanecer Rojo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY2yhcZ9KmpnPsluMLd6f309Nwa.jpg" group-title="→ VOD ACCIÓN ←",Amanecer Rojo 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turno nocturno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg" group-title=" → VOD ESTRENOS 2024 ←",Turno nocturno (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una película de Minecraft (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg" group-title="→ VOD CAM 2025 ←",Una película de Minecraft (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La quImica del Amor " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ith9s6tfAqSVDs7yURjb7TiHsz0.jpg" group-title="→ VOD COMEDIA ←",La quImica del Amor 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El final de Todo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2qO672N3FgpVT7a9bSjBQJikEg.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El final de Todo 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Straight (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34l0QGrhDv8DawQss6rDRkio4Ga.jpg" group-title=" → VOD ESTRENOS 2024 ←",Straight (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Prueba (2025)" tvg-logo="https://images.justwatch.com/poster/326976728/s718/test-2025.jpg" group-title=" → VOD ESTRENOS 2025 ←",A Prueba (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birdman o (la inesperada virtud de la ignorancia) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FC3R7ElysTIze9ooCYZnb6TR22.jpg" group-title="→ VOD COMEDIA ←",Birdman o (la inesperada virtud de la ignorancia) 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi lista de Deseos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg" group-title=" → VOD ESTRENOS 2025 ←",Mi lista de Deseos (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonido de Esperanza: La historia de Possum Trot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLBZu0YmWfk9uhtqoy3MXC4ORMD.jpg" group-title=" → VOD ESTRENOS 2024 ←",Sonido de Esperanza: La historia de Possum Trot (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Pasion Otoñal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKOEr0PYVwgfLs1uCnNSOZeVxeb.jpg" group-title="→ VOD ROMANCE ←",Una Pasion Otoñal
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doble espionaje (2025) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg" group-title="→ VOD CASTELLANO 2025 ←",Doble espionaje (2025) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja vs. Yakuza League (2025) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg" group-title="→ VOD CASTELLANO 2025 ←",Batman Ninja vs. Yakuza League (2025) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: Loca por él (2025) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K4xBef7N7YZTnke23FiNTHBGNU.jpg" group-title="→ VOD CASTELLANO 2025 ←",Bridget Jones: Loca por él (2025) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin oxígeno (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhRLEa7xMw8yy4JDTQthQMFij93.jpg" group-title=" → VOD ESTRENOS 2025 ←",Sin oxígeno (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DJ encubierto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pegSby27ebOwW361GJb1aKcxa.jpg" group-title=" → VOD ESTRENOS 2025 ←",DJ encubierto (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Dolor Real (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg" group-title=" → VOD ESTRENOS 2024 ←",Un Dolor Real (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fahrenheit 451 " tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM1ZGJkZDgtNzBlNS00YjkyLTk3NGEtZTIxMGVkMTk2Yjg1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Fahrenheit 451 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confidencial (Black Bag) (2025)" tvg-logo="https://cdn.mallmarina.cl/mallcurico/uploads/2025/03/codigo-negro.jpg" group-title=" → VOD ESTRENOS 2025 ←",Confidencial (Black Bag) (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate Implacable (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rescate Implacable (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bird (2024) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f6lD6wlZRP1FCz5SU4q86M2TuB.jpg" group-title="→ VOD CASTELLANO 2024 ←",Bird (2024) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La batalla de los mundos (2024) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRK7clR2wtHNQndCymOLLjCRAGa.jpg" group-title="→ VOD CASTELLANO 2024 ←",La batalla de los mundos (2024) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los silenciosos (2024) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qHoQfLwK3ZDB9gqse87HBZ5aUD.jpg" group-title="→ VOD CASTELLANO 2024 ←",Los silenciosos (2024) CAST
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pídeme lo que quieras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg" group-title=" → VOD ESTRENOS 2024 ←",Pídeme lo que quieras (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Conspiracion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4o3natL2ozyv4Krjn0wqnguccT.jpg" group-title="→ VOD DRAMA ←",La Conspiracion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O'Dessa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg" group-title=" → VOD ESTRENOS 2025 ←",O'Dessa (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego de Sacrificio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5Cg3ddhMGRxLwNdDwJRJHtQTdD.jpg" group-title="→ VOD SUSPENSO ←",Juego de Sacrificio 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desconectados 2: Reconectados (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg" group-title=" → VOD ESTRENOS 2025 ←",Desconectados 2: Reconectados (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg" group-title=" → VOD ESTRENOS 2025 ←",Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chico Bento e a Goiabeira Maraviosa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg" group-title=" → VOD ESTRENOS 2025 ←",Chico Bento e a Goiabeira Maraviosa (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminales de lujo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpAbueORafYSgTk2oSc2t6ayktb.jpg" group-title=" → VOD ESTRENOS 2025 ←",Criminales de lujo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Life List (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Life List (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En un confin del Mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI5eWAvq68mddW6JkRodywrOBF.jpg" group-title=" → VOD ESTRENOS 2025 ←",En un confin del Mundo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Madre de las Estafas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYfC4J5JFzsCCuJYbMLqpB5z81j.jpg" group-title="→ VOD DOCUMENTALES ←",La Madre de las Estafas (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alas Blancas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4n0Lx65xc1A65QaNUYwzYT5k8g.jpg" group-title="→ VOD DRAMA ←",Alas Blancas 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Muerte Silenciosa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfxVkV5vFZmgnR2zzoj6virotwB.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una Muerte Silenciosa (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holland (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN5Ay7qbKwky8Zv3yKV3QpkbZfV.jpg" group-title=" → VOD ESTRENOS 2025 ←",Holland (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaEGthsGmYfGvyOJZguxlcNj378.jpg" group-title="→ VOD CAM 2025 ←",Blancanieves (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey (2025) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg" group-title="→ VOD CAM 2025 ←",The Monkey (2025) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Priscilla " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i9EgnxyXcD0POswNcirYCSm2iP.jpg" group-title="→ VOD DRAMA ←",Priscilla 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Fuerza de una Campeona (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Fuerza de una Campeona (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Juego de la Botella (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knZo3KnD7mT4aXwLDbYyQw7ZA8Z.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Juego de la Botella (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos El Inicio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3zMduK3u1ckKt1HHcvPDbdhOap.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Caos El Inicio
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moscas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9N3Ve9inJAHIF8vYHpm4hdUdBH.jpg" group-title="→ VOD SUSPENSO ←",Moscas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Here (Aqui) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXfGJsoB7gcuhP6CTggQ2AKg4I.jpg" group-title=" → VOD ESTRENOS 2024 ←",Here (Aqui) (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las vidas de Sing Sing (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x5yWfgpEUxF8kg62ooukLfVbCI.jpg" group-title=" → VOD ESTRENOS 2024 ←",Las vidas de Sing Sing (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aún Estoy Aquí (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bp8VfiqYqkQOzf6e8LBv4m53gxU.jpg" group-title=" → VOD ESTRENOS 2024 ←",Aún Estoy Aquí (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duplicidad, de Tyler Perry (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg" group-title=" → VOD ESTRENOS 2025 ←",Duplicidad, de Tyler Perry (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revelación (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLUqqlteOFBZkHClr4nmcc48FA.jpg" group-title=" → VOD ESTRENOS 2025 ←",Revelación (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La vida secreta de las abejas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvdCRfP9HRMc8hPfDsxtBkP6HtD.jpg" group-title="→ VOD AVENTURAS ←",La vida secreta de las abejas (2008)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Brutalist (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zayAddI9yPOTi34x9M21ezei9JV.jpg" group-title=" → VOD ESTRENOS 2024 ←",The Brutalist (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último aliento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyKkecH1we96Ko6N0gMbuhwVlGL.jpg" group-title=" → VOD ESTRENOS 2024 ←",El último aliento (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Jardinero (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Jardinero (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ultima parada de Arizona (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Ultima parada de Arizona (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Otras 24 Hrs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUGPsNtNRbghp9KVmbsZu7jAaOb.jpg" group-title="→ VOD ACCIÓN ←",Otras 24 Hrs
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blindado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teKwEThO6MEJQ3IZKaOHAky6zvq.jpg" group-title=" → VOD ESTRENOS 2024 ←",Blindado (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cómo ganar millones antes de que muera la abuela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgWhmlpxPEJQTZeKOAEPlgrD0lB.jpg" group-title=" → VOD ESTRENOS 2024 ←",Cómo ganar millones antes de que muera la abuela (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frogman (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFCM4SKsBQIpKXhcCGgkVf7DK2F.jpg" group-title=" → VOD ESTRENOS 2024 ←",Frogman (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="María, ¡Me muero! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjj0HjUL1wXuSqV0ctKn5ObJu5.jpg" group-title=" → VOD ESTRENOS 2024 ←",María, ¡Me muero! (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estado Electrico (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg" group-title=" → VOD ESTRENOS 2025 ←",Estado Electrico (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un día de esos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FCcl763dbG6ieiqdKbYBkDzohS.jpg" group-title=" → VOD ESTRENOS 2025 ←",Un día de esos (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Unbreakable Boy (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNtVwwoWMnBFDyyDPpbd7sTinr7.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Unbreakable Boy (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lee Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmm7lLqF5mAzn3OvO7qJwFGbi2v.jpg" group-title=" → VOD ESTRENOS 2024 ←",Lee Miller (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos: Los crímenes de Manson (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg" group-title=" → VOD ESTRENOS 2025 ←",Caos: Los crímenes de Manson (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Larissa: La otra cara de Anitta (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pGSNk99roMBjYGq9k9OdrJNniH.jpg" group-title=" → VOD ESTRENOS 2025 ←",Larissa: La otra cara de Anitta (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Parenting (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Parenting (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Brave New World (2025) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im71UJzBqY03swuGYVR28j0JFM2.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Capitán América: Brave New World (2025) SUB
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Hombre de Familia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuMxtIlVuDXHLSnKwAASlXW9DLj.jpg" group-title="→ VOD DRAMA ←",Un Hombre de Familia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gamer " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDbp1SSzxpCFOcjvIe0rDTwOOoJ.jpg" group-title="→ VOD ACCIÓN ←",Gamer 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente X: Ultima mision" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg" group-title="→ VOD ACCIÓN ←",Agente X: Ultima mision
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Todos los Chicos de los que me Enamore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edspFefhqzR2jpqzV38duYjYKNC.jpg" group-title="→ VOD ROMANCE ←",A Todos los Chicos de los que me Enamore
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venganza Fatal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUmbuBpz61T6ET2hB8LEKQMz5UH.jpg" group-title="→ VOD ACCIÓN ←",Venganza Fatal
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Campeones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" group-title="→ VOD DRAMA ←",Los Campeones
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mississipi en Llamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KcLTGJaY2wD6jaZrOra36Eekqz.jpg" group-title="→ VOD CLÁSICAS ←",Mississipi en Llamas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ford vs Ferrari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="→ VOD DRAMA ←",Ford vs Ferrari
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tonterias de Amor (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAI8kxnjQS0YBj0EBy2yYkadM6K.jpg" group-title=" → VOD ESTRENOS 2025 ←",Tonterias de Amor (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Hombre Diferente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8nynAOohBR0fWp8TEVtdr34jzo.jpg" group-title=" → VOD ESTRENOS 2024 ←",Un Hombre Diferente (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El joven Mesias " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlvsqZBdJkXqjloH6bQNhEPPBHN.jpg" group-title="→ VOD SEMANA SANTA ←",El joven Mesias 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Completo Desconocido (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQXkbxB2kqY5yyG3KTheE4WU0x4.jpg" group-title=" → VOD ESTRENOS 2024 ←",Un Completo Desconocido (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plankton, la película (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg" group-title=" → VOD ESTRENOS 2025 ←",Plankton, la película (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Origen " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Origen 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delicia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg" group-title=" → VOD ESTRENOS 2025 ←",Delicia (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de una Pasion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsQXEHwKuBUmU80KLq0ywbDycHc.jpg" group-title="→ VOD ROMANCE ←",Diario de una Pasion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrato de un Amor a Ciegas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5AXD7ZKScWzP6cMTKGpexmjjrh.jpg" group-title=" → VOD ESTRENOS 2025 ←",Retrato de un Amor a Ciegas (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: Durmiendo con el Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzo6I6SKTFPLXK8BqZhq7sTVCSV.jpg" group-title="→ VOD CRIMEN ←",Ted Bundy: Durmiendo con el Asesino
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catastrofe Helada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GTP7DFXBuwvMUpq9rJnCBZz9Oa.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Catastrofe Helada
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Monstruo viene a verme " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBPDstXaaQAGueDMVTS29vhHLfs.jpg" group-title="→ VOD FANTASÍA ←",Un Monstruo viene a verme 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interceptor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV87yFiSeoHPbJ29B4eaqSImo4b.jpg" group-title="→ VOD ACCIÓN ←",Interceptor
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego de Secretos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uytKHneiRUkkFxE22wtLLNUIi3G.jpg" group-title="→ VOD ACCIÓN ←",Juego de Secretos
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Dominion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="→ VOD ESTRENOS 2022 ←",Jurassic World: Dominion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Brutalist (2024) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BwkIAjAdQY5Nn4HqDuXue5IZx6.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",The Brutalist (2024) (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Real Pain (2024) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",A Real Pain (2024) (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Amigo Enzo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg" group-title="→ VOD DRAMA ←",Mi Amigo Enzo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cercana Obsesion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qraS3pMk3lDyNnsYRAxlNwPCzDV.jpg" group-title="→ VOD SUSPENSO ←",Cercana Obsesion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sebastian Yatra: Viña (2025)" tvg-logo="https://cdn.forbes.com.mx/2020/03/Sebastian-Yatra-Forbes-colombia.jpg" group-title="→ VOD CONCIERTOS ←",Sebastian Yatra: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kidd Voodoo: Viña (2025)" tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2025/01/24/187522_1_67943e9379069.jpg?d=950x535" group-title="→ VOD CONCIERTOS ←",Kidd Voodoo: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Ruminot: Viña (2025)" tvg-logo="https://radioenergia.cl/wp-content/uploads/2025/03/pedro.jpg" group-title="→ VOD HUMOR ←",Pedro Ruminot: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Celda 211 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2XCKfV81GcDbXbDNM80kK25Y0o.jpg" group-title="→ VOD ACCIÓN ←",Celda 211 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duki: Viña (2025)" tvg-logo="https://www.que.es/wp-content/uploads/2022/07/duki-el-primer-artista-de___LVGEhW9hu_2000x1500__1.webp" group-title="→ VOD CONCIERTOS ←",Duki: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Salida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIoktShqoxPVdc1RfuYBK6KvKlg.jpg" group-title="→ VOD SUSPENSO ←",Sin Salida
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastion 36 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg" group-title=" → VOD ESTRENOS 2025 ←",Bastion 36 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algo bajo el agua (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BVOOfn9rzp1Ypim7LhZarqK6on.jpg" group-title=" → VOD ESTRENOS 2024 ←",Algo bajo el agua (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juan Pablo Lopez: Viña (2025)" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20250227/imag/foto_0000000220250227132816/CHV_-_2025-02-27T132809.247.jpg" group-title="→ VOD HUMOR ←",Juan Pablo Lopez: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contraataque (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg" group-title=" → VOD ESTRENOS 2025 ←",Contraataque (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incubus: Viña (2025)" tvg-logo="https://www.24horas.cl/24horas/site/artic/20250227/imag/foto_0000001720250227214006/Incubus-concierto-Chile-2025.jpg" group-title="→ VOD CONCIERTOS ←",Incubus: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Chicos de la Nickel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5CmcjPoMesyGMPPMpHtgavj84M.jpg" group-title=" → VOD ESTRENOS 2024 ←",Los Chicos de la Nickel (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Atlas de las Nubes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1d4FKmtL16r20kyVVoHMFIl96.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Atlas de las Nubes
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Defensor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DL4r94XsOTpO9UyVWXQ7LFWc8.jpg" group-title="→ VOD ACCIÓN ←",El Defensor
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricos, sin Duda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwggouPpTK9VP0Z9bRQKtywUieL.jpg" group-title=" → VOD ESTRENOS 2025 ←",Ricos, sin Duda (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por el mal Camino (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg" group-title=" → VOD ESTRENOS 2025 ←",Por el mal Camino (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oni-Goroshi: Ciudad de los Demonios (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg" group-title=" → VOD ESTRENOS 2025 ←",Oni-Goroshi: Ciudad de los Demonios (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edo Caroe: Viña (2025)" tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2025/02/27-034209_3w1q_edo-caroe-1-880x500.jpg" group-title="→ VOD HUMOR ←",Edo Caroe: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última fortaleza (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXxpmoZpAh9pDSceCOB7GT501h4.jpg" group-title="→ VOD ACCIÓN ←",La última fortaleza (2001)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amenaza en el aire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg" group-title=" → VOD ESTRENOS 2025 ←",Amenaza en el aire (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de amor en Copenhague (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una historia de amor en Copenhague (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carlos Vives: Viña (2025)" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2025/02/carlos-vives-scaled-e1740620609383-1280x746.jpg" group-title="→ VOD CONCIERTOS ←",Carlos Vives: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inmune " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKj3Awn5SThyHRkpprwHpRbe9Q.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Inmune 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiqui Aguayo: Viña (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wONJCeScWxix2GTalqzEmJjoNnw.jpg" group-title="→ VOD HUMOR ←",Chiqui Aguayo: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El silencio de Marcos Tremmer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB26CKrdHYbqZPKotbUfieqkbNl.jpg" group-title=" → VOD ESTRENOS 2024 ←",El silencio de Marcos Tremmer (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Myriam Hernandez: Viña (2025)" tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2024/11/17/myriam-hernandez-line-up-vina-2025_182777_2_673a9f1c2e2e3.jpeg" group-title="→ VOD CONCIERTOS ←",Myriam Hernandez: Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marc Anthony Festival de Viña del Mar (2025)" tvg-logo="https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2012/02/24/60b1dbed579c6.jpeg" group-title="→ VOD CONCIERTOS ←",Marc Anthony Festival de Viña del Mar (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="George Harris Viña (2025)" tvg-logo="https://somostuvoz.net/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-06-201626.png" group-title="→ VOD HUMOR ←",George Harris Viña (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego de Ladrones 2: Pantera (2025) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg" group-title=" → VOD ESTRENOS 2025 ←",Juego de Ladrones 2: Pantera (2025) 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Oscuridad " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOPW3GaJ1DgQrlNTzGHvctHMumx.jpg" group-title="→ VOD TERROR ←",30 Dias de Oscuridad 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Chica Salvaje " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmKCI3tweszvv1S7MoK0OCWsvht.jpg" group-title="→ VOD DRAMA ←",La Chica Salvaje 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Color del Crimen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62jj7H0JgT0bmQGVpVWqmoVxjvY.jpg" group-title="→ VOD CRIMEN ←",El Color del Crimen
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mejor... Imposible" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9FWAFnjeBugw725udOypnXXMY.jpg" group-title="→ VOD DRAMA ←",Mejor... Imposible
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Quién es Luigi Mangione? (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg" group-title=" → VOD ESTRENOS 2025 ←",¿Quién es Luigi Mangione? (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger: La Película (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6HP5G2WNV4ZrYOPaRjuzGty7UO.jpg" group-title=" → VOD ESTRENOS 2025 ←",Henry Danger: La Película (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manchester frente al Mar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg" group-title="→ VOD DRAMA ←",Manchester frente al Mar 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Marca de la Horca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJrlt9oldbblmnIlVwPe620vMiB.jpg" group-title="→ VOD WESTERN ←",La Marca de la Horca
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Pequeño Caos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruUPsjKEcUJ684Sq6jl4UfxuBDP.jpg" group-title="→ VOD DRAMA ←",Un Pequeño Caos 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forajidos de leyenda " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icC23EZqUeahBo102qaEE3Z263I.jpg" group-title="→ VOD WESTERN ←",Forajidos de leyenda 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack el Cazagigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QO4XUXIDvaRlix6Ybjal4pTqd.jpg" group-title="→ VOD AVENTURAS ←",Jack el Cazagigantes
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/270002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobos en la Noche " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEl0phrkIgWCbkS0fVuszsJWQF.jpg" group-title="→ VOD TERROR ←",Lobos en la Noche 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pasaje al Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1zit9bUtEe6yjcIEtdVQ9mJpp8.jpg" group-title="→ VOD DRAMA ←",Pasaje al Paraiso
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg" group-title="→ VOD ACCIÓN ←",Uncharted
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro Fantasticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Cuatro Fantasticos
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg" group-title=" → VOD ESTRENOS 2025 ←",El abismo secreto (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: Loca por el (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K4xBef7N7YZTnke23FiNTHBGNU.jpg" group-title=" → VOD ESTRENOS 2025 ←",Bridget Jones: Loca por el (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La acompañante (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZR98C2Tzefugivw21yEfYvp1G9.jpg" group-title=" → VOD ESTRENOS 2025 ←",La acompañante (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Policán (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg" group-title=" → VOD ESTRENOS 2025 ←",Policán (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Diario de Bridget Jones " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/747EDazOLVIALUnflQcGf8lNwNA.jpg" group-title="→ VOD COMEDIA ←",El Diario de Bridget Jones 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mufasa: El rey león (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk4NNdeQrb6zbRSogDSdE6qmjk8.jpg" group-title=" → VOD ESTRENOS 2024 ←",Mufasa: El rey león (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minority Report" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnzJEfXpRc1bknR5ASFG0MZcTvo.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Minority Report
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malas Influencias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17KscC9QLcNjy1wHP8v1W9HkphA.jpg" group-title="→ VOD SUSPENSO ←",Malas Influencias
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjbdSpHqd8dmkrx0K0qYqh5W5Qn.jpg" group-title="→ VOD ACCIÓN ←",Polar 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Día de Redencion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71aChTm1wTY54qLAx4JH0kka3DS.jpg" group-title="→ VOD ACCIÓN ←",Día de Redencion
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clase (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW5fnFWALqCy65JRLbnw9OcfVfU.jpg" group-title="→ VOD CLÁSICAS ←",Clase (1983)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Remi: Una aventura extraordinaria " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c2Bnz8qyiEWp35okvP0MriAGCo.jpg" group-title="→ VOD AVENTURAS ←",Remi: Una aventura extraordinaria 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mientras estes Conmigo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6Vuu6XZim23JT6pxnKmHh0GaL1.jpg" group-title="→ VOD DRAMA ←",Mientras estes Conmigo (2020)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FX: Efectos mortales " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDX8aw8ZfZKyUvPAs8akKPcaXR7.jpg" group-title="→ VOD CLÁSICAS ←",FX: Efectos mortales 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ecos Mortales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLqguFHQWvkN9Mn76tWe2c63Iu5.jpg" group-title="→ VOD TERROR ←",Ecos Mortales
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Historia mas Grande Jamas Contada " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZYMq9twuEN9C3TPhbZgw7bcIle.jpg" group-title="→ VOD SEMANA SANTA ←",La Historia mas Grande Jamas Contada 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitan America: Brave New World (2025) (C/ANUNCIOS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg" group-title="→ VOD CAM 2025 ←",Capitan America: Brave New World (2025) (C/ANUNCIOS)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Chica mas Hermosa del Mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxySAH7i9PDJnQj261pV7jeb0AL.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Chica mas Hermosa del Mundo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dhaam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrgrI4rBR3fJvQUkS69gGbNdz80.jpg" group-title=" → VOD ESTRENOS 2025 ←",Dhoom Dhaam (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romper el Circulo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg" group-title=" → VOD ESTRENOS 2024 ←",Romper el Circulo (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bikeriders. La ley del asfalto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPpcGEVt8GFJI9Xj4nf6cPMFqM.jpg" group-title=" → VOD ESTRENOS 2024 ←",Bikeriders. La ley del asfalto (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grieta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZlGTEmhzlsm6SRKYAsF4iqUm0L.jpg" group-title="→ VOD CRIMEN ←",Grieta 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piscina Infinita " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOFKpWdNu8Q14PyOUL87LcNpNZD.jpg" group-title="→ VOD TERROR ←",Piscina Infinita 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpa Mia: Londres (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0HxfkF9eoa6wSVnzwMhuDSK7ba.jpg" group-title=" → VOD ESTRENOS 2025 ←",Culpa Mia: Londres (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una muerte antes de una Boda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOVmksfmax1kA7FF0pmCq89TrF4.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una muerte antes de una Boda (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Dolce Villa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdSANGJgPe4cPAyZ3SaFH57Vref.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Dolce Villa (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falsa Identidad " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FASKP67b2uQa3hNJnEaJUQ3sN5.jpg" group-title="→ VOD CRIMEN ←",Falsa Identidad 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anatomia de una Caida " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg" group-title="→ VOD SUSPENSO ←",Anatomia de una Caida 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz2BL1qMVqX80NzUBrTSombrwmN.jpg" group-title="→ VOD ESPECIAL VAN DAMME ←",Cyborg
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdido Sin Rastro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJpphHvQGGic2i1Xbpw2umLcwsx.jpg" group-title="→ VOD DRAMA ←",Perdido Sin Rastro
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminando entre las Tumbas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb0L57p0r25ehV46trx86537ByP.jpg" group-title="→ VOD CRIMEN ←",Caminando entre las Tumbas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna de Miel con Mama (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg" group-title=" → VOD ESTRENOS 2025 ←",Luna de Miel con Mama (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snowpiercer" tvg-logo="https://static01.nyt.com/images/2014/06/27/multimedia/movies-snowpierce-062714/movies-snowpierce-062714-superJumbo.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Snowpiercer
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Profesor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zYhgCllNcjI1zwUugr5h7Mkx0O.jpg" group-title="→ VOD DRAMA ←",El Profesor
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canguro Jack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEJ6J0NqToxw9g4CDaY9JQMHVx5.jpg" group-title="→ VOD COMEDIA ←",Canguro Jack
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: Sirenas de las profundidades (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSwQudxKlJnI4tjDKi47aTAvTmj.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Witcher: Sirenas de las profundidades (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absolution (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QsBGrKAs6pgypqkqVVyHICJnpY.jpg" group-title=" → VOD ESTRENOS 2024 ←",Absolution (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Duelo Final " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iI9c8XNdPuwB4RYbHMd62QNhoRK.jpg" group-title="→ VOD ACCIÓN ←",El Duelo Final 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Escape Perfecto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wf5ATt3826zderHbblVQGdqqyLq.jpg" group-title="→ VOD SUSPENSO ←",El Escape Perfecto
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Susurros Mortales 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg" group-title=" → VOD ESTRENOS 2024 ←",Susurros Mortales 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robot Dreams " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg" group-title="→ VOD DRAMA ←",Robot Dreams 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flow, un mundo que salvar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/337MqZW7xii2evUDVeaWXAtopff.jpg" group-title=" → VOD ESTRENOS 2024 ←",Flow, un mundo que salvar (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" group-title="→ VOD INFANTILES ←",Sing 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c76KUCWUqBDHFB9H5Yz9qCY9XBa.jpg" group-title="→ VOD INFANTILES ←",Sing
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contigo en el futuro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" group-title=" → VOD ESTRENOS 2025 ←",Contigo en el futuro (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Fuerza de la Naturaleza  2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Fuerza de la Naturaleza  2 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Order (La hermandad silenciosa) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drpv6huMVntREXchPrrwTZcAcmQ.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Order (La hermandad silenciosa) (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿En que piensan las mujeres? " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0KNP8jaWYfiYY2wfUQTptVS4nN.jpg" group-title="→ VOD COMEDIA ←",¿En que piensan las mujeres? 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bogota: Tierra de últimas oportunidades (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HX27GAOdmmBnnUgQEnvsXftaGA.jpg" group-title=" → VOD ESTRENOS 2024 ←",Bogota: Tierra de últimas oportunidades (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La barberia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg" group-title="→ VOD COMEDIA ←",La barberia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algo Embarazada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpMXvcdOnEg4rvsIjWEImhHI1aH.jpg" group-title=" → VOD ESTRENOS 2025 ←",Algo Embarazada (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hombre lobo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UpFVg0fg5BsBX2mFOvaGUpbhcz.jpg" group-title=" → VOD ESTRENOS 2025 ←",Hombre lobo (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados en un Bucle Infinito " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqCjjugEeFmSPLqZ8QKjIItPZB3.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Atrapados en un Bucle Infinito 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Traficantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kCc7XxwFlOI4D2UF7ezDB910cc.jpg" group-title="→ VOD CRIMEN ←",Los Traficantes
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puñales por la espalda " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg" group-title="→ VOD CRIMEN ←",Puñales por la espalda 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalmente Rubias 3" tvg-logo="https://i.pinimg.com/474x/aa/23/d0/aa23d0667963c7dff0ac24b5428c3ce0.jpg" group-title="→ VOD COMEDIA ←",Legalmente Rubias 3
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalmente Rubia 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JcIhADz1hUqsifza7OdaKwzRRp.jpg" group-title="→ VOD COMEDIA ←",Legalmente Rubia 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalmente Rubia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niib9aVXTSKt8YOr9sHaMGkpJHZ.jpg" group-title="→ VOD COMEDIA ←",Legalmente Rubia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lluvia de Fuego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9PlTSciH3sO4xlCOedyRns4ra.jpg" group-title="→ VOD ACCIÓN ←",Lluvia de Fuego
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ultimo Testigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjCh1Lopw1xYHKm4U8guarUajLX.jpg" group-title="→ VOD ACCIÓN ←",El Ultimo Testigo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caza al Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg" group-title="→ VOD CRIMEN ←",Caza al Asesino
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noche de Venganza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8taGQNTMvtEyAN8MlTD8t1Frthw.jpg" group-title="→ VOD ACCIÓN ←",Noche de Venganza
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Sombra de la Sospecha " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7mwNviXFmsl0ALlKNaNXjRqAOW.jpg" group-title="→ VOD ACCIÓN ←",La Sombra de la Sospecha 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Dos Hemisferios de Lucca (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg" group-title=" → VOD ESTRENOS 2025 ←",Los Dos Hemisferios de Lucca (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquí (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXfGJsoB7gcuhP6CTggQ2AKg4I.jpg" group-title=" → VOD ESTRENOS 2024 ←",Aquí (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babygirl (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg" group-title=" → VOD ESTRENOS 2024 ←",Babygirl (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas lineas de extincion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg" group-title=" → VOD ESTRENOS 2024 ←",Criaturas lineas de extincion (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Psycho " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg" group-title="→ VOD CLÁSICAS ←",American Psycho 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Otra Boda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9qOMi7MhiNKOjtax8V023vJgDS.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Otra Boda (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Respira (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg" group-title=" → VOD ESTRENOS 2024 ←",Respira (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg" group-title=" → VOD ESTRENOS 2024 ←",Anora (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqiHuhjw1WSj9Qr0InJ21AgMrKu.jpg" group-title=" → VOD ESTRENOS 2024 ←",Moana 2 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo el muelle " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg" group-title="→ VOD INFANTILES ←",Bajo el muelle 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Geminis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Proyecto Geminis
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puñales por la espalda: El misterio de Glass Onion " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXGsWQURm614onIpb3iBcp1iLz8.jpg" group-title="→ VOD CRIMEN ←",Puñales por la espalda: El misterio de Glass Onion 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Milagro del Padre Stu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQ7rObRPHpLwyfz0a2wasTAXfSK.jpg" group-title="→ VOD DRAMA ←",El Milagro del Padre Stu
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Entrega Inmediata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoiuMB6chsjfMfMPWZIRrHDvOw.jpg" group-title="→ VOD ACCIÓN ←",La Entrega Inmediata
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Plan Perfecto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OOdwNcAzT8qRgX3MWj4OKe0Gku.jpg" group-title="→ VOD CRIMEN ←",Un Plan Perfecto
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Numero 23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg" group-title="→ VOD SUSPENSO ←",El Numero 23
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nixon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O2sBYJq0K0EMpw67cU1PjVJ7w3.jpg" group-title="→ VOD DRAMA ←",Nixon
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Justiciero " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg" group-title="→ VOD CRIMEN ←",El Justiciero 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contacto Sangriento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utkAPHidRG4j87vmcA9TfGsD7pz.jpg" group-title="→ VOD ESPECIAL VAN DAMME ←",Contacto Sangriento
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Hora Señalada " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU1qCoPooOwZd99Q2RHEcOLVe9k.jpg" group-title="→ VOD SUSPENSO ←",La Hora Señalada 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: La puerta Roja " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" group-title="→ VOD TERROR ←",Insidious: La puerta Roja 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: La Ultima llave " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5l0baYosvDH4HCEc6O7h1QgAp9.jpg" group-title="→ VOD TERROR ←",Insidious: La Ultima llave 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: Capítulo 3 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRPEnVWliF6CuOwgfq1xginnVYJ.jpg" group-title="→ VOD TERROR ←",Insidious: Capítulo 3 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: Capítulo 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybzJLYR0AbtFphcj6kMqe08Ak1F.jpg" group-title="→ VOD TERROR ←",Insidious: Capítulo 2 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wind River" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg" group-title="→ VOD CRIMEN ←",Wind River
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American History X" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg" group-title="→ VOD DRAMA ←",American History X
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ultimo Amor del Sr Morgan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JiBrH0gYPoSxhM7fFlSkZ4bt9J.jpg" group-title="→ VOD DRAMA ←",El Ultimo Amor del Sr Morgan
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brothers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uolVwsZ3WVmT9wYHXMajBqtF3Hn.jpg" group-title="→ VOD DRAMA ←",Brothers
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/269074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Section 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg" group-title=" → VOD ESTRENOS 2025 ←",Star Trek: Section 31 (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El castillo de arena (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLoqI44qfEyc0IGzvOI6m0S2bil.jpg" group-title=" → VOD ESTRENOS 2024 ←",El castillo de arena (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas del farol (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a98hZhV3ImbqIPmstQQnSMv9QYb.jpg" group-title=" → VOD ESTRENOS 2024 ←",Criaturas del farol (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBTdVt42yrLqS4LuWt01BTnAgxw.jpg" group-title=" → VOD ESTRENOS 2024 ←",Canina (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 3: La película (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg" group-title=" → VOD ESTRENOS 2024 ←",Sonic 3: La película (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plan Oculto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OOdwNcAzT8qRgX3MWj4OKe0Gku.jpg" group-title="→ VOD CRIMEN ←",Plan Oculto
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrega Inmediata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoiuMB6chsjfMfMPWZIRrHDvOw.jpg" group-title="→ VOD ACCIÓN ←",Entrega Inmediata
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silvio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ft36ggqoFPYPO3qFBaEJlOT5Epn.jpg" group-title=" → VOD ESTRENOS 2024 ←",Silvio (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Si quiero... o no " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" group-title="→ VOD ROMANCE ←",Si quiero... o no 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contrareloj" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmevXpxenntwhtw404e8imaNW9d.jpg" group-title="→ VOD ACCIÓN ←",Contrareloj
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Planeta de los Simios(2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg" group-title="→ VOD PLANETA DE LOS SIMIOS ←",El Planeta de los Simios(2001)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Guerra del Planeta de los Simios(2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAm7IAqfK6VL2h1yh9QbpcctaT.jpg" group-title="→ VOD PLANETA DE LOS SIMIOS ←",La Guerra del Planeta de los Simios(2017)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heretic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg" group-title=" → VOD ESTRENOS 2024 ←",Heretic (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a la accion (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OslAO6q53d1FWDU9uRL3EZYXrX.jpg" group-title=" → VOD ESTRENOS 2025 ←",De vuelta a la accion (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medidas Deseperadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foxavF6GeFiowM8Uut5rdn2HaRB.jpg" group-title="→ VOD ACCIÓN ←",Medidas Deseperadas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Never Back Down" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNB2nbkOaXYriSAKEQUoome5vgG.jpg" group-title="→ VOD ACCIÓN ←",Never Back Down
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Re Loca " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg" group-title="→ VOD COMEDIA ←",Re Loca 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Sastre de la Mafia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHxBAfd0CUvxvvXVLfTDuhqYGM0.jpg" group-title="→ VOD CRIMEN ←",El Sastre de la Mafia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAR " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Gr7WwUzYGUfzUb32wdhWuaC0m.jpg" group-title="→ VOD DRAMA ←",TAR 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calendario mortal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg" group-title=" → VOD ESTRENOS 2025 ←",Calendario mortal (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imparable: La historia de Anthony Robles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3DwuGdQhhrgAhee4NO93c3wDiQ.jpg" group-title=" → VOD ESTRENOS 2024 ←",Imparable: La historia de Anthony Robles (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kraven the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEWqad5T6TxTmQYlk8FB2MwrVuM.jpg" group-title=" → VOD ESTRENOS 2024 ←",Kraven the Hunter (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Ciudadano Ejemplar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaY5L2gY60La8ImK7ll7QBXXk26.jpg" group-title="→ VOD CRIMEN ←",Un Ciudadano Ejemplar
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metralla " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQwyl1BfnRjo84mJ0p0ryHs6BzD.jpg" group-title="→ VOD ACCIÓN ←",Metralla 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merced" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GfQ6S9PN6HBmSrmS7g363wjtTM.jpg" group-title="→ VOD ACCIÓN ←",Merced
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E.T. El Extraterrestre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY6xDD2tdKibad78wPQadCw8ZIt.jpg" group-title="→ VOD CLÁSICAS ←",E.T. El Extraterrestre
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jivUhECegXI3OYtPVflWoIDtENt.jpg" group-title="→ VOD CAM 2025 ←",Nosferatu (2024)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lluvia de Hamburguesas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udW5cz0HACCuTB1jISYDho37uMX.jpg" group-title="→ VOD INFANTILES ←",Lluvia de Hamburguesas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Tener Sexo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GDdwWIxc8ainsb0TvC2AIEXTOz.jpg" group-title="→ VOD DRAMA ←",Como Tener Sexo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbUwSqYIP0isCiJXey3staY3DNn.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Interstellar 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Home: Hogar dulce hogar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvdIeQutrcTwcbSRCn1ubg7rqxx.jpg" group-title="→ VOD INFANTILES ←",Home: Hogar dulce hogar (2015)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/6673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nacido Campeon " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sqdNhEbXxuMNFRFMXUV7zHm0gR.jpg" group-title="→ VOD DRAMA ←",Nacido Campeon 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Octubre Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydbfAamudBmp4idXDYcg9PrEHB1.jpg" group-title="→ VOD ACCIÓN ←",Octubre Negro
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Gran Golpe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73VhKecNDqFTbpoK09II9L87Bg6.jpg" group-title="→ VOD CRIMEN ←",El Gran Golpe
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En el Rastro del Enemigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WD5wdt4SFylLyE66SoE3kEZskB.jpg" group-title="→ VOD ACCIÓN ←",En el Rastro del Enemigo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babygirl (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJslf7ydQ9Sz3p3fK9FZQT8BvuX.jpg" group-title="→ VOD CAM 2025 ←",Babygirl (2024)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolor y Dinero " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65bDKGakIDaBcJ5lhitHKNGOpO5.jpg" group-title="→ VOD ACCIÓN ←",Dolor y Dinero 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La influencia " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="→ VOD TERROR ←",La influencia 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colombiana " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg" group-title="→ VOD ACCIÓN ←",Colombiana 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reflejos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" group-title="→ VOD TERROR ←",Reflejos 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCffcXqpH002rvSFt8AUnIC376s.jpg" group-title="→ VOD ACCIÓN ←",Busqueda Implacable 3
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" group-title="→ VOD ACCIÓN ←",Busqueda Implacable 2
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7pRijM07LkrkOQJ3MMfqs6VIM.jpg" group-title="→ VOD ACCIÓN ←",Busqueda Implacable
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RAW 6 Enero  (2025)" tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title=" → VOD WWE ←",RAW 6 Enero  (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Candidato Honesto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Candidato Honesto (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La otra Missy " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg" group-title="→ VOD COMEDIA ←",La otra Missy 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Genesis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg" group-title="→ VOD ACCIÓN ←",Terminator Genesis
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title=" → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parano IA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg" group-title=" → VOD ESTRENOS 2024 ←",Parano IA (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 3: La película (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Hd5l8sdi2Fhkh34X1B1ziXsQeA.jpg" group-title="→ VOD CAM 2025 ←",Sonic 3: La película (2024) CAM
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Metodo Knox (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpqKP6Af16UVNSpCRdkOTrR3cdD.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Metodo Knox (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cronica De Un Engaño" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnhsPAzUgUBJGr8RwQZz1TcdC2y.jpg" group-title="→ VOD SUSPENSO ←",Cronica De Un Engaño
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wallace y Gromit: La venganza se sirve con plumas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEh5FwqYTEshC9FjSAVq3S2vAd7.jpg" group-title=" → VOD ESTRENOS 2024 ←",Wallace y Gromit: La venganza se sirve con plumas (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RRR " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxI1qKDHZRAi2LPmJUPhQ2x1u07.jpg" group-title="→ VOD ACCIÓN ←",RRR 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resucitado " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6wiB9oCNs08AGaiwSKS5B4VCyg.jpg" group-title="→ VOD SEMANA SANTA ←",Resucitado 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Propuesta Indecente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnfppUk4ccdVKLvcN8johTWa0tC.jpg" group-title="→ VOD CLÁSICAS ←",Una Propuesta Indecente
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schumacher " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPZwu7tkheack5ZVNT6CArANSd.jpg" group-title="→ VOD DOCUMENTALES ←",Schumacher 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop (Sin escalas) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6o44VxBPd1ozufmmM0JauBtbJ2.jpg" group-title="→ VOD ACCIÓN ←",Non-Stop (Sin escalas) 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El juego bonito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MfqsfCA4Z1ppTAQ2DB9qWlh9VD.jpg" group-title=" → VOD ESTRENOS 2024 ←",El juego bonito (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trol " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAawlc51R1RS6qrIBCldrfkih5t.jpg" group-title="→ VOD FANTASÍA ←",Trol 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGQR8HybJkO20DFTlrX3egEmvpR.jpg" group-title="→ VOD FANTASÍA ←",Pinocho de Guillermo del Toro 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room: La pel·lícula " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYKi7ninN7Li1sjXK9dSdkLJu30.jpg" group-title="→ VOD SUSPENSO ←",Escape Room: La pel·lícula 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room 2: Mueres por salir " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" group-title="→ VOD SUSPENSO ←",Escape Room 2: Mueres por salir 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room:Sin Salida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" group-title="→ VOD SUSPENSO ←",Escape Room:Sin Salida
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iceman 2:El Viajero del Tiempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg" group-title="→ VOD ACCIÓN ←",Iceman 2:El Viajero del Tiempo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oblivion " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38PTs28bRulTuuAiDI6tlITM4Th.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Oblivion 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heroes de Guerra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anL1b22zyf9NnM3BPuy9tZxb22a.jpg" group-title="→ VOD BÉLICAS ←",Heroes de Guerra 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Mercenarios 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qxRrkayxSYiib4JCYRM3sasQe0.jpg" group-title="→ VOD SAGAS ←",Los Mercenarios 4
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Mercenarios 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg" group-title="→ VOD SAGAS ←",Los Mercenarios 3
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Mercenarios 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnx0puR1AvuYH4iAg0WHH1QcYzE.jpg" group-title="→ VOD SAGAS ←",Los Mercenarios 2 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Mercenarios " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg" group-title="→ VOD SAGAS ←",Los Mercenarios 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z99tqGA3AO81lOeZYvpjEKutI9.jpg" group-title="→ VOD AVENTURAS ←",El Rey
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias de un Asesino" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ff4654e13dd165ffcbb76e7401e6f24e5c5435ef7546da857ba38d456364c353._RI_TTW_SX720_FMjpg_.jpg" group-title="→ VOD CRIMEN ←",Memorias de un Asesino
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Tierra Errante " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBxyQTHMLJvODAQ4gB8FpGcujhp.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",La Tierra Errante 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contrato para Matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z70TmAwynA2u7PKAr8uoLfmqsML.jpg" group-title="→ VOD ACCIÓN ←",Contrato para Matar
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Titan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4NxL8amp4X1uUwtZfmyVYoBjTU.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Titan
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expresso Polar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg" group-title="→ VOD NAVIDAD ←",Expresso Polar
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socios por accidente " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7N5T2GpLQrsMkGOUJvROAfYvT7.jpg" group-title="→ VOD COMEDIA ←",Socios por accidente 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spirit " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iod00lNL9V9p24GGngR6jVoHqiu.jpg" group-title="→ VOD MARVEL ←",The Spirit 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crank: Alto Voltaje " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25H2JzYmsBG5869h0bxkShDyov1.jpg" group-title="→ VOD ACCIÓN ←",Crank: Alto Voltaje 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NR. 24 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/se1fVbLhBgRhjPQWSid6yUOl3Hr.jpg" group-title=" → VOD ESTRENOS 2024 ←",NR. 24 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Culpa no es Mia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Culpa no es Mia (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No te mueras, el Hombre que quiere vivr para siempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="→ VOD DOCUMENTALES ←",No te mueras, el Hombre que quiere vivr para siempre (2025)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones con Clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SddrMgc4lEagsJOCHZ60bjohSD.jpg" group-title=" → VOD ESTRENOS 2024 ←",Ladrones con Clase (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mujer en la Ventana " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg" group-title="→ VOD CRIMEN ←",La mujer en la Ventana 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="→ VOD SUSPENSO ←",Presas
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wicked (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1czoLwMaiUO1bznWuETCP5ueZj.jpg" group-title=" → VOD ESTRENOS 2024 ←",Wicked (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avicii: Soy Tim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfSNEb260mHk7dIYrhifb7cHQFv.jpg" group-title="→ VOD DOCUMENTALES ←",Avicii: Soy Tim (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Trinity " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GiUVbr73cHe68d4ybpxDbeReZP.jpg" group-title="→ VOD MARVEL ←",Blade Trinity 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade II " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg" group-title="→ VOD MARVEL ←",Blade II 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" group-title="→ VOD MARVEL ←",Blade 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider: Operacion Stormbreaker " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyIUMryEPyTnMXSDkVcxPZ1NW4Q.jpg" group-title="→ VOD AVENTURAS ←",Alex Rider: Operacion Stormbreaker 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter: La Ultima Batalla " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg" group-title="→ VOD ESPECIAL VAN DAMME ←",Street Fighter: La Ultima Batalla 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: El origen de un Imperio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg" group-title="→ VOD BÉLICAS ←",300: El origen de un Imperio
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Año Nuevo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3JPU3Ye9cgndBzZzI03VOuohTH.jpg" group-title="→ VOD COMEDIA ←",Año Nuevo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Huerfana: El Origen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eed4qNf174pcT65it1PBbaTTL3x.jpg" group-title="→ VOD TERROR ←",La Huerfana: El Origen
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los Anillos: La guerra de los Rohirrim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg" group-title=" → VOD ESTRENOS 2024 ←",El señor de los Anillos: La guerra de los Rohirrim (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hercules: El Origen de la Leyenda " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc6Cjed79ENqzktwQUeYkp0YWaQ.jpg" group-title="→ VOD AVENTURAS ←",Hercules: El Origen de la Leyenda 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mufasa: El Rey Leon (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk4NNdeQrb6zbRSogDSdE6qmjk8.jpg" group-title="→ VOD CAM 2025 ←",Mufasa: El Rey Leon (2024)(CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lady Bird" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfst6DxzGXbdibQPawxQSSuDh09.jpg" group-title="→ VOD DRAMA ←",Lady Bird
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bestia " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7yXGfEs6NlZszpTG4k9oFyUjA7.jpg" group-title="→ VOD ACCIÓN ←",Bestia 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDLTCdLx38kMhN53KOTw0LdWMh.jpg" group-title="→ VOD DC UNIVERSO ←",Black Adam 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguien como Tu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kjsKg1nKuGX01mApvXdksxQ7Np.jpg" group-title=" → VOD ESTRENOS 2024 ←",Alguien como Tu (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpa Tuya (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg" group-title=" → VOD ESTRENOS 2024 ←",Culpa Tuya (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo Yo Honey Singh_ Famoso (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4LAe1fwWmLEO8MH8U56uICxxU.jpg" group-title="→ VOD DOCUMENTALES ←",Yo Yo Honey Singh_ Famoso (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luz Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEiLdCrQi4yCdgNYnAFRD14VTJP.jpg" group-title="→ VOD ACCIÓN ←",Luz Negra
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Origen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg" group-title="→ VOD DRAMA ←",Origen
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title=" → VOD ESTRENOS 2024 ←",Gladiator II (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Front Room (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuNoHG9DkJ6TYxAKvRf46CklK5e.jpg" group-title=" → VOD ESTRENOS 2024 ←",The Front Room (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagros del Cielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RDJD6p3zuo0oux8QknG5QkqtRK.jpg" group-title="→ VOD DRAMA ←",Milagros del Cielo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Hora del Silencio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceaZXRjJi8szsnJnQUje3eugtH9.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Hora del Silencio (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pearl " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg" group-title="→ VOD TERROR ←",Pearl 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sisu " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRB2XM3YgQM7hZGdWDgdVOlxL6U.jpg" group-title="→ VOD ACCIÓN ←",Sisu 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a Golpes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg" group-title="→ VOD ACCIÓN ←",Venganza a Golpes
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Noche nos Persigue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljkR4piN5kxG7qYMeXRoHG8AaBZ.jpg" group-title="→ VOD ACCIÓN ←",La Noche nos Persigue
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crank: Veneno en la sangre " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSzDbylthJBPL4YX0khc9Sr6sew.jpg" group-title="→ VOD ACCIÓN ←",Crank: Veneno en la sangre 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taxi Driver " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G26DnAeMbA4sp58Gi0Vze6eQv4.jpg" group-title="→ VOD CLÁSICAS ←",Taxi Driver 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia del Atentado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg" group-title="→ VOD DRAMA ←",Dia del Atentado
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ultimo gran Heroe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsqkU03Ujr4L6f0KoW1c5YTcjQP.jpg" group-title="→ VOD ACCIÓN ←",El Ultimo gran Heroe
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="→ VOD DC UNIVERSO ←",Shazam
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hereje (2024) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg" group-title="→ VOD CAM 2025 ←",Hereje (2024) (CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZSS0Gc5fwcu8apglDGoK6zlarL.jpg" group-title="→ VOD DC UNIVERSO ←",Supergirl (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",RoboCop 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman/Batman: Enemigos Publicos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYckc7dwtuIUlFEx1lallXFfYka.jpg" group-title="→ VOD DC UNIVERSO ←",Superman/Batman: Enemigos Publicos 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman Desatado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNuYHiZTr1zl4qPcTVXTW8QAxT6.jpg" group-title="→ VOD DC UNIVERSO ←",Superman Desatado
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reino de los Supermanes" tvg-logo="https://1.bp.blogspot.com/-mnEakOoKJzo/YGEIaijtNWI/AAAAAAAANdY/kkVa9u9eF-gzrhKL-d9AhdBKevrx_Bg6wCLcBGAsYHQ/s495/Reino-de-los-Supermanes-Poster-Latino-Bluray-HD.jpg" group-title="→ VOD DC UNIVERSO ←",Reino de los Supermanes
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman Regresa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtRlig4q4kUO1AzN7o7dzRIqzxI.jpg" group-title="→ VOD DC UNIVERSO ←",Superman Regresa
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descuida, yo te Cuido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsXWIyHEmnMmpYMMZVtXhsqdDsl.jpg" group-title="→ VOD DRAMA ←",Descuida, yo te Cuido
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="iBoy " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Kxk34rOygEbxy6ZJPrRxi774z.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",iBoy 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Einstein y la Bomba (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkM6i1EobVxq9i9al6hnG5cLh0.jpg" group-title="→ VOD DOCUMENTALES ←",Einstein y la Bomba (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kraven El Cazador (2024)(SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8banVgSwKRdCTME7Go92LOoAOti.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Kraven El Cazador (2024)(SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de Negocios (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NqDRMUMVAacU6AClmpcOhrXgEG.jpg" group-title="→ VOD DRAMA ←",Hombres de Negocios (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rob Peace (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg" group-title=" → VOD ESTRENOS 2024 ←",Rob Peace (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268191.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Grinch " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg" group-title="→ VOD NAVIDAD ←", Grinch 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Triple Ocho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgDFimqQMh9b8DHZhWuBtr0iL22.jpg" group-title=" → VOD ESTRENOS 2024 ←",Seis Triple Ocho (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferry 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIeHeuhxUpU7wWDqqo769s8D91s.jpg" group-title=" → VOD ESTRENOS 2024 ←",Ferry 2 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor a 39 Grados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vcohEsWqLlFtDANavII0Webhdu.jpg" group-title=" → VOD ESTRENOS 2024 ←",Amor a 39 Grados (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg" group-title=" → VOD ESTRENOS 2024 ←",Terrifier 3 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Tiempo Que Tenemos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auolCteE2cbybdIkfjiszIjzslt.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Tiempo Que Tenemos (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuestro Secretito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg" group-title=" → VOD ESTRENOS 2024 ←",Nuestro Secretito (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood: Departamento de homicidios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUtnEjdcnkskic6BKVZybRBajFV.jpg" group-title="→ VOD ACCIÓN ←",Hollywood: Departamento de homicidios
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kate " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="→ VOD ACCIÓN ←",Kate 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Novato en Apuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UN0Bc7g3uQI2Ms0kvCPPEzyvnF.jpg" group-title="→ VOD COMEDIA ←",Un Novato en Apuros
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desnudo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV95cXcHhmuUAW8bjAayPynf7Lf.jpg" group-title="→ VOD COMEDIA ←",Desnudo 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/268168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spielberg " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg" group-title="→ VOD DOCUMENTALES ←",Spielberg 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santa Homero (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4nny4lnjnLYzN10EvBBRsJComp.jpg" group-title="→ VOD NAVIDAD ←",Santa Homero (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alison Mandel: Sugarmami (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubvYERfMTNUYgcErhRM85slsk6a.jpg" group-title=" → VOD ESTRENOS 2024 ←",Alison Mandel: Sugarmami (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cascanueces (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAMZcPylMH1G7gO4YQy96Nib3CA.jpg" group-title="→ VOD NAVIDAD ←",Cascanueces (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Viaje al Corazon (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiVxWksFOe8MqXUvRHdCLJEivAh.jpg" group-title=" → VOD ESTRENOS 2024 ←",Un Viaje al Corazon (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido Santa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axxggOMYNyKDsNVMnyMTnvrGByX.jpg" group-title="→ VOD NAVIDAD ←",Querido Santa (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Aprendiz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iza8xVlP2apUdHxaioFWICV8hiV.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Aprendiz (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Compasion con el Diablo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiYpzX8gyYPxbEi2K5Sdbd2Ig64.jpg" group-title="→ VOD SUSPENSO ←",Compasion con el Diablo
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cielo Abierto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5Ji9WSBBzf1pVuGjLLuv9z5CKW.jpg" group-title=" → VOD ESTRENOS 2024 ←",A Cielo Abierto (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en Candy Cane Lane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tpxgH4hAeG61dFfjPKiVZFTFoZ.jpg" group-title="→ VOD NAVIDAD ←",Navidad en Candy Cane Lane
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RED 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ019mcDoVxdBOCMfPUJDLWphew.jpg" group-title="→ VOD ACCIÓN ←",RED 2 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sangre Fria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UElHPbyw7c7lcqR5bqhlemiQMr.jpg" group-title="→ VOD ACCIÓN ←",A Sangre Fria
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazones y Almas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZzWtwtTxRWxE8rDVQvRQre5UR5.jpg" group-title="→ VOD COMEDIA ←",Corazones y Almas 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simon de la Montaña (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BA0Vr9UBVI3k6QRgdRSQkgyCeK.jpg" group-title=" → VOD ESTRENOS 2024 ←",Simon de la Montaña (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Protectora" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdah0UpjZmy8OAsSuYWVz1aMH7L.jpg" group-title="→ VOD ACCIÓN ←",La Protectora
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suspicion (2024)(SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAPubDwDLG9d23OrmdWpUifV7Nr.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Suspicion (2024)(SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape a la Libertad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrVA9oBSKA9HmY93jdk7nIQjTPG.jpg" group-title="→ VOD CRIMEN ←",Escape a la Libertad
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Jockey (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDQYDhoScX4txsXacE4nG62pYdd.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Jockey (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El precio del dinero (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2inYwcffx6vEZjfWZPqEumt65Xt.jpg" group-title=" → VOD ESTRENOS 2024 ←",El precio del dinero (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo (2024)(SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2PGzaGA7bgcuy6PX7nx0BfDYsK.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",El Conde de Montecristo (2024)(SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vacaciones Desastrosas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oO6GCEHme4A7HbdxebxYVjMaTG.jpg" group-title=" → VOD ESTRENOS 2024 ←",Vacaciones Desastrosas (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equipaje de Mano (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/973tIy9UkvynQfGk7LxrbQvlmZR.jpg" group-title=" → VOD ESTRENOS 2024 ←",Equipaje de Mano (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Codigo Traje Rojo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij6631QDrOq0CfSJY55ngFpnhRQ.jpg" group-title=" → VOD ESTRENOS 2024 ←",Codigo Traje Rojo (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria Callas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i73L05MR1v2mvJEBw0hzt1XULIQ.jpg" group-title=" → VOD ESTRENOS 2024 ←",Maria Callas (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miguel Bose Unplugged" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bsxz7o50Vo3h9Lk6jXcMJksH6p.jpg" group-title="→ VOD CONCIERTOS ←",Miguel Bose Unplugged
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alejandro Sanz Unplugged" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQFv20ULKXro3sT32Bl8GAp8AFp.jpg" group-title="→ VOD CONCIERTOS ←",Alejandro Sanz Unplugged
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Illya Kuryaki  Unplugged" tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/09/16/1789861443814/UnpluggedIllyaValderramas_Latam_SA_Thumb_16.9_1920x1080_010621_567396_1920x1080.jpg" group-title="→ VOD CONCIERTOS ←",Illya Kuryaki  Unplugged
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Navidad Campestre de Arenita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23K72zykyVx4q0dSweslGgTGJmW.jpg" group-title="→ VOD NAVIDAD ←",La Navidad Campestre de Arenita (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg" group-title="→ VOD INFANTILES ←",La familia Addams 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Mensajero del Ultimo Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzLdnrpMkM9BXmGY1FOz1tK1f30.jpg" group-title="→ VOD TERROR ←",El Mensajero del Ultimo Dia
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Punta del Iceberg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38mBeDyrz2wpweR49wZWpB07xAW.jpg" group-title="→ VOD SUSPENSO ←",La Punta del Iceberg
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Fabelman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcgPDyvKkgo2agNXcdE1eXLGzmf.jpg" group-title="→ VOD DRAMA ←",Los Fabelman 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Capítulo 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg" group-title=" → VOD ESTRENOS 2024 ←",Watchmen: Capítulo 2 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: El último baile (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg" group-title=" → VOD ESTRENOS 2024 ←",Venom: El último baile (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo Custodia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIWcxnueqEOg2WhIk4cHjtv41D.jpg" group-title=" → VOD ESTRENOS 2024 ←",Bajo Custodia (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mercenaria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFPO3WBw38dkQqxQCYK7CZBBgsq.jpg" group-title=" → VOD ESTRENOS 2024 ←",Mercenaria (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Legado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tITskAtdV7hWjovUhNYLjkJc0J5.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Legado
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Redentor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBpxJkFsfSjghmrizJr5xhQyACQ.jpg" group-title="→ VOD DRAMA ←",Amor Redentor
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana 2 (2024) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY3GzGhhsc6TwopDvNbCYIDNgvs.jpg" group-title="→ VOD CAM 2025 ←",Moana 2 (2024) (CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelo de Leyendas COLO COLO VS RIVER" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2024/11/hq720-jpg.webp" group-title="→ VOD DEPORTES ←",Duelo de Leyendas COLO COLO VS RIVER
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator II (2024) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg" group-title="→ VOD CAM 2025 ←",Gladiator II (2024) (CAM)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jigra (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhnT27mgtiMNowOhAlMWSqBoSyb.jpg" group-title=" → VOD ESTRENOS 2024 ←",Jigra (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: El Ultimo Baile (2024) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Venom: El Ultimo Baile (2024) (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la Calle 34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg" group-title="→ VOD NAVIDAD ←",Milagro en la Calle 34
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre que Invento la Navidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t35K3zyfrSNdn5G91y2khBXuqNT.jpg" group-title="→ VOD NAVIDAD ←",El Hombre que Invento la Navidad
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyu!! La batalla del basurero (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg" group-title=" → VOD ESTRENOS 2024 ←",Haikyu!! La batalla del basurero (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNLsfo4QdVyp4DiNO0vZKxq0UlD.jpg" group-title=" → VOD ESTRENOS 2024 ←",Maria (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campamento con Mama (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v0G9B1eTpt8O3gNuiv16sllRxj.jpg" group-title=" → VOD ESTRENOS 2024 ←",Campamento con Mama (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de Asfalto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg" group-title=" → VOD ESTRENOS 2024 ←",Ciudad de Asfalto (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Mayor Criptorrobo de la Historia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtproshuByRbHdFDyouY5D5hbhX.jpg" group-title="→ VOD DOCUMENTALES ←",El Mayor Criptorrobo de la Historia (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Esperanza: Los Niños Perdidos en el Amazonas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg" group-title="→ VOD DOCUMENTALES ←",Operacion Esperanza: Los Niños Perdidos en el Amazonas (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurado Nº 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg" group-title=" → VOD ESTRENOS 2024 ←",Jurado Nº 2 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa Durmiente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Princesa Durmiente (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPaakmxnJl4hS4AMa1zc27KfD1b.jpg" group-title=" → VOD ESTRENOS 2024 ←",Malta (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Virgen Roja (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Virgen Roja (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Persecucion Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRbaEeasR06mftDlA0cOy6NAvuk.jpg" group-title="→ VOD ACCIÓN ←",Persecucion Mortal
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Clave del Problema" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/em1h7OCiWUoO64lWGUWjIzWEmX7.jpg" group-title="→ VOD ACCIÓN ←",La Clave del Problema
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1992 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUPYV4GCGMNBgrHDX007G1fYENw.jpg" group-title=" → VOD ESTRENOS 2024 ←",1992 (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titanes del Pacifico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Titanes del Pacifico
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soy Leyenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Soy Leyenda
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Caballero de la Navidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8waiMa3Ockoi4oY1vvqNnfW35xu.jpg" group-title="→ VOD NAVIDAD ←",El Caballero de la Navidad
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Klaus " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLniylyJlbXEdxvaGSuQkRACWUx.jpg" group-title="→ VOD NAVIDAD ←",Klaus 
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mejor Navidad Imposible" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFhKtkrZMc382q6U5mf9ngb84dV.jpg" group-title="→ VOD NAVIDAD ←",Mejor Navidad Imposible
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquella Navidad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AKxxexOLwFXU8UR41sGBNDS5gY.jpg" group-title="→ VOD NAVIDAD ←",Aquella Navidad (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Tren de los Niños (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Tren de los Niños (2024)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elliot: El Pequeño Reno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CwWjknwfjE1FndfvLFmx1Q4IMd.jpg" group-title="→ VOD NAVIDAD ←",Elliot: El Pequeño Reno
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Collector (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVRB5gZB35aQv2mYonMYXFp0YAE.jpg" group-title="→ VOD SUSPENSO ←",The Collector (SUB)
+http://myultratv.com:8080/movie/966143202tv/6447pfwx332/267569.mp4
